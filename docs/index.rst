@@ -18,25 +18,18 @@
 
 \ |IMG2|\ 
 
-.. admonition:: Nota
+.. admonition:: Video Tutorial
 
-    * [tutorial] \ |LINK1|\ 
+    * [il primo tutorial] \ |LINK1|\ .
     
-    * [video tutorial] \ |LINK2|\ ).
+    * [tutorial] \ |LINK2|\ 
     
-    * [Jan 15] New Release for multiple accounts and conversion with HTML-table.
+    * [video \ |LINK3|\ ] 
 
-to be 
+.. _h3130413851c363c7a622d652e7d1173:
 
-.. _h13423b296a2f1b4e3717e652e36743e:
-
-allora
-======
-
-.. _h6897050511836763421463e2b4b685:
-
-Features
-========
+Aspetti
+=======
 
 #. Easy starting for reST beginners, even no idea about reST markups.
 
@@ -69,7 +62,7 @@ Features
 Come installare
 ===============
 
-\ |LINK3|\ , or in a Google Docs Document:
+\ |LINK4|\ , or in a Google Docs Document:
 
 #. On the menu item “Add-ons”, click the “Get Add-ons”
 
@@ -81,13 +74,17 @@ Come installare
 
 .. |LINK1| raw:: html
 
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+    <a href="http://ggeditor.readthedocs.io" target="_blank">GGeditor</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://goo.gl/qH1WWj" target="_blank">從零開始建立一個RTD文件網站(Mandarin</a>
+    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
 
 .. |LINK3| raw:: html
+
+    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">tutorial</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Click this link to the Google Docs Add-on page</a>
 
