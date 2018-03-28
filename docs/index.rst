@@ -1,7 +1,6 @@
 
 .. toctree:: 
     :maxdepth: 2
-    :hidden:
 
     0
     1
