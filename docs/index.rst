@@ -10,7 +10,18 @@
     5
     6
 
-\ |IMG1|\ 
+
++---+---+----+----------+----------+---+
+|io |tu |egli|          |          |   |
++---+---+----+----------+----------+---+
+|   |   |    |\ |IMG1|\ |\ |IMG2|\ |   |
++---+---+----+----------+----------+---+
+|   |   |    |          |          |   |
++---+---+----+----------+----------+---+
+|   |   |    |          |          |lop|
++---+---+----+----------+----------+---+
+
+\ |IMG3|\ 
 
 .. admonition:: Nota
 
@@ -97,5 +108,13 @@ Come installare
 
 
 .. |IMG1| image:: static/index_1.png
+   :height: 34 px
+   :width: 76 px
+
+.. |IMG2| image:: static/index_1.png
+   :height: 34 px
+   :width: 77 px
+
+.. |IMG3| image:: static/index_1.png
    :height: 226 px
    :width: 500 px
