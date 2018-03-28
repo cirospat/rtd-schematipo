@@ -25,6 +25,18 @@
 
     prova
 
+.. _h7d5c0624e4845397a4736145d81a1b:
+
+ui
+==
+
+to be 
+
+.. _h13423b296a2f1b4e3717e652e36743e:
+
+allora
+======
+
 .. _h6897050511836763421463e2b4b685:
 
 Features
@@ -56,10 +68,10 @@ Features
 
 #. Support converting table with HTML tags to let look-and-feel as the same as possible for blogers.
 
-.. _h131f586a50795a4822677d4166231766:
+.. _h48032546e7c26154b53f3d1391663:
 
-How to install
-==============
+Come installare
+===============
 
 \ |LINK3|\ , or in a Google Docs Document:
 
