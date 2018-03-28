@@ -10,6 +10,7 @@
     5
     6
 
+\ |IMG1|\ 
 
 .. admonition:: Nota
 
@@ -94,3 +95,7 @@ Come installare
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Click this link to the Google Docs Add-on page</a>
 
+
+.. |IMG1| image:: static/index_1.png
+   :height: 226 px
+   :width: 500 px
