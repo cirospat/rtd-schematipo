@@ -21,7 +21,7 @@
     * [Jan 15] New Release for multiple accounts and conversion with HTML-table.
 
 
-..  Hint:: 
+.. admonition:: etichetta
 
     prova
 
