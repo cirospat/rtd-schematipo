@@ -10,18 +10,13 @@
     5
     6
 
+\ |IMG1|\ 
 
-+---+---+----+----------+----------+---+
-|io |tu |egli|          |          |   |
-+---+---+----+----------+----------+---+
-|   |   |    |\ |IMG1|\ |\ |IMG2|\ |   |
-+---+---+----+----------+----------+---+
-|   |   |    |          |          |   |
-+---+---+----+----------+----------+---+
-|   |   |    |          |          |lop|
-+---+---+----+----------+----------+---+
+.. admonition:: una bella sorpresa
 
-\ |IMG3|\ 
+    scoprire che con Google doc si può compilare un documento su Github automaticamente.
+
+\ |IMG2|\ 
 
 .. admonition:: Nota
 
@@ -30,16 +25,6 @@
     * [video tutorial] \ |LINK2|\ ).
     
     * [Jan 15] New Release for multiple accounts and conversion with HTML-table.
-
-
-.. admonition:: etichetta
-
-    prova
-
-.. _h7d5c0624e4845397a4736145d81a1b:
-
-ui
-==
 
 to be 
 
@@ -108,13 +93,9 @@ Come installare
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 34 px
-   :width: 76 px
+   :height: 250 px
+   :width: 504 px
 
-.. |IMG2| image:: static/index_1.png
-   :height: 34 px
-   :width: 77 px
-
-.. |IMG3| image:: static/index_1.png
+.. |IMG2| image:: static/index_2.png
    :height: 226 px
    :width: 500 px
