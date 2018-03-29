@@ -4,97 +4,50 @@
 Come usarlo
 ***********
 
-una volta scaricato il plug-in su Google Doc \ |IMG1|\  
+.. _h79285c4e7257194524363d5a1e617d44:
+
+Per i principianti dei file RST
+===============================
+
+If you are a beginner of the reStructuredText and you feel a little bit of confusing about how to put your documents onto the RTD website. Now, with the GGeditor and these two tutorials, I hope them can help you to get jobs done quicker and easier.
+
+|
+
+.. _h665b13f663e6519330123b6940202c:
+
+Il plug-in di Google Doc
+========================
+
+una volta scaricato e installato il plug-in su Google Doc \ |IMG1|\  
 
 si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi" poi su "GGeditor" e poi su "Show Markup Panel".
 
-|
+.. _h96481b373011705e781746f262f0:
+
+Il Markup Panel
+===============
 
 Cliccando su su "Show Markup Panel" viene visualizzato questo pannello.\ |IMG2|\  
 
 che ci consente di inserire sul documento in Google Doc:
 
-* Note colorate personalizzabili nel titolo
+* Note colorate, personalizzabili nel titolo;
 
-* Codice da illustrare in una pagina HTML
+* Codice da illustrare in una pagina HTML;
 
-* Tabella dell'indice dei contenuti (cioè le pagine che compongono 
-
-|
-
-.. _h177537546887b67276822514c66016:
-
-How to Use
-==========
-
-\ |LINK1|\ 
-
-.. _h84e3b4616757118376d336e2e5d5d23:
-
-For reStructuredText Beginners
-==============================
-
-If you are a beginner of the reStructuredText and you feel a little bit of confusing about how to put your documents onto the RTD website. I wrote two quick guides to help your task to be quickly completed with the GGeditor. 
-
-\ |LINK2|\ 
-
-    This guide for you to make the 1st copy of your product documents get online.
-
-\ |LINK3|\ 
-
-    This guide for you to make the 1st copy of your module documents get online.
-
-I was struggling on writing reStructuredText for a long time . Now, with the GGeditor and these two tutorials, I hope them can help you to get jobs done quicker and easier.
-
-
-|REPLACE1|
+* Tabella dell'indice dei contenuti (cioè il titolo delle pagine che compongono l'indice dei contenuti).
 
 |
 
-.. _h447662145f7692285c35327713294c:
+.. _h20557f3997523b367c672f10583f2a:
 
-Code block with line number
-===========================
+Blocchi di codice
+=================
 
+.. _h577b282b652a133d475a216414d3a41:
 
-+--+--------------------------------------------------------------------------------------------------------------+
-| 1|#!/usr/bin/env python                                                                                         |
-| 2|                                                                                                              |
-| 3|"""                                                                                                           |
-| 4|Twisted moved the C{twisted} hierarchy to the C{src} hierarchy, but C{git}                                    |
-| 5|doesn't know how to track moves of directories, only files.  Therefore any                                    |
-| 6|files added in branches after this move will be added into ./twisted/ and need                                |
-| 7|to be moved over into                                                                                         |
-| 8|"""                                                                                                           |
-| 9|                                                                                                              |
-|10|\ |STYLE0|\  os                                                                                               |
-|11|\ |STYLE1|\  twisted.python.filepath \ |STYLE2|\  FilePath                                                    |
-|12|                                                                                                              |
-|13|here \ |STYLE3|\  FilePath(__file__)\ |STYLE4|\ parent()\ |STYLE5|\ parent()                                  |
-|14|fromPath \ |STYLE6|\  here\ |STYLE7|\ child("twisted")                                                        |
-|15|toPath \ |STYLE8|\  here\ |STYLE9|\ child("src")                                                              |
-|16|                                                                                                              |
-|17|\ |STYLE10|\  fn \ |STYLE11|\  fromPath\ |STYLE12|\ walk():                                                   |
-|18|    \ |STYLE13|\  fn\ |STYLE14|\ isfile():                                                                    |
-|19|        os\ |STYLE15|\ system("git mv {it} src/{it}"                                                          |
-|20|                  \ |STYLE16|\ format(it\ |STYLE17|\ "/"\ |STYLE18|\ join(fn\ |STYLE19|\ segmentsFrom(here))))|
-|21|                                                                                                              |
-|22|os\ |STYLE20|\ system('git clean -fd')                                                                        |
-|23|                                                                                                              |
-|24|\ |STYLE21|\  \ |STYLE22|\ (x):                                                                               |
-|25|\ |STYLE23|\  \ |STYLE24|\ (x):                                                                               |
-|26|    go start start                                                                                            |
-|27|    go start end                                                                                              |
-|28|                                                                                                              |
-|29|\ |STYLE25|\  \ |STYLE26|\ (y):                                                                               |
-|30|    go end start                                                                                              |
-|31|    go end end                                                                                                |
-+--+--------------------------------------------------------------------------------------------------------------+
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
+senza righe numerate
+--------------------
 
 
 .. code:: 
@@ -130,6 +83,11 @@ Code block with line number
     def end(y):
         go end start
         go end end
+
+.. _h477f4023e6f37514b3e5a371a681858:
+
+con righe numerate
+------------------
 
 
 .. code-block:: python
@@ -167,12 +125,27 @@ Code block with line number
         go end start
         go end end
 
+.. _h735c7d541159421d2622384bf33136d:
+
+Direttiva generica
+==================
+
 
 .. name:: direttiva generica
     :option: value
     :option: value
 
     prova di contenuto in una direttiva generica
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h5d535b7f2e655f2e1f3e4c6225335713:
+
+Note colorate di vario tipo
+===========================
 
 
 ..  Attention:: 
@@ -231,79 +204,6 @@ Code block with line number
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **import**
-
-.. |STYLE1| replace:: **from**
-
-.. |STYLE2| replace:: **import**
-
-.. |STYLE3| replace:: **=**
-
-.. |STYLE4| replace:: **.**
-
-.. |STYLE5| replace:: **.**
-
-.. |STYLE6| replace:: **=**
-
-.. |STYLE7| replace:: **.**
-
-.. |STYLE8| replace:: **=**
-
-.. |STYLE9| replace:: **.**
-
-.. |STYLE10| replace:: **for**
-
-.. |STYLE11| replace:: **in**
-
-.. |STYLE12| replace:: **.**
-
-.. |STYLE13| replace:: **if**
-
-.. |STYLE14| replace:: **.**
-
-.. |STYLE15| replace:: **.**
-
-.. |STYLE16| replace:: **.**
-
-.. |STYLE17| replace:: **=**
-
-.. |STYLE18| replace:: **.**
-
-.. |STYLE19| replace:: **.**
-
-.. |STYLE20| replace:: **.**
-
-.. |STYLE21| replace:: **def**
-
-.. |STYLE22| replace:: **outer**
-
-.. |STYLE23| replace:: **def**
-
-.. |STYLE24| replace:: **indent_start**
-
-.. |STYLE25| replace:: **def**
-
-.. |STYLE26| replace:: **end**
-
-
-.. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416">Visualizza a schermo intero la mappa degli avvisi della Polizia Municipale</a></p>
-
-.. |LINK1| raw:: html
-
-    <a href="User%20Guide.html">How to Use</a>
-
-.. |LINK2| raw:: html
-
-    <a href="how2Readthedocs.html">How to create a generic website of documentation on the RTD</a>
-
-.. |LINK3| raw:: html
-
-    <a href="ApiDoc.html">How to create API document for python modules</a>
-
 
 .. |IMG1| image:: static/Come_usarlo_1.png
    :height: 109 px
