@@ -14,7 +14,7 @@ __version__ = '1.0'
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'cirospat'
-copyright = 'licenza CC BY cirospat'
+license = 'licenza CC BY cirospat'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
