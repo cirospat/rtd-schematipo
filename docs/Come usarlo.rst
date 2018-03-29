@@ -22,6 +22,8 @@ una volta scaricato e installato il plug-in su Google Doc \ |IMG1|\
 
 si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi" poi su "GGeditor" e poi su "Show Markup Panel".
 
+|
+
 .. _h96481b373011705e781746f262f0:
 
 Il Markup Panel
@@ -43,6 +45,8 @@ che ci consente di inserire sul documento in Google Doc:
 
 Blocchi di codice
 =================
+
+|
 
 .. _h577b282b652a133d475a216414d3a41:
 
@@ -83,6 +87,8 @@ senza righe numerate
     def end(y):
         go end start
         go end end
+
+|
 
 .. _h477f4023e6f37514b3e5a371a681858:
 
@@ -125,6 +131,8 @@ con righe numerate
         go end start
         go end end
 
+|
+
 .. _h735c7d541159421d2622384bf33136d:
 
 Direttiva generica
@@ -138,10 +146,10 @@ Direttiva generica
     prova di contenuto in una direttiva generica
     editare testo qui
 
-.. _h2c1d74277104e41780968148427e:
+.. _h476834441945532458b3a21604f4747:
 
-
-
+|
+=
 
 .. _h5d535b7f2e655f2e1f3e4c6225335713:
 
