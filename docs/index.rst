@@ -1,4 +1,9 @@
 
+.. admonition:: GG editor
+
+    \ |LINK1|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK2|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK3|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
+
+
 .. toctree:: 
     :maxdepth: 2
 
@@ -12,19 +17,24 @@
 
 \ |IMG1|\ 
 
-.. admonition:: una bella sorpresa
-
-    scoprire che con Google doc si può compilare un documento su Github automaticamente.
+il plug-in GGeditor installabile da Google Docs
 
 \ |IMG2|\ 
 
+il processo svolto da GGeditor: dal Google Docs a GGeditor a Github a Readthedocs
+
+\ |IMG3|\ 
+
+immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs
+
+
 .. admonition:: Video Tutorial
 
-    * [il primo tutorial] \ |LINK1|\ .
+    * [il primo tutorial] \ |LINK4|\ .
     
-    * [tutorial] \ |LINK2|\ 
+    * [tutorial] \ |LINK5|\ 
     
-    * [video \ |LINK3|\ ] 
+    * [video \ |LINK6|\ ] 
 
 .. _h3130413851c363c7a622d652e7d1173:
 
@@ -62,7 +72,7 @@ Aspetti
 Come installare
 ===============
 
-\ |LINK4|\ , or in a Google Docs Document:
+\ |LINK7|\ , or in a Google Docs Document:
 
 #. On the menu item “Add-ons”, click the “Get Add-ons”
 
@@ -72,27 +82,46 @@ Come installare
 .. bottom of content
 
 
+.. |STYLE0| replace:: **RST**
+
+
 .. |LINK1| raw:: html
 
-    <a href="http://ggeditor.readthedocs.io" target="_blank">GGeditor</a>
+    <a href="http://ggeditor.readthedocs.io/" target="_blank">GGeditor</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+    <a href="https://en.wikipedia.org/wiki/ReStructuredText" target="_blank">resStructuredText</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">tutorial</a>
+    <a href="https://readthedocs.org/" target="_blank">Readthedocs</a>
 
 .. |LINK4| raw:: html
+
+    <a href="http://ggeditor.readthedocs.io" target="_blank">GGeditor</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">tutorial</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Click this link to the Google Docs Add-on page</a>
 
 
 .. |IMG1| image:: static/index_1.png
+   :height: 172 px
+   :width: 273 px
+
+.. |IMG2| image:: static/index_2.png
    :height: 250 px
    :width: 504 px
 
-.. |IMG2| image:: static/index_2.png
+.. |IMG3| image:: static/index_3.png
    :height: 226 px
    :width: 500 px
