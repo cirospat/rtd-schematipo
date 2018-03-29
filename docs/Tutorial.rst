@@ -62,7 +62,7 @@ Image
 
 .. |REPLACE1| raw:: html
 
-    :file: video.html
+    video.html
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/8j9U54m5Shk?t=1727" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
