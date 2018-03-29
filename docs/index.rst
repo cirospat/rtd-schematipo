@@ -9,6 +9,8 @@ GGeditor
 
     \ |LINK1|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK2|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK3|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
+Questa pagina che state leggendo deriva direttamente da \ |LINK4|\ 
+
 |
 
 
@@ -55,8 +57,8 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. admonition:: Video Tutorial di GGeditor
 
-    \ |LINK4|\ 
     \ |LINK5|\ 
+    \ |LINK6|\ 
 
 |
 
@@ -98,7 +100,7 @@ Aspetti di GGeditor
 Come installare GGeditor
 ========================
 
-\ |LINK6|\ , oppure in un documento Google:
+\ |LINK7|\ , oppure in un documento Google:
 
 #. Sul menu "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
 
@@ -159,13 +161,17 @@ Come installare GGeditor
 
 .. |LINK4| raw:: html
 
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+    <a href="https://docs.google.com/document/d/1MEiFKrAxPg5pM5WuspQwo1Pnf54a77IjblL9UuvrHew/edit?usp=sharing" target="_blank">questo doc sul Google Drive</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
+    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
 
