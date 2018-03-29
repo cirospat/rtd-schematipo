@@ -16,25 +16,7 @@ Questa pagina che state leggendo deriva direttamente da \ |LINK4|\
 
 |REPLACE1|
 
---------
-
---------
-
-.. _h292a20344d21577179215c531d397512:
-
-Contenuti di questo documento 
-******************************
-
-
-.. toctree:: 
-    :maxdepth: 2
-
-    Come usarlo
-    Tutorial
-
---------
-
---------
+|
 
 \ |IMG1|\ 
 
@@ -46,7 +28,7 @@ il plug-in GGeditor installabile da Google Docs
 
 il processo svolto da GGeditor: dal Google Docs a GGeditor a Github a Readthedocs
 
---------
+|
 
 \ |IMG3|\ 
 
@@ -107,6 +89,26 @@ Come installare GGeditor
 #. Nel box di ricerca edita “GGeditor”, e clicca sull'icona di GGeditor per installare.
 
 |
+
+--------
+
+--------
+
+.. _h292a20344d21577179215c531d397512:
+
+Contenuti di questo documento 
+******************************
+
+
+.. toctree:: 
+    :maxdepth: 2
+
+    Come usarlo
+    Tutorial
+
+--------
+
+--------
 
 
 |REPLACE2|
