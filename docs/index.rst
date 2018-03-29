@@ -37,7 +37,7 @@ il plug-in GGeditor installabile da Google Docs
 |                                                         |                                                                         |                                                                                                           |è la piattaforma che espone documenti con un efficace architettura dei contenuti, in un formato usabile da tutte le dimensioni di display e permette la ricerca di parole nel testo|
 +---------------------------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs
+[in questa tabella: il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs]
 
 |
 
