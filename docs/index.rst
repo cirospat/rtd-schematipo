@@ -31,8 +31,6 @@ GGeditor ed i file RST
 
     \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
-Questa pagina che state leggendo deriva direttamente da \ |LINK6|\ 
-
 |
 
 .. _h326df60552448603d593767751d0d:
@@ -54,13 +52,13 @@ il plug-in GGeditor installabile da Google Docs
 \ |IMG2|\ 
 
 
-+-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|da Google Docs                                                           |a GGeditor                                                                                              |a Github                                                                                                   |a Readthedocs                                                                                                                                                                                    |
-+=========================================================================+========================================================================================================+===========================================================================================================+=================================================================================================================================================================================================+
-|scrivi facilmente testo in un documento senza conoscere il linguaggio RST|GG editor è un plug-in di Google Docs che automatizza il lavoro di compilazione sul repository di Github|Il progetto sul repository di Github è fondamentale per esporre il documento da pubblicare su Read the Docs|Read the Docs è la piattaforma che espone documenti con un efficace architettura dei contenuti, in un formato usabile da tutte le dimensioni di display e permette la ricerca di parole nel testo|
-|                                                                         |                                                                                                        |                                                                                                           |                                                                                                                                                                                                 |
-|\ |IMG3|\                                                                |\ |IMG4|\                                                                                               |\ |IMG5|\                                                                                                  |\ |IMG6|\                                                                                                                                                                                        |
-+-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|da Google Docs                                                           |a GGeditor                                                                                              |a Github                                                                                                   |a Readthedocs                                                                                                                                                                                                |
++=========================================================================+========================================================================================================+===========================================================================================================+=============================================================================================================================================================================================================+
+|scrivi facilmente testo in un documento senza conoscere il linguaggio RST|GG editor è un plug-in di Google Docs che automatizza il lavoro di compilazione sul repository di Github|Il progetto sul repository di Github è fondamentale per esporre il documento da pubblicare su Read the Docs|Read the Docs è la piattaforma che espone documenti con un efficace architettura dei contenuti, in un formato usabile da tutte le dimensioni di display e che permette una facile ricerca di parole nel testo|
+|                                                                         |                                                                                                        |                                                                                                           |                                                                                                                                                                                                             |
+|\ |IMG3|\                                                                |\ |IMG4|\                                                                                               |\ |IMG5|\                                                                                                  |\ |IMG6|\                                                                                                                                                                                                    |
++-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 [in questa tabella: \ |STYLE1|\ ]
 
@@ -69,14 +67,6 @@ il plug-in GGeditor installabile da Google Docs
 \ |IMG7|\ 
 
 immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs
-
-|
-
-
-.. admonition:: Video Tutorial di GGeditor
-
-    \ |LINK7|\ 
-    \ |LINK8|\ 
 
 |
 
@@ -118,7 +108,7 @@ Aspetti di GGeditor
 Come installare GGeditor
 ========================
 
-\ |LINK9|\ , oppure in un documento Google:
+\ |LINK6|\ , oppure in un documento Google:
 
 #. Sul menu "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
 
@@ -208,18 +198,6 @@ Contenuti di questo documento
     <a href="https://readthedocs.org/" target="_blank">Readthedocs</a>
 
 .. |LINK6| raw:: html
-
-    <a href="https://docs.google.com/document/d/1MEiFKrAxPg5pM5WuspQwo1Pnf54a77IjblL9UuvrHew/edit?usp=sharing" target="_blank">questo doc sul Google Drive</a>
-
-.. |LINK7| raw:: html
-
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
-
-.. |LINK8| raw:: html
-
-    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
-
-.. |LINK9| raw:: html
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
 
