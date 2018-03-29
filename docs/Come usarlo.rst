@@ -31,8 +31,17 @@ If you are a beginner of the reStructuredText and you feel a little bit of confu
 I was struggling on writing reStructuredText for a long time . Now, with the GGeditor and these two tutorials, I hope them can help you to get jobs done quicker and easier.
 
 
+|REPLACE1|
+
+|
+
+
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416">Visualizza a schermo intero la mappa degli avvisi della Polizia Municipale</a></p>
 
 .. |LINK1| raw:: html
 
