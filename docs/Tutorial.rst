@@ -4,54 +4,57 @@
 Tutorial
 ########
 
-il tutorial è molto semplice nei passi da seguire
+il tutorial è molto semplice nei passi da seguire, partendo innanzitutto da questo video:
 
 |REPLACE1|
 
-.. _h2e2466207319265a2b484631c11587d:
+L'editor GG parte da uno scenario composto da 2 situazioni
 
-The Google Docs Native Features
-*******************************
+#. Tu già hai un repository di progetto su Github, 
 
-.. _h2c1d74277104e41780968148427e:
+#. Tu già hai un progetto su Readthedocs.or che è in diretta relazione al repository su Github.
+
+Github e Readthedocs accettano formati RST o Markup. Hai bisogno di costruire la documentazione in uno di questi due formati. 
+
+.. _h674712443519d775f679124c276a2c:
+
+Il flusso di lavoro del processo che gestisce GGeditor
+======================================================
+
+Questo è il flusso di lavoro con GGeditor per costruire la documentazione su Github:
+
+\ |IMG1|\ 
+
+|
+
+.. _h5f65204616512558169115d286b261d:
+
+Le azioni svolte da GGeditor
+============================
+
+La sequenza di azioni che vengono effettuate da GGeditor nel processo che esso stesso gestisce. Ecco le fasi:
+
+#. iniziare creando un nuovo documento su Google Docs.
+
+#. Il nuovo file sarà nominato "Tutorial". Il file contiene un intestazione, un immagine e una nota creata dal sidebar di GGeditor.
+
+#. Il nuovo file sarà compilato da GGeditor sul repository del progetto Github.
+
+#. Siccome questo è un file nuovo, un processo sarà avviato per costruire il legame agli altri documenti (es. index) nel repository Github. Il processo avviato include: log-in all'account Github che ospita il progetto su Github, azioni di navigazione dentro Github, creazione di un nuovo file e l'attività di compilazione (commit di Github).
+
+.. admonition:: Importante
+
+    #. Quando nomini il tuo documento Google Doc, il nome del documento non necessita del suffisso "\ |STYLE0|\ ".
+    
+    #. Per legare il file del Google Doc sul repository del progetto (Github), Github  ha bisogno del suffisso ".rst". Il suffisso sarà automaticamente creato da GGeditor. Se nomini manualmente tu il file su Github allora aggiungi il suffisso "\ |STYLE1|\ " (sulla directory "docs" di Github).
+    
+
+|
 
 
+.. admonition:: Importante
 
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h80352f65a46575c6a74721e3ddb6a:
-
-Inline Markups
-**************
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h513c5b795d5d185d1c203d7e75205f41:
-
-Table
-*****
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h425360541a6d36a14487962c584b8:
-
-Image
-*****
+    il contenuto di questa pagina HTML è in \ |LINK1|\ 
 
 |
 
@@ -62,9 +65,14 @@ Image
 .. bottom of content
 
 
+.. |STYLE0| replace:: **.rst**
+
+.. |STYLE1| replace:: **.rst**
+
+
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="380" src="https://www.youtube.com/embed/8j9U54m5Shk?t=1727" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/PUswAbvpE7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -90,11 +98,12 @@ Image
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    
-    
-    
-    
-    
-    
-    
-    
+
+.. |LINK1| raw:: html
+
+    <a href="https://docs.google.com/document/d/1H5CXu8rhCuryrG6NVjfgfk4csYezuw1dN4s0eg1tmhY/edit?usp=sharing" target="_blank">questo Google Doc</a>
+
+
+.. |IMG1| image:: static/Tutorial_1.png
+   :height: 406 px
+   :width: 601 px
