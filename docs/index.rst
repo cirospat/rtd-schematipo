@@ -14,12 +14,8 @@ GGeditor
 .. toctree:: 
     :maxdepth: 2
 
-    \ |LINK4|\ 
-    \ |LINK5|\ 
-    3
-    4
-    5
-    6
+    Tutorial
+    Come usarlo
 
 \ |IMG1|\ 
 
@@ -40,8 +36,8 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. admonition:: Video Tutorial di GGeditor
 
-    \ |LINK6|\ 
-    \ |LINK7|\ 
+    \ |LINK4|\ 
+    \ |LINK5|\ 
 
 --------
 
@@ -77,7 +73,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 \ |STYLE3|\ 
 
-\ |LINK8|\ , oppure in un documento Google:
+\ |LINK6|\ , oppure in un documento Google:
 
 #. Sul menù "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
 
@@ -110,21 +106,13 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/open?id=1_v1IBTpRg3xuAgiSkEzq4m_7mfq0W4VPBkk41IqhhkE" target="_blank">Come_usarlo</a>
+    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/open?id=1L-OJw3rVHOO0KbnqzaajiNnMKEwqy9DHf9elopDlCfo" target="_blank">Tutorial</a>
-
-.. |LINK6| raw:: html
-
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
-
-.. |LINK7| raw:: html
-
     <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
 
-.. |LINK8| raw:: html
+.. |LINK6| raw:: html
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
 
