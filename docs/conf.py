@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'cirospat'
-license = 'licenza CC BY cirospat'
+project = 'Da Google Docs direttamente a Read the Docs'
+copyright = 'licenza CC BY cirospat'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
