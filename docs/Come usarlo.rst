@@ -35,8 +35,109 @@ I was struggling on writing reStructuredText for a long time . Now, with the GGe
 
 |
 
+.. _h447662145f7692285c35327713294c:
+
+Code block with line number
+===========================
+
+
++--+--------------------------------------------------------------------------------------------------------------+
+| 1|#!/usr/bin/env python                                                                                         |
+| 2|                                                                                                              |
+| 3|"""                                                                                                           |
+| 4|Twisted moved the C{twisted} hierarchy to the C{src} hierarchy, but C{git}                                    |
+| 5|doesn't know how to track moves of directories, only files.  Therefore any                                    |
+| 6|files added in branches after this move will be added into ./twisted/ and need                                |
+| 7|to be moved over into                                                                                         |
+| 8|"""                                                                                                           |
+| 9|                                                                                                              |
+|10|\ |STYLE0|\  os                                                                                               |
+|11|\ |STYLE1|\  twisted.python.filepath \ |STYLE2|\  FilePath                                                    |
+|12|                                                                                                              |
+|13|here \ |STYLE3|\  FilePath(__file__)\ |STYLE4|\ parent()\ |STYLE5|\ parent()                                  |
+|14|fromPath \ |STYLE6|\  here\ |STYLE7|\ child("twisted")                                                        |
+|15|toPath \ |STYLE8|\  here\ |STYLE9|\ child("src")                                                              |
+|16|                                                                                                              |
+|17|\ |STYLE10|\  fn \ |STYLE11|\  fromPath\ |STYLE12|\ walk():                                                   |
+|18|    \ |STYLE13|\  fn\ |STYLE14|\ isfile():                                                                    |
+|19|        os\ |STYLE15|\ system("git mv {it} src/{it}"                                                          |
+|20|                  \ |STYLE16|\ format(it\ |STYLE17|\ "/"\ |STYLE18|\ join(fn\ |STYLE19|\ segmentsFrom(here))))|
+|21|                                                                                                              |
+|22|os\ |STYLE20|\ system('git clean -fd')                                                                        |
+|23|                                                                                                              |
+|24|\ |STYLE21|\  \ |STYLE22|\ (x):                                                                               |
+|25|\ |STYLE23|\  \ |STYLE24|\ (x):                                                                               |
+|26|    go start start                                                                                            |
+|27|    go start end                                                                                              |
+|28|                                                                                                              |
+|29|\ |STYLE25|\  \ |STYLE26|\ (y):                                                                               |
+|30|    go end start                                                                                              |
+|31|    go end end                                                                                                |
+|  |                                                                                                              |
++--+--------------------------------------------------------------------------------------------------------------+
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **import**
+
+.. |STYLE1| replace:: **from**
+
+.. |STYLE2| replace:: **import**
+
+.. |STYLE3| replace:: **=**
+
+.. |STYLE4| replace:: **.**
+
+.. |STYLE5| replace:: **.**
+
+.. |STYLE6| replace:: **=**
+
+.. |STYLE7| replace:: **.**
+
+.. |STYLE8| replace:: **=**
+
+.. |STYLE9| replace:: **.**
+
+.. |STYLE10| replace:: **for**
+
+.. |STYLE11| replace:: **in**
+
+.. |STYLE12| replace:: **.**
+
+.. |STYLE13| replace:: **if**
+
+.. |STYLE14| replace:: **.**
+
+.. |STYLE15| replace:: **.**
+
+.. |STYLE16| replace:: **.**
+
+.. |STYLE17| replace:: **=**
+
+.. |STYLE18| replace:: **.**
+
+.. |STYLE19| replace:: **.**
+
+.. |STYLE20| replace:: **.**
+
+.. |STYLE21| replace:: **def**
+
+.. |STYLE22| replace:: **outer**
+
+.. |STYLE23| replace:: **def**
+
+.. |STYLE24| replace:: **indent_start**
+
+.. |STYLE25| replace:: **def**
+
+.. |STYLE26| replace:: **end**
 
 
 .. |REPLACE1| raw:: html
