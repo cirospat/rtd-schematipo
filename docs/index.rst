@@ -19,6 +19,8 @@ Queste due criticità lo rendono un formato ormai vetusto nel 2018, non più ris
 
     Questa pagina che state leggendo deriva direttamente da \ |LINK2|\ 
 
+|
+
 \ |STYLE0|\  consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto paragrafi).
 
 .. _h3092c7d75e1f5a466f42767b37185:
@@ -28,7 +30,7 @@ GGeditor ed i file RST
 
 \ |IMG1|\ 
 
-il plug-in GGeditor installabile da Google Docs
+[il plug-in GGeditor installabile da Google Docs (cercalo nei "Componenti aggiuntivi")]
 
 |
 
@@ -76,7 +78,7 @@ I file che GGeditor genera automaticamente su Github
 
 \ |IMG7|\ 
 
-immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs
+[immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs tramite il plug-in GGeditor]
 
 |
 
@@ -122,7 +124,7 @@ Contenuti di questo documento
 
 
 .. toctree:: indice
-    :maxdepth: 2
+    :maxdepth: 3
 
     Come usarlo
     Tutorial
