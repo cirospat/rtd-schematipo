@@ -9,6 +9,7 @@ GGeditor
 
     \ |LINK1|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK2|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK3|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
+\ |STYLE1|\ 
 
 .. toctree:: 
     :maxdepth: 2
@@ -36,11 +37,12 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. admonition:: Video Tutorial di GGeditor
 
-    * [tutorial] \ |LINK4|\ 
-    
-    * [video \ |LINK5|\ ] 
+    \ |LINK4|\ 
+    \ |LINK5|\ 
 
-\ |STYLE1|\ 
+--------
+
+\ |STYLE2|\ 
 
 #. Facile inizio per chi non ha dimestichezza con i file RST anche se per chi non ha idea dei marcatori di RST.
 
@@ -68,7 +70,9 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 #. Supporta la conversione di tabelle con i tags HTML to let look-and-feel come la stessa cosa possibile per i blogger.
 
-\ |STYLE2|\ 
+--------
+
+\ |STYLE3|\ 
 
 \ |LINK6|\ , oppure in un documento Google:
 
@@ -82,9 +86,11 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. |STYLE0| replace:: **RST**
 
-.. |STYLE1| replace:: **Aspetti di GGeditor**
+.. |STYLE1| replace:: **Contenuti di questo documento (indice)**
 
-.. |STYLE2| replace:: **Come instalare GGeditor**
+.. |STYLE2| replace:: **Aspetti di GGeditor**
+
+.. |STYLE3| replace:: **Come instalare GGeditor**
 
 
 .. |LINK1| raw:: html
@@ -105,7 +111,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">tutorial</a>
+    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
 
 .. |LINK6| raw:: html
 
