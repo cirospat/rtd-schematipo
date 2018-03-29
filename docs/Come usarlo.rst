@@ -146,6 +146,15 @@ Direttiva generica
     prova di contenuto in una direttiva generica
     editare testo qui
 
+
+.. argument:: 
+    :option: value
+    :option: value
+
+    content
+
+    content-2
+
 |
 
 .. _h5d535b7f2e655f2e1f3e4c6225335713:
