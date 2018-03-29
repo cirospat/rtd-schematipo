@@ -11,6 +11,12 @@ GGeditor
 
 |
 
+video tutorial
+
+|REPLACE1|
+
+|
+
 .. _h397a58355359787b3d5b662c372645:
 
 Contenuti di questo documento (indice)
@@ -88,7 +94,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 |
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
@@ -102,6 +108,9 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/PUswAbvpE7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
