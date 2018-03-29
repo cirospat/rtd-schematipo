@@ -146,10 +146,7 @@ Direttiva generica
     prova di contenuto in una direttiva generica
     editare testo qui
 
-.. _h476834441945532458b3a21604f4747:
-
 |
-=
 
 .. _h5d535b7f2e655f2e1f3e4c6225335713:
 
