@@ -9,13 +9,11 @@ GGeditor
 
     \ |LINK1|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK2|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK3|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
-|
-
 video tutorial
 
 |REPLACE1|
 
-|
+--------
 
 .. _h397a58355359787b3d5b662c372645:
 
@@ -29,6 +27,8 @@ Contenuti di questo documento (indice)
     Come usarlo
     Tutorial
 
+--------
+
 \ |IMG1|\ 
 
 il plug-in GGeditor installabile da Google Docs
@@ -37,7 +37,7 @@ il plug-in GGeditor installabile da Google Docs
 
 il processo svolto da GGeditor: dal Google Docs a GGeditor a Github a Readthedocs
 
-|
+--------
 
 \ |IMG3|\ 
 
