@@ -28,61 +28,57 @@ il processo svolto da GGeditor: dal Google Docs a GGeditor a Github a Readthedoc
 immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs
 
 
-.. admonition:: Video Tutorial
+.. admonition:: Video Tutorial di GGeditor
 
-    * [il primo tutorial] \ |LINK4|\ .
+    * [tutorial] \ |LINK4|\ 
     
-    * [tutorial] \ |LINK5|\ 
-    
-    * [video \ |LINK6|\ ] 
+    * [video \ |LINK5|\ ] 
 
-.. _h3130413851c363c7a622d652e7d1173:
+\ |STYLE1|\ 
 
-Aspetti
-=======
+#. Facile inizio per chi non ha dimestichezza con i file RST anche se per chi non ha idea dei marcatori di RST.
 
-#. Easy starting for reST beginners, even no idea about reST markups.
+#. Alimentato da Google Docs. Quasi la totalità di quello che vedi su Google Docs è quello che ottieni su Readthedocs. Lo stesso è per l'intero gruppo di lavoro.
 
-#. Powered by the Google Docs. Almost what you see is what you get. As well as the coordination of team works.
+#. Un click per commissionare il lavoro sul repository di Github.
 
-#. One-click to commit to the Github repository.
+#. Puoi vedere in anteprima il file RST generato dall'interno di Google Docs e scaricarlo nel tuo PC.
 
-#. Preview the generated reST file and download to local machine.
+#. Supporta headings, bold, italic, hyperlink, subscript e superscript.
 
-#. Support headings, bold, italic, hyperlink, subscript and superscript.
+#. Support note a margine, immagini, liste di articolo e tabelle.
 
-#. Support footnotes, image, list item and table.
+#. Supporta caratteri a larghezza intera (CKJ) nelle intestazioni e nelle tabelle.
 
-#. Support full-width characters (CKJ) in headings and table.
+#. Support i link interni ai bookmarks, headings e le Google Docs tabelle native di contenuti (in document table of contents).
 
-#. Support internal links to bookmarks, headings and Google Docs native table of contents (in document table of contents).
+#. Supporta i link relativi ai file RST generati dai Google Docs all'interno della stessa directory e sotto-directory Google Docs.
 
-#. Support relative links to other generated reST files of the Google Docs under the same folder and subfolders.
+#. Supporta la tabella dei contenuti  (cross-document table of content (.. toctree::)) per fare generare l'indice a Readthedocs.
 
-#. Support cross-document table of content (.. toctree::) for the RTD.
+#. Supporta tutti gli stili di "admonitions" di Readthedocs.
 
-#. Support all style of admonitions of the RTD.
+#. Supporta account multipli per compilare i file nei repository di diversi account Github.
 
-#. Support multiple accounts for committing to repositories in different accounts.
+#. Supporta la conversione di tabelle con i tags HTML to let look-and-feel come la stessa cosa possibile per i blogger.
 
-#. Support converting table with HTML tags to let look-and-feel as the same as possible for blogers.
+\ |STYLE2|\ 
 
-.. _h48032546e7c26154b53f3d1391663:
+\ |LINK6|\ , oppure in un documento Google:
 
-Come installare
-===============
+#. Sul menù "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
 
-\ |LINK7|\ , or in a Google Docs Document:
-
-#. On the menu item “Add-ons”, click the “Get Add-ons”
-
-#. In the search box, input “GGeditor”, then click on the GGeditor icon to install.
+#. Nel box di ricerca edita “GGeditor”, e clicca sull'icona di GGeditor per installare.
 
 
 .. bottom of content
 
 
 .. |STYLE0| replace:: **RST**
+
+.. |STYLE1| replace:: **Aspetti di GGeditor**
+
+.. |STYLE2| replace:: **Come instalare GGeditor**
 
 
 .. |LINK1| raw:: html
@@ -99,19 +95,15 @@ Come installare
 
 .. |LINK4| raw:: html
 
-    <a href="http://ggeditor.readthedocs.io" target="_blank">GGeditor</a>
+    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">tutorial</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">tutorial</a>
-
-.. |LINK7| raw:: html
-
-    <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Click this link to the Google Docs Add-on page</a>
+    <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
 
 
 .. |IMG1| image:: static/index_1.png
