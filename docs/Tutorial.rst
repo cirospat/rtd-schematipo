@@ -8,6 +8,19 @@ il tutorial è molto semplice nei passi da seguire, partendo innanzitutto da que
 
 |REPLACE1|
 
+|
+
+.. _h62049d30623c1a1c5869257e287c7b:
+
+Come installare GGeditor
+========================
+
+\ |LINK1|\ , oppure in un documento Google:
+
+#. Sul menu "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
+
+#. Nel box di ricerca edita “GGeditor”, e clicca sull'icona di GGeditor per installare.
+
 L'editor GG parte da uno scenario composto da 2 situazioni:
 
 #. Tu già hai un repository di progetto su Github, 
@@ -56,7 +69,7 @@ La sequenza di azioni che vengono effettuate da GGeditor nel processo che esso s
 
 .. admonition:: Importante
 
-    il contenuto di questa pagina che state leggendo è in \ |LINK1|\ 
+    il contenuto di questa pagina che state leggendo è in \ |LINK2|\ 
 
 |
 
@@ -102,6 +115,10 @@ La sequenza di azioni che vengono effettuate da GGeditor nel processo che esso s
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 .. |LINK1| raw:: html
+
+    <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
+
+.. |LINK2| raw:: html
 
     <a href="https://docs.google.com/document/d/1H5CXu8rhCuryrG6NVjfgfk4csYezuw1dN4s0eg1tmhY/edit?usp=sharing" target="_blank">questo Google Doc</a>
 
