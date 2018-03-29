@@ -11,7 +11,11 @@ GGeditor
 
 |
 
-\ |STYLE1|\ 
+.. _h397a58355359787b3d5b662c372645:
+
+Contenuti di questo documento (indice)
+**************************************
+
 
 .. toctree:: 
     :maxdepth: 2
@@ -43,7 +47,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 --------
 
-\ |STYLE2|\ 
+\ |STYLE1|\ 
 
 #. Facile inizio per chi non ha dimestichezza con i file RST, anche per chi non ha idea dei marcatori di RST.
 
@@ -73,7 +77,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 --------
 
-\ |STYLE3|\ 
+\ |STYLE2|\ 
 
 \ |LINK6|\ , oppure in un documento Google:
 
@@ -87,11 +91,9 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. |STYLE0| replace:: **RST**
 
-.. |STYLE1| replace:: **Contenuti di questo documento (indice)**
+.. |STYLE1| replace:: **Aspetti di GGeditor**
 
-.. |STYLE2| replace:: **Aspetti di GGeditor**
-
-.. |STYLE3| replace:: **Come installare GGeditor**
+.. |STYLE2| replace:: **Come installare GGeditor**
 
 
 .. |LINK1| raw:: html
