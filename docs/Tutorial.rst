@@ -8,13 +8,15 @@ il tutorial è molto semplice nei passi da seguire, partendo innanzitutto da que
 
 |REPLACE1|
 
-L'editor GG parte da uno scenario composto da 2 situazioni
+L'editor GG parte da uno scenario composto da 2 situazioni:
 
 #. Tu già hai un repository di progetto su Github, 
 
 #. Tu già hai un progetto su Readthedocs.or che è in diretta relazione al repository su Github.
 
 Github e Readthedocs accettano formati RST o Markup. Hai bisogno di costruire la documentazione in uno di questi due formati. 
+
+|
 
 .. _h674712443519d775f679124c276a2c:
 
