@@ -1,4 +1,10 @@
 
+.. _h28105e656d4d48041184d771d3b4a1a:
+
+GGeditor
+********
+
+
 .. admonition:: GG editor
 
     \ |LINK1|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK2|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK3|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
