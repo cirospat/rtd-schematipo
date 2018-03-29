@@ -19,17 +19,23 @@ Queste due criticità lo rendono un formato ormai vetusto nel 2018, non più ris
 
     Questa pagina che state leggendo deriva direttamente da \ |LINK2|\ 
 
-GGeditor consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto paragrafi).
+\ |STYLE0|\  consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto paragrafi).
 
 .. _h3092c7d75e1f5a466f42767b37185:
 
 GGeditor ed i file RST
 ======================
 
+\ |IMG1|\ 
+
+il plug-in GGeditor installabile da Google Docs
+
+|
+
 
 .. admonition:: GG editor
 
-    \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
+    \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE1|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
 |
 
@@ -43,11 +49,10 @@ Video tutorial di funzionamento di GGeditor
 
 |
 
-\ |IMG1|\ 
+.. _h5d92650581a8042635e3d4b2ef7d7d:
 
-il plug-in GGeditor installabile da Google Docs
-
-|
+Il processo che svolge GGeditor
+===============================
 
 \ |IMG2|\ 
 
@@ -60,9 +65,14 @@ il plug-in GGeditor installabile da Google Docs
 |\ |IMG3|\                                                                |\ |IMG4|\                                                                                               |\ |IMG5|\                                                                                                  |\ |IMG6|\                                                                                                                                                                                                    |
 +-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-[in questa tabella: \ |STYLE1|\ ]
+[in questa tabella: \ |STYLE2|\ ]
 
 |
+
+.. _h58156b41121c145b694d71b3e2a7618:
+
+I file che GGeditor genera automaticamente su Github
+====================================================
 
 \ |IMG7|\ 
 
@@ -126,7 +136,7 @@ Contenuti di questo documento
 ******************************
 
 
-.. toctree:: 
+.. toctree:: indice
     :maxdepth: 2
 
     Come usarlo
@@ -143,9 +153,11 @@ Contenuti di questo documento
 .. bottom of content
 
 
-.. |STYLE0| replace:: **RST**
+.. |STYLE0| replace:: **GGeditor**
 
-.. |STYLE1| replace:: **il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs**
+.. |STYLE1| replace:: **RST**
+
+.. |STYLE2| replace:: **il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs**
 
 
 .. |REPLACE1| raw:: html
