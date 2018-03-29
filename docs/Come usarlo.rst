@@ -73,13 +73,145 @@ Code block with line number
 |29|\ |STYLE25|\  \ |STYLE26|\ (y):                                                                               |
 |30|    go end start                                                                                              |
 |31|    go end end                                                                                                |
-|  |                                                                                                              |
 +--+--------------------------------------------------------------------------------------------------------------+
 
 .. _h2c1d74277104e41780968148427e:
 
 
 
+
+
+.. code:: 
+
+    #!/usr/bin/env python
+    
+    """
+    Twisted moved the C{twisted} hierarchy to the C{src} hierarchy, but C{git}
+    doesn't know how to track moves of directories, only files.  Therefore any
+    files added in branches after this move will be added into ./twisted/ and need
+    to be moved over into
+    """
+    
+    import os
+    from twisted.python.filepath import FilePath
+    
+    here = FilePath(__file__).parent().parent()
+    fromPath = here.child("twisted")
+    toPath = here.child("src")
+    
+    for fn in fromPath.walk():
+        if fn.isfile():
+            os.system("git mv {it} src/{it}"
+                      .format(it="/".join(fn.segmentsFrom(here))))
+    
+    os.system('git clean -fd')
+    
+    def outer(x):
+    def indent_start(x):
+        go start start
+        go start end
+    
+    def end(y):
+        go end start
+        go end end
+
+
+.. code-block:: python
+    :linenos:
+
+    #!/usr/bin/env python
+    
+    """
+    Twisted moved the C{twisted} hierarchy to the C{src} hierarchy, but C{git}
+    doesn't know how to track moves of directories, only files.  Therefore any
+    files added in branches after this move will be added into ./twisted/ and need
+    to be moved over into
+    """
+    
+    import os
+    from twisted.python.filepath import FilePath
+    
+    here = FilePath(__file__).parent().parent()
+    fromPath = here.child("twisted")
+    toPath = here.child("src")
+    
+    for fn in fromPath.walk():
+        if fn.isfile():
+            os.system("git mv {it} src/{it}"
+                      .format(it="/".join(fn.segmentsFrom(here))))
+    
+    os.system('git clean -fd')
+    
+    def outer(x):
+    def indent_start(x):
+        go start start
+        go start end
+    
+    def end(y):
+        go end start
+        go end end
+
+
+.. name:: direttiva generica
+    :option: value
+    :option: value
+
+    prova di contenuto in una direttiva generica
+
+
+..  Attention:: 
+
+    (content of Attention)
+
+
+..  Caution:: 
+
+    (content of Caution)
+
+
+..  Warning:: 
+
+    (content of Warning)
+
+
+..  Danger:: 
+
+    (content of Danger)
+
+
+..  Error:: 
+
+    (content of Error)
+
+
+..  Hint:: 
+
+    (content of Hint)
+
+
+..  Important:: 
+
+    (content of Important)
+
+
+..  Tip:: 
+
+    (content of Tip)
+
+
+..  Note:: 
+
+    (content of Note)
+
+
+..  seealso:: 
+
+    (content of See also)
+
+
+.. admonition:: Change-me
+
+    (content of Change-me)
 
 
 .. bottom of content
