@@ -23,17 +23,15 @@ Contenuti di questo documento (indice)
     Come usarlo
     Tutorial
 
-\ |IMG1|\ 
-
 il plug-in GGeditor installabile da Google Docs
 
-\ |IMG2|\ 
+\ |IMG1|\ 
 
 il processo svolto da GGeditor: dal Google Docs a GGeditor a Github a Readthedocs
 
 |
 
-\ |IMG3|\ 
+\ |IMG2|\ 
 
 immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs
 
@@ -122,13 +120,9 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 172 px
-   :width: 273 px
-
-.. |IMG2| image:: static/index_2.png
    :height: 250 px
    :width: 504 px
 
-.. |IMG3| image:: static/index_3.png
+.. |IMG2| image:: static/index_2.png
    :height: 226 px
    :width: 500 px
