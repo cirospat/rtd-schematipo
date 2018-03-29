@@ -14,9 +14,8 @@ GGeditor
 .. toctree:: 
     :maxdepth: 2
 
-    0
-    1
-    2
+    Come_usarlo
+    Tutorial
     3
     4
     5
@@ -30,9 +29,13 @@ il plug-in GGeditor installabile da Google Docs
 
 il processo svolto da GGeditor: dal Google Docs a GGeditor a Github a Readthedocs
 
+|
+
 \ |IMG3|\ 
 
 immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs
+
+|
 
 
 .. admonition:: Video Tutorial di GGeditor
@@ -44,7 +47,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 \ |STYLE2|\ 
 
-#. Facile inizio per chi non ha dimestichezza con i file RST anche se per chi non ha idea dei marcatori di RST.
+#. Facile inizio per chi non ha dimestichezza con i file RST, anche per chi non ha idea dei marcatori di RST.
 
 #. Alimentato da Google Docs. Quasi la totalità di quello che vedi su Google Docs è quello che ottieni su Readthedocs. Lo stesso è per l'intero gruppo di lavoro.
 
@@ -90,7 +93,7 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. |STYLE2| replace:: **Aspetti di GGeditor**
 
-.. |STYLE3| replace:: **Come instalare GGeditor**
+.. |STYLE3| replace:: **Come installare GGeditor**
 
 
 .. |LINK1| raw:: html
