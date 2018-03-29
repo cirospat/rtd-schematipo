@@ -4,7 +4,11 @@
 Come usarlo
 ***********
 
-una volta scaricato il plug-in su Google Doc \ |IMG1|\  si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi" poi su "GGeditor" e poi su "Show Markup Panel".
+una volta scaricato il plug-in su Google Doc
+
+ \ |IMG1|\  
+
+si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi" poi su "GGeditor" e poi su "Show Markup Panel".
 
 |
 
@@ -292,5 +296,5 @@ Code block with line number
 
 
 .. |IMG1| image:: static/Come_usarlo_1.png
-   :height: 73 px
-   :width: 330 px
+   :height: 109 px
+   :width: 485 px
