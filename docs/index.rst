@@ -113,21 +113,6 @@ Aspetti di GGeditor
 
 --------
 
-.. _h62049d30623c1a1c5869257e287c7b:
-
-Come installare GGeditor
-========================
-
-\ |LINK6|\ , oppure in un documento Google:
-
-#. Sul menu "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
-
-#. Nel box di ricerca edita “GGeditor”, e clicca sull'icona di GGeditor per installare.
-
-|
-
---------
-
 --------
 
 .. _h292a20344d21577179215c531d397512:
@@ -208,10 +193,6 @@ Contenuti di questo documento
 .. |LINK5| raw:: html
 
     <a href="https://readthedocs.org/" target="_blank">Readthedocs</a>
-
-.. |LINK6| raw:: html
-
-    <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
 
 
 .. |IMG1| image:: static/index_1.png
