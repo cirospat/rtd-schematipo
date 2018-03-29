@@ -12,6 +12,16 @@ si può cominciare ad usare il set di strumenti del menù che appare se clicchia
 
 |
 
+Cliccando su su "Show Markup Panel" viene visualizzato questo pannello.\ |IMG2|\  che ci consente di inserire sul documento in Google Doc:
+
+* Note colorate personalizzabili nel titolo
+
+* Codice da illustrare in una pagina HTML
+
+* Tabella dell'indice dei contenuti (cioè le pagine che compongono 
+
+|
+
 .. _h177537546887b67276822514c66016:
 
 How to Use
@@ -298,3 +308,7 @@ Code block with line number
 .. |IMG1| image:: static/Come_usarlo_1.png
    :height: 109 px
    :width: 485 px
+
+.. |IMG2| image:: static/Come_usarlo_2.png
+   :height: 496 px
+   :width: 292 px
