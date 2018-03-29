@@ -4,9 +4,7 @@
 Come usarlo
 ***********
 
-una volta scaricato il plug-in su Google Doc
-
- \ |IMG1|\  
+una volta scaricato il plug-in su Google Doc \ |IMG1|\  
 
 si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi" poi su "GGeditor" e poi su "Show Markup Panel".
 
