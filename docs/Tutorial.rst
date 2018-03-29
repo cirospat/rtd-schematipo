@@ -54,7 +54,7 @@ La sequenza di azioni che vengono effettuate da GGeditor nel processo che esso s
 
 .. admonition:: Importante
 
-    il contenuto di questa pagina HTML è in \ |LINK1|\ 
+    il contenuto di questa pagina che state leggendo è in \ |LINK1|\ 
 
 |
 
