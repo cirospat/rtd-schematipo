@@ -18,6 +18,11 @@ Questa pagina che state leggendo deriva direttamente da \ |LINK4|\
 
 |
 
+
+|REPLACE2|
+
+|
+
 \ |IMG1|\ 
 
 il plug-in GGeditor installabile da Google Docs
@@ -111,7 +116,7 @@ Contenuti di questo documento
 --------
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -124,6 +129,9 @@ Contenuti di questo documento
 
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/PUswAbvpE7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/avvisi-della-polizia-municipale-sulla-mobilita-a-p_135416">Visualizza a schermo intero</a></p>
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
