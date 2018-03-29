@@ -133,30 +133,6 @@ con righe numerate
 
 |
 
-.. _h735c7d541159421d2622384bf33136d:
-
-Direttiva generica
-==================
-
-
-.. name:: direttiva generica
-    :option: value
-    :option: value
-
-    prova di contenuto in una direttiva generica
-    editare testo qui
-
-
-.. argument:: 
-    :option: value
-    :option: value
-
-    content
-
-    content-2
-
-|
-
 .. _h5d535b7f2e655f2e1f3e4c6225335713:
 
 Note colorate di vario tipo
