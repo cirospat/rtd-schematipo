@@ -14,7 +14,7 @@ __version__ = '1.0'
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'cirospat'
-copyright = '2018, cirospat'
+copyright = 'licenza CC BY cirospat'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -36,3 +36,5 @@ def setup(app):
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
 """
 #latex_documents = []
+latex_logo = "static/ods.png"
+html_logo = "static/ods.png"
