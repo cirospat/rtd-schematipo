@@ -14,8 +14,8 @@ GGeditor
 .. toctree:: 
     :maxdepth: 2
 
-    Tutorial
     Come usarlo
+    Tutorial
 
 \ |IMG1|\ 
 
