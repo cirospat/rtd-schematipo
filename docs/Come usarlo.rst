@@ -18,9 +18,9 @@ Per i principianti dei file RST
 Il plug-in di Google Doc
 ========================
 
-una volta scaricato e installato il plug-in su Google Doc \ |IMG1|\  
+Per prima cosa si va su "Componenti aggiuntivi" e si scarica e si installa il plug-in su Google Doc \ |IMG1|\  
 
-si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi" poi su "GGeditor" e poi su "Show Markup Panel".
+così si può cominciare ad usare il set di strumenti del menù che appare se clicchiamo su "componenti aggiuntivi", poi su "GGeditor" e poi ancora su "Show Markup Panel".
 
 |
 
@@ -205,12 +205,16 @@ Note colorate di vario tipo
 Altre (tante) funzioni di GGeditor
 ==================================
 
+\ |IMG3|\ 
+
 \ |LINK1|\  e \ |LINK2|\  sono descritte molte funzioni che possono essere attivate con GGeditor.
+
+\ |LINK3|\  espone le funzioni abbastanza bene.
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: *If you are a beginner of the reStructuredText and you feel a little bit of confusing about how to put your documents onto the RTD website. Now, with the GGeditor and this tutorial, I hopeit can help you to get jobs done quicker and easier.*
+.. |STYLE0| replace:: *If you are a beginner of the reStructuredText and you feel a little bit of confusing about how to put your documents onto the RTD website. Now, with the GGeditor and this tutorial, I hope it can help you to get jobs done quicker and easier.*
 
 
 .. |REPLACE1| raw:: html
@@ -247,6 +251,10 @@ Altre (tante) funzioni di GGeditor
 
     <a href="http://ggeditor.readthedocs.io/en/latest/Examples.html" target="_blank">qui (esempi)</a>
 
+.. |LINK3| raw:: html
+
+    <a href="http://ggeditor.readthedocs.io" target="_blank">Il tutorial di GGeditor</a>
+
 
 .. |IMG1| image:: static/Come_usarlo_1.png
    :height: 109 px
@@ -255,3 +263,7 @@ Altre (tante) funzioni di GGeditor
 .. |IMG2| image:: static/Come_usarlo_2.png
    :height: 496 px
    :width: 292 px
+
+.. |IMG3| image:: static/Come_usarlo_3.png
+   :height: 294 px
+   :width: 290 px
