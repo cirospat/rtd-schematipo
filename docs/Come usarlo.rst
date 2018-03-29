@@ -12,7 +12,9 @@ si può cominciare ad usare il set di strumenti del menù che appare se clicchia
 
 |
 
-Cliccando su su "Show Markup Panel" viene visualizzato questo pannello.\ |IMG2|\  che ci consente di inserire sul documento in Google Doc:
+Cliccando su su "Show Markup Panel" viene visualizzato questo pannello.\ |IMG2|\  
+
+che ci consente di inserire sul documento in Google Doc:
 
 * Note colorate personalizzabili nel titolo
 
