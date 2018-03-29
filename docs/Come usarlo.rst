@@ -9,7 +9,7 @@ Come usarlo
 Per i principianti dei file RST
 ===============================
 
-If you are a beginner of the reStructuredText and you feel a little bit of confusing about how to put your documents onto the RTD website. Now, with the GGeditor and these two tutorials, I hope them can help you to get jobs done quicker and easier.
+\ |STYLE0|\ 
 
 |
 
@@ -198,8 +198,19 @@ Note colorate di vario tipo
 
 |REPLACE1|
 
+|
+
+.. _h496a7729534b3e4c36782439686453:
+
+Altre (tante) funzioni di GGeditor
+==================================
+
+\ |LINK1|\  e \ |LINK2|\  sono descritte molte funzioni che possono essere attivate con GGeditor.
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: *If you are a beginner of the reStructuredText and you feel a little bit of confusing about how to put your documents onto the RTD website. Now, with the GGeditor and this tutorial, I hopeit can help you to get jobs done quicker and easier.*
 
 
 .. |REPLACE1| raw:: html
@@ -227,6 +238,16 @@ Note colorate di vario tipo
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+.. |LINK1| raw:: html
+
+    <a href="http://ggeditor.readthedocs.io/en/latest/User%20Guide.html" target="_blank">Qui</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://ggeditor.readthedocs.io/en/latest/Examples.html" target="_blank">qui (esempi)</a>
+
+
 .. |IMG1| image:: static/Come_usarlo_1.png
    :height: 109 px
    :width: 485 px
