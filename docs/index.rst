@@ -1,22 +1,44 @@
 
-.. _h28105e656d4d48041184d771d3b4a1a:
+.. _h403f631c642863610673372f386278:
 
-GGeditor
-********
+Da Google Doc a Read the Docs
+*****************************
+
+Questo documento rappresenta una via facile per migliorare la qualità dei documenti pubblicati sul web.
+
+Oggi il formato PDF rappresenta il principale formato di testo per la pubblicazione di documenti sia da parte della Pubblica Amministrazione che dai soggetti privati.
+
+Purtroppo il PDF è un formato che non si adatta ai display piccoli dei dispositivi mobili, ed oggi la fruizione dei contenuti del web è molto consistente sui dispositivi mobili. In più il formato PDF non consente un agevole e facile ricerca di parole all'interno del documento.
+
+Queste due criticità lo rendono un formato ormai vetusto nel 2018, non più rispondente alle esigenze di fruibilità di contenuti documentali su display di dimensioni contenute (smartphone, tablet).
+
+\ |LINK1|\  è un componente plug-in che si installa direttamente da Google Doc della suite di Google Drive. Google Drive (e i suoi servizi) oggi è molto usato anche nelle Pubbliche Amministrazioni, oltre che dai privati, per la facilità di condivisione dei documenti in gruppo.
+
+
+.. admonition:: Importante
+
+    Questa pagina che state leggendo deriva direttamente da \ |LINK2|\ 
+
+GGeditor consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto paragrafi).
+
+.. _h3092c7d75e1f5a466f42767b37185:
+
+GGeditor ed i file RST
+======================
 
 
 .. admonition:: GG editor
 
-    \ |LINK1|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK2|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK3|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
+    \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE0|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
-Questa pagina che state leggendo deriva direttamente da \ |LINK4|\ 
+Questa pagina che state leggendo deriva direttamente da \ |LINK6|\ 
 
 |
 
-.. _h56544d44e68262ff221165183d717:
+.. _h326df60552448603d593767751d0d:
 
-Video tutorial essenziale
-=========================
+Video tutorial di funzionamento di GGeditor
+===========================================
 
 
 |REPLACE1|
@@ -53,8 +75,8 @@ immagine del repository di Github che mostra come i file RST vengono generati di
 
 .. admonition:: Video Tutorial di GGeditor
 
-    \ |LINK5|\ 
-    \ |LINK6|\ 
+    \ |LINK7|\ 
+    \ |LINK8|\ 
 
 |
 
@@ -96,7 +118,7 @@ Aspetti di GGeditor
 Come installare GGeditor
 ========================
 
-\ |LINK7|\ , oppure in un documento Google:
+\ |LINK9|\ , oppure in un documento Google:
 
 #. Sul menu "componenti aggiuntivi" clicca “Installa componenti aggiuntivi”
 
@@ -171,25 +193,33 @@ Contenuti di questo documento
 
 .. |LINK2| raw:: html
 
-    <a href="https://en.wikipedia.org/wiki/ReStructuredText" target="_blank">resStructuredText</a>
+    <a href="https://docs.google.com/document/d/1MEiFKrAxPg5pM5WuspQwo1Pnf54a77IjblL9UuvrHew/edit?usp=sharing" target="_blank">questo doc sul Google Drive</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://readthedocs.org/" target="_blank">Readthedocs</a>
+    <a href="http://ggeditor.readthedocs.io/" target="_blank">GGeditor</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://docs.google.com/document/d/1MEiFKrAxPg5pM5WuspQwo1Pnf54a77IjblL9UuvrHew/edit?usp=sharing" target="_blank">questo doc sul Google Drive</a>
+    <a href="https://en.wikipedia.org/wiki/ReStructuredText" target="_blank">resStructuredText</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+    <a href="https://readthedocs.org/" target="_blank">Readthedocs</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
+    <a href="https://docs.google.com/document/d/1MEiFKrAxPg5pM5WuspQwo1Pnf54a77IjblL9UuvrHew/edit?usp=sharing" target="_blank">questo doc sul Google Drive</a>
 
 .. |LINK7| raw:: html
+
+    <a href="https://youtu.be/PUswAbvpE7c" target="_blank">Tutorial - Create a project site in the RTD</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://www.youtube.com/watch?v=wT__Q80ptOw&feature=youtu.be" target="_blank">Tutorial</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Clicca questo link per il plug-in da installare su Google Docs</a>
 
