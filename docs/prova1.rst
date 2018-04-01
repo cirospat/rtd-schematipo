@@ -5,10 +5,12 @@ Blocco
 
 .. code-block:: sh
 
-  git clone git@github.com/benoitbryon/documentation-style-guide-sphinx.git
-  cd documentation-style-guide-sphinx/
-  make install
-  * run tests with ``make tests``
+   git clone git@github.com/benoitbryon/documentation-style-guide-sphinx.git
+   cd documentation-style-guide-sphinx/
+   make install
+  
+
+* run tests with ``make tests``
 
      
 
