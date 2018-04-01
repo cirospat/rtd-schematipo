@@ -3,24 +3,25 @@
 
 
 .. glossary::
-     apical
+   apical
         at the top of the plant.
         
+.. note::  This is a **note** box.
 
 
 .. hlist::
-    :columns: 3
+   :columns: 3
 
-    * first item
-    * second item
-    * 3d item
-    * 4th item
-    * 5th item
+   * first item
+   * second item
+   * 3d item
+   * 4th item
+   * 5th item
  
  
  
  
- .. sidebar:: Sidebar Title
+.. sidebar:: Sidebar Title
     :subtitle: Optional Sidebar Subtitle
 
     Subsequent indented lines comprise
