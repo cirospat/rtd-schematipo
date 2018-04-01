@@ -1,11 +1,7 @@
 
-:Whatever: 
-
-   this is handy to create new field
+:Whatever: this is handy to create new field
 
 
-.. glossary::
-   apical at the top of the plant.
         
 .. note::  This is a **note** box.
 
@@ -14,9 +10,13 @@
    :columns: 3
 
    * 1 item
+   
    * 2 item
+   
    * 3 item
+   
    * 4 item
+   
    * 5 item
  
  
