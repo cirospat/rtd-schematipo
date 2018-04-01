@@ -3,8 +3,7 @@
 
 
 .. glossary::
-   apical
-        at the top of the plant.
+   apical at the top of the plant.
         
 .. note::  This is a **note** box.
 
