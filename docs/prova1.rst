@@ -11,13 +11,13 @@
 
 
 .. hlist::
-   :columns: 4
+   :columns: 3
 
-   * first item
-   * second item
-   * 3d item
-   * 4th item
-   * 5th item
+   * 1 item
+   * 2 item
+   * 3 item
+   * 4 item
+   * 5 item
  
  
  
@@ -27,10 +27,6 @@
     Subsequent indented lines comprise the body of the sidebar, and are interpreted as body elements.
 
 
-
-
 .. topic:: Your Topic Title
 
-    Subsequent indented lines comprise
-    the body of the topic, and are
-    interpreted as body elements
+   Subsequent indented lines comprise the body of the topic, and are interpreted as body elements.
