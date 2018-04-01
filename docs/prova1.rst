@@ -10,9 +10,8 @@ Blocco
    make install
   
 
-* run tests with ``make tests``
+run tests with ``make tests``
 
-     
 
 .. note::  This is a **note** box.
 
