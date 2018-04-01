@@ -3,7 +3,7 @@
 
 Blocco
 
-.. code-block:: 
+.. code-block:: gherkin
 
    bla bla a  aallll aalla alall aalal al allllll allllllllllllll alllllllll http://bla.it
    documentation-style-guide-sphinx/
