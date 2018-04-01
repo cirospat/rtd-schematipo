@@ -1,8 +1,16 @@
 
 :Whatever: this is handy to create new field
 
+Blocco
 
-        
+.. code-block:: sh
+
+  git clone git@github.com/benoitbryon/documentation-style-guide-sphinx.git
+  cd documentation-style-guide-sphinx/
+  make install
+
+     
+
 .. note::  This is a **note** box.
 
 
