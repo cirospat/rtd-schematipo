@@ -9,12 +9,40 @@ Blocco
    documentation-style-guide-sphinx/
    tuudududu duuu dduuud u
   
+------
+
+.. code-block:: rst
+
+  #############
+  Some document
+  #############
+
+  Some text which includes links to `Example website`_ and many other links.
+
+  `Example website`_ can be referenced multiple times.
+
+  (... document content...)
+
+  And at the end of the document...
+
+  **********
+  References
+  **********
+
+  .. target-notes::
+
+  .. _`Example website`: http://www.example.com/
+  
+------
 
 run tests with ``make tests``
 
+------
 
 .. note::  This is a **note** box.
 
+
+------
 
 .. hlist::
    :columns: 3
@@ -29,19 +57,12 @@ run tests with ``make tests``
    
    * 5 item
  
- 
- 
+  
 ------
 
 .. topic:: Your Topic Title
 
    Subsequent indented lines comprise the body of the topic, and are interpreted as body elements.
 
-
-il prp
-
-
-il ggggg
-
-
-illlnnn
+------
+------
