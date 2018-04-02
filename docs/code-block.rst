@@ -43,13 +43,6 @@ scrivi ``.. code-block:: rst``
 
   .. _`Example website`: http://www.example.com/
   
-------
-
-scrivi ``.. topic::`` titolo
-
-.. topic:: titolo
-
-   Subsequent indented lines comprise the body of the topic, and are interpreted as body elements.
 
 ------
 ------
