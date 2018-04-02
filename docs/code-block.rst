@@ -108,3 +108,44 @@ Then we can do, :pyth:`print("Hello World!")`
 examples in-line, :pyth:`for i in range(10)`
 
 ------
+
+.. highlight:: rst
+
+.. role:: python(code)
+    :language: python
+
+.. role:: latex(code)
+    :language: latex
+
+Now here are latex command :latex:`\\setlength` and python command
+:python:`import`, created by ``:python:`import```.  Here is a
+:literal:`literal`, which stays a literal, and
+:code:`.. highlight:: rst` makes code role look as it looks.
+
+------
+
+.. confval:: inline_highlight_respect_highlight
+
+    This (boolean) setting triggers, if language, which is set by 
+    :code:`highlight` directive, shall be used in :code:`code` role, if no 
+    language is set by a customization.  Then instead of::
+
+       .. role:: python(code)
+           :language: py
+
+       this can :python:`trigger("python", "syntax highlight")`
+
+    Wich is rendered:
+
+       this can :python:`trigger("python", "syntax highlight")`
+
+    You can also write::
+
+       .. highlight:: py
+
+       this can :code:`trigger("python", "syntax highlight")`
+       
+------
+
+
+
