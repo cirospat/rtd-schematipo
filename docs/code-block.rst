@@ -1,5 +1,34 @@
 
-:Whatever: this is handy to create new field
+:Whatever: 
+
+   this is handy to create new field
+   
+------
+
+http://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html
+
+.. note::
+
+  Usage of ``.rst`` extension is not recommended because:
+
+  * RST files are human-readable text files. Most systems natively recognize
+    the ``.txt`` extension and open these files with a text editor. This is
+    a good choice.
+
+  * Some programs parse ``.rst`` with `rst2html`_, which cannot interpret some
+    Sphinx's directives such as ``code-block``. So readers using such programs
+    actually lose some content.
+
+    As an example, well known `Github`_ platform uses rst2html
+    to render ``.rst`` files in its repository browser. Not only you lose
+    content, you also lose features like links to lines.
+
+  * When you need to read HTML builds of the documentation, best practice is to
+    export documentation as static builds with ``sphinx-build`` command, then
+    host and serve these builds as static files. For public projects, you may
+    have a look at services like `Read the docs`_.
+
+------
 
 **code-block gherkin**
 
