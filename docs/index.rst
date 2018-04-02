@@ -12,6 +12,8 @@ Purtroppo il PDF è un formato che non si adatta ai display piccoli dei disposit
 
 Queste due criticità lo rendono un formato ormai vetusto nel 2018, non più rispondente alle esigenze di fruibilità di contenuti documentali su display di dimensioni contenute (smartphone, tablet).
 
+\ |STYLE0|\ 
+
 \ |LINK1|\  è un componente plug-in che si installa direttamente da Google Doc della suite di Google Drive. Google Drive (e i suoi servizi) oggi è molto usato anche nelle Pubbliche Amministrazioni, oltre che dai privati, per la facilità di condivisione dei documenti in gruppo.
 
 
@@ -21,7 +23,7 @@ Queste due criticità lo rendono un formato ormai vetusto nel 2018, non più ris
 
 |
 
-\ |STYLE0|\  consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto paragrafi).
+\ |STYLE1|\  consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto- paragrafi).
 
 .. _h3092c7d75e1f5a466f42767b37185:
 
@@ -37,7 +39,7 @@ GGeditor ed i file RST
 
 .. admonition:: GG editor
 
-    \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE1|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
+    \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE2|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
 
 |
 
@@ -67,7 +69,7 @@ Il processo che svolge GGeditor
 |\ |IMG3|\                                                                |\ |IMG4|\                                                                                               |\ |IMG5|\                                                                                                  |\ |IMG6|\                                                                                                                                                                                                    |
 +-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-[in questa tabella: \ |STYLE2|\ ]
+[in questa tabella: \ |STYLE3|\ ]
 
 |
 
@@ -128,7 +130,7 @@ Contenuti di questo documento
 
     Come usarlo
     Tutorial
-    User Guide
+    User-Guide
 
 --------
 
@@ -141,11 +143,13 @@ Contenuti di questo documento
 .. bottom of content
 
 
-.. |STYLE0| replace:: **GGeditor**
+.. |STYLE0| replace:: **GGeditor plugin per Google Docs**
 
-.. |STYLE1| replace:: **RST**
+.. |STYLE1| replace:: **GGeditor**
 
-.. |STYLE2| replace:: **il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs**
+.. |STYLE2| replace:: **RST**
+
+.. |STYLE3| replace:: **il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs**
 
 
 .. |REPLACE1| raw:: html
