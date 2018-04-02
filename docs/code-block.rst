@@ -100,4 +100,11 @@ run tests with ``make tests``
    Subsequent indented lines comprise the body of the topic, and are interpreted as body elements.
 
 ------
+
+.. role:: pyth(code)
+  :language: python
+
+Then we can do, :pyth:`print("Hello World!")`
+examples in-line, :pyth:`for i in range(10)`
+
 ------
