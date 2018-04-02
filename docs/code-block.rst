@@ -70,27 +70,18 @@ http://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.htm
   
 ------
 
-run tests with ``make tests``
-
-------
-
-.. note::  This is a **note** box.
-
-
-------
-
 .. hlist::
-   :columns: 3
+   :columns: 2
 
-   * 1 item
+   - 1 item
    
-   * 2 item
+   - 2 item
    
-   * 3 item
+   - 3 item
    
-   * 4 item
+   - 4 item
    
-   * 5 item
+   - 5 item
  
   
 ------
@@ -105,5 +96,4 @@ run tests with ``make tests``
 ------
 
 
-------
 
