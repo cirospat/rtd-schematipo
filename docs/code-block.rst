@@ -1,8 +1,4 @@
 
-.. Whatever::  
-
-   this is handy to create new field
-   
 ------
 
 http://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html
@@ -36,7 +32,7 @@ scrivi ``.. code-block:: gherkin``
 
 .. code-block:: gherkin
 
-   blabla **aaallll** aallaalall aalal al allllll allllllllllllll alllllllll http://bla.it ggggg gggggggggggg ggg ggggggggggggg gggg ggggg ggggg ggg gggg ggg ggggggg
+   blabla **aaallll** aallaalall aalal al  http://bla.it ggggg ggggggggg gggg ggggg ggggg ggg gggg ggg ggggggg
    documentation-style-guide-sphinx/   jjjjj jj jjjj
    tuudududu duuu dduuud u
   
