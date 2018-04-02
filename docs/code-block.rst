@@ -32,7 +32,7 @@ scrivi ``.. code-block:: gherkin``
 
 .. code-block:: gherkin
 
-   blabla **aaallll** aallaalall aalal al  http://bla.it ggggg ggggggggg gggg ggggg ggggg ggg gggg ggg ggggggg
+   blabla **aaallll** aallaalall aalal al  http://bla.it ggggggggg ggg ggggggg
    documentation-style-guide-sphinx/   jjjjj jj jjjj
    tuudududu duuu dduuud u
   
