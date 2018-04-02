@@ -1,7 +1,9 @@
 
 :Whatever: this is handy to create new field
 
-Blocco
+code-block
+
+``.. code-block:: gherkin``
 
 .. code-block:: gherkin
 
@@ -10,6 +12,10 @@ Blocco
    tuudududu duuu dduuud u
   
 ------
+
+code-block
+
+``.. code-block:: rst``
 
 .. code-block:: rst
 
