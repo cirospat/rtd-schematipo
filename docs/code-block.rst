@@ -1,7 +1,7 @@
 
 :Whatever: this is handy to create new field
 
-code-block
+**code-block gherkin**
 
 ``.. code-block:: gherkin``
 
@@ -13,7 +13,7 @@ code-block
   
 ------
 
-code-block
+**code-block rst**
 
 ``.. code-block:: rst``
 
@@ -66,7 +66,7 @@ run tests with ``make tests``
   
 ------
 
-.. topic:: Your Topic Title
+.. topic:: titolo
 
    Subsequent indented lines comprise the body of the topic, and are interpreted as body elements.
 
