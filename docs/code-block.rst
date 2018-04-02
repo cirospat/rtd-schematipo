@@ -1,7 +1,5 @@
 
-:Whatever: 
-
-   this is handy to create new field
+:Whatever:  this is handy to create new field
    
 ------
 
@@ -32,7 +30,7 @@ http://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.htm
 
 **code-block gherkin**
 
-``.. code-block:: gherkin``
+scrivi ``.. code-block:: gherkin``
 
 .. code-block:: gherkin
 
@@ -44,7 +42,7 @@ http://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.htm
 
 **code-block rst**
 
-``.. code-block:: rst``
+scrivi ``.. code-block:: rst``
 
 .. code-block:: rst
 
