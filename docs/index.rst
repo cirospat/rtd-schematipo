@@ -60,8 +60,6 @@ Il processo che svolge GGeditor
 
 \ |IMG2|\ 
 
-\ |IMG3|\                    
-
 
 +-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |da Google Docs                                                           |a GGeditor                                                                                              |a Github                                                                                                   |a Readthedocs                                                                                                                                                                                                |
@@ -79,7 +77,7 @@ Il processo che svolge GGeditor
 I file che GGeditor genera automaticamente su Github
 ====================================================
 
-\ |IMG7|\ 
+\ |IMG3|\ 
 
 [immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs tramite il plug-in GGeditor]
 
@@ -212,21 +210,5 @@ Contenuti di questo documento
    :width: 504 px
 
 .. |IMG3| image:: static/index_3.png
-   :height: 96 px
-   :width: 72 px
-
-.. |IMG4| image:: static/index_4.png
-   :height: 32 px
-   :width: 134 px
-
-.. |IMG5| image:: static/index_5.png
-   :height: 45 px
-   :width: 49 px
-
-.. |IMG6| image:: static/index_6.png
-   :height: 33 px
-   :width: 134 px
-
-.. |IMG7| image:: static/index_7.png
    :height: 226 px
    :width: 500 px
