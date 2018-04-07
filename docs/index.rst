@@ -150,6 +150,7 @@ territorial mini guide
     :maxdepth: 3
 
     index
+    Ciro-Spataro-su-open-data-e-innovazione
 
 --------
 
