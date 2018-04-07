@@ -93,15 +93,17 @@ work
 
 ►\ |LINK25|\  (cc by sa)
 
-►\ |LINK26|\  2013-now (cc by)  
+►\ |LINK26|\  (cc by sa)
 
-►\ |LINK27|\  1997-2012   
+►\ |LINK27|\  2013-now (cc by)  
 
-►\ |LINK28|\  (cc by)
+►\ |LINK28|\  1997-2012   
 
-►\ |LINK29|\   (cc by)
+►\ |LINK29|\  (cc by)
 
-►\ |LINK30|\  (cc by)
+►\ |LINK30|\   (cc by)
+
+►\ |LINK31|\  (cc by)
 
 --------
 
@@ -110,15 +112,15 @@ work
 ue projects 
 ============
 
-►\ |LINK31|\ 
-
 ►\ |LINK32|\ 
 
-►\ |LINK33|\  
+►\ |LINK33|\ 
 
 ►\ |LINK34|\  
 
-►\ |LINK35|\ 
+►\ |LINK35|\  
+
+►\ |LINK36|\ 
 
 --------
 
@@ -127,7 +129,7 @@ ue projects
 tools for project management   
 ===============================
 
-►\ |LINK36|\  (access required)
+►\ |LINK37|\  (access required)
 
 --------
 
@@ -136,7 +138,7 @@ tools for project management
 territorial mini guide 
 =======================
 
-►\ |LINK37|\   (cc by sa)
+►\ |LINK38|\   (cc by sa)
 
 --------
 
@@ -274,65 +276,69 @@ territorial mini guide
 
 .. |LINK22| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo</a>
+    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">tutorial</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">maps hub by cirospat</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">maps hub by cirospat</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">petrusino catalogo mappe su dati aperti</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo opendata</a>
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">petrusino catalogo mappe su dati aperti</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://spazioinwind.libero.it/ambientepalermo/index-energia.html" target="_blank">energia e mobilità sostenibile Palermo</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo opendata</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://snack.to/5aeb7b" target="_blank">piano strategico mobilità sostenibile Palermo</a>
+    <a href="http://spazioinwind.libero.it/ambientepalermo/index-energia.html" target="_blank">energia e mobilità sostenibile Palermo</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://snack.to/ojVztz" target="_blank">1° rapporto sullo stato dell'ambiente Palermo</a>
+    <a href="http://snack.to/5aeb7b" target="_blank">piano strategico mobilità sostenibile Palermo</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">piano strategico Palermo</a>
+    <a href="http://snack.to/ojVztz" target="_blank">1° rapporto sullo stato dell'ambiente Palermo</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">piano strategico Palermo</a>
 
 .. |LINK32| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK33| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK34| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK35| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
 
 .. |LINK37| raw:: html
+
+    <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
+
+.. |LINK38| raw:: html
 
     <a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank">Sicilia sud-est</a>
 
