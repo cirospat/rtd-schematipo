@@ -4,15 +4,15 @@
 CONTRIBUTI DI CIRO SPATARO PER L'ATTUAZIONE DI PROCESSI DI INNOVAZIONE AL COMUNE DI PALERMO, PER L'INCREMENTO DELLE COMPETENZE DIGITALI DEI DIPENDENTI, PER L'ATTUAZIONE DELLE LINEE GUIDA OPEN DATA
 ####################################################################################################################################################################################################
 
-[\ |LINK1|\  - \ |LINK2|\ ]
 
-\ |LINK3|\ \ |IMG1|\ 
+.. admonition:: email
+
+    \ |LINK1|\  - \ |LINK2|\ 
 
 
-.. toctree:: indice
-    :maxdepth: 3
+.. admonition:: licenza
 
-    Ciro-Spataro-su-open-data-e-innovazione
+    \ |IMG1|\ \ |LINK3|\ 
 
 
 \ |STYLE0|\ 
@@ -36,6 +36,17 @@ CONTRIBUTI DI CIRO SPATARO PER L'ATTUAZIONE DI PROCESSI DI INNOVAZIONE AL COMUNE
 * RILEVAZIONE SPESA ICT DEL COMUNE DI PALERMO PER LA PARTECIPAZIONE ALLA COSTRUZIONE DEL PIANO TRIENNALE DELL'INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2018-2020 (AGID)
 
 --------
+
+
+.. toctree:: 
+    :maxdepth: 3
+
+    Ciro-Spataro-su-open-data-e-innovazione
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h803826771c663b1645486446c16613f:
 
@@ -1070,7 +1081,7 @@ Materiali informativi: \ |LINK173|\
 
 .. |LINK4| raw:: html
 
-    <a href="http://open.go.it" target="_blank">HTTP://OPEN.GO.IT</a>
+    <a href="HTTP://OPEN.GOV.IT" target="_blank">HTTP://OPEN.GOV.IT</a>
 
 .. |LINK5| raw:: html
 
