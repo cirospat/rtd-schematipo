@@ -9,6 +9,12 @@ CONTRIBUTI DI CIRO SPATARO PER L'ATTUAZIONE DI PROCESSI DI INNOVAZIONE AL COMUNE
 \ |LINK3|\ \ |IMG1|\ 
 
 
+.. toctree:: indice
+    :maxdepth: 3
+
+    Ciro-Spataro-su-open-data-e-innovazione
+
+
 \ |STYLE0|\ 
 
 * LINEE GUIDA NAZIONALI VERSIONE 2013 PER LA GESTIONE DEGLI OPEN DATA (AGID)
