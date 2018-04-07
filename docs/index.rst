@@ -144,7 +144,11 @@ territorial mini guide
 
 --------
 
-\ |STYLE0|\ 
+.. _h5f682b145e544c6e636a547001c6836:
+
+indice
+######
+
 
 .. toctree:: indice
     :maxdepth: 3
@@ -159,9 +163,6 @@ territorial mini guide
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **indice**
 
 
 .. |REPLACE1| raw:: html
