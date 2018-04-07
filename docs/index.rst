@@ -144,11 +144,6 @@ territorial mini guide
 
 --------
 
-.. _h5f682b145e544c6e636a547001c6836:
-
-indice
-######
-
 
 .. toctree:: 
     :maxdepth: 3
