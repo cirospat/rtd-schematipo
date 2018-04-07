@@ -1,160 +1,159 @@
 
-.. _h403f631c642863610673372f386278:
+.. _h2f92a2952316e3a01c5529a1c6:
 
-Da Google Doc a Read the Docs
-*****************************
+Cirospat profile
+################
 
-Questo documento rappresenta una via facile per migliorare la qualità dei documenti pubblicati sul web.
+.. _h3663a193d737e5a2864411c22135a78:
 
-Oggi il formato PDF rappresenta il principale formato di testo per la pubblicazione di documenti sia da parte della Pubblica Amministrazione che dai soggetti privati.
+social
+======
 
-Purtroppo il PDF è un formato che non si adatta ai display piccoli dei dispositivi mobili, ed oggi la fruizione dei contenuti del web è molto consistente sui dispositivi mobili. In più il formato PDF non consente un agevole e facile ricerca di parole all'interno del documento.
+►cirospat@gmail.com  
 
-Queste due criticità lo rendono un formato ormai vetusto nel 2018, non più rispondente alle esigenze di fruibilità di contenuti documentali su display di dimensioni contenute (smartphone, tablet).
+►\ |LINK1|\  
 
-\ |STYLE0|\ 
+►\ |LINK2|\  
 
-\ |LINK1|\  è un componente plug-in che si installa direttamente da Google Doc della suite di Google Drive. Google Drive (e i suoi servizi) oggi è molto usato anche nelle Pubbliche Amministrazioni, oltre che dai privati, per la facilità di condivisione dei documenti in gruppo.
+►\ |LINK3|\  
 
+►\ |LINK4|\   
 
-.. admonition:: Importante
+►\ |LINK5|\   
 
-    Questa pagina che state leggendo deriva direttamente da \ |LINK2|\ 
+►skype: cirospat
 
-|
+--------
 
-\ |STYLE1|\  consente di compilare documenti sulla piattaforma di repository codice Github, che a sua volta serve per illustrare i documenti su Read the Docs in maniera gradevole, e strutturata per la fruizione dei contenuti indicizzati ad albero (capitoli, paragrafi, sotto- paragrafi).
+.. _h2a71b4354a2b7b67063506a6f6478:
 
-.. _h3092c7d75e1f5a466f42767b37185:
+photos
+======
 
-GGeditor ed i file RST
-======================
+►\ |LINK6|\  
 
-\ |IMG1|\ 
+►\ |LINK7|\  
 
-[il plug-in GGeditor installabile da Google Docs (cercalo nei "Componenti aggiuntivi")]
+►\ |LINK8|\ 
 
-|
+►\ |LINK9|\  
 
+►\ |LINK10|\   
 
-.. admonition:: GG editor
+►\ |LINK11|\   
 
-    \ |LINK3|\  é un plug-in di Google Docs che serve a generare file \ |STYLE2|\  (\ |LINK4|\ ) direttamente da Google Docs. Il file RST generato può essere compilato nel repository di Github direttamente dall'editor GG. La documentazione così creata su Google Docs può essere ospitata da \ |LINK5|\  venendo aggiornata automaticamente ad ogni aggiornamento del Google Docs
+►\ |LINK12|\  
 
-|
+--------
 
-.. _h326df60552448603d593767751d0d:
+.. _h4a296e266a7f732d7a15705e25e7146:
 
-Video tutorial di funzionamento di GGeditor
-===========================================
+active citizenship
+==================
 
+►\ |LINK13|\  
 
-|REPLACE1|
+►\ |LINK14|\  
 
-|
+►\ |LINK15|\  
 
-.. _h5d92650581a8042635e3d4b2ef7d7d:
+►\ |LINK16|\  
 
-Il processo che svolge GGeditor
+►\ |LINK17|\ 
+
+►\ |LINK18|\ 
+
+--------
+
+.. _h717a3e316a5f4a5f387d38129741ab:
+
+skills 
+=======
+
+►\ |LINK19|\  
+
+►\ |LINK20|\ 
+
+--------
+
+.. _h67172c796557447f4e2d353c5922624b:
+
+work
+====
+
+►\ |LINK21|\   (cc by sa)
+
+►\ |LINK22|\  (cc by sa)
+
+►\ |LINK23|\  (cc by sa)
+
+►\ |LINK24|\  (cc by sa)
+
+►\ |LINK25|\  (cc by sa)
+
+►\ |LINK26|\  2013-now (cc by)  
+
+►\ |LINK27|\  1997-2012   
+
+►\ |LINK28|\  (cc by)
+
+►\ |LINK29|\   (cc by)
+
+►\ |LINK30|\  (cc by)
+
+--------
+
+.. _h672e36365a5a6e3835651d314b6e1367:
+
+ue projects 
+============
+
+►\ |LINK31|\ 
+
+►\ |LINK32|\ 
+
+►\ |LINK33|\  
+
+►\ |LINK34|\  
+
+►\ |LINK35|\ 
+
+--------
+
+.. _h5d2831667175b21355e4031e4a21:
+
+tools for project management   
 ===============================
 
-\ |IMG2|\ 
-
-
-+-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|da Google Docs                                                           |a GGeditor                                                                                              |a Github                                                                                                   |a Readthedocs                                                                                                                                                                                                |
-+=========================================================================+========================================================================================================+===========================================================================================================+=============================================================================================================================================================================================================+
-|scrivi facilmente testo in un documento senza conoscere il linguaggio RST|GG editor è un plug-in di Google Docs che automatizza il lavoro di compilazione sul repository di Github|Il progetto sul repository di Github è fondamentale per esporre il documento da pubblicare su Read the Docs|Read the Docs è la piattaforma che espone documenti con un efficace architettura dei contenuti, in un formato usabile da tutte le dimensioni di display e che permette una facile ricerca di parole nel testo|
-|                                                                         |                                                                                                        |                                                                                                           |                                                                                                                                                                                                             |
-+-------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-[in questa tabella: \ |STYLE3|\ ]
-
-|
-
-.. _h58156b41121c145b694d71b3e2a7618:
-
-I file che GGeditor genera automaticamente su Github
-====================================================
-
-\ |IMG3|\ 
-
-[immagine del repository di Github che mostra come i file RST vengono generati direttamente dall'interno di Google Docs tramite il plug-in GGeditor]
-
-|
-
-.. _h50b7ed1b74462d6e213e4c2f2e2b23:
-
-Aspetti di GGeditor
-===================
-
-#. Facile inizio per chi non ha dimestichezza con i file RST, anche per chi non ha idea dei marcatori di RST.
-
-#. Alimentato da Google Docs. Quasi la totalità di quello che vedi su Google Docs è quello che ottieni su Readthedocs. Lo stesso è per l'intero gruppo di lavoro.
-
-#. Un click per commissionare il lavoro sul repository di Github.
-
-#. Puoi vedere in anteprima il file RST generato dall'interno di Google Docs e scaricarlo nel tuo PC.
-
-#. Supporta headings, bold, italic, hyperlink, subscript e superscript.
-
-#. Support note a margine, immagini, liste di articolo e tabelle.
-
-#. Supporta caratteri a larghezza intera (CKJ) nelle intestazioni e nelle tabelle.
-
-#. Support i link interni ai bookmarks, headings e le Google Docs tabelle native di contenuti (in document table of contents).
-
-#. Supporta i link relativi ai file RST generati dai Google Docs all'interno della stessa directory e sotto-directory Google Docs.
-
-#. Supporta la tabella dei contenuti  (cross-document table of content (.. toctree::)) per fare generare l'indice a Readthedocs.
-
-#. Supporta tutti gli stili di "admonitions" di Readthedocs.
-
-#. Supporta account multipli per compilare i file nei repository di diversi account Github.
-
-#. Supporta la conversione di tabelle con i tags HTML to let look-and-feel come la stessa cosa possibile per i blogger.
+►\ |LINK36|\  (access required)
 
 --------
 
+.. _h922285f5b6a2a32651a24b19652637:
+
+territorial mini guide 
+=======================
+
+►\ |LINK37|\   (cc by sa)
+
 --------
-
-.. _h292a20344d21577179215c531d397512:
-
-Contenuti di questo documento 
-******************************
 
 
 .. toctree:: indice
     :maxdepth: 3
 
-    Come usarlo
-    Tutorial
-    User-Guide
-
---------
+    index
 
 --------
 
 
-|REPLACE2|
+|REPLACE1|
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **GGeditor plugin per Google Docs**
-
-.. |STYLE1| replace:: **GGeditor**
-
-.. |STYLE2| replace:: **RST**
-
-.. |STYLE3| replace:: **il processo svolto da GGeditor: da Google Docs a GGeditor a Github a Readthedocs**
-
-
 .. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="380" src="https://www.youtube.com/embed/PUswAbvpE7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -182,33 +181,149 @@ Contenuti di questo documento
 
 .. |LINK1| raw:: html
 
-    <a href="http://ggeditor.readthedocs.io/" target="_blank">GGeditor</a>
+    <a href="https://plus.google.com/116441269367387619785" target="_blank">google+</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://docs.google.com/document/d/1MEiFKrAxPg5pM5WuspQwo1Pnf54a77IjblL9UuvrHew/edit?usp=sharing" target="_blank">questo doc sul Google Drive</a>
+    <a href="http://www.youtube.com/user/cirospat" target="_blank">youtube</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://ggeditor.readthedocs.io/" target="_blank">GGeditor</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://en.wikipedia.org/wiki/ReStructuredText" target="_blank">resStructuredText</a>
+    <a href="http://www.linkedin.com/in/cirospataro" target="_blank">linkedin</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://readthedocs.org/" target="_blank">Readthedocs</a>
+    <a href="https://www.facebook.com/ciro.spataro.3" target="_blank">facebook</a>
 
+.. |LINK6| raw:: html
 
-.. |IMG1| image:: static/index_1.png
-   :height: 172 px
-   :width: 273 px
+    <a href="http://www.flickr.com/photos/cirospat" target="_blank">flickr</a>
 
-.. |IMG2| image:: static/index_2.png
-   :height: 250 px
-   :width: 504 px
+.. |LINK7| raw:: html
 
-.. |IMG3| image:: static/index_3.png
-   :height: 226 px
-   :width: 500 px
+    <a href="https://www.instagram.com/cirospat/" target="_blank">instagram</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://it.pinterest.com/cirospat/" target="_blank">pinterest</a>
+
+.. |LINK9| raw:: html
+
+    <a href="http://www.imagesagainstwar.com/582.html?" target="_blank">imagesagainstwar</a>
+
+.. |LINK10| raw:: html
+
+    <a href="http://bit.ly/inmypalermo" target="_blank">in my Palermo</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://cirospat.aminus3.com/portfolio/" target="_blank">a view of world children</a>
+
+.. |LINK12| raw:: html
+
+    <a href="https://get.google.com/albumarchive/116441269367387619785/album/AF1QipMHCHW-j5u0Z9CXRwefUNroCW0xVuc4AHcMnaD2" target="_blank">in baltik forests</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
+
+.. |LINK14| raw:: html
+
+    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
+
+.. |LINK15| raw:: html
+
+    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">innovatoripa</a>
+
+.. |LINK16| raw:: html
+
+    <a href="http://tll-sicily.ning.com/profile/cirospataro" target="_blank">territorial living lab</a>
+
+.. |LINK17| raw:: html
+
+    <a href="https://data.world/cirospat" target="_blank">data.world</a>
+
+.. |LINK18| raw:: html
+
+    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">servizi pubblici digitali</a>
+
+.. |LINK19| raw:: html
+
+    <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/edit?hl=it" target="_blank">cv</a>
+
+.. |LINK20| raw:: html
+
+    <a href="https://docs.google.com/document/d/1CXCR8qe2QpCi6ofggoxTXeLKsqSM6_4XxTi4gsCqTfM" target="_blank">2013 - now</a>
+
+.. |LINK21| raw:: html
+
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">open data-formazione</a>
+
+.. |LINK22| raw:: html
+
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo</a>
+
+.. |LINK23| raw:: html
+
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">maps hub by cirospat</a>
+
+.. |LINK24| raw:: html
+
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps</a>
+
+.. |LINK25| raw:: html
+
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">petrusino catalogo mappe su dati aperti</a>
+
+.. |LINK26| raw:: html
+
+    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo opendata</a>
+
+.. |LINK27| raw:: html
+
+    <a href="http://spazioinwind.libero.it/ambientepalermo/index-energia.html" target="_blank">energia e mobilità sostenibile Palermo</a>
+
+.. |LINK28| raw:: html
+
+    <a href="http://snack.to/5aeb7b" target="_blank">piano strategico mobilità sostenibile Palermo</a>
+
+.. |LINK29| raw:: html
+
+    <a href="http://snack.to/ojVztz" target="_blank">1° rapporto sullo stato dell'ambiente Palermo</a>
+
+.. |LINK30| raw:: html
+
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">piano strategico Palermo</a>
+
+.. |LINK31| raw:: html
+
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+
+.. |LINK32| raw:: html
+
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+
+.. |LINK33| raw:: html
+
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+
+.. |LINK34| raw:: html
+
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+
+.. |LINK35| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK36| raw:: html
+
+    <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
+
+.. |LINK37| raw:: html
+
+    <a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank">Sicilia sud-est</a>
+
