@@ -1,4 +1,6 @@
 
+|REPLACE1|
+
 .. _h2f92a2952316e3a01c5529a1c6:
 
 Cirospat profile
@@ -147,13 +149,16 @@ territorial mini guide
 --------
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
+
+    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
