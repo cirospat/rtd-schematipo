@@ -148,7 +148,6 @@ territorial mini guide
 .. toctree:: 
     :maxdepth: 3
 
-    index
     Ciro-Spataro-su-open-data-e-innovazione
 
 --------
