@@ -1,8 +1,8 @@
 
-.. _h471376e6f334547ff5633126a411b:
+.. _h094194053333a65216a1e456513:
 
-Contributi di Ciro Spataro per l'attuazione di processi di innovazione al comune di Palermo, per l'incremento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data 
-#####################################################################################################################################################################################################
+Contributi di Ciro Spataro nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data 
+#########################################################################################################################################################################################
 
 
 .. admonition:: email
