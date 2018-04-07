@@ -155,6 +155,7 @@ Indice
     :caption: Indice
 
     Ciro-Spataro-su-open-data-e-innovazione
+    index
 
 --------
 
