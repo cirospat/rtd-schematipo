@@ -150,8 +150,9 @@ Indice
 ######
 
 
-.. toctree::  indice
+.. toctree::  
     :maxdepth: 3
+    :caption: Indice
 
     Ciro-Spataro-su-open-data-e-innovazione
 
