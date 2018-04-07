@@ -140,6 +140,7 @@ territorial mini guide
 
 --------
 
+\ |STYLE0|\ 
 
 .. toctree:: indice
     :maxdepth: 3
@@ -153,6 +154,9 @@ territorial mini guide
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **indice**
 
 
 .. |REPLACE1| raw:: html
