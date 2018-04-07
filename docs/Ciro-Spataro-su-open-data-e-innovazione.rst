@@ -37,12 +37,6 @@ Contributi di Ciro Spataro per l'attuazione di processi di innovazione al comune
     
     * RILEVAZIONE SPESA ICT DEL COMUNE DI PALERMO PER LA PARTECIPAZIONE ALLA COSTRUZIONE DEL PIANO TRIENNALE DELL'INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2018-2020 (AGID)
 
-
-.. toctree:: 
-    :maxdepth: 3
-
-    Ciro-Spataro-su-open-data-e-innovazione
-
 .. _h2c1d74277104e41780968148427e:
 
 
