@@ -8,8 +8,6 @@ COMUNE DI PALERMO, AREA INNOVAZIONE TECNOLOGICA (FINO AL 31 DIC 2017).
 
 SERVIZIO INNOVAZIONE (DAL GENNAIO 2018)
 
-\ |IMG1|\ 
-
 Report degli incontri con i referenti open data del comune di Palermo per l'attuazione  delle  \ |LINK1|\  approvate con Deliberazione di G.M.  n. 252 del 13.12.2013, e n. 97 del 4.05.2017 costruite con la partecipazione di soggetti esterni, per la diffusione della cultura dei dati aperti e dell'open government.
 
 A cura di Ciro Spataro, Servizio Innovazione
@@ -467,9 +465,9 @@ Altresì nel primo quadrimestre 2015 si è svolto un \ |LINK31|\ .
 
 --------
 
-.. _h7217632a41276b761520d2d50485177:
+.. _h3e1748b15587161503e214d513e4e48:
 
-2° QUADRIMESTRE 2015
+2° Quadrimestre 2015
 ********************
 
 \ |STYLE18|\ 
@@ -617,9 +615,9 @@ La scansione digitale di molte opere artistiche e librarie custodite dalla Bibli
 
 --------
 
-.. _h73277567603e75202b1d3bd18253b1:
+.. _h197664181968726f5b7684032763a2f:
 
-3° QUADRIMESTRE 2015
+3° Quadrimestre 2015
 ********************
 
 \ |STYLE23|\ 
@@ -707,7 +705,7 @@ Una prima attività nella quale è anche coinvolta la sig.ra Bucaro è la raccol
 
 La mole delle istanze che pervengono alla VI Circ. in multi modalità (email, telefonate, note cartacee) sono quantizzabili in oltre 1000 all'anno, quindi rappresenta una notevole mole di dati che ad oggi non risulta organizzata in database strutturati. Considerato che alle figure dei referenti è stato chiesto, dalle figure apicali, un report per tipologie di disservizi segnalati dai cittadini, Ciro Spataro ha proposto loro, mostrando un esempio pratico,  l'adozione di un semplice foglio elettronico (excel) nel quale possono essere descritte le seguenti tipologie di informazioni riguardo alle istanze inviate dai cittadini:
 
-\ |IMG2|\ 
+\ |IMG1|\ 
 
 Un tale dataset ottimizzato potrebbe diventare la base per un applicativo gestionale da utilizzare in tutte le Circoscrizioni comunali che ricevono la stessa tipologia di istanze dei cittadini.
 
@@ -764,7 +762,7 @@ Il Servizio già utilizza il formato excel per la raccolta delle informazioni di
 
 L'incontro a fatto emergere la necessità di unire i dati di 2 database in maniera tale da gestire univocamente tutte le informazioni e dati delle 2 tipologie di scuole. E' stato, quindi, condivisa, la strutturazione del seguente dataset, ce rappresenta la base di partenza e che può essere arricchito con ulteriori colonne (attributi)  nella revisione annuale, se l'Ufficio ritiene utile:
 
-\ |IMG3|\ La scelta degli attributi del dataset, come sopra descritto, è stata effettuata pensando ad una facile comprensione da parte dei cittadini, sono state evitate quindi terminologie specifiche che spesso l'Ufficio utilizza ma che sarebbero state probabilmente di difficile comprensione da parte dell'utenza.
+\ |IMG2|\ La scelta degli attributi del dataset, come sopra descritto, è stata effettuata pensando ad una facile comprensione da parte dei cittadini, sono state evitate quindi terminologie specifiche che spesso l'Ufficio utilizza ma che sarebbero state probabilmente di difficile comprensione da parte dell'utenza.
 
 Tale dataset, una volta popolato di dati, sarà reso disponibile dal Titolare delle banche dati per la pubblicazione online nel portale open data. Il dataset in esame avrà una frequenza di aggiornamento annuale e si farà riferimento all'anno scolastico in un periodo successivo all'avvio delle attività.
 
@@ -799,7 +797,7 @@ REFERENTE: Arch. Marcello Emo (ref. tecnico)
 
 L'Ufficio Città Storica creato nel 1994 gestisce ad oggi una notevole quantità di competenze territoriali relative ad autorizzazioni edilizie, opere pubbliche e controllo del territorio nei 4 mandamenti del Centro Storico della città.
 
-\ |IMG4|\ L'arch. Emo illustra i dataset che vengono gestiti con il programma Geomedia, e che sono stati censiti nel mese di dicembre 2015 in un \ |LINK43|\ :
+\ |IMG3|\ L'arch. Emo illustra i dataset che vengono gestiti con il programma Geomedia, e che sono stati censiti nel mese di dicembre 2015 in un \ |LINK43|\ :
 
 * Elenco delle istanze per il rilascio del provvedimento Edile con relativa geolocalizzazione dell'intervento;
 
@@ -831,9 +829,9 @@ Un integrazioni dei rispettivi database, o un interoperabilità, è auspicabile 
 
 --------
 
-.. _h786f751f7f53294f1d77572b76723279:
+.. _h147f216a42255f4d2c552496444a4:
 
-1° QUADRIMESTRE 2016
+1° Quadrimestre 2016
 ********************
 
 \ |STYLE28|\  
@@ -1027,19 +1025,19 @@ A tale scopo l'ufficio Igiene e Sanità ha predisposto, oltre le Ordinanze,  un 
 
 Nel riuso del dataset, per creare una \ |LINK56|\  (a cura di Ciro Spataro) che si trova nella sezione MAPPE TEMATICHE del portale Open Data  \ |LINK57|\ , è stato rilevato che 2 coordinate geografiche fornite dall'ente Regionale (nell'allegato 5 al Decr. Reg. 317/2016: \ |LINK58|\ ) ricadono in mare, come si evince dalla foto di seguito riportata (stralcio della mappa con le coordinate dei punti di inizio e fine divieto di balneazione).
 
-\ |IMG5|\ 
+\ |IMG4|\ 
 
 Le coordinate errate sono legate a quella di inizio dell'ordinanza n.63 che è in alto mare di fronte Bagheria, e quella di fine dell'ordinanza n.60 che si trova oltre l'isolotto di Isola delle Femmine. 
 
-\ |IMG6|\ 
+\ |IMG5|\ 
 
 A tal uopo, con la dott. Anna Maria Viola, sono state effettuate ricerche sul web per individuare il contatto dell'Ufficio regionale che ha riportato i dati delle coordinate nell'allegato 5 al Decr. Reg. 317/2016 (\ |LINK59|\  - tel. 0917079295/96) al fine di chiedere gentilmente una revisione/correzione dei punti erroneamente individuati.
 
 --------
 
-.. _h255b4f671c1d3c105d5c4e228141a:
+.. _h6832511c5c4055166e6e537e39215822:
 
-2° QUADRIMESTRE 2016
+2° Quadrimestre 2016
 ********************
 
 \ |STYLE37|\ 
@@ -1362,7 +1360,7 @@ La versione 2015 del \ |LINK75|\ , diversamente dagli anni precedenti (in cui si
 
 Il Controllo di Gestione, presenta una sua versione sintetica denominata "\ |LINK76|\ " caratterizzata dalla presenza di tabelle con importanti dati sui costi ed entrate dell'Amministrazione. 
 
-\ |IMG7|\ 
+\ |IMG6|\ 
 
 Il documento "aspetti chiave è suddiviso in:
 
@@ -1498,7 +1496,7 @@ GALLERIA ARTE MODERNA
 
 27 Ottobre 2016
 
-\ |IMG8|\ Partecipazione alla giornata \ |LINK89|\   Organizzato da \ |LINK90|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK91|\ ).
+Partecipazione alla giornata \ |LINK89|\   Organizzato da \ |LINK90|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK91|\ ).
 
 \ |LINK92|\ .
 
@@ -1537,9 +1535,9 @@ A seguito di un precedente incontro di mesi fa ci si ri-aggiorna per provvedere 
 Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio  Espropriazioni a  provveduto al caricamento dello stesso sul portale istituzionale open data, che risulta disponibile al link \ |LINK94|\  .
 
 
-.. _h7e342065254d2d3c555e37655c574a:
+.. _h4252337b2d75242410a14b4bd6e43:
 
-1° quadrimestre 2017
+1° Quadrimestre 2017
 ********************
 
 \ |STYLE54|\ 
@@ -2058,7 +2056,7 @@ Ing. Nunzio Salfi
 
 L'ing Salfi ha contattato lo staff del Responsabile open data al fine di verificare la qualità dei dati in possesso per la pubblicazione di alcuni dataset:
 
-\ |IMG9|\ 
+\ |IMG7|\ 
 
 Alcuni dataset in formato CSV stanno per essere predisposti per la pubblicazione e concernono l'evoluzione negli anni delle aree pedonali, piste ciclabili e zone a traffico limitato.
 
@@ -2066,9 +2064,9 @@ I dati sono in grado di rendere possibili analisi della progettazione effettuata
 
 --------
 
-.. _h1c6df134a5e2a518264c683b5d657b:
+.. _hf6b164c6470122d6c3f316d2f747122:
 
-3° quadrimestre 2017
+3° Quadrimestre 2017
 ********************
 
 \ |STYLE66|\  
@@ -2086,7 +2084,7 @@ Su input del Responsabile open data è stata condivisa l’iniziativa di valoriz
 
 L'idea originaria parte dal lavoro svolto dalla British Library \ |LINK138|\  che ad oggi ha pubblicato con licenza CCO (pubblico dominio) oltre 1 milione di immagini scansionate di manoscritti e dipinti custoditi all'interno del sito fisico della Biblioteca di fama mondiale.
 
-\ |IMG10|\ 
+\ |IMG8|\ 
 
 La dott.ssa Calandra si è resa consapevole dell'importanza di valorizzare pubblicamente le numerose scansioni ad oggi effettuate dal personale del Servizio dalla stessa diretto. 
 
@@ -2168,13 +2166,11 @@ L'accesso ai dati, tramite le API di Flickr, è assicurato dai seguenti link:
 
 Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblicati attraverso il servizio reso disponibile da Flickr: \ |LINK145|\  
 
-\ |IMG11|\ 
-
 --------
 
-.. _hb695854396306f4b335d2b2d13e:
+.. _h2aa35a94e486360173942235d3b7f:
 
-1 quadrimestre 2018
+1 Quadrimestre 2018
 *******************
 
 \ |STYLE69|\  
@@ -2211,7 +2207,7 @@ Referente dott.ssa Patrizia Piazza
 
 L'Area Servizi alla città provvede alla raccolta dei dati sui servizi erogati negli sportelli fisici decentrati nelle Circoscrizioni. Per l'anno 2017 sono stati resi disponibili questi importanti dati di seguito riportati:
 
-\ |IMG12|\ 
+\ |IMG9|\ 
 
 E' stato quindi pubblicato il dataset relativo, al link: \ |LINK148|\  
 
@@ -2598,7 +2594,7 @@ E' stato quindi pubblicato il dataset relativo, al link: \ |LINK148|\
 
 .. |LINK59| raw:: html
 
-    <a href="mailto:dirigentegenerale.salut@regione.sicilia.it">dirigentegenerale.salut@regione.sicilia.it</a>
+    <a href="mailto:dirigentegenerale.salute@regione.sicilia.it">dirigentegenerale.salute@regione.sicilia.it</a>
 
 .. |LINK60| raw:: html
 
@@ -2958,49 +2954,37 @@ E' stato quindi pubblicato il dataset relativo, al link: \ |LINK148|\
 
 
 .. |IMG1| image:: static/open-data-incontri-con-referenti-comunali_1.png
-   :height: 121 px
-   :width: 581 px
-
-.. |IMG2| image:: static/open-data-incontri-con-referenti-comunali_2.png
    :height: 212 px
    :width: 669 px
 
-.. |IMG3| image:: static/open-data-incontri-con-referenti-comunali_3.png
+.. |IMG2| image:: static/open-data-incontri-con-referenti-comunali_2.png
    :height: 198 px
    :width: 669 px
 
-.. |IMG4| image:: static/open-data-incontri-con-referenti-comunali_4.jpeg
+.. |IMG3| image:: static/open-data-incontri-con-referenti-comunali_3.jpeg
    :height: 233 px
    :width: 310 px
 
-.. |IMG5| image:: static/open-data-incontri-con-referenti-comunali_5.png
+.. |IMG4| image:: static/open-data-incontri-con-referenti-comunali_4.png
    :height: 298 px
    :width: 669 px
 
-.. |IMG6| image:: static/open-data-incontri-con-referenti-comunali_6.png
+.. |IMG5| image:: static/open-data-incontri-con-referenti-comunali_5.png
    :height: 246 px
    :width: 421 px
 
-.. |IMG7| image:: static/open-data-incontri-con-referenti-comunali_7.png
+.. |IMG6| image:: static/open-data-incontri-con-referenti-comunali_6.png
    :height: 472 px
    :width: 626 px
 
-.. |IMG8| image:: static/open-data-incontri-con-referenti-comunali_8.png
-   :height: 254 px
-   :width: 180 px
-
-.. |IMG9| image:: static/open-data-incontri-con-referenti-comunali_9.png
+.. |IMG7| image:: static/open-data-incontri-con-referenti-comunali_7.png
    :height: 78 px
    :width: 300 px
 
-.. |IMG10| image:: static/open-data-incontri-con-referenti-comunali_10.png
+.. |IMG8| image:: static/open-data-incontri-con-referenti-comunali_8.png
    :height: 428 px
    :width: 669 px
 
-.. |IMG11| image:: static/open-data-incontri-con-referenti-comunali_11.png
-   :height: 306 px
-   :width: 333 px
-
-.. |IMG12| image:: static/open-data-incontri-con-referenti-comunali_12.png
+.. |IMG9| image:: static/open-data-incontri-con-referenti-comunali_9.png
    :height: 385 px
    :width: 589 px
