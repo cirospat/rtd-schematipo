@@ -1,8 +1,15 @@
 
-.. _h094194053333a65216a1e456513:
+.. _h8756b6d28481a44643a464b67287059:
 
-Contributi di Ciro Spataro nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data 
-#########################################################################################################################################################################################
+Open data e innovazione tecnologica al Comune di Palermo
+########################################################
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+\ |STYLE0|\  
 
 
 .. admonition:: email
@@ -15,9 +22,9 @@ Contributi di Ciro Spataro nei processi di innovazione al comune di Palermo, per
     \ |IMG1|\ \ |LINK3|\ 
 
 
-..  seealso:: 
+..  Hint:: 
 
-    \ |STYLE0|\ 
+    \ |STYLE1|\ 
     
     * LINEE GUIDA NAZIONALI VERSIONE 2013 PER LA GESTIONE DEGLI OPEN DATA (AGID)
     
@@ -219,7 +226,7 @@ Analisi dei profili ICT del framework europeo al fine di mappare le e-competenze
 2014- webinar cultura digitale
 ==============================
 
-Diffusione, di concerto con il Responsabile open data, via email al personale dirigente e dipendente del Comune del \ |STYLE1|\  organizzato dal Formez PA nell’ambito delle attività formative legate al "Programma nazionale per la cultura, la formazione e le competenze digitali"
+Diffusione, di concerto con il Responsabile open data, via email al personale dirigente e dipendente del Comune del \ |STYLE2|\  organizzato dal Formez PA nell’ambito delle attività formative legate al "Programma nazionale per la cultura, la formazione e le competenze digitali"
 
 \ |LINK30|\  - \ |LINK31|\  - \ |LINK32|\  
 
@@ -375,7 +382,7 @@ Febbraio. Condivisione via email con la dott.ssa Vincenza Simonte (UO Gestione e
 2015- proposta progetto UE open data OpenIt4Change
 ==================================================
 
-Maggio 27. E' stata presentata dal capofila (Università di Belfast, Norther Ireland) alla Commissione Europea, nel contesto del programma Horizon2020 (call \ |LINK56|\ ), una proposta di progetto trasnazionale denominata "\ |STYLE2|\ " (oltre 10 partner europei tra enti pubblici, privati e di ricerca). L'obiettivo della proposta progettuale è la valorizzazione degli open data pubblicati dalle pubbliche amministrazioni, in termini di realizzazione di servizi online utili a tutti. La città di Palermo è stata inserita in questo partenariato trasnazionale come città pilota. Si è in attesa delle risultanze delle analisi da parte della  Commissione Europea. 
+Maggio 27. E' stata presentata dal capofila (Università di Belfast, Norther Ireland) alla Commissione Europea, nel contesto del programma Horizon2020 (call \ |LINK56|\ ), una proposta di progetto trasnazionale denominata "\ |STYLE3|\ " (oltre 10 partner europei tra enti pubblici, privati e di ricerca). L'obiettivo della proposta progettuale è la valorizzazione degli open data pubblicati dalle pubbliche amministrazioni, in termini di realizzazione di servizi online utili a tutti. La città di Palermo è stata inserita in questo partenariato trasnazionale come città pilota. Si è in attesa delle risultanze delle analisi da parte della  Commissione Europea. 
 
 Ottobre 2015. Il partner coordinatore informa i partner periferici della non positiva valutazione della proposta progettuale da parte della Commissione EU.
 
@@ -395,7 +402,7 @@ Maggio 12. Organizzazione dell'evento Libre Office Roadshow, \ |LINK57|\  di sen
 2015- webinar dati personali e trasparenza
 ==========================================
 
-Giugno.  Condivisione via email del webinar  "\ |STYLE3|\ ". \ |LINK58|\ .
+Giugno.  Condivisione via email del webinar  "\ |STYLE4|\ ". \ |LINK58|\ .
 
 --------
 
@@ -569,7 +576,7 @@ Agosto. Partecipazione online alla costruzione condivisa del \ |LINK89|\
 2016- adesione a proposta progettuale UE per public open data
 =============================================================
 
-Agosto. Collaborazione alla predisposizione della proposta progettuale in partenariato trasnazionale nell'ambito del programma UE CEF (Connecting Europe Facilities), da titolo "Toward a crossborder north south links for Opendata".  \ |STYLE4|\  \ |STYLE5|\  \ |STYLE6|\  \ |STYLE7|\  \ |STYLE8|\  \ |STYLE9|\  \ |STYLE10|\  \ |STYLE11|\  \ |STYLE12|\ . 
+Agosto. Collaborazione alla predisposizione della proposta progettuale in partenariato trasnazionale nell'ambito del programma UE CEF (Connecting Europe Facilities), da titolo "Toward a crossborder north south links for Opendata".  \ |STYLE5|\  \ |STYLE6|\  \ |STYLE7|\  \ |STYLE8|\  \ |STYLE9|\  \ |STYLE10|\  \ |STYLE11|\  \ |STYLE12|\  \ |STYLE13|\ . 
 
 \ |LINK90|\ 
 
@@ -920,19 +927,19 @@ Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per 
 
 \ |IMG10|\ (infografica da \ |LINK155|\ ) 
 
-\ |STYLE13|\ 
+\ |STYLE14|\ 
 confermata con Deliberazione di G.M. 185 del 10.10.2017.
 
-\ |STYLE14|\ 
+\ |STYLE15|\ 
 è stata inviata PEC all’AGID pochi giorni prima di Natale con allegato firmato digitalmente il “Modello Implementazione” delle misure minime sicurezza ICT.
 
-\ |STYLE15|\ 
+\ |STYLE16|\ 
 a dicembre 2015 è stata approvata la delibera di adesione del comune di Palermo al sistema dei pagamenti PagoPA e nel 2017 sono stati già attivati due pagamenti https://www.comune.palermo.it/pago-pa.php. Altri pagamenti sono già in preparazione, da attivare nella prima metà 2018.
 
-\ |STYLE16|\ 
+\ |STYLE17|\ 
 già attiva l’autenticazione con SPID per gli operatori del portale tematico dell’\ |LINK156|\ .
 
-\ |STYLE17|\ 
+\ |STYLE18|\ 
 i dataset open data comunali sono esposti con metadatazione ai sensi del profilo DCAT_AP_IT previsto dal Piano Triennale ICT della PA e procedure di harvesting già effettuate con la collaborazione dell’AGID.
 
 Un articolo dettagliato \ |LINK157|\  
@@ -979,7 +986,7 @@ Un articolo dettagliato \ |LINK157|\
 
 Marzo.  L'Agenzia per l'Italia Digitale in collaborazione con il Team Trasformazione Digitale ha reso disponibile il servizio \ |LINK160|\  per le Pubbliche Amministrazioni al fine di far pubblicare documenti tecnici e amministrativi su una piattaforma che offre ai cittadini la possibilità di leggere e commentare documenti pubblici ed essere informati sull’andamento dei progetti. 
 
-\ |STYLE18|\  vuole diventare, per l'AGID, il luogo che offre una visione di insieme sui progetti pubblici in corso, affiancando gli aspetti tecnologici e quelli amministrativi. Docs Italia utilizza il version control system di GitHub e mette a disposizione un sistema che consente di tenere traccia della storia di un documento e mantenerne tutte le versioni, permettendo di confrontarle fra loro. I documenti di Docs Italia hanno un indice ben strutturato, un motore di ricerca efficace e sono di facile lettura, anche sullo smartphone.
+\ |STYLE19|\  vuole diventare, per l'AGID, il luogo che offre una visione di insieme sui progetti pubblici in corso, affiancando gli aspetti tecnologici e quelli amministrativi. Docs Italia utilizza il version control system di GitHub e mette a disposizione un sistema che consente di tenere traccia della storia di un documento e mantenerne tutte le versioni, permettendo di confrontarle fra loro. I documenti di Docs Italia hanno un indice ben strutturato, un motore di ricerca efficace e sono di facile lettura, anche sullo smartphone.
 
 Per il \ |LINK161|\ :
 
@@ -1027,43 +1034,45 @@ Materiali informativi: \ |LINK173|\
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Contributo ai principali strumenti di innovazione comunali, regionali e nazionali:**
+.. |STYLE0| replace:: **Contributi di Ciro Spataro nei processi di innovazione al comune di Palermo, per il miglioramento delle competenze digitali dei dipendenti, per l'attuazione delle linee guida open data**
 
-.. |STYLE1| replace:: **ciclo di webinar su Cultura digitale**
+.. |STYLE1| replace:: **Contributo ai principali strumenti di innovazione comunali, regionali e nazionali:**
 
-.. |STYLE2| replace:: **OpenIt4Change**
+.. |STYLE2| replace:: **ciclo di webinar su Cultura digitale**
 
-.. |STYLE3| replace:: *Come si muovono le pubbliche amministrazioni tra la domanda di trasparenza e la necessità di protezione dei dati personali?*
+.. |STYLE3| replace:: **OpenIt4Change**
 
-.. |STYLE4| replace:: *The proposed action is to support the establishment of an*
+.. |STYLE4| replace:: *Come si muovono le pubbliche amministrazioni tra la domanda di trasparenza e la necessità di protezione dei dati personali?*
 
-.. |STYLE5| replace:: **standardized cross-border community**
+.. |STYLE5| replace:: *The proposed action is to support the establishment of an*
 
-.. |STYLE6| replace:: *(Italy, Slovenia, Malta) in order*
+.. |STYLE6| replace:: **standardized cross-border community**
 
-.. |STYLE7| replace:: **to support a multi-level governance (national/regional/city/local) alignment of local opendata initiatives to the EDP**
+.. |STYLE7| replace:: *(Italy, Slovenia, Malta) in order*
 
-.. |STYLE8| replace:: *platform and*
+.. |STYLE8| replace:: **to support a multi-level governance (national/regional/city/local) alignment of local opendata initiatives to the EDP**
 
-.. |STYLE9| replace:: **foster the adoption of common standards**
+.. |STYLE9| replace:: *platform and*
 
-.. |STYLE10| replace:: *and*
+.. |STYLE10| replace:: **foster the adoption of common standards**
 
-.. |STYLE11| replace:: **common practices**
+.. |STYLE11| replace:: *and*
 
-.. |STYLE12| replace:: *for the enhancement of Public Sector Information (on quality/interoperability/monitoring/evaluation)*
+.. |STYLE12| replace:: **common practices**
 
-.. |STYLE13| replace:: **Nomina Responsabile Transizione al Digitale**
+.. |STYLE13| replace:: *for the enhancement of Public Sector Information (on quality/interoperability/monitoring/evaluation)*
 
-.. |STYLE14| replace:: **Sicurezza Informatica**
+.. |STYLE14| replace:: **Nomina Responsabile Transizione al Digitale**
 
-.. |STYLE15| replace:: **Pagamenti informatici PagoPA**
+.. |STYLE15| replace:: **Sicurezza Informatica**
 
-.. |STYLE16| replace:: **SPID Sistema Pubblico di Identità Digitale**
+.. |STYLE16| replace:: **Pagamenti informatici PagoPA**
 
-.. |STYLE17| replace:: **Esposizione dei metadati delle banche dati in formato aperto conformi al profilo (DCAT_AP_IT)**
+.. |STYLE17| replace:: **SPID Sistema Pubblico di Identità Digitale**
 
-.. |STYLE18| replace:: **Docs Italia**
+.. |STYLE18| replace:: **Esposizione dei metadati delle banche dati in formato aperto conformi al profilo (DCAT_AP_IT)**
+
+.. |STYLE19| replace:: **Docs Italia**
 
 
 .. |LINK1| raw:: html
