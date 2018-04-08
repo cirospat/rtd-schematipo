@@ -11,19 +11,19 @@ Cirospat profile
 social
 ======
 
-* \ |LINK1|\   
+\ |LINK1|\   
 
-* \ |LINK2|\  
+\ |LINK2|\  
 
-* \ |LINK3|\  
+\ |LINK3|\  
 
-* \ |LINK4|\  
+\ |LINK4|\  
 
-* \ |LINK5|\   
+\ |LINK5|\   
 
-* \ |LINK6|\   
+\ |LINK6|\   
 
-* skype: cirospat
+skype: cirospat
 
 --------
 
@@ -32,19 +32,19 @@ social
 photos
 ======
 
-* \ |LINK7|\  
+\ |LINK7|\  
 
-* \ |LINK8|\  
+\ |LINK8|\  
 
-* \ |LINK9|\ 
+\ |LINK9|\ 
 
-* \ |LINK10|\  
+\ |LINK10|\  
 
-* \ |LINK11|\   
+\ |LINK11|\   
 
-* \ |LINK12|\   
+\ |LINK12|\   
 
-* \ |LINK13|\  
+\ |LINK13|\  
 
 --------
 
@@ -53,7 +53,7 @@ photos
 territorial mini guide 
 =======================
 
-* \ |LINK14|\   (cc by sa)
+\ |LINK14|\   (cc by sa)
 
 --------
 
