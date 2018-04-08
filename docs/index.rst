@@ -64,6 +64,7 @@ territorial mini guide
 
     work-profile
     Ciro-Spataro-su-open-data-e-innovazione
+    open-data-incontri-con-referenti-comunali
 
 --------
 
