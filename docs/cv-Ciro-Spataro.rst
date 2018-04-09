@@ -1,11 +1,13 @@
 
-.. _h4316791519616a3f70c17e6c362233:
-
-Curriculum Vitae 
-#################
-
-
 |REPLACE1|
+
+.. _h78443221494a701e1b162e4b2040191a:
+
+Curriculum Vitae Ciro Spataro
+#############################
+
+
+|REPLACE2|
 
 CV aggiornato al 6 aprile 2018
 
@@ -15,6 +17,9 @@ CV updated to apr 6, 2018
 
 
 .. |REPLACE1| raw:: html
+
+    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+.. |REPLACE2| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:95%">
     <tbody>
