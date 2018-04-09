@@ -39,12 +39,20 @@ Gli Open Data della Pubblica Amministrazione sono di grande utilità in quanto c
 
     Il Responsabile Open Data del Comune di Palermo è il \ |STYLE3|\ , Dirigente del Servizio Innovazione.
 
+Il portale open data è disponibile al link \ |LINK3|\ . 
+
+.. _h97d7f6250123e411d5a60444f324326:
+
+Referenti open data
+*******************
+
 
 ..  Important:: 
 
-    I \ |STYLE4|\ , ai sensi delle Linee guida.
+    I \ |STYLE4|\ , ai sensi delle Linee guida comunali.
 
-Il portale open data è disponibile al link \ |LINK3|\ . 
+
+|REPLACE1|
 
 --------
 
@@ -2456,6 +2464,10 @@ E' stato, quindi, pubblicato il dataset relativo, al link: \ |LINK146|\
 
 .. |STYLE71| replace:: **62-**
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 .. |LINK1| raw:: html
 
