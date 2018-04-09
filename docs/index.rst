@@ -6,6 +6,7 @@
 Cirospat profile
 ****************
 
+\ |IMG1|\ 
 
 .. toctree::  
     :maxdepth: 2
@@ -53,3 +54,6 @@ Cirospat profile
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+.. |IMG1| image:: static/index_1.png
+   :height: 261 px
+   :width: 260 px
