@@ -8,6 +8,8 @@ Area Innovazione Tecnologica (fino al dicembre 2017);
 
 Servizio Innovazione (dal gennaio 2018).
 
+\ |IMG1|\ 
+
 Report degli incontri con i referenti open data del comune di Palermo per l'attuazione  delle  \ |LINK1|\  approvate con Deliberazione di G.M.  n. 252 del 13.12.2013, e n. 97 del 4.05.2017 costruite con la partecipazione di soggetti esterni, per la diffusione della cultura dei dati aperti e dell'open government.
 
 .. admonition:: A cura di
@@ -843,7 +845,7 @@ REFERENTE: Arch. Marcello Emo (ref. tecnico)
 
 L'Ufficio Città Storica creato nel 1994 gestisce ad oggi una notevole quantità di competenze territoriali relative ad autorizzazioni edilizie, opere pubbliche e controllo del territorio nei 4 mandamenti del Centro Storico della città.
 
-\ |IMG1|\ 
+\ |IMG2|\ 
 
 L'arch. Emo illustra i dataset che vengono gestiti con il programma Geomedia, e che sono stati censiti nel mese di dicembre 2015 in un \ |LINK41|\ :
 
@@ -3044,6 +3046,10 @@ E' stato, quindi, pubblicato il dataset relativo, al link: \ |LINK146|\
     <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
 
 
-.. |IMG1| image:: static/open-data-incontri-con-referenti-comunali_1.jpeg
+.. |IMG1| image:: static/open-data-incontri-con-referenti-comunali_1.png
+   :height: 208 px
+   :width: 438 px
+
+.. |IMG2| image:: static/open-data-incontri-con-referenti-comunali_2.jpeg
    :height: 233 px
    :width: 310 px
