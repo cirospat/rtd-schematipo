@@ -67,10 +67,10 @@ Il Segretario Generale, al fine di rendere omogenea la conoscenza sugli open dat
 
 Gli incontri con i Capo Area sono partiti dallo stesso mese di febbraio 2015. Alcuni incontri con i soli referenti tecnici/tematici open data negli Uffici comunali sono stati avviati dal Geom. Spataro (Coord. UO Innovazione, Pubblicazione e Open Data) antecedente alla data del 16 febbraio 2015, in quanto obiettivi quadrimestrali di detta UO per l’attuazione dei contenuti delle Linee Guida Open Data.
 
-.. _h476834441945532458b3a21604f4747:
+.. _h2c1d74277104e41780968148427e:
 
-|
-*
+
+
 
 .. _h206234243142219796444632b6b5860:
 
