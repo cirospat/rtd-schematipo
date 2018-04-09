@@ -4,9 +4,9 @@
 Report degli incontri con i referenti open data del comune di Palermo per attuazione delle Linee guida
 ######################################################################################################
 
-COMUNE DI PALERMO, AREA INNOVAZIONE TECNOLOGICA (FINO AL 31 DIC 2017). 
+Area Innovazione Tecnologica (fino al dicembre 2017);
 
-SERVIZIO INNOVAZIONE (DAL GENNAIO 2018)
+Servizio Innovazione (dal gennaio 2018).
 
 Report degli incontri con i referenti open data del comune di Palermo per l'attuazione  delle  \ |LINK1|\  approvate con Deliberazione di G.M.  n. 252 del 13.12.2013, e n. 97 del 4.05.2017 costruite con la partecipazione di soggetti esterni, per la diffusione della cultura dei dati aperti e dell'open government.
 
@@ -31,7 +31,8 @@ Gli Open Data della Pubblica Amministrazione sono di grande utilità in quanto c
 
 ..  Important:: 
 
-    La Giunta Municipale con \ |STYLE0|\  ha adottato le "Linee Guida per le attività sugli Open Data della Città di Palermo". Con \ |STYLE1|\  le linee guida sono state aggiornate al \ |STYLE2|\  dei metadati.
+    La Giunta Municipale con \ |STYLE0|\  ha adottato le "Linee Guida per le attività sugli Open Data della Città di Palermo". 
+    Con \ |STYLE1|\  le linee guida sono state aggiornate al \ |STYLE2|\  dei metadati.
 
 
 ..  Note:: 
@@ -168,22 +169,16 @@ Il tecnico sig. Flaminio Puma, collaboratore dell'ing. Salfi, potrà fornire ind
 
 \ |STYLE9|\ 
 
-.. _h4f7b186b125e294571e5d793147676:
+.. _h761b1e5f6d5141645803a106b46467:
 
-AREA SERVIZI ALLA COLLETTIVITA’
-===============================
+AREA SERVIZI ALLA COLLETTIVITÀ / PIANO TECNICO DEL TRAFFICO
+===========================================================
 
 martedì 24 febbraio 2015 ore 9.15
 
-DOTT. MANERI E DIRIGENTI DI SERVIZIO
+DOTT. MANERI E DIRIGENTE DI SERVIZIO
 
-\ |STYLE10|\ 
-
-* UFFICIO DEL PIANO TECNICO DEL TRAFFICO \ |LINK22|\ 
-
-* SETTORE SERVIZI ALLA COLLETTIVITA'  \ |LINK23|\ 
-
-    Il Capo Area illustra le attività svolte dai Servizi. I dataset ritenuti di interesse prioritario dal Capo Area per la pubblicazione in open data sono i seguenti: 
+Il Capo Area illustra le attività svolte dai Servizi. I dataset ritenuti di interesse prioritario dal Capo Area per la pubblicazione in open data sono i seguenti: 
 
 * Piano Generale Traffico Urbano (PGTU), shape file, dataset con le previsioni e con l'individuazione delle Zone Blu di parcheggio, Accessi ZTL, Zone aree pedonali, Aree di sosta Disabili generici, Piste Ciclabili  
 
@@ -211,7 +206,7 @@ Essi rappresentano indubbiamente dataset di importanza notevole per la cittadina
 
 --------
 
-\ |STYLE11|\ 
+\ |STYLE10|\ 
 
 .. _h2e6b1415112624187f15ff6f7a6361:
 
@@ -222,13 +217,13 @@ giovedì 26 febbraio 2015 ore 9.30
 
 DOTT.SSA CALANDRA e referenti open data
 
-* BIBLIOTECHE \ |LINK24|\ 
+* BIBLIOTECHE \ |LINK22|\ 
 
-* ATTIVITA' CULTURALI \ |LINK25|\  
+* ATTIVITA' CULTURALI \ |LINK23|\  
 
-* SPAZI MUSEALI \ |LINK26|\  
+* SPAZI MUSEALI \ |LINK24|\  
 
-    \ |STYLE12|\ :
+\ |STYLE11|\ :
 
 * mappa/elenco dei musei comunali, dei teatri, delle biblioteche comunali, dei luoghi dell'arte e della cultura in generale, suddivise (se possibile) per Circoscrizione
 
@@ -248,14 +243,14 @@ DOTT.SSA CALANDRA e referenti open data
 
 --------
 
-\ |STYLE13|\ 
+\ |STYLE12|\ 
 
 .. _h7c263d3363476147f7258354777284d:
 
 AREA AMMINISTRATIVA RIQUALIFICAZIONE DEL TERRITORIO / SERVIZIO ESPROPRIAZIONI
 =============================================================================
 
-Referenti: sig.ra Alba \ |LINK27|\  - sig. Ribbeni 
+Referenti: sig.ra Alba \ |LINK25|\  - sig. Ribbeni 
 
 5 febbraio 2015
 
@@ -263,26 +258,26 @@ La dott.ssa Alba e il Sig. Ribbeni hanno illustrato le loro attività di compete
 
 Il dataset può contenere almeno le seguenti informazioni: 
 
-* titolo dell'opera pubblica da realizare per la quale si avvia il procedimento espropriativo
+* titolo dell'opera pubblica da realizzare per la quale si avvia il procedimento espropriativo
 
-* indicazione del luogo in cui si deve effettuare l'espoprio
+* indicazione del luogo in cui si deve effettuare l'esproprio
 
 * eventuale ampiezza del luogo oggetto di esproprio (mq)
 
 * data nella qual si avvia la procedura espropriativa.
 
-I referenti tecnico e tematico condividendo l'utilità del riulascio pubblico di tale dataset si faranno portatori nei confronti del proprio dirigente per l'autorizzazione al rilascio stesso.
+I referenti tecnico e tematico condividendo l'utilità del rilascio pubblico di tale dataset si faranno portatori nei confronti del proprio dirigente per l'autorizzazione al rilascio stesso.
 
 --------
 
-\ |STYLE14|\ 
+\ |STYLE13|\ 
 
 .. _h508261f474b5e2127da45732f7e28:
 
 AREA VICE SEGRETERIA GENERALE 
 ==============================
 
-Referenti: Inzerillo \ |LINK28|\ , Baudo \ |LINK29|\ , Buttitta (Commissario PM) \ |LINK30|\  
+Referenti: Inzerillo \ |LINK26|\ , Baudo \ |LINK27|\ , Buttitta (Commissario PM) \ |LINK28|\  
 
 9 febbraio 2015
 
@@ -300,7 +295,7 @@ Altro dataset potrebbe essere quello rappresentato dalle notifiche dei messi com
 
 --------
 
-\ |STYLE15|\ 
+\ |STYLE14|\ 
 
 .. _h427530702f2b2f74737928696cb4fc:
 
@@ -315,7 +310,7 @@ La riunione ha coinvolto attivamente oltre al Dirigente Coordinatore, anche tutt
 
 Si sono analizzate le competenze dell’Area e si sono evidenziati da subito i dataset sui quali i dipendenti lavorano per monitorare le attività istituzionali. E’ subito emersa la notevole quantità di dati che l’Area gestisce. Il dott. Forcieri, ad esempio, ha presentato una lista dettagliata di dataset, dai quali si potrebbero  sviluppare servizi e applicazioni a vantaggio dell'intera comunità di utenti:
 
-* Dataset - " Dimensionamento" - cssetto logistico delle Scuole cittadine dell'obbligo Statali, ricadenti nelle 8 Circoscrizioni. Contenente la specifica della tipologia di Scuola, Sedi, Plessi, Numero totali di: classi,alunni, aule; capienza( ai sensi del D.M.12/75);
+* Dataset - " Dimensionamento" - cassetto logistico delle Scuole cittadine dell'obbligo Statali, ricadenti nelle 8 Circoscrizioni. Contenente la specifica della tipologia di Scuola, Sedi, Plessi, Numero totali di: classi,alunni, aule; capienza( ai sensi del D.M.12/75);
 
 * Dataset - " Report alunni disabili"- con la specifica del numero di alunni disabili per tipologia di  Scuola (materna, primaria,media) e per gravità; 
 
@@ -347,7 +342,7 @@ Altri dataset esposti dagli altri dirigenti (Capo Area L. Romano, C. Como e Fias
 
 * dataset delle manifestazioni (es. “La scuola adotta la città”)
 
-* dataset sui percorsi degli scuola bus
+* dataset sui percorsi degli scuolabus
 
 * Liste di attesa per l’iscrizione alla scuola
 
@@ -365,7 +360,7 @@ E’ stato fatto emergere, dai presenti alla riunione, l’esigenza di un persor
 
 --------
 
-\ |STYLE16|\ 
+\ |STYLE15|\ 
 
 .. _h7b3d4e5e5950731831f35271644f11:
 
@@ -396,7 +391,7 @@ Durante la riunione i referenti tecnici e tematici hanno concordato di produrre 
 
 --------
 
-\ |STYLE17|\ 
+\ |STYLE16|\ 
 
 .. _h763a422860412d4a2e4540348381c2:
 
@@ -429,7 +424,7 @@ I referenti porteranno all’attenzione del Comandante i suddetti dataset per co
 
 --------
 
-\ |STYLE18|\ 
+\ |STYLE17|\ 
 
 .. _h12d7e37497714214c104d6d7f544cc:
 
@@ -468,7 +463,7 @@ I dataset ritenuti adatti alla pubblicazione, condivisi con la Dirigente dott.ss
 
 Il primo quadrimestre 2015 dell’UO Innovazione, Pubblicazione e Open Data si è concluso con la realizzazione di n. 12 incontri con referenti tecnici/tematici open data e con Dirigenti Capo Area.
 
-Altresì nel primo quadrimestre 2015 si è svolto un \ |LINK31|\ .
+Altresì nel primo quadrimestre 2015 si è svolto un \ |LINK29|\ .
 
 --------
 
@@ -477,7 +472,7 @@ Altresì nel primo quadrimestre 2015 si è svolto un \ |LINK31|\ .
 2° Quadrimestre 2015
 ********************
 
-\ |STYLE19|\ 
+\ |STYLE18|\ 
 
 .. _h163b2532383753672602a372f464f77:
 
@@ -504,14 +499,14 @@ Infine un ulteriore dataset può essere richiesto dall'Ufficio Ambiente alla Soc
 
 --------
 
-\ |STYLE20|\ 
+\ |STYLE19|\ 
 
 .. _h4c50105371a36153783d611e334621:
 
 AREA SVILUPPO ORGANIZZATIVO / UFFICIO VICE CAPO DI GABINETTO - RELAZIONI INTERNAZIONALI E CERIMONIALE SINDACO
 =============================================================================================================
 
-Incontro con referente tematico, ALBERTO MANDALARI \ |LINK32|\  E CATERINA DI CARA \ |LINK33|\  
+Incontro con referente tematico, ALBERTO MANDALARI \ |LINK30|\  E CATERINA DI CARA \ |LINK31|\  
 
 25 maggio 2015
 
@@ -525,14 +520,14 @@ I dataset disponibili nel Servizio sono i seguenti:
 
 --------
 
-\ |STYLE21|\ 
+\ |STYLE20|\ 
 
 .. _h6d19525465653c422c244e527d7d3c5f:
 
 AREA VERDE E VIVIBILITÀ’ URBANA
 ===============================
 
-Incontro con referente M.Campagna \ |LINK34|\  e Archimede Santoro 
+Incontro con referente M.Campagna \ |LINK32|\  e Archimede Santoro 
 
 15 giugno 2015
 
@@ -542,30 +537,30 @@ Esiste inoltre un database delle potature degli alberi della città, basato su M
 
 Un ulteriore database riguarda i dati sulla gestione della cura del verde (pulitura, scerbatura, piantumazione,..).
 
-Detti database se resi online potrebbero essere di enorme valore aggiunto per la cittadinanza e a tal uopo si condivide con i referenti la proposta, che deve essere portata all’attenzione del Capo Area Verde, di creare nel sito tematico dell’Area Verde \ |LINK35|\  un ATLTANTE DEL VERDE, una macro area all’interno della quale pubblicare database tematici quali, giardini pubblici, giardini storici, verde diffuso, verde nelle scuole, potature, piantumazioni, ecc. Tale ATLANTE DEL VERDE dovrebbe essere referenziato geograficamente permettendo così al cittadino l'individuazione geografica dei siti verdi e delle attività condotte dal personale dell’Area Verve e Vivibilità. 
+Detti database se resi online potrebbero essere di enorme valore aggiunto per la cittadinanza e a tal uopo si condivide con i referenti la proposta, che deve essere portata all’attenzione del Capo Area Verde, di creare nel sito tematico dell’Area Verde \ |LINK33|\  un ATLTANTE DEL VERDE, una macro area all’interno della quale pubblicare database tematici quali, giardini pubblici, giardini storici, verde diffuso, verde nelle scuole, potature, piantumazioni, ecc. Tale ATLANTE DEL VERDE dovrebbe essere referenziato geograficamente permettendo così al cittadino l'individuazione geografica dei siti verdi e delle attività condotte dal personale dell’Area Verve e Vivibilità. 
 
 I referenti open data si faranno portatori nei confronti del Capo Area della presente proposta.
 
 --------
 
-\ |STYLE22|\ 
+\ |STYLE21|\ 
 
 .. _h34e2c6d582344e3d6d60e487d7d15:
 
 AREA INNOVAZIONE TECNOLOGICA, COMUNICAZIONE, SPORT E AMBIENTE / UFFICIO SPORT E IMPIANTI SPORTIVI
 =================================================================================================
 
-Incontro con referente Sabina Buccheri \ |LINK36|\  , tel 091.7409105
+Incontro con referente Sabina Buccheri \ |LINK34|\  , tel 091.7409105
 
 21 luglio 2015
 
-L'Ufficio Sport e Impianti sportivi non utilizza applicativi gestionali per le attività di competenza. Ha invece un portale web tematico dedicato \ |LINK37|\   il cui aggiornamento è curato anche dalla referente open data, Sig.ra Buccheri.
+L'Ufficio Sport e Impianti sportivi non utilizza applicativi gestionali per le attività di competenza. Ha invece un portale web tematico dedicato \ |LINK35|\   il cui aggiornamento è curato anche dalla referente open data, Sig.ra Buccheri.
 
 Di seguito si elencano i dataset che gestisce l'Ufficio Sport.
 
 * elenco degli impianti sportivi comunali con la descrizione delle caratteristiche fisiche, anno di costruzione, possibilità per l'accesso ai diversamente abili, capienza del pubblico, telefono, fax, email, discipline sportive praticate;
 
-* elenco delle assegnazioni stagionali degli spazi pubblici sportivi alle Società sportive che ne fanno richiesta, secondo un \ |LINK38|\ . Nel periodo di Luglio Agosto di ogni anno le Società sportive fanno richiesta all'Ufficio Sport per l'assegnazione di spazi pubblici sportivi e successivamente, nel rispetto del regolamento comunale si effettuano le assegnazioni;
+* elenco delle assegnazioni stagionali degli spazi pubblici sportivi alle Società sportive che ne fanno richiesta, secondo un \ |LINK36|\ . Nel periodo di Luglio Agosto di ogni anno le Società sportive fanno richiesta all'Ufficio Sport per l'assegnazione di spazi pubblici sportivi e successivamente, nel rispetto del regolamento comunale si effettuano le assegnazioni;
 
 * elenco delle palestre scolastiche (delle scuole medie ed elementari) disponibili nel pomeriggio per lo svolgimento delle attività sportive gestite da Associazioni sportive che ne fanno richiesta. Viene stipulato un Atto d'Obbligo tra Comune e Associazione/Società sportiva per la regolamentazione degli impegni;
 
@@ -575,18 +570,18 @@ Tali dataset sono stati condivisi anche dalla Dirigente dell'Ufficio Sport e Imp
 
 --------
 
-\ |STYLE23|\ 
+\ |STYLE22|\ 
 
 .. _h857259245e891b72554d114c5435:
 
 AREA CULTURA / BIBLIOTECA CASA PROFESSA
 =======================================
 
-Incontro con referente Mauro Costa \ |LINK39|\  
+Incontro con referente Mauro Costa \ |LINK37|\  
 
 29 luglio 2015
 
-La Biblioteca comunale di Casa Professa non utilizza applicativi gestionali a parte LIBRARSI \ |LINK40|\  che è un interfaccia web pubblica per la ricerca dei testi e delle opere disponibili in consultazione presso la sede della Biblioteca. Librarsi fa riferimento, per la catalogazione, a OPAC SBN CATALOGO NAZIONALE \ |LINK41|\  che è la piattaforma di catalogazione di tutte le biblioteche pubbliche d’Italia. Lo strumento di ricerca della piattaforma Librarsi consente di visualizzare i dati della catalogazione del testo in formato aperto (selezione UNIMARC).
+La Biblioteca comunale di Casa Professa non utilizza applicativi gestionali a parte LIBRARSI \ |LINK38|\  che è un interfaccia web pubblica per la ricerca dei testi e delle opere disponibili in consultazione presso la sede della Biblioteca. Librarsi fa riferimento, per la catalogazione, a OPAC SBN CATALOGO NAZIONALE \ |LINK39|\  che è la piattaforma di catalogazione di tutte le biblioteche pubbliche d’Italia. Lo strumento di ricerca della piattaforma Librarsi consente di visualizzare i dati della catalogazione del testo in formato aperto (selezione UNIMARC).
 
 Il caricamento dei dati, per la visualizzazione dei contenuti su Librarsi, avviene sulla piattaforma online SBNA WEB utilizzata  a livello nazionale.
 
@@ -627,18 +622,18 @@ La scansione digitale di molte opere artistiche e librarie custodite dalla Bibli
 3° Quadrimestre 2015
 ********************
 
-\ |STYLE24|\ 
+\ |STYLE23|\ 
 
 .. _h57745c137c7177666742b5083763:
 
 AREA PARTECIPAZIONE, DECENTRAMENTO, SERVIZI AL CITTADINO E MOBILITA' / UFFICIO DEL PIANO TECNICO DEL TRAFFICO
 =============================================================================================================
 
-POLO TECNICO
+Polo Tecnico
 
 Incontro con referente Nunzio Salfi, Flaminio Puma e Dirigente Ufficio, dott. Roberto Biondo
 
-7 OTTOBRE 2015, ore 9.00
+7 ottobre 2015, ore 9.00
 
 Il Dirigente ha innanzitutto manifestato l'esigenza di rappresentare i dati contenuti nelle Ordinanze Dirigenziali dell'Ufficio Traffico (circa 2000 all'anno) sull mappe di GoogleMaps.  Ciò al fine di avere un monitoraggio geografico delle autorizzazioni rilasciate sul territorio (spesso si tratta di autorizzazioni agli scavi su strada da parte di RAP, e soggetti privati quali ENEL, operatori connettività internet e telefonia).
 
@@ -650,7 +645,7 @@ L'Ufficio comunica che ha appena inviato (la settimana scorsa) al Webmaster per 
 
 * Piano Generale del Traffico Urbano (PGTU),
 
-* Piste cliclabili 
+* Piste ciclabili 
 
 * Zona a Traffico Limitato (ZTL)
 
@@ -662,11 +657,11 @@ Questi dataset rappresentano una base importante per costruire (da parte di terz
 
 Si è in attesa della pubblicazione online da parte del Webmaster.
 
-Si rappresenta infine la volontà dell'Ufficio a pubblicare in open data il file KML della mappa (creata da Ciro Spataro: \ |LINK42|\ ) delle piste ciclabili  che con una specifica Ordinanza Dirigenziale del 1 ottobre 2015 sono state autorizzate ad essere percorse dai ciclisti in alcune corsie preferenziali dei bus urbani. Dalla mappa l'ufficio esporta facilmente il file KML per l'invio al Webmaster per la pubblicazione in open data.
+Si rappresenta infine la volontà dell'Ufficio a pubblicare in open data il file KML della mappa (creata da Ciro Spataro: \ |LINK40|\ ) delle piste ciclabili  che con una specifica Ordinanza Dirigenziale del 1 ottobre 2015 sono state autorizzate ad essere percorse dai ciclisti in alcune corsie preferenziali dei bus urbani. Dalla mappa l'ufficio esporta facilmente il file KML per l'invio al Webmaster per la pubblicazione in open data.
 
 --------
 
-\ |STYLE25|\ 
+\ |STYLE24|\ 
 
 .. _h6673715470d62a7931192e1172131d:
 
@@ -695,7 +690,7 @@ L'Ufficio Espropriazioni manifesta l'interesse all'utilizzo di un applicativo in
 
 Si riporta infine un ulteriore informazione anche se non strettamente correlata alla tematica open data. Alcuni dipendenti dell'Ufficio ancora non sono dotati di posta elettronica e ciò rappresenta una criticità per la gestione dei carichi di lavoro.
 
-\ |STYLE26|\ 
+\ |STYLE25|\ 
 
 .. _h567c36357f1ec36632335242f463f6d:
 
@@ -712,7 +707,17 @@ Una prima attività nella quale è anche coinvolta la sig.ra Bucaro è la raccol
 
 La mole delle istanze che pervengono alla VI Circ. in multi modalità (email, telefonate, note cartacee) sono quantizzabili in oltre 1000 all'anno, quindi rappresenta una notevole mole di dati che ad oggi non risulta organizzata in database strutturati. Considerato che alle figure dei referenti è stato chiesto, dalle figure apicali, un report per tipologie di disservizi segnalati dai cittadini, Ciro Spataro ha proposto loro, mostrando un esempio pratico,  l'adozione di un semplice foglio elettronico (excel) nel quale possono essere descritte le seguenti tipologie di informazioni riguardo alle istanze inviate dai cittadini:
 
-\ |IMG1|\ 
+* Protocollo entrata
+
+* Protocollo uscita all'Ufficio /Società che dovrà risolvere il problema
+
+* Oggetto della richiesta / tipologia di richiesta (es. manto stradale o marciapiede dissestato, pali luce spenti, rifiuti su strada, ecc)
+
+* Localizzazione della richiesta di servizio (es.: via Roma, n.6)
+
+* Ufficio destinatario della richiesta (es.: RAP SpA)
+
+* Esito da parte degli uffici interessati (es.: esitato oppure in via di risoluzione, ecc.)
 
 Un tale dataset ottimizzato potrebbe diventare la base per un applicativo gestionale da utilizzare in tutte le Circoscrizioni comunali che ricevono la stessa tipologia di istanze dei cittadini.
 
@@ -752,7 +757,7 @@ La referente tematica, Sig.ra Damiano, ha mostrato un dataset, in formato excel,
 
 Questo dataset molto interessante per la tipologia di dati trattati, potrebbe essere prodotto anche dalle altre Circoscrizioni per avere un quadro generale dell'erogazione di questi servizi in tutta la città.
 
-\ |STYLE27|\ 
+\ |STYLE26|\ 
 
 .. _h14184e7b6a1b785f354a223f5b4575:
 
@@ -767,15 +772,41 @@ La referente, insieme alle collaboratrici (Sig.ra Prestigiacomo),  ha illustrato
 
 Il Servizio già utilizza il formato excel per la raccolta delle informazioni di ogni scuola, ma separa i dati in 2 database: uno per le scuole materne ed un altro per gli asili nido.
 
-L'incontro a fatto emergere la necessità di unire i dati di 2 database in maniera tale da gestire univocamente tutte le informazioni e dati delle 2 tipologie di scuole. E' stato, quindi, condivisa, la strutturazione del seguente dataset, ce rappresenta la base di partenza e che può essere arricchito con ulteriori colonne (attributi)  nella revisione annuale, se l'Ufficio ritiene utile:
+L'incontro a fatto emergere la necessità di unire i dati di 2 database in maniera tale da gestire univocamente tutte le informazioni e dati delle 2 tipologie di scuole. E' stato, quindi, condivisa, la strutturazione del seguente dataset, che rappresenta la base di partenza e che può essere arricchito con ulteriori colonne (attributi)  nella revisione annuale, se l'Ufficio ritiene utile:
 
-\ |IMG2|\ La scelta degli attributi del dataset, come sopra descritto, è stata effettuata pensando ad una facile comprensione da parte dei cittadini, sono state evitate quindi terminologie specifiche che spesso l'Ufficio utilizza ma che sarebbero state probabilmente di difficile comprensione da parte dell'utenza.
+* Nome scuola
+
+* Tipo scuola
+
+* Unita Didattica Educativa (UDE) per scuole materne
+
+* Responsabile UDE
+
+* Email dell'UDE dove ricade la scuola
+
+* Responsabile amministrativo per gli Asili Nido
+
+* Circoscrizione
+
+* Ubicazione scuola
+
+* Area calpestabile in mq della scuola
+
+* Telefono scuola
+
+* Numero sezioni della scuola
+
+* Capacità ricettiva della scuola
+
+* Lista di attesa della scuola per l'anno in corso
+
+La scelta degli attributi del dataset, come sopra descritto, è stata effettuata pensando ad una facile comprensione da parte dei cittadini, sono state evitate quindi terminologie specifiche che spesso l'Ufficio utilizza ma che sarebbero state probabilmente di difficile comprensione da parte dell'utenza.
 
 Tale dataset, una volta popolato di dati, sarà reso disponibile dal Titolare delle banche dati per la pubblicazione online nel portale open data. Il dataset in esame avrà una frequenza di aggiornamento annuale e si farà riferimento all'anno scolastico in un periodo successivo all'avvio delle attività.
 
 E' stata ulteriormente trattata la questione del fabbisogno di un applicativo per la gestione di tali informazioni. La referente tematica trova utile l'uso del sopra indicato dataset, che al momento attuale gestisce in condivisione con le colleghe sulla piattaforma cloud del Google Drive, ma è logico pensare che partendo proprio dagli attributi del dataset si pensi alla realizzazione di un applicativo gstionale che può essere utilizzato dai diversi Servizi dell'Area della Scuola e dalle postazioni delle Unità Didattiche Educative (UDE).
 
-E' stata, inoltre, trattata la proposta di realizzazione di un software che consente  di effettuare le iscrizioni alla scuola dell'infanzia 0-6 anni attraverso procedure online. Una prima ipotesi sperimentale avanzata dalla referente consiste nell'utilizzo dei "moduli" di Google che dovrebbe essere compilato da parte delle 4 UDE, dove tanti cittadini si recano per consegnare le iscrizioni cartacee. Le stesse UDE potrebbero inserire sul modulo Google anche i dati delle iscrizioni effettuate dai cittadini via email (nelle quali sono allegate scansioni di diciarazioni). 
+E' stata, inoltre, trattata la proposta di realizzazione di un software che consente  di effettuare le iscrizioni alla scuola dell'infanzia 0-6 anni attraverso procedure online. Una prima ipotesi sperimentale avanzata dalla referente consiste nell'utilizzo dei "moduli" di Google che dovrebbe essere compilato da parte delle 4 UDE, dove tanti cittadini si recano per consegnare le iscrizioni cartacee. Le stesse UDE potrebbero inserire sul modulo Google anche i dati delle iscrizioni effettuate dai cittadini via email (nelle quali sono allegate scansioni di dichiarazioni). 
 
 In questo modo il file excel, che Google genera in automatico dalla compilazione del modulo, permetterebbe: 
 
@@ -791,7 +822,7 @@ La referente tematica si riserva un secondo incontro con Ciro Spataro per la cre
 
 --------
 
-\ |STYLE28|\ 
+\ |STYLE27|\ 
 
 .. _h56154910434a21b497b221546773241:
 
@@ -804,7 +835,9 @@ REFERENTE: Arch. Marcello Emo (ref. tecnico)
 
 L'Ufficio Città Storica creato nel 1994 gestisce ad oggi una notevole quantità di competenze territoriali relative ad autorizzazioni edilizie, opere pubbliche e controllo del territorio nei 4 mandamenti del Centro Storico della città.
 
-\ |IMG3|\ L'arch. Emo illustra i dataset che vengono gestiti con il programma Geomedia, e che sono stati censiti nel mese di dicembre 2015 in un \ |LINK43|\ :
+\ |IMG1|\ 
+
+L'arch. Emo illustra i dataset che vengono gestiti con il programma Geomedia, e che sono stati censiti nel mese di dicembre 2015 in un \ |LINK41|\ :
 
 * Elenco delle istanze per il rilascio del provvedimento Edile con relativa geolocalizzazione dell'intervento;
 
@@ -841,7 +874,7 @@ Un integrazioni dei rispettivi database, o un interoperabilità, è auspicabile 
 1° Quadrimestre 2016
 ********************
 
-\ |STYLE29|\  
+\ |STYLE28|\  
 
 .. _h612693b3628586c29a37465c384d4b:
 
@@ -856,7 +889,7 @@ L'Arch. Salamone dell'Ufficio Toponomastica (Area Cultura) ha illustrato le atti
 
 Un applicativo gestionale creato ad hoc dalla SISPI permette di censire tutti i dati dei numeri civici con attributi e specifiche, secondo l'ordinamento ecografico, così denominato dall'Ufficio Toponomastica. Nell'applicativo vengono censiti sia i numeri civici esterni (su strada/piazze pubbliche)  che su spazi interni.
 
-L'applicativo inoltre mette in diretta relazione la \ |LINK44|\  con i numeri civici permettendo, in questa maniera, una facile georeferenziazione.
+L'applicativo inoltre mette in diretta relazione la \ |LINK42|\  con i numeri civici permettendo, in questa maniera, una facile georeferenziazione.
 
 Al fine di pubblicare il dataset sulla Rete dei Numeri Civici (RNC) l'Arch. Salamone sta predisponendo l'organizzazione di una riunione con la Sispi al fine di verificare sia il miglior formato del dataset da esporre pubblicamente che eventuali ulteriori informazioni utili da pubblicare nei metadati e che possono facilitare il riuso applicativo da parte della società.
 
@@ -866,7 +899,7 @@ Il dataset in esame è di estrema utilità - per esempio - per la determinazione
 
  
 
-\ |STYLE30|\  
+\ |STYLE29|\  
 
 .. _h1859745259287f462b5219079597e16:
 
@@ -881,9 +914,9 @@ Direttrice Didattica Dott.ssa Maria Rita Di Maggio
 
 Prof.ssa Ida Mariolo - Prof. Gallo - Prof. Leo Alagna
 
-A seguito dell'opendataday tenutosi a Palermo il 5 marzo 2016 al Noviziato dei Crociferi, quattro quarte classi dell'Istituto Professionale a indirizo commerciale "Einaudi" si sono distinte per la conoscenza e padronanza degli open data per le attività di monitoraggio civico previsti dall'iniziativa nazionale A SCUOLA DI OPEN COESIONE.
+A seguito dell'opendataday tenutosi a Palermo il 5 marzo 2016 al Noviziato dei Crociferi, quattro quarte classi dell'Istituto Professionale a indirizzo commerciale "Einaudi" si sono distinte per la conoscenza e padronanza degli open data per le attività di monitoraggio civico previsti dall'iniziativa nazionale A SCUOLA DI OPEN COESIONE.
 
-A tal riguardo \ |LINK45|\  in merito all'evento e alla \ |LINK46|\ . Anche \ |LINK47|\  sulla loro esperienza di monitoraggio civico con gli open data.
+A tal riguardo \ |LINK43|\  in merito all'evento e alla \ |LINK44|\ . Anche \ |LINK45|\  sulla loro esperienza di monitoraggio civico con gli open data.
 
 Successivamente alla giornata dell'opendataday sono stati presi contatti con la professoressa Ida Mariolo che ha seguito i ragazzi nel lavoro e il giorno 21 marzo 2016 si è tenuta una riunione anche con la Direttrice Didattica e con il Prof. Alagna e il prof. Gallo.
 
@@ -891,19 +924,19 @@ Sono state tracciate delle proposte progettuali che possono essere condotte cong
 
 Si è discusso delle seguenti proposte:
 
-* nel presente anno scolastico (2015-16) \ |STYLE31|\ . Uno ad aprile e uno a maggio. Gli eventi avrebbero l'obiettivo di tenere alta l'attenzione dei ragazzi sui dati aperti fornendo loro strumenti di lavoro:
+* nel presente anno scolastico (2015-16) \ |STYLE30|\ . Uno ad aprile e uno a maggio. Gli eventi avrebbero l'obiettivo di tenere alta l'attenzione dei ragazzi sui dati aperti fornendo loro strumenti di lavoro:
 
-    * Il primo su come costruire mappe georeferenziate partendo da un database (\ |LINK48|\  che ho scritto tempo fa, per i prof tecnologici);
+    * Il primo su come costruire mappe georeferenziate partendo da un database (\ |LINK46|\  che ho scritto tempo fa, per i prof tecnologici);
 
-    * il secondo evento di maggio  è possibile deciderlo insieme anche con i membri di \ |LINK49|\  che realizzano spesso eventi culturali di sensibilizzazione sugli open data.
+    * il secondo evento di maggio  è possibile deciderlo insieme anche con i membri di \ |LINK47|\  che realizzano spesso eventi culturali di sensibilizzazione sugli open data.
 
-* \ |STYLE32|\  Einaudi sugli open data che ogni anno promuove, in partenariato con il Comune, con altri enti pubblici e con la community di opendatasicilia, la predisposizione di progetti puntuali, cercando eventuali finanziamenti delle programmazioni nazionali PON o regionali del PO FESR SICILIA 2014-20.
+* \ |STYLE31|\  Einaudi sugli open data che ogni anno promuove, in partenariato con il Comune, con altri enti pubblici e con la community di opendatasicilia, la predisposizione di progetti puntuali, cercando eventuali finanziamenti delle programmazioni nazionali PON o regionali del PO FESR SICILIA 2014-20.
 
 La riunione si è conclusa stabilendo dei contatti per realizzare il primo evento didattico formativo sugli open data per il mese di aprile 2016.
 
 --------
 
-\ |STYLE33|\  
+\ |STYLE32|\  
 
 .. _h5b19355172e69744f4a493f5a83c2a:
 
@@ -924,7 +957,7 @@ Durante l'incontro è sorta da parte dei referenti la proposta di creare dei dat
 
 --------
 
-\ |STYLE34|\  
+\ |STYLE33|\  
 
 .. _h502c6c285150766c63572d29223a1e58:
 
@@ -975,7 +1008,7 @@ La referente manifesta, a tal uopo, la necessità dell'uso di un applicativo ges
 
 --------
 
-\ |STYLE35|\  
+\ |STYLE34|\  
 
 .. _ha486b1123352552b731522a16737c:
 
@@ -984,17 +1017,17 @@ STARTUP WEEKEND TOURISM EDITION
 
 8-10 APRILE 2016 - FIERA DEL MEDITERRANEO
 
-Dall'8 al 10 aprile 2016 presso il padiglione 20 della Fiera del Mediterraneo di Palermo si è svolta la 5° edizione dello \ |LINK50|\  manifestazione patrocinata dal Comune di Palermo.
+Dall'8 al 10 aprile 2016 presso il padiglione 20 della Fiera del Mediterraneo di Palermo si è svolta la 5° edizione dello \ |LINK48|\  manifestazione patrocinata dal Comune di Palermo.
 
 Un vero e proprio, laboratorio 'open space' che ha riunito persone con formazione ed esperienze diverse, unite nella condivisione di un sogno: 'Realizzare un progetto'.
 
 Il comune di Palermo ha fornito il proprio supporto attraverso la figura di un mentor sugli open data (Ciro Spataro dell'Ufficio Innovazione) che ha presentato i dati del settore Turismo DINAMICAMENTE AGGIORNATI (xml) che l'Amministrazione pubblica nel portale Open Data.
 
-A questo \ |LINK51|\  il mentor comunale ha fornito ai gruppi delle startup i contenitori online di dati sul turismo che oggi possono essere consultati per costruire servizi in questo ambito specifico. 
+A questo \ |LINK49|\  il mentor comunale ha fornito ai gruppi delle startup i contenitori online di dati sul turismo che oggi possono essere consultati per costruire servizi in questo ambito specifico. 
 
 --------
 
-\ |STYLE36|\  
+\ |STYLE35|\  
 
 .. _h401641481f30166a14406c3f2e321a22:
 
@@ -1007,7 +1040,7 @@ Dott.ssa Licia Romano
 
 27 aprile 2016
 
-In un incontro cooordinato dalla dott.ssa Romano sulla raccolta dei dati per la mappa dell'accessibilità ai siti per disabili \ |LINK52|\ , a cui hanno partecipato dipendenti dell'ufficio Turismo, dell'Ufficio Centro Storico (Città Storica), Webmaster è stata condivisa l'importanza di aggiornare i dati in maniera tempestiva. 
+In un incontro cooordinato dalla dott.ssa Romano sulla raccolta dei dati per la mappa dell'accessibilità ai siti per disabili \ |LINK50|\ , a cui hanno partecipato dipendenti dell'ufficio Turismo, dell'Ufficio Centro Storico (Città Storica), Webmaster è stata condivisa l'importanza di aggiornare i dati in maniera tempestiva. 
 
 A tal uopo su indicazione del Webmaster è stato proposto di predisporre un modulo online da far compilare periodicamente ai soggetti gestori di strutture ricettive e di ristorazione al fine di offrire a cittadini e turisti disabili informazioni sempre aggiornate sui livelli di accessibilità.
 
@@ -1015,7 +1048,7 @@ Il modulo online e la piattaforma web relativa saranno predisposti dal Webmaster
 
 --------
 
-\ |STYLE37|\  
+\ |STYLE36|\  
 
 .. _he46f251582070167f4e35123d629:
 
@@ -1026,19 +1059,15 @@ REFERENTI: Anna Maria Viola - Massimiliano Parlato
 
 24 aprile  2016 ore 10.00 
 
-L'Ufficio Igiene e Sanità dell'Area Innovazione Tecnologica predispone annualmente le Ordinanze comunali (\ |LINK53|\ ) per il divieto di balneazione nella costa del territorio comunale dal 1 aprile 2016 al 31 ottobre 2016, sulla base di un Decreto Regionale (\ |LINK54|\ ).
+L'Ufficio Igiene e Sanità dell'Area Innovazione Tecnologica predispone annualmente le Ordinanze comunali (\ |LINK51|\ ) per il divieto di balneazione nella costa del territorio comunale dal 1 aprile 2016 al 31 ottobre 2016, sulla base di un Decreto Regionale (\ |LINK52|\ ).
 
-A tale scopo l'ufficio Igiene e Sanità ha predisposto, oltre le Ordinanze,  un dataset contenente i dati dei divieti con le coordinate geografiche che è stato, previa condivisione con il geom Ciro Spataro, caricato dall'Ufficio stesso sul portale open data ed è disponibile al link  \ |LINK55|\ .
+A tale scopo l'ufficio Igiene e Sanità ha predisposto, oltre le Ordinanze,  un dataset contenente i dati dei divieti con le coordinate geografiche che è stato, previa condivisione con il geom Ciro Spataro, caricato dall'Ufficio stesso sul portale open data ed è disponibile al link  \ |LINK53|\ .
 
-Nel riuso del dataset, per creare una \ |LINK56|\  (a cura di Ciro Spataro) che si trova nella sezione MAPPE TEMATICHE del portale Open Data  \ |LINK57|\ , è stato rilevato che 2 coordinate geografiche fornite dall'ente Regionale (nell'allegato 5 al Decr. Reg. 317/2016: \ |LINK58|\ ) ricadono in mare, come si evince dalla foto di seguito riportata (stralcio della mappa con le coordinate dei punti di inizio e fine divieto di balneazione).
+Nel riuso del dataset, per creare una \ |LINK54|\  (a cura di Ciro Spataro) che si trova nella sezione MAPPE TEMATICHE del portale Open Data  \ |LINK55|\ , è stato rilevato che 2 coordinate geografiche fornite dall'ente Regionale (\ |LINK56|\ ) ricadono in mare.
 
-\ |IMG4|\ 
+Le coordinate errate sono legate a quella di inizio dell'ordinanza n. 63 che è in alto mare di fronte Bagheria, e quella di fine dell'ordinanza n. 60 che si trova oltre l'isolotto di Isola delle Femmine. 
 
-Le coordinate errate sono legate a quella di inizio dell'ordinanza n.63 che è in alto mare di fronte Bagheria, e quella di fine dell'ordinanza n.60 che si trova oltre l'isolotto di Isola delle Femmine. 
-
-\ |IMG5|\ 
-
-A tal uopo, con la dott. Anna Maria Viola, sono state effettuate ricerche sul web per individuare il contatto dell'Ufficio regionale che ha riportato i dati delle coordinate nell'allegato 5 al Decr. Reg. 317/2016 (\ |LINK59|\  - tel. 0917079295/96) al fine di chiedere gentilmente una revisione/correzione dei punti erroneamente individuati.
+A tal uopo, con la dott. Anna Maria Viola, sono state effettuate ricerche sul web per individuare il contatto dell'Ufficio regionale che ha riportato i dati delle coordinate nell'allegato 5 al Decr. Reg. 317/2016 (\ |LINK57|\  - tel. 0917079295/96) al fine di chiedere gentilmente una revisione/correzione dei punti erroneamente individuati.
 
 --------
 
@@ -1047,7 +1076,7 @@ A tal uopo, con la dott. Anna Maria Viola, sono state effettuate ricerche sul we
 2° Quadrimestre 2016
 ********************
 
-\ |STYLE38|\ 
+\ |STYLE37|\ 
 
 .. _h195658296447263a7b7f102b244666:
 
@@ -1066,15 +1095,15 @@ Il tema della giornata formativa è stato richiesto dalla Preside e dai Docenti 
 
 L'Ufficio Innovazione Tecnologica del Comune ha avviato un rapporto di collaborazione con l'IPS Einaudi al fine di divulgare l'uso e la cultura degli open data nel mondo della scuola.
 
-I ragazzi hanno appreso il metodo di costruzione delle mappe sulla piattaforma UMAP e su input dei docenti, hanno realizzato la seguente mappa \ |LINK60|\ ,considerato che a breve ospiteranno i compagni provenienti da altri paesi del mondo nel contesto di un Programma Erasmus+.
+I ragazzi hanno appreso il metodo di costruzione delle mappe sulla piattaforma UMAP e su input dei docenti, hanno realizzato la seguente mappa \ |LINK58|\ ,considerato che a breve ospiteranno i compagni provenienti da altri paesi del mondo nel contesto di un Programma Erasmus+.
 
-La Preside dell'Istituto ha anche dato notizia che il Collegio dei Docenti ha approvato una deliberazione in cui si da avvio al "Laboratorio Permanente Open Data" della scuola. Questo Laboratorio può incubare diversi progetti annuali in cui possono essere forniti contributi operativi da partenariati in cui trovano posto enti pubblici come ad esempio il Comune di Palermo, la Camera di Commercio e Community attive sul mondo degli open data (\ |LINK61|\ ) .
+La Preside dell'Istituto ha anche dato notizia che il Collegio dei Docenti ha approvato una deliberazione in cui si da avvio al "Laboratorio Permanente Open Data" della scuola. Questo Laboratorio può incubare diversi progetti annuali in cui possono essere forniti contributi operativi da partenariati in cui trovano posto enti pubblici come ad esempio il Comune di Palermo, la Camera di Commercio e Community attive sul mondo degli open data (\ |LINK59|\ ) .
 
 Il geom. Ciro Spataro ha, quindi,  assicurato la collaborazione dell'Area Innovazione Tecnologica al Laboratorio Open Data dell'Istituto per la costruzione di progetti strutturati i cui risultati rappresentano servizi utili alla collettività.
 
 --------
 
-\ |STYLE39|\  
+\ |STYLE38|\  
 
 .. _h14184e7b6a1b785f354a223f5b4575:
 
@@ -1107,15 +1136,15 @@ I dataset sono stati raccolti su un foglio elettronico tabellare contenuto nel s
 
 Insieme al Geom Spataro sono state effettuate alcune ottimizzazioni sul dataset, si è proceduto al salvataggio del dataset in formato csv, quindi si è proceduto, previa autorizzazione/condivisione del Dirigente del Servizio, a caricare i dataset sul portale open data che sono disponibili ai link:
 
-* \ |LINK62|\  
+* \ |LINK60|\  
 
-* \ |LINK63|\  
+* \ |LINK61|\  
 
-Il geom. Spataro ha riutilizzato il dataset sulle scuole dell'infanzia per la creazione di un infografica: \ |LINK64|\  che mostra in maniera dinamica e graficamente più fruibile i dati.
+Il geom. Spataro ha riutilizzato il dataset sulle scuole dell'infanzia per la creazione di un infografica: \ |LINK62|\  che mostra in maniera dinamica e graficamente più fruibile i dati.
 
 --------
 
-\ |STYLE40|\  
+\ |STYLE39|\  
 
 .. _h7f65b364f34e22277c396e59354e6c:
 
@@ -1136,13 +1165,13 @@ Il Servizio gestisce principalmente due dataset:
 
 * elenco degli oggetti smarriti. Forze dell'Ordine e Uffici Postali trasmettono settimanalmente all'Ufficio Economato oggetti e documenti personali smarriti. L'Ufficio cataloga oggetti e documenti ed effettua il rilascio ai proprietari che sono in grado di dimostrarne la proprietà.
 
-Durante la riunione si è analizzato il dataset degli oggetti e documenti smarriti dal 1 gennaio 2016 al 13 maggio 2016 e si è proceduto alla pubblicazione sul portale open data: \ |LINK65|\  
+Durante la riunione si è analizzato il dataset degli oggetti e documenti smarriti dal 1 gennaio 2016 al 13 maggio 2016 e si è proceduto alla pubblicazione sul portale open data: \ |LINK63|\  
 
 I referenti stanno provvedendo a bonificare il dataset dell emissioni degli amministratori per la pubblicazione sul portale open data.
 
 --------
 
-\ |STYLE41|\  
+\ |STYLE40|\  
 
 .. _h10632072506659d382d4d1cd2e4e23:
 
@@ -1163,7 +1192,7 @@ Una volta terminata l'attività di eliminazione dei dati che riconducono all'ide
 
 --------
 
-\ |STYLE42|\  
+\ |STYLE41|\  
 
 .. _h682465734d7d6c206760307116286324:
 
@@ -1178,7 +1207,7 @@ Il Servizio Inventario del Settore Valorizzazione Risorse Patrimoniali gestisce 
 
 L'applicativo Patrimonio è molto ricco per quanto riguarda la descrizione delle informazioni che sono attribuibili ad ogni singolo immobile comunale.
 
-Per quanto riguarda la pubblicazione online della consistenza del patrimonio immobiliare, il Servizio Inventario ha provveduto a pubblicare online nell'Area Amministrazione Trasparente ed in formato pdf/a (\ |LINK66|\ ) l'elenco degli immobili di proprietà comunale con i seguenti dati.
+Per quanto riguarda la pubblicazione online della consistenza del patrimonio immobiliare, il Servizio Inventario ha provveduto a pubblicare online nell'Area Amministrazione Trasparente ed in formato pdf/a (\ |LINK64|\ ) l'elenco degli immobili di proprietà comunale con i seguenti dati.
 
 * descrizione immobile
 
@@ -1230,7 +1259,7 @@ Nell'attesa che la SISPI effettui quanto sopra indicato, l'Ufficio può intanto 
 
 --------
 
-\ |STYLE43|\ 
+\ |STYLE42|\ 
 
 .. _h4736035f495319575559444e53673:
 
@@ -1286,7 +1315,7 @@ Si è colta l'occasione dell'incontro per condividere conoscenza e formazione su
 
 
 
-\ |STYLE44|\ 
+\ |STYLE43|\ 
 
 .. _h486d3258724049c231f1c33147427:
 
@@ -1299,7 +1328,7 @@ LABORATORIO OPEN DATA CON L'ISTITUTO E LA COMMUNITY OPENDATASICILIA
 
 31 MAGGIO 2016
 
-Insieme ai docenti e agli studenti di una terza classe dell'IPS Einaudi, e Marco Alfano e Davide Taibi (CNR) della community \ |LINK67|\  si divulgano i concetti sull'importanza dei dati nella società al fine di effettuare scelte consapevoli nella vita quotidiana.
+Insieme ai docenti e agli studenti di una terza classe dell'IPS Einaudi, e Marco Alfano e Davide Taibi (CNR) della community \ |LINK65|\  si divulgano i concetti sull'importanza dei dati nella società al fine di effettuare scelte consapevoli nella vita quotidiana.
 
 Gli studenti si rendono subito conto della presenza in ogni dove di dati nella vita di ogni giorno, da quelli sui social network alle banche dati delle pubbliche amministrazioni.
 
@@ -1309,13 +1338,13 @@ Si prosegue con la descrizione dei dati in formato aperto.
 
 Si fanno esempi dei formati pdf derivanti da scansioni, in cui non è possibile cercare o selezionare una parte del contenuto, ai pdf/a in cui si possono effettuare ricerche testuali ma non si adattano al riuso da parte di sfotware, ai formati tabellari EXCEL/CSV, ai formati html delle pagine web.
 
-Si effettua un esperimento di riuso dei dati contenuti in una classica pagina web; attraverso il servizio web \ |LINK68|\  si effettua un estrazione dei dati elencati in un \ |LINK69|\  per generare un formato CSV da utilizzare, in un secondo step, su GoogleMaps per creare una mappa georeferenziata in cui GoogleMaps, attraverso l'indicazione dell'indirizzo contenuto nel formato CSV, genera automaticamente una mappa utile per la consultazione.
+Si effettua un esperimento di riuso dei dati contenuti in una classica pagina web; attraverso il servizio web \ |LINK66|\  si effettua un estrazione dei dati elencati in un \ |LINK67|\  per generare un formato CSV da utilizzare, in un secondo step, su Google Maps per creare una mappa georeferenziata in cui GoogleMaps, attraverso l'indicazione dell'indirizzo contenuto nel formato CSV, genera automaticamente una mappa utile per la consultazione.
 
 Gli studenti mostrano un elevato livello di attenzione e interesse senza alcuna difficoltà nelle varie fasi dell'esperimento didattico sull'uso dei dati per creare servizi informativi.
 
 --------
 
-\ |STYLE45|\ 
+\ |STYLE44|\ 
 
 .. _h763a422860412d4a2e4540348381c2:
 
@@ -1328,11 +1357,11 @@ REFERENTI: SIG.  GIROLAMO RENDA, PULLARA SALVATORE (esperto in sistemi di georef
 
 Il referente sig. Renda ha proceduto a caricare diversi dataset sul portale open data nell'ultimo mese di Giugno 2016:
 
-* \ |LINK70|\ ;
+* \ |LINK68|\ ;
 
-* \ |LINK71|\ ;
+* \ |LINK69|\ ;
 
-* \ |LINK72|\ .
+* \ |LINK70|\ .
 
 Tale pubblicazione attesta la notevole attività di controllo svolta nel territorio dal Corpo di Polizia Municipale.
 
@@ -1346,7 +1375,7 @@ Il referente si appresta inoltre a pubblicare nei prossimi giorni i seguenti dat
 
 --------
 
-\ |STYLE46|\ 
+\ |STYLE45|\ 
 
 .. _h215b5b20655e7d2d28c66a401a5e:
 
@@ -1357,17 +1386,15 @@ REFERENTE TEMATICO: DOTT.SSA SILVANA GUGLIOTTA
 
 8 AGOSTO 2016
 
-L'Area cura in maniera particolare la redazione del \ |LINK73|\  e del \ |LINK74|\ .
+L'Area cura in maniera particolare la redazione del \ |LINK71|\  e del \ |LINK72|\ .
 
 La referente tematica, dott.ssa Gugliotta ha illustrato abilmente le modalità di redazione dei due importanti documenti che rappresentano la fotografia delle attività dell'Amministrazione.
 
 I due documenti sono basati sull'utilizzo di una notevole mole di dati che viene aggregata dall'Area Relazioni Istituzionali, Sviluppo e Innovazione, dati che provengono via email dai Dirigenti di tutti gli uffici/servizi comunali.
 
-La versione 2015 del \ |LINK75|\ , diversamente dagli anni precedenti (in cui si produceva un corposo file pdf di centinaia di pagine) è costituita da diverse pagine web suddivise per tematismi, risultando così di agevole e semplice consultazione.
+La versione 2015 del \ |LINK73|\ , diversamente dagli anni precedenti (in cui si produceva un corposo file pdf di centinaia di pagine) è costituita da diverse pagine web suddivise per tematismi, risultando così di agevole e semplice consultazione.
 
-Il Controllo di Gestione, presenta una sua versione sintetica denominata "\ |LINK76|\ " caratterizzata dalla presenza di tabelle con importanti dati sui costi ed entrate dell'Amministrazione. 
-
-\ |IMG6|\ 
+Il Controllo di Gestione, presenta una sua versione sintetica denominata "\ |LINK74|\ " caratterizzata dalla presenza di tabelle con importanti dati sui costi ed entrate dell'Amministrazione suddivise per le Aree amministrative. 
 
 Il documento "aspetti chiave è suddiviso in:
 
@@ -1398,7 +1425,7 @@ Tali dati risultano essere molto utili per la pubblicazione in formato aperto. E
 3° Quadrimestre 2016
 ********************
 
-\ |STYLE47|\ 
+\ |STYLE46|\ 
 
 .. _h104a161a6931755f1501f186e30526f:
 
@@ -1407,15 +1434,15 @@ OPENDATASICILIA EVENT
 
 2.3.4 settembre 2016 Messina Università Facoltà Scienze Cognitive 
 
-La comunità di \ |LINK77|\  si è incontrata dal 2 al 4 Settembre 2016 a Messina, ospitata nella sede della facoltà di Scienze Cognitive della locale Università, con un \ |LINK78|\  di tre giornate di confronto, workshop formativi ad accesso gratuito e gruppi di sviluppo progettuale per lavorare sugli Open Data.
+La comunità di \ |LINK75|\  si è incontrata dal 2 al 4 Settembre 2016 a Messina, ospitata nella sede della facoltà di Scienze Cognitive della locale Università, con un \ |LINK76|\  di tre giornate di confronto, workshop formativi ad accesso gratuito e gruppi di sviluppo progettuale per lavorare sugli Open Data.
 
-Un programma molto ricco di eventi sul mondo dei dati aperti a 360 gradi, con partecipanti provenienti da diverse parti d'Italia (guarda la \ |LINK79|\ ) e con la partecipazione speciale della rappresentante del portale europeo dei dati aperti \ |LINK80|\ .
+Un programma molto ricco di eventi sul mondo dei dati aperti a 360 gradi, con partecipanti provenienti da diverse parti d'Italia (guarda la \ |LINK77|\ ) e con la partecipazione speciale della rappresentante del portale europeo dei dati aperti \ |LINK78|\ .
 
-Report dell'evento\ |STYLE48|\  \ |LINK81|\  
+Report dell'evento\ |STYLE47|\  \ |LINK79|\  
 
 --------
 
-\ |STYLE49|\  
+\ |STYLE48|\  
 
 .. _h5d482b2c356718255b4f603f7e2e5c6c:
 
@@ -1424,13 +1451,13 @@ WEBINAR Linee guida nazionali open data 2016
 
 15 settembre 2016
 
-\ |LINK82|\ 
+\ |LINK80|\ 
 
-Partecipazione ad un importante \ |LINK83|\  in cui ci si è confrontati, a livello nazionale, sulle redigende linee guida nazionali open data. Organizzato dal Formez e dal portale nazionale dei dati aperti \ |LINK84|\   
+Partecipazione ad un importante \ |LINK81|\  in cui ci si è confrontati, a livello nazionale, sulle redigende linee guida nazionali open data. Organizzato dal Formez e dal portale nazionale dei dati aperti \ |LINK82|\   
 
 --------
 
-\ |STYLE50|\ 
+\ |STYLE49|\ 
 
 .. _h5568303641f192e6b122c176af7e1:
 
@@ -1447,7 +1474,7 @@ L'incontro si è svolto con diversi referenti appartenenti a Servizi diversi del
 
 L'Area gestisce le attività di rilascio autorizzazioni agli operatori commerciali che operano nel territorio comunale.
 
-I dati detenuti dall'Area derivano dall'applicativo SUPERA creato dall'Azienda SISPI Spa e utilizzato per il rapporto con l'utenza cittadina (\ |LINK85|\ ).
+I dati detenuti dall'Area derivano dall'applicativo SUPERA creato dall'Azienda SISPI Spa e utilizzato per il rapporto con l'utenza cittadina (\ |LINK83|\ ).
 
 I dataset proposti dai referenti rappresentano degli export dell'applicativo SUPERA, dove si effettua un lavoro di filtraggio delle informazioni che afferiscono alla privacy.
 
@@ -1461,11 +1488,11 @@ Purtroppo all'interno delle 2 macrocategorie non è oggi possibile effettuare un
 
 Sono stati esaminati congiuntamente i seguenti dataset.
 
-#. Acconciature ed estetisti. Un dataset che riporta la ragione sociale, la distinzione tra acconciature per uomo, donna, e l'indirizzo. Il dataset è stato pubblicato insieme mostrando così ai referenti il processo di metadatazione e caricamento dell'allegato csv sul portale Open Data. Il dataset è disponibile al link \ |LINK86|\ .
+#. Acconciature ed estetisti. Un dataset che riporta la ragione sociale, la distinzione tra acconciature per uomo, donna, e l'indirizzo. Il dataset è stato pubblicato insieme mostrando così ai referenti il processo di metadatazione e caricamento dell'allegato csv sul portale Open Data. Il dataset è disponibile al link \ |LINK84|\ .
 
 #. Mercatini rionali. L'Area gestisce in formato Autocad (DWG) i dati delle perimetrazioni dei mercatini rionali e a tal uopo i referenti si impegnano a fornire al geom Spataro un formato dal quale è facilmente possibile creare una mappa georeferenziata degli stessi, dal quale si può estrarre il file kml/geojson da pubblicare nel portale open data.
 
-#. Operatori del commercio che occupano il suolo pubblico permanentemente. Da un database in cui sono disponibili più tipologie di dati (tra i quali i numerosi operatori del mercato in modalità intinerante) è possibile creare un dataset specifico con gli operatori che stazionano fissi sul suolo pubblico. I referenti open data dell'Area si impegnano a selezionare questa tipologia di dati per la pubblicazione sul portale open data.
+#. Operatori del commercio che occupano il suolo pubblico permanentemente. Da un database in cui sono disponibili più tipologie di dati (tra i quali i numerosi operatori del mercato in modalità itinerante) è possibile creare un dataset specifico con gli operatori che stazionano fissi sul suolo pubblico. I referenti open data dell'Area si impegnano a selezionare questa tipologia di dati per la pubblicazione sul portale open data.
 
 #. Attività turistico alberghiere della città. I referenti si impegnano a pubblicare l'interessante dataset sul portale open data.
 
@@ -1477,24 +1504,24 @@ L'incontro è stato di una certa rilevanza anche alla luce delle determinazioni 
 
 --------
 
-\ |STYLE51|\ 
+\ |STYLE50|\ 
 
-.. _h1c6269565b6c1020171d57159452437:
+.. _h5b695e397f746854491d211d574358:
 
 
-PROGETTO BIGGERDATA, CONSIGLIO  NAZIONALE DELLE RICERCHE DI PALERMO
-====================================================================
+PROGETTO BIGGER DATA, CONSIGLIO  NAZIONALE DELLE RICERCHE DI PALERMO
+=====================================================================
 
 VIA UGO LA MALFA
 
 19 Ottobre 2016
 
-Partecipazione alla giornata conclusiva del progetto \ |LINK87|\  presso il CNR di Palermo con la presentazione dello stato dell’arte sugli open data del Comune di Palermo:
+Partecipazione alla giornata conclusiva del progetto \ |LINK85|\  presso il CNR di Palermo con la presentazione dello stato dell’arte sugli open data del Comune di Palermo:
 
-\ |LINK88|\  
+\ |LINK86|\  
 
 
-\ |STYLE52|\ 
+\ |STYLE51|\ 
 
 .. _h634a1e3154337d55262455114422cb:
 
@@ -1503,13 +1530,13 @@ GALLERIA ARTE MODERNA
 
 27 Ottobre 2016
 
-Partecipazione alla giornata \ |LINK89|\   Organizzato da \ |LINK90|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK91|\ ).
+Partecipazione alla giornata \ |LINK87|\   Organizzato da \ |LINK88|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK89|\ ).
 
-\ |LINK92|\ .
+\ |LINK90|\ .
 
 --------
 
-\ |STYLE53|\ 
+\ |STYLE52|\ 
 
 .. _h18711f7c5c62655e727457443a943:
 
@@ -1520,11 +1547,11 @@ Dott. G.Meli
 
 28  novembre 2016
 
-Con il Webmaster è stato analizzato l'argomento sui dati della qualità dell'aria della città di Palermo. I dati sono rilevati dalla Società partecipata comunale RAP SpAe sono disponibili pubblicamente in  bollettini giornalieri e mensili in formato pdf/a al link \ |LINK93|\ . A seguito di contatti con lo staff della Società Rap che si occupa delle attività di rilevamento della qualità dell'aria, sono stati forniti al Webmaster dei dataset sugli stessi dati. Il Webmaster sta provvedendo alla verifica della qualità dei dati ed a eventuali bonifiche propedeutiche alla pubblicazione nel portale open data, che avverrà tra la fine del 2016 e l'inizio del 2017.
+Con il Webmaster è stato analizzato l'argomento sui dati della qualità dell'aria della città di Palermo. I dati sono rilevati dalla Società partecipata comunale RAP SpA e sono disponibili pubblicamente in  bollettini giornalieri e mensili in formato pdf/a al link \ |LINK91|\ . A seguito di contatti con lo staff della Società Rap che si occupa delle attività di rilevamento della qualità dell'aria, sono stati forniti al Webmaster dei dataset sugli stessi dati. Il Webmaster sta provvedendo alla verifica della qualità dei dati ed a eventuali bonifiche propedeutiche alla pubblicazione nel portale open data, che avverrà tra la fine del 2016 e l'inizio del 2017.
 
 --------
 
-\ |STYLE54|\ 
+\ |STYLE53|\ 
 
 .. _h6b12462b4562716527458f72674c:
 
@@ -1539,7 +1566,7 @@ REFERENTI: Michela Alba e Cesare Cozzo
 
 A seguito di un precedente incontro di mesi fa ci si ri-aggiorna per provvedere all'esame del dataset relativo alle procedure espropriative necessarie per la realizzazione del sistema di trasporto tranviario di Palermo e specificatamente le particelle espropriate per la realizzazione dell'opera.
 
-Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio  Espropriazioni a  provveduto al caricamento dello stesso sul portale istituzionale open data, che risulta disponibile al link \ |LINK94|\  .
+Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio  Espropriazioni a  provveduto al caricamento dello stesso sul portale istituzionale open data, che risulta disponibile al link \ |LINK92|\  .
 
 
 .. _h4252337b2d75242410a14b4bd6e43:
@@ -1547,7 +1574,7 @@ Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio
 1° Quadrimestre 2017
 ********************
 
-\ |STYLE55|\ 
+\ |STYLE54|\ 
 
 .. _h365d4751185847518127463510744:
 
@@ -1566,13 +1593,13 @@ Ormai i referenti di questo Ufficio hanno acquisito una validissima abilità nel
 
 I due dataset sono stati pubblicati online alla fine dell'incontro e sono disponibili alle seguenti pagine:
 
-* \ |LINK95|\ 
+* \ |LINK93|\ 
 
-* \ |LINK96|\ 
+* \ |LINK94|\ 
 
 --------
 
-\ |STYLE56|\ 
+\ |STYLE55|\ 
 
 .. _h5b19355172e69744f4a493f5a83c2a:
 
@@ -1583,113 +1610,113 @@ REFERENTE: Giuseppe Morelli (tematico) 3770, e Giovanni Mascari
 
 31 gennaio 2017 presso l'Ufficio Elettorato
 
-E' stato effettuato un incontro con i referenti dell'Ufficio Elettorato per la pubblicazione di importanti dataset sulle elezioni svolte nel territorio comunale di Palermo: \ |LINK97|\ .
+E' stato effettuato un incontro con i referenti dell'Ufficio Elettorato per la pubblicazione di importanti dataset sulle elezioni svolte nel territorio comunale di Palermo: \ |LINK95|\ .
 
-Nell'occasione sono stati definiti i criteri con i quali viene \ |LINK98|\  in maniera corretta.
+Nell'occasione sono stati definiti i criteri con i quali viene \ |LINK96|\  in maniera corretta.
 
 Con il supporto del Webmaster sono stati pubblicati diversi dataset - di seguiti elencati - in formato XML che derivano dall'applicativo gestionale con i quali vengono raccolti, nelle sezioni elettorali, i dati delle consultazioni:
 
-\ |LINK99|\ 
+\ |LINK97|\ 
 
 ELEZIONI CIRCOSCRIZIONALI 2012 - VOTI CANDIDATI PRESIDENTE
 
-\ |LINK100|\ 
+\ |LINK98|\ 
 
 ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE
 
-\ |LINK101|\ 
+\ |LINK99|\ 
 
 ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO CANDIDATI CONSIGLIERI PER LISTA
 
-\ |LINK102|\ 
+\ |LINK100|\ 
 
 ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO SEZIONI SCRUTINATE
 
-\ |LINK103|\ 
+\ |LINK101|\ 
 
 ELEZIONI AMMINISTRATIVE 2012 - VOTI CANDIDATI SINDACO 2° TURNO - BALLOTTAGGIO
 
-\ |LINK104|\ 
+\ |LINK102|\ 
 
 ELEZIONI AMMINISTRATIVE 2012 - VOTI CANDIDATI SINDACO 1° TURNO
 
-\ |LINK105|\ 
+\ |LINK103|\ 
 
 ELEZIONI AMMINISTRATIVE ANNO 2012 - RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE
 
-\ |LINK106|\ 
+\ |LINK104|\ 
 
 ELEZIONI AMMINISTRATIVE ANNO 2012 - DATI RELATIVI AI CANDIDATI CONSIGLIERI PER LISTA
 
-\ |LINK107|\ 
+\ |LINK105|\ 
 
 ELEZIONI AMMINISTRATIVE ANNO 2012 - DATI RELATIVI ALLE SEZIONI SCRUTINATE AL 1° TURNO
 
-\ |LINK108|\ 
+\ |LINK106|\ 
 
 ELEZIONI AMMINISTRATIVE ANNO 2012 - DATI RELATIVI ALLE SEZIONI SCRUTINATE AL 2° TURNO - BALLOTTAGGIO
 
-\ |LINK109|\ 
+\ |LINK107|\ 
 
 RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE CONSIGLIO COMUNALE
 
-\ |LINK110|\ 
+\ |LINK108|\ 
 
 RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE
 
-\ |LINK111|\ 
+\ |LINK109|\ 
 
 VOTI LISTA SU 600 SEZIONI
 
-\ |LINK112|\ 
+\ |LINK110|\ 
 
 VOTI LISTA CAMERA SU 600 SEZIONI
 
-\ |LINK113|\ 
+\ |LINK111|\ 
 
 VOTI AI GRUPPI PER SEZIONE
 
-\ |LINK114|\ 
+\ |LINK112|\ 
 
 RISULTATI DELLE 600 SEZIONI
 
+\ |LINK113|\ 
+
+RIEPILOGO VOTI ALLE LISTE PER SEZIONE
+
+\ |LINK114|\ 
+
+RIEPILOGO VOTI ALLE LISTE PER SEZIONE
+
 \ |LINK115|\ 
-
-RIEPILOGO VOTI ALLE LISTE PER SEZIONE
-
-\ |LINK116|\ 
-
-RIEPILOGO VOTI ALLE LISTE PER SEZIONE
-
-\ |LINK117|\ 
 
 RIEPILOGO VOTI PRESIDENTE
 
-\ |LINK118|\ 
+\ |LINK116|\ 
 
 V CIRCOSCRIZIONE: ITALIA INSULARE VOTI CANDIDATI AL PARLAMENTO EUROPEO PER LISTA
 
-\ |LINK119|\ 
+\ |LINK117|\ 
 
 CONTIENE RIEPILOGO VOTI DI LISTA
 
-\ |LINK120|\ 
+\ |LINK118|\ 
 
 CONTIENE I RISULTATI RELATIVI AL REFERENDUM TENUTOSI NEL MESE DI APRILE 2016.
 
-\ |LINK121|\ 
+\ |LINK119|\ 
 
 CONTIENE I VOTI SINDACO PER SEZIONE
 
-\ |LINK122|\ 
+\ |LINK120|\ 
 
 CONTIENE I VOTI RIPORTATI DALLE LISTE PER SEZIONI.
 
-\ |LINK123|\ 
+\ |LINK121|\ 
 
 CONTIENE I VOTI RIPORTATI DAI CANDIDATI A SINDACO.
 
-\ |LINK124|\ 
+\ |LINK122|\ 
 
 CONTIENE I VOTI OTTENUTI DALLE LISTE E CANDIDATI SINDACI.
 
@@ -1697,7 +1724,7 @@ La seconda metà dei dataset sono stati pubblicati in formato CSV in quanto gli 
 
 --------
 
-\ |STYLE57|\ 
+\ |STYLE56|\ 
 
 .. _h56741102673b1b6a135bd6f24374f:
 
@@ -1710,11 +1737,11 @@ REFERENTI: Girolamo Renda e Salvatore Pullara
 
 L'incontro è stato propedeutico alla verifica dei dati relativi agli abusi rilevati dal personale dell'Area della Polizia Municipale al 2015 e al rilascio del dataset relativo che risulta pubblicato al seguente link:
 
-\ |LINK125|\  
+\ |LINK123|\  
 
 --------
 
-\ |STYLE58|\ 
+\ |STYLE57|\ 
 
 .. _h74c2c33ff42143c30462555731066:
 
@@ -1729,13 +1756,13 @@ L'incontro con l'arch. Michelangelo Salamone dell'Ufficio Toponomastica è stato
 
 CODICE, CAP, TIPO_STRADA, TOPONIMO, LIMITI_STRADA, MINIMO, BARRATO, MAX, BARRATO, CIRCOSCRIZIONE, NUMERAZIONE, TIPO SIGLA, QUARTIERE_NUMERO, QUARTIERE_NOME.
 
-Il dataset è stato pubblicato a fine incontro ed è disponibile al link: \ |LINK126|\  
+Il dataset è stato pubblicato a fine incontro ed è disponibile al link: \ |LINK124|\  
 
 Questo dataset è di utilità ad un'ampia fascia di soggetti che spesso si ritrovano a dover identificare la Circoscrizione di riferimento di una via (si pensi - ad esempio - alle iscrizioni scolastiche dove ogni scuola ha un bacino di utenza definito per Circoscrizione).
 
 --------
 
-\ |STYLE59|\ 
+\ |STYLE58|\ 
 
 .. _h1266e113b5f792d1e5343e3241b2b:
 
@@ -1750,7 +1777,7 @@ L'incontro con il referente dell'Ufficio Ambiente, Giovani Lupo, è stato utile 
 
 Tale servizio è gestito dall'Ufficio Ambiente, che redige apposito dataset geografico con le aree nelle quali è stato effettuato l'intervento di rimozione del cemento amianto, dannoso per la salute umana.
 
-Il dataset contenente i dati per il 2016 è stato pubblicato alla pagina \ |LINK127|\  
+Il dataset contenente i dati per il 2016 è stato pubblicato alla pagina \ |LINK125|\  
 
 --------
 
@@ -1764,7 +1791,7 @@ Il dataset contenente i dati per il 2016 è stato pubblicato alla pagina \ |LINK
 2° quadrimestre 2017
 ********************
 
-\ |STYLE60|\ 
+\ |STYLE59|\ 
 
 .. _h7862241b5a1d721f6d603e7416182980:
 
@@ -1775,9 +1802,9 @@ REFERENTE: Barbera
 
 3 maggio 2017
 
-Il confronto con il collega Barbera è stato utile per predisporre il dataset in formato CSV relativo alle missioni dei soggetti politici istituzionali. Essendo il dataset di lavoro in formato Excel, i colleghi dell'Ufficio missioni hanno effettuato un lavoro di pulizia o bonifica al fine di rendere il CSV quando più "pulito" possibile. L'esercizio ha un carattere didattico e induce a comprendere come strutturare bene il formato tabellare del dataset. A tale scopo risulta utile prendere visione della pagina web formativa proprio sulla costruzione di formati tabellari \ |LINK128|\  curato dal geom. Spataro
+Il confronto con il collega Barbera è stato utile per predisporre il dataset in formato CSV relativo alle missioni dei soggetti politici istituzionali. Essendo il dataset di lavoro in formato Excel, i colleghi dell'Ufficio missioni hanno effettuato un lavoro di pulizia o bonifica al fine di rendere il CSV quando più "pulito" possibile. L'esercizio ha un carattere didattico e induce a comprendere come strutturare bene il formato tabellare del dataset. A tale scopo risulta utile prendere visione della pagina web formativa proprio sulla costruzione di formati tabellari \ |LINK126|\  curato dal geom. Spataro
 
-\ |STYLE61|\ 
+\ |STYLE60|\ 
 
 .. _h42154343c4e33536a3c6b705754443c:
 
@@ -1790,6 +1817,10 @@ REFERENTE: Annalisa Maltese
 
 Un confronto con la dott.ssa Annalisa Maltese dell'Area Cultura è stato utile a seguito della pubblicazione, alla fine di aprile, dei seguenti importanti dataset in formato CSV:
 
+* \ |LINK127|\ 
+
+* \ |LINK128|\ 
+
 * \ |LINK129|\ 
 
 * \ |LINK130|\ 
@@ -1799,10 +1830,6 @@ Un confronto con la dott.ssa Annalisa Maltese dell'Area Cultura è stato utile a
 * \ |LINK132|\ 
 
 * \ |LINK133|\ 
-
-* \ |LINK134|\ 
-
-* \ |LINK135|\ 
 
 * PROGETTI STRATEGICI - GENNAIO/AGOSTO 2016
 
@@ -1818,7 +1845,7 @@ Quindi il confronto con la collega dell'Area Cultura è stato utile per condivid
 
 --------
 
-\ |STYLE62|\ 
+\ |STYLE61|\ 
 
 .. _h05b441e34532d6071284f8563e2276:
 
@@ -1837,7 +1864,7 @@ Di recente nominate referenti open data dell'Ufficio Fondi extracomunali, hanno 
 
 L'Ufficio gestisce le attività di monitoraggio dei fondi extra comunali e il monitoraggio delle attività degli interventi del PON METRO 2014-20 di Palermo.
 
-Ho mostrato alle referenti un esempio di dataset che ho creato mesi fa per il monitoraggio delle iniziative ed azioni del PON METRO: \ |LINK136|\ 
+Ho mostrato alle referenti un esempio di dataset che ho creato mesi fa per il monitoraggio delle iniziative ed azioni del PON METRO: \ |LINK134|\ 
 
 i cui dati sono desunti dai comunicati stampa e dagli atti amministrativi (deliberazioni e determinazioni dirigenziali) pubblicati sul portale web istituzionale. Le referenti hanno apprezzato il lavoro svolto nella costruzione del database e quindi ho condiviso il file (Google Drive) con loro per le attività di aggiornamento nel tempo. Dal file periodicamente possono essere scaricati i file CSV da pubblicare sul portale open data, ogni qualvolta intervengono variazioni o stati di avanzamento consistenti.
 
@@ -1849,7 +1876,7 @@ L'incontro è stato molto proficuo e le referenti hanno mostrato un elevato live
 
 --------
 
-\ |STYLE63|\ 
+\ |STYLE62|\ 
 
 .. _h3c63722c162575a6a5b7d19417876f:
 
@@ -1864,7 +1891,7 @@ L'incontro è stato richiesto dai referenti nominati dal Capo di Gabinetto. I re
 
  coordinata dal Capo di Gabinetto.
 
-Inizialmente è stata descritta l'attività di collezionamento e gestione delle interrogazioni consiliari (dei consiglieri comunali) indirizzate al Sindaco per le deleghe rivestite dal primo cittadino. Questa raccolta di dati ha fatto pensare ad un dataset da pubblicare, ma da un attento esame si è condivisa di non procedere alla pubblicazione in quanto i dati delle interrogazioni consiliari sono parziali perchè relativi alle sole deleghe del Sindaco. Una possibilità di pubblicare l'intero dataset di interrogazioni consiliari potrebbe essere offerta a seguito di una verifica da effettuare con l'\ |LINK137|\  della Segreteria Generale.
+Inizialmente è stata descritta l'attività di collezionamento e gestione delle interrogazioni consiliari (dei consiglieri comunali) indirizzate al Sindaco per le deleghe rivestite dal primo cittadino. Questa raccolta di dati ha fatto pensare ad un dataset da pubblicare, ma da un attento esame si è condivisa di non procedere alla pubblicazione in quanto i dati delle interrogazioni consiliari sono parziali perché relativi alle sole deleghe del Sindaco. Una possibilità di pubblicare l'intero dataset di interrogazioni consiliari potrebbe essere offerta a seguito di una verifica da effettuare con l'\ |LINK135|\  della Segreteria Generale.
 
 I referenti propongono una verifica interna del catalogo dei Patrocini rilasciati dal comune di Palermo per attività varie svolte da Associazioni ed Enti. A seguito di tale verifica, verrà proposta l'eventuale pubblicazione di dataset relativo.
 
@@ -1872,7 +1899,7 @@ Da rilevare le elevate competenze tecniche possedute dal sig. Luigi Cianciolo ne
 
 --------
 
-\ |STYLE64|\ 
+\ |STYLE63|\ 
 
 .. _h47e1b621bf63524122117268187171:
 
@@ -1931,7 +1958,7 @@ Il giorno 13 giugno c.a. al fine di rendere quanto prima possibile la disponibil
 
 --------
 
-\ |STYLE65|\ 
+\ |STYLE64|\ 
 
 .. _h5c7f2c6b681e26315126425c2b3455:
 
@@ -2050,7 +2077,7 @@ Società SISPI SpA, Ing. Salvatore Morreale
 
 --------
 
-\ |STYLE66|\  
+\ |STYLE65|\  
 
 .. _h5b5c7877d3a2184a25c3a96b1079:
 
@@ -2063,7 +2090,13 @@ Ing. Nunzio Salfi
 
 L'ing Salfi ha contattato lo staff del Responsabile open data al fine di verificare la qualità dei dati in possesso per la pubblicazione di alcuni dataset:
 
-\ |IMG7|\ 
+* Aree pedonali
+
+* Indicatori sulla motorizzazione
+
+* Piste ciclabili
+
+* Zone a Traffico Limitato
 
 Alcuni dataset in formato CSV stanno per essere predisposti per la pubblicazione e concernono l'evoluzione negli anni delle aree pedonali, piste ciclabili e zone a traffico limitato.
 
@@ -2076,7 +2109,7 @@ I dati sono in grado di rendere possibili analisi della progettazione effettuata
 3° Quadrimestre 2017
 ********************
 
-\ |STYLE67|\  
+\ |STYLE66|\  
 
 .. _h4d4326525f3f5965c22a557678593c:
 
@@ -2089,9 +2122,7 @@ Dirigente dott.ssa Eliana Calandra - Referente sig. Mauro Costa
 
 Su input del Responsabile open data è stata condivisa l’iniziativa di valorizzare il patrimonio artistico consistente nelle scansioni di cartoline e manufatti storici custoditi nell’Archivio e nella Biblioteca. La valorizzazione pubblica avviene grazie alla pubblicazione dei file jpg nel noto network FLICKR per la esposizione online di fotografie.
 
-L'idea originaria parte dal lavoro svolto dalla British Library \ |LINK138|\  che ad oggi ha pubblicato con licenza CCO (pubblico dominio) oltre 1 milione di immagini scansionate di manoscritti e dipinti custoditi all'interno del sito fisico della Biblioteca di fama mondiale.
-
-\ |IMG8|\ 
+L'idea originaria parte dal lavoro svolto dalla British Library \ |LINK136|\  che ad oggi ha pubblicato con licenza CCO (pubblico dominio) oltre 1 milione di immagini scansionate di manoscritti e dipinti custoditi all'interno del sito fisico della Biblioteca di fama mondiale.
 
 La dott.ssa Calandra si è resa consapevole dell'importanza di valorizzare pubblicamente le numerose scansioni ad oggi effettuate dal personale del Servizio dalla stessa diretto. 
 
@@ -2103,7 +2134,7 @@ Le immagini saranno rilasciate nella piattaforma FLICKR con licenza CC BY 4.0, l
 
 --------
 
-\ |STYLE68|\  
+\ |STYLE67|\  
 
 .. _h5d4e7a266f407b3c2c2a777916447518:
 
@@ -2140,11 +2171,11 @@ Alla data odierna si è provveduto a raccogliere i dati dagli anni 2011 al 2016 
 
 Il dataset è stato pubblicato insieme al geom. Spataro che ha fornito una guida per le procedure di caricamento del dataset e della compilazione della metadatazione.
 
-Il dataset pubblicato è disponibile alla pagina \ |LINK139|\  
+Il dataset pubblicato è disponibile alla pagina \ |LINK137|\  
 
 --------
 
-\ |STYLE69|\   
+\ |STYLE68|\   
 
 .. _h4d4326525f3f5965c22a557678593c:
 
@@ -2155,7 +2186,7 @@ Referente sig. Mauro Costa
 
 20 ottobre 2017
 
-Nell'ambito delle attività legate alla valorizzazione del patrimonio informativo comunale, è stato costruito, insieme al gruppo di lavoro "Promozione e Comunicazione" della Biblioteca Comunale di Palermo, il profilo Flickr \ |LINK140|\  per la pubblicazione del patrimonio storico già digitalizzato.
+Nell'ambito delle attività legate alla valorizzazione del patrimonio informativo comunale, è stato costruito, insieme al gruppo di lavoro "Promozione e Comunicazione" della Biblioteca Comunale di Palermo, il profilo Flickr \ |LINK138|\  per la pubblicazione del patrimonio storico già digitalizzato.
 
 Sono stati avviati i caricamenti delle foto scegliendo la licenza CC BY SA prevista dalle linee guida comunali open data.
 
@@ -2163,15 +2194,15 @@ Questa iniziativa rappresenta un importante passo dell'Amministrazione che conse
 
 L'accesso ai dati, tramite le API di Flickr, è assicurato dai seguenti link:
 
-* \ |LINK141|\ 
+* \ |LINK139|\ 
 
-* \ |LINK142|\ 
+* \ |LINK140|\ 
 
-* \ |LINK143|\  
+* \ |LINK141|\  
 
-* \ |LINK144|\  
+* \ |LINK142|\  
 
-Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblicati attraverso il servizio reso disponibile da Flickr: \ |LINK145|\  
+Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblicati attraverso il servizio reso disponibile da Flickr: \ |LINK143|\  
 
 --------
 
@@ -2180,7 +2211,7 @@ Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblica
 1 Quadrimestre 2018
 *******************
 
-\ |STYLE70|\  
+\ |STYLE69|\  
 
 .. _h55e6210e6c1040636565476c48317b:
 
@@ -2195,13 +2226,13 @@ La Polizia Municipale nell'espletamento delle proprie attività di controllo del
 
 Sono stati resi ottimizzati e successivamente resi disponibili dalla Polizia Municipale:
 
-* gli interventi effettuati relativi alla presenza di amianto nel territorio comunale di palermo, dalla polizia municipale nel 2017 con dati georeferenziati: \ |LINK146|\  
+* gli interventi effettuati relativi alla presenza di amianto nel territorio comunale di palermo, dalla polizia municipale nel 2017 con dati georeferenziati: \ |LINK144|\  
 
-* i sinistri stradali rilevati dalla polizia municipale nel territorio del comune di palermo nell'anno 2017: \ |LINK147|\   
+* i sinistri stradali rilevati dalla polizia municipale nel territorio del comune di palermo nell'anno 2017: \ |LINK145|\   
 
 --------
 
-\ |STYLE71|\  
+\ |STYLE70|\  
 
 .. _h322c1b543433456c45267210c486c6d:
 
@@ -2212,11 +2243,61 @@ Referente dott.ssa Patrizia Piazza
 
 19 marzo 2018
 
-L'Area Servizi alla città provvede alla raccolta dei dati sui servizi erogati negli sportelli fisici decentrati nelle Circoscrizioni. Per l'anno 2017 sono stati resi disponibili questi importanti dati di seguito riportati:
+L'Area Servizi alla città provvede alla raccolta dei dati sui servizi erogati negli sportelli fisici decentrati in ognuna delle 8 Circoscrizioni. Per l'anno 2017 sono stati resi disponibili questi importanti dati di seguito riportati per Circoscrizione:
 
-\ |IMG9|\ 
+* ASSEGNO DI MATERNITA' ART.74 DECRETO LEGISLATIVO 151 DEL 2001
 
-E' stato quindi pubblicato il dataset relativo, al link: \ |LINK148|\  
+* ASSEGNO NUCLEO FAMILIARE CON ALMENO TRE FIGLI MINORI  ART.65 LEGGE 448 DEL 1998
+
+* BONUS ENEL
+
+* BONUS GAS
+
+* BONUS ENEL/GAS
+
+* DISAGIO ALLOGGIATIVO
+
+* BONUS FIGLIO ART.6 COM. 5 L.R.31_07_2003
+
+* CARTA SIA
+
+* RILASCIO TESSERINI FUNGHI
+
+* RILASCIO TESSERINI VENATORI
+
+* CARTA REI
+
+* TARI
+
+* CERTIFICATI  ANAGRAFICI
+
+* CERTIFICATI STATO CIVILE
+
+* CERTIFICATI ELETTORALE
+
+* DICHIARAZIONI SOSTITUTIVE E AUTENTICHE
+
+* CAMBI DOMICILIO
+
+* CARTE D'IDENTITÀ RESIDENTI
+
+* CARTE D'IDENTITÀ NON RESIDENTI
+
+* PIN  ACCESSO SERVIZI ONLINE
+
+* PASS ZONE BLU
+
+* REGISTRAZIONI NASCITE
+
+* REGISTRAZIONI MORTE
+
+* REGISTRAZIONI MATRIMONI
+
+* PUBBLICAZIONI MATRIMONI
+
+* CARTA D'IDENTITA' PER SCELTE DONAZIONI ORGANI
+
+E' stato, quindi, pubblicato il dataset relativo, al link: \ |LINK146|\  
 
 --------
 
@@ -2244,129 +2325,127 @@ E' stato quindi pubblicato il dataset relativo, al link: \ |LINK148|\
 
 .. |STYLE9| replace:: **5-**
 
-.. |STYLE10| replace:: **SERVIZI ALLA COLLETTIVITA' / PIANO TRAFFICO**
+.. |STYLE10| replace:: **6-**
 
-.. |STYLE11| replace:: **6-**
+.. |STYLE11| replace:: **Dataset ritenuti di interesse prioritario condivisi dal Capo Area per la pubblicazione in open data**
 
-.. |STYLE12| replace:: **dataset ritenuti di interesse prioritario condivisi dal Capo Area per la pubblicazione in open data**
+.. |STYLE12| replace:: **7-**
 
-.. |STYLE13| replace:: **7-**
+.. |STYLE13| replace:: **8-**
 
-.. |STYLE14| replace:: **8-**
+.. |STYLE14| replace:: **9-**
 
-.. |STYLE15| replace:: **9-**
+.. |STYLE15| replace:: **10-**
 
-.. |STYLE16| replace:: **10-**
+.. |STYLE16| replace:: **11-**
 
-.. |STYLE17| replace:: **11-**
+.. |STYLE17| replace:: **12-**
 
-.. |STYLE18| replace:: **12-**
+.. |STYLE18| replace:: **13-**
 
-.. |STYLE19| replace:: **13-**
+.. |STYLE19| replace:: **14-**
 
-.. |STYLE20| replace:: **14-**
+.. |STYLE20| replace:: **15-**
 
-.. |STYLE21| replace:: **15-**
+.. |STYLE21| replace:: **16-**
 
-.. |STYLE22| replace:: **16-**
+.. |STYLE22| replace:: **17-**
 
-.. |STYLE23| replace:: **17-**
+.. |STYLE23| replace:: **18-**
 
-.. |STYLE24| replace:: **18-**
+.. |STYLE24| replace:: **19-**
 
-.. |STYLE25| replace:: **19-**
+.. |STYLE25| replace:: **20-**
 
-.. |STYLE26| replace:: **20-**
+.. |STYLE26| replace:: **21-**
 
-.. |STYLE27| replace:: **21-**
+.. |STYLE27| replace:: **22-**
 
-.. |STYLE28| replace:: **22-**
+.. |STYLE28| replace:: **23 -**
 
-.. |STYLE29| replace:: **23 -**
+.. |STYLE29| replace:: **24 -**
 
-.. |STYLE30| replace:: **24 -**
+.. |STYLE30| replace:: **realizzare 2 eventi didattici formativi sugli open data**
 
-.. |STYLE31| replace:: **realizzare 2 eventi didattici formativi sugli open data**
+.. |STYLE31| replace:: **Un laboratorio permanente della scuola**
 
-.. |STYLE32| replace:: **Un laboratorio permanente della scuola**
+.. |STYLE32| replace:: **25 -**
 
-.. |STYLE33| replace:: **25 -**
+.. |STYLE33| replace:: **26 -**
 
-.. |STYLE34| replace:: **26 -**
+.. |STYLE34| replace:: **27 -**
 
-.. |STYLE35| replace:: **27 -**
+.. |STYLE35| replace:: **28-**
 
-.. |STYLE36| replace:: **28-**
+.. |STYLE36| replace:: **29 -**
 
-.. |STYLE37| replace:: **29 -**
+.. |STYLE37| replace:: **30 -**
 
-.. |STYLE38| replace:: **30 -**
+.. |STYLE38| replace:: **31-**
 
-.. |STYLE39| replace:: **31-**
+.. |STYLE39| replace:: **32-**
 
-.. |STYLE40| replace:: **32-**
+.. |STYLE40| replace:: **33-**
 
-.. |STYLE41| replace:: **33-**
+.. |STYLE41| replace:: **34-**
 
-.. |STYLE42| replace:: **34-**
+.. |STYLE42| replace:: **35-**
 
-.. |STYLE43| replace:: **35-**
+.. |STYLE43| replace:: **36-**
 
-.. |STYLE44| replace:: **36-**
+.. |STYLE44| replace:: **37-**
 
-.. |STYLE45| replace:: **37-**
+.. |STYLE45| replace:: **38-**
 
-.. |STYLE46| replace:: **38-**
+.. |STYLE46| replace:: **39-**
 
-.. |STYLE47| replace:: **39-**
+.. |STYLE47| replace:: **:**
 
-.. |STYLE48| replace:: **:**
+.. |STYLE48| replace:: **40-**
 
-.. |STYLE49| replace:: **40-**
+.. |STYLE49| replace:: **41-**
 
-.. |STYLE50| replace:: **41-**
+.. |STYLE50| replace:: **42-**
 
-.. |STYLE51| replace:: **42-**
+.. |STYLE51| replace:: **43-**
 
-.. |STYLE52| replace:: **43-**
+.. |STYLE52| replace:: **44-**
 
-.. |STYLE53| replace:: **44-**
+.. |STYLE53| replace:: **45-**
 
-.. |STYLE54| replace:: **45-**
+.. |STYLE54| replace:: **46-**
 
-.. |STYLE55| replace:: **46-**
+.. |STYLE55| replace:: **47-**
 
-.. |STYLE56| replace:: **47-**
+.. |STYLE56| replace:: **48-**
 
-.. |STYLE57| replace:: **48-**
+.. |STYLE57| replace:: **49-**
 
-.. |STYLE58| replace:: **49-**
+.. |STYLE58| replace:: **50-**
 
-.. |STYLE59| replace:: **50-**
+.. |STYLE59| replace:: **51-**
 
-.. |STYLE60| replace:: **51-**
+.. |STYLE60| replace:: **52**
 
-.. |STYLE61| replace:: **52**
+.. |STYLE61| replace:: **53-**
 
-.. |STYLE62| replace:: **53-**
+.. |STYLE62| replace:: **54-**
 
-.. |STYLE63| replace:: **54-**
+.. |STYLE63| replace:: **55-**
 
-.. |STYLE64| replace:: **55-**
+.. |STYLE64| replace:: **56-**
 
-.. |STYLE65| replace:: **56-**
+.. |STYLE65| replace:: **57-**
 
-.. |STYLE66| replace:: **57**
+.. |STYLE66| replace:: **58-**
 
-.. |STYLE67| replace:: **58-**
+.. |STYLE67| replace:: **59-**
 
-.. |STYLE68| replace:: **59-**
+.. |STYLE68| replace:: **60-**
 
-.. |STYLE69| replace:: **60-**
+.. |STYLE69| replace:: **61-**
 
-.. |STYLE70| replace:: **61-**
-
-.. |STYLE71| replace:: **62-**
+.. |STYLE70| replace:: **62-**
 
 
 .. |LINK1| raw:: html
@@ -2455,545 +2534,505 @@ E' stato quindi pubblicato il dataset relativo, al link: \ |LINK148|\
 
 .. |LINK22| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=113&serv=347" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=113&serv=347</a>
+    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?func=settore&sett=97" target="_blank">www.comune.palermo.it/settori.php?func=settore&sett=97</a>
+    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31</a>
+    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33" target="_blank">http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32</a>
+    <a href="mailto:m.alba@comune.palermo.it">m.alba@comune.palermo.it</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33" target="_blank">http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33</a>
+    <a href="mailto:r.inzerillo@comune.palermo.it">r.inzerillo@comune.palermo.it</a>
 
 .. |LINK27| raw:: html
 
-    <a href="mailto:m.alba@comune.palermo.it">m.alba@comune.palermo.it</a>
+    <a href="mailto:c.baudo@comune.palermo.it">c.baudo@comune.palermo.it</a>
 
 .. |LINK28| raw:: html
 
-    <a href="mailto:r.inzerillo@comune.palermo.it">r.inzerillo@comune.palermo.it</a>
+    <a href="mailto:g.buttitta@comune.palermo.it">g.buttitta@comune.palermo.it</a>
 
 .. |LINK29| raw:: html
 
-    <a href="mailto:c.baudo@comune.palermo.it">c.baudo@comune.palermo.it</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiazZMRkhCeWl2b1k/view" target="_blank">incontro del Team Open Data nella giornat del 16 febbraio 2015</a>
 
 .. |LINK30| raw:: html
 
-    <a href="mailto:g.buttitta@comune.palermo.it">g.buttitta@comune.palermo.it</a>
+    <a href="mailto:r.mandalari@comun.palermo.it">r.mandalari@comun.palermo.it</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiazZMRkhCeWl2b1k/view" target="_blank">incontro del Team Open Data nella giornat del 16 febbraio 2015</a>
+    <a href="mailto:c.dicara@comune.palermo.it">c.dicara@comune.palermo.it</a>
 
 .. |LINK32| raw:: html
 
-    <a href="mailto:r.mandalari@comun.palermo.it">r.mandalari@comun.palermo.it</a>
+    <a href="mailto:m.campagna@comune.palermo.it">m.campagna@comune.palermo.it</a>
 
 .. |LINK33| raw:: html
 
-    <a href="mailto:c.dicara@comune.palermo.it">c.dicara@comune.palermo.it</a>
+    <a href="http://www.comune.palermo.it/verde.php" target="_blank">http://www.comune.palermo.it/verde.php</a>
 
 .. |LINK34| raw:: html
 
-    <a href="mailto:m.campagna@comune.palermo.it">m.campagna@comune.palermo.it</a>
+    <a href="mailto:s.buccheri@comune.palermo.it">s.buccheri@comune.palermo.it</a>
 
 .. |LINK35| raw:: html
 
-    <a href="http://www.comune.palermo.it/verde.php" target="_blank">http://www.comune.palermo.it/verde.php</a>
+    <a href="http://sport.comune.palermo.it/" target="_blank">http://sport.comune.palermo.it/</a>
 
 .. |LINK36| raw:: html
 
-    <a href="mailto:s.buccheri@comune.palermo.it">s.buccheri@comune.palermo.it</a>
+    <a href="http://portsport.comune.palermo.it/sport/docs/normeregolamenti/82053/regolamento_attivita_sportiva.pdf" target="_blank">Regolamento comunale specifico</a>
 
 .. |LINK37| raw:: html
 
-    <a href="http://sport.comune.palermo.it/" target="_blank">http://sport.comune.palermo.it/</a>
+    <a href="mailto:mauro.costa@comune.palermo.it">mauro.costa@comune.palermo.it</a>
 
 .. |LINK38| raw:: html
 
-    <a href="http://portsport.comune.palermo.it/sport/docs/normeregolamenti/82053/regolamento_attivita_sportiva.pdf" target="_blank">Regolamento comunale specifico</a>
+    <a href="http://librarsi.comune.palermo.it/polo/home/" target="_blank">http://librarsi.comune.palermo.it/polo/home/</a>
 
 .. |LINK39| raw:: html
 
-    <a href="mailto:mauro.costa@comune.palermo.it">mauro.costa@comune.palermo.it</a>
+    <a href="http://www.sbn.it/" target="_blank">http://www.sbn.it/</a>
 
 .. |LINK40| raw:: html
 
-    <a href="http://librarsi.comune.palermo.it/polo/home/" target="_blank">http://librarsi.comune.palermo.it/polo/home/</a>
+    <a href="https://www.google.com/maps/d/viewer?hl=it&authuser=0&mid=z-mPgeVqpo6U.k_4NbRbSWQTw" target="_blank">https://www.google.com/maps/d/viewer?hl=it&authuser=0&mid=z-mPgeVqpo6U.k_4NbRbSWQTw</a>
 
 .. |LINK41| raw:: html
 
-    <a href="http://www.sbn.it/" target="_blank">http://www.sbn.it/</a>
+    <a href="https://docs.google.com/spreadsheets/d/1qIUx8CwdgPAZRLqRw422r2uTAtb4lnM89cU6tuA2TvM" target="_blank">censimento online</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://www.google.com/maps/d/viewer?hl=it&authuser=0&mid=z-mPgeVqpo6U.k_4NbRbSWQTw" target="_blank">https://www.google.com/maps/d/viewer?hl=it&authuser=0&mid=z-mPgeVqpo6U.k_4NbRbSWQTw</a>
+    <a href="http://umap.openstreetmap.fr/it/map/palermo-in-sezioni-censuarie_67952" target="_blank">zona censuaria della città</a>
 
 .. |LINK43| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1qIUx8CwdgPAZRLqRw422r2uTAtb4lnM89cU6tuA2TvM" target="_blank">censimento online</a>
+    <a href="https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2" target="_blank">ho scritto un post</a>
 
 .. |LINK44| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/palermo-in-sezioni-censuarie_67952" target="_blank">zona censuaria della città</a>
+    <a href="https://docs.google.com/presentation/d/1e4PKmQ-RDkoI9dpYIEXv5kvxx5HpTf8fCFyUk0upC8Y/edit?usp=sharing" target="_blank">efficace presentazione dei lavori della scuola</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2" target="_blank">ho scritto un post</a>
+    <a href="http://www.forumpa.it/smart-city/monitoraggio-civico-a-scuola-dallanalisi-open-data-molti-progetti-in-sicilia-ancora-non-avviati" target="_blank">i ragazzi hanno scritto di loro pugno un efficace articolo</a>
 
 .. |LINK46| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1e4PKmQ-RDkoI9dpYIEXv5kvxx5HpTf8fCFyUk0upC8Y/edit?usp=sharing" target="_blank">efficace presentazione dei lavori della scuola</a>
+    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I/" target="_blank">qui un tutorial</a>
 
 .. |LINK47| raw:: html
 
-    <a href="http://www.forumpa.it/smart-city/monitoraggio-civico-a-scuola-dallanalisi-open-data-molti-progetti-in-sicilia-ancora-non-avviati" target="_blank">i ragazzi hanno scritto di loro pugno un efficace articolo</a>
+    <a href="http://opendatasicilia.it/" target="_blank">opendatasicilia.it</a>
 
 .. |LINK48| raw:: html
 
-    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I/" target="_blank">qui un tutorial</a>
+    <a href="http://www.comune.palermo.it/noticext.php?cat=1&id=9979" target="_blank">STARTUP WEEKEND, Tourism Edition</a>
 
 .. |LINK49| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">opendatasicilia.it</a>
+    <a href="https://docs.google.com/document/d/1pRThYRQWwPjTuLAE43DUdGR1IL4fgPsEWszOB-wXmDM" target="_blank">link</a>
 
 .. |LINK50| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?cat=1&id=9979" target="_blank">STARTUP WEEKEND, Tourism Edition</a>
+    <a href="http://umap.openstreetmap.fr/it/map/palermo-accessibile_76608" target="_blank">http://umap.openstreetmap.fr/it/map/palermo-accessibile_76608</a>
 
 .. |LINK51| raw:: html
 
-    <a href="https://docs.google.com/document/d/1pRThYRQWwPjTuLAE43DUdGR1IL4fgPsEWszOB-wXmDM" target="_blank">link</a>
+    <a href="http://www.comune.palermo.it/noticext.php?cat=4&id=9900" target="_blank">http://www.comune.palermo.it/noticext.php?cat=4&id=9900</a>
 
 .. |LINK52| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/palermo-accessibile_76608" target="_blank">http://umap.openstreetmap.fr/it/map/palermo-accessibile_76608</a>
+    <a href="http://bit.ly/decretoregionaledivietobalneazione2016" target="_blank">http://bit.ly/decretoregionaledivietobalneazione2016</a>
 
 .. |LINK53| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?cat=4&id=9900" target="_blank">http://www.comune.palermo.it/noticext.php?cat=4&id=9900</a>
+    <a href="http://www.comune.palermo.it/opendata_dld.php?id=364" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=364</a>
 
 .. |LINK54| raw:: html
 
-    <a href="http://bit.ly/decretoregionaledivietobalneazione2016" target="_blank">http://bit.ly/decretoregionaledivietobalneazione2016</a>
+    <a href="https://www.google.com/maps/d/u/0/viewer?mid=1FaQASqaGE-fY9HfHjSfMzLXKhVY" target="_blank">mappa georeferenziata</a>
 
 .. |LINK55| raw:: html
 
-    <a href="http://www.comune.palermo.it/opendata_dld.php?id=364" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=364</a>
+    <a href="http://www.comune.palermo.it/mappetematiche.php" target="_blank">http://www.comune.palermo.it/mappetematiche.php</a>
 
 .. |LINK56| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/0/viewer?mid=1FaQASqaGE-fY9HfHjSfMzLXKhVY" target="_blank">mappa georeferenziata</a>
+    <a href="http://bit.ly/coordinategeodivietibalneazione2016" target="_blank">nell'allegato 5 al Decr. Reg. 317/2016</a>
 
 .. |LINK57| raw:: html
 
-    <a href="http://www.comune.palermo.it/mappetematiche.php" target="_blank">http://www.comune.palermo.it/mappetematiche.php</a>
+    <a href="mailto:dirigentegenerale.salute@regione.sicilia.it">dirigentegenerale.salute@regione.sicilia.it</a>
 
 .. |LINK58| raw:: html
 
-    <a href="http://bit.ly/coordinategeodivietibalneazione2016" target="_blank">http://bit.ly/coordinategeodivietibalneazione2016</a>
+    <a href="http://bit.ly/erasmuseinaudipalermo" target="_blank">http://bit.ly/erasmuseinaudipalermo</a>
 
 .. |LINK59| raw:: html
 
-    <a href="mailto:dirigentegenerale.salute@regione.sicilia.it">dirigentegenerale.salute@regione.sicilia.it</a>
+    <a href="http://opendatasicilia.it" target="_blank">http://opendatasicilia.it</a>
 
 .. |LINK60| raw:: html
 
-    <a href="http://bit.ly/erasmuseinaudipalermo" target="_blank">http://bit.ly/erasmuseinaudipalermo</a>
+    <a href="http://www.comune.palermo.it/opendata_dld.php?id=368" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=368</a>
 
 .. |LINK61| raw:: html
 
-    <a href="http://opendatasicilia.it" target="_blank">http://opendatasicilia.it</a>
+    <a href="http://www.comune.palermo.it/opendata_dld.php?id=367" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=367</a>
 
 .. |LINK62| raw:: html
 
-    <a href="http://www.comune.palermo.it/opendata_dld.php?id=368" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=368</a>
+    <a href="https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa" target="_blank">https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa</a>
 
 .. |LINK63| raw:: html
 
-    <a href="http://www.comune.palermo.it/opendata_dld.php?id=367" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=367</a>
+    <a href="http://www.comune.palermo.it/opendata_dld.php?id=369" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=369</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa" target="_blank">https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa</a>
+    <a href="http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70" target="_blank">http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70</a>
 
 .. |LINK65| raw:: html
 
-    <a href="http://www.comune.palermo.it/opendata_dld.php?id=369" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=369</a>
+    <a href="http://opendatasicila.it" target="_blank">http://opendatasicila.it</a>
 
 .. |LINK66| raw:: html
 
-    <a href="http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70" target="_blank">http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70</a>
+    <a href="https://magic.import.io/" target="_blank">https://magic.import.io/</a>
 
 .. |LINK67| raw:: html
 
-    <a href="http://opendatasicila.it" target="_blank">http://opendatasicila.it</a>
+    <a href="http://www.sicilyfoodproject.com/aziende.asp" target="_blank">portale web</a>
 
 .. |LINK68| raw:: html
 
-    <a href="https://magic.import.io/" target="_blank">https://magic.import.io/</a>
+    <a href="http://comune.palermo.it/opendata_dld.php?id=375" target="_blank">INCIDENTI STRADALI RILEVATI DAL NUCLEO INFORTUNISTICA DELLA POLIZIA MUNICIPALE NEL TERRITORIO COMUNALE</a>
 
 .. |LINK69| raw:: html
 
-    <a href="http://www.sicilyfoodproject.com/aziende.asp" target="_blank">portale web</a>
+    <a href="http://comune.palermo.it/opendata_dld.php?id=374" target="_blank">AREE PUBBLICHE E/O PRIVATE OGGETTO DI ABBANDONO INCONTROLLATO DI R.S.U., RIFIUTI INGOMBRANTI E RIFIUTI SPECIALI E/O PERICOLOSI</a>
 
 .. |LINK70| raw:: html
 
-    <a href="http://comune.palermo.it/opendata_dld.php?id=375" target="_blank">INCIDENTI STRADALI RILEVATI DAL NUCLEO INFORTUNISTICA DELLA POLIZIA MUNICIPALE NEL TERRITORIO COMUNALE</a>
+    <a href="http://comune.palermo.it/opendata_dld.php?id=370" target="_blank">GESTIONE E STOCCAGGIO RIFIUTI SPECIALI E/O PERICOLOSI</a>
 
 .. |LINK71| raw:: html
 
-    <a href="http://comune.palermo.it/opendata_dld.php?id=374" target="_blank">AREE PUBBLICHE E/O PRIVATE OGGETTO DI ABBANDONO INCONTROLLATO DI R.S.U., RIFIUTI INGOMBRANTI E RIFIUTI SPECIALI E/O PERICOLOSI</a>
+    <a href="https://www.comune.palermo.it/bilancio_sociale.php" target="_blank">Bilancio Sociale</a>
 
 .. |LINK72| raw:: html
 
-    <a href="http://comune.palermo.it/opendata_dld.php?id=370" target="_blank">GESTIONE E STOCCAGGIO RIFIUTI SPECIALI E/O PERICOLOSI</a>
+    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=15&asel=137&bsel=138" target="_blank">Controllo di Gestione</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://www.comune.palermo.it/bilancio_sociale.php" target="_blank">Bilancio Sociale</a>
+    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2015" target="_blank">Bilancio Sociale</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=15&asel=137&bsel=138" target="_blank">Controllo di Gestione</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_19022016144849.pdf" target="_blank">aspetti chiave</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://www.comune.palermo.it/bilancio_sociale.php?anno=2015" target="_blank">Bilancio Sociale</a>
+    <a href="http://opendatasicilia.it/" target="_blank">#opendatasicilia</a>
 
 .. |LINK76| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_19022016144849.pdf" target="_blank">aspetti chiave</a>
+    <a href="http://ods16.opendatasicilia.it/#programma" target="_blank">programma</a>
 
 .. |LINK77| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">#opendatasicilia</a>
+    <a href="http://umap.openstreetmap.fr/it/map/mappa-dei-partecipanti-a-opendatasicilia-2-4_sett__100758" target="_blank">mappa</a>
 
 .. |LINK78| raw:: html
 
-    <a href="http://ods16.opendatasicilia.it/#programma" target="_blank">programma</a>
+    <a href="https://www.europeandataportal.eu/" target="_blank">www.europeandataportal.eu</a>
 
 .. |LINK79| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/mappa-dei-partecipanti-a-opendatasicilia-2-4_sett__100758" target="_blank">mappa</a>
+    <a href="https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ" target="_blank">https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ</a>
 
 .. |LINK80| raw:: html
 
-    <a href="https://www.europeandataportal.eu/" target="_blank">www.europeandataportal.eu</a>
+    <a href="http://eventipa.formez.it/node/75646" target="_blank">http://eventipa.formez.it/node/75646</a>
 
 .. |LINK81| raw:: html
 
-    <a href="https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ" target="_blank">https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ</a>
+    <a href="http://eventipa.formez.it/node/75646" target="_blank">webinar</a>
 
 .. |LINK82| raw:: html
 
-    <a href="http://eventipa.formez.it/node/75646" target="_blank">http://eventipa.formez.it/node/75646</a>
+    <a href="http://dati.gov.it" target="_blank">http://dati.gov.it</a>
 
 .. |LINK83| raw:: html
 
-    <a href="http://eventipa.formez.it/node/75646" target="_blank">webinar</a>
+    <a href="http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera" target="_blank">http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera</a>
 
 .. |LINK84| raw:: html
 
-    <a href="http://dati.gov.it" target="_blank">http://dati.gov.it</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=390" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=390</a>
 
 .. |LINK85| raw:: html
 
-    <a href="http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera" target="_blank">http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera</a>
+    <a href="http://www.biggerdata.it/" target="_blank">www.biggerdata.it</a>
 
 .. |LINK86| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=390" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=390</a>
+    <a href="https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0" target="_blank">https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0</a>
 
 .. |LINK87| raw:: html
 
-    <a href="http://www.biggerdata.it/" target="_blank">www.biggerdata.it</a>
+    <a href="https://www.facebook.com/events/528674317334934/" target="_blank">Nuove tecnologie per la fruizione dei musei ai non vedenti</a>
 
 .. |LINK88| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0" target="_blank">https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0</a>
+    <a href="https://www.facebook.com/gruppoarte16/" target="_blank">GruppoArte16</a>
 
 .. |LINK89| raw:: html
 
-    <a href="https://www.facebook.com/events/528674317334934/" target="_blank">Nuove tecnologie per la fruizione dei musei ai non vedenti</a>
+    <a href="http://bit.ly/opendataneiserviziadisabili" target="_blank">bit.ly/opendataneiserviziadisabili</a>
 
 .. |LINK90| raw:: html
 
-    <a href="https://www.facebook.com/gruppoarte16/" target="_blank">GruppoArte16</a>
+    <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_1831821849.html" target="_blank">Rassegna stampa</a>
 
 .. |LINK91| raw:: html
 
-    <a href="http://bit.ly/opendataneiserviziadisabili" target="_blank">bit.ly/opendataneiserviziadisabili</a>
+    <a href="http://www.rapspa.it/site/qualita-dellaria/" target="_blank">http://www.rapspa.it/site/qualita-dellaria/</a>
 
 .. |LINK92| raw:: html
 
-    <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_1831821849.html" target="_blank">Rassegna stampa</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=399" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=399</a>
 
 .. |LINK93| raw:: html
 
-    <a href="http://www.rapspa.it/site/qualita-dellaria/" target="_blank">http://www.rapspa.it/site/qualita-dellaria/</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=461" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=461</a>
 
 .. |LINK94| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=399" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=399</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=462" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=462</a>
 
 .. |LINK95| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=461" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=461</a>
+    <a href="https://www.comune.palermo.it/opendata_menus.php?sel=15" target="_blank">https://www.comune.palermo.it/opendata_menus.php?sel=15</a>
 
 .. |LINK96| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=462" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=462</a>
+    <a href="https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle" target="_blank">strutturato un dataset tabellare</a>
 
 .. |LINK97| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_menus.php?sel=15" target="_blank">https://www.comune.palermo.it/opendata_menus.php?sel=15</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=491" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - VOTI CANDIDATI PRESIDENTE</a>
 
 .. |LINK98| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle" target="_blank">strutturato un dataset tabellare</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=490" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE</a>
 
 .. |LINK99| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=491" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - VOTI CANDIDATI PRESIDENTE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=489" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO CANDIDATI CONSIGLIERI PER LISTA</a>
 
 .. |LINK100| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=490" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=488" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO SEZIONI SCRUTINATE</a>
 
 .. |LINK101| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=489" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO CANDIDATI CONSIGLIERI PER LISTA</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=487" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - VOTI CANDIDATI SINDACO 2° TURNO - BALLOTTAGGIO</a>
 
 .. |LINK102| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=488" target="_blank">ELEZIONI CIRCOSCRIZIONALI 2012 - RIEPILOGO SEZIONI SCRUTINATE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=486" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - VOTI CANDIDATI SINDACO 1° TURNO</a>
 
 .. |LINK103| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=487" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - VOTI CANDIDATI SINDACO 2° TURNO - BALLOTTAGGIO</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=485" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE</a>
 
 .. |LINK104| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=486" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - VOTI CANDIDATI SINDACO 1° TURNO</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=484" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO CANDIDATI CONSIGLIERI PER LISTA</a>
 
 .. |LINK105| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=485" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO VOTI ALLE LISTE SEZIONE PER SEZIONE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=483" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO SEZIONI SCRUTINATE 1° TURNO</a>
 
 .. |LINK106| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=484" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO CANDIDATI CONSIGLIERI PER LISTA</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=482" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO SEZIONI SCRUTINATE AL 2° TURNO - BALLOTTAGGIO</a>
 
 .. |LINK107| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=483" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO SEZIONI SCRUTINATE 1° TURNO</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=471" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - CONSIGLIO COMUNALE</a>
 
 .. |LINK108| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=482" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - RIEPILOGO SEZIONI SCRUTINATE AL 2° TURNO - BALLOTTAGGIO</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=470" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - CIRCOSCRIZIONI</a>
 
 .. |LINK109| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=471" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - CONSIGLIO COMUNALE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=469" target="_blank">ELEZIONI POLITICHE 2006 - VOTI LISTA SENATO DELLA REPUBBLICA</a>
 
 .. |LINK110| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=470" target="_blank">ELEZIONI AMMINISTRATIVE 2012 - CIRCOSCRIZIONI</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=468" target="_blank">ELEZIONI POLITICHE 2006 - VOTI LISTA CAMERA</a>
 
 .. |LINK111| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=469" target="_blank">ELEZIONI POLITICHE 2006 - VOTI LISTA SENATO DELLA REPUBBLICA</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=467" target="_blank">ELEZIONI POLITICHE 2013 - SENATO DELLA REPUBBLICA</a>
 
 .. |LINK112| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=468" target="_blank">ELEZIONI POLITICHE 2006 - VOTI LISTA CAMERA</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=466" target="_blank">REFERENDUM COSTITUZIONALE DICEMBRE 2016</a>
 
 .. |LINK113| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=467" target="_blank">ELEZIONI POLITICHE 2013 - SENATO DELLA REPUBBLICA</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=465" target="_blank">ELEZIONI EUROPEE 2014 - V CIRCOSCRIZIONE ITALIA INSULARE</a>
 
 .. |LINK114| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=466" target="_blank">REFERENDUM COSTITUZIONALE DICEMBRE 2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=464" target="_blank">ELEZIONI POLITICHE 2013 - CAMERA DEI DEPUTATI</a>
 
 .. |LINK115| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=465" target="_blank">ELEZIONI EUROPEE 2014 - V CIRCOSCRIZIONE ITALIA INSULARE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=463" target="_blank">ELEZIONI REGIONALI 2008 RIEPILOGO VOTI PRESIDENTE</a>
 
 .. |LINK116| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=464" target="_blank">ELEZIONI POLITICHE 2013 - CAMERA DEI DEPUTATI</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=460" target="_blank">ELEZIONI EUROPEE 2014</a>
 
 .. |LINK117| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=463" target="_blank">ELEZIONI REGIONALI 2008 RIEPILOGO VOTI PRESIDENTE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=459" target="_blank">ELEZIONI REGIONALI 2008</a>
 
 .. |LINK118| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=460" target="_blank">ELEZIONI EUROPEE 2014</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=458" target="_blank">REFERENDUM APRILE 2016 (TRIVELLAZIONI)</a>
 
 .. |LINK119| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=459" target="_blank">ELEZIONI REGIONALI 2008</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=457" target="_blank">ELEZIONI COMUNALI 2007 VOTI SINDACO PER SEZIONE</a>
 
 .. |LINK120| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=458" target="_blank">REFERENDUM APRILE 2016 (TRIVELLAZIONI)</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=456" target="_blank">ELEZIONI COMUNALI 2007 VOTI DI LISTA PER SEZIONE</a>
 
 .. |LINK121| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=457" target="_blank">ELEZIONI COMUNALI 2007 VOTI SINDACO PER SEZIONE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=455" target="_blank">ELEZIONI AMMINISTRATIVE DEL 25 NOVEMBRE 2001</a>
 
 .. |LINK122| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=456" target="_blank">ELEZIONI COMUNALI 2007 VOTI DI LISTA PER SEZIONE</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=453" target="_blank">ELEZIONI AMMINISTRATIVE DEL 25 NOVEMBRE 2001</a>
 
 .. |LINK123| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=455" target="_blank">ELEZIONI AMMINISTRATIVE DEL 25 NOVEMBRE 2001</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=505" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=505</a>
 
 .. |LINK124| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=453" target="_blank">ELEZIONI AMMINISTRATIVE DEL 25 NOVEMBRE 2001</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=524" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=524</a>
 
 .. |LINK125| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=505" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=505</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=543" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=543</a>
 
 .. |LINK126| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=524" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=524</a>
+    <a href="https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle" target="_blank">https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle</a>
 
 .. |LINK127| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=543" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=543</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=547" target="_blank">TEATRI PRIVATI - GENNAIO/DICEMBRE 2016</a>
 
 .. |LINK128| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle" target="_blank">https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=546" target="_blank">ASSOCIAZIONI TEATRI - GENNAIO/DICEMBRE 2016</a>
 
 .. |LINK129| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=547" target="_blank">TEATRI PRIVATI - GENNAIO/DICEMBRE 2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=545" target="_blank">PROGETTI/EVENTI CANTIERI CULTURALI ALLA ZISA - GENNAIO/DICEMBRE 2016</a>
 
 .. |LINK130| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=546" target="_blank">ASSOCIAZIONI TEATRI - GENNAIO/DICEMBRE 2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=544" target="_blank">PROGETTI STRATEGICI - GENNAIO/DICEMBRE 2016</a>
 
 .. |LINK131| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=545" target="_blank">PROGETTI/EVENTI CANTIERI CULTURALI ALLA ZISA - GENNAIO/DICEMBRE 2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=398" target="_blank">ASSOCIAZIONI TEATRI - GENNAIO/SETTEMBRE 2016</a>
 
 .. |LINK132| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=544" target="_blank">PROGETTI STRATEGICI - GENNAIO/DICEMBRE 2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=397" target="_blank">TEATRI PRIVATI - GENNAIO/SETTEMBRE 2016</a>
 
 .. |LINK133| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=398" target="_blank">ASSOCIAZIONI TEATRI - GENNAIO/SETTEMBRE 2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=396" target="_blank">PROGETTI/EVENTI CANTIERI CULTURALI ALLA ZISA - GENNAIO/AGOSTO 2016</a>
 
 .. |LINK134| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=397" target="_blank">TEATRI PRIVATI - GENNAIO/SETTEMBRE 2016</a>
+    <a href="https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429" target="_blank">https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429</a>
 
 .. |LINK135| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=396" target="_blank">PROGETTI/EVENTI CANTIERI CULTURALI ALLA ZISA - GENNAIO/AGOSTO 2016</a>
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=1357&serv=319&sett=93" target="_blank">Ufficio Atti Ispettivi</a>
 
 .. |LINK136| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429" target="_blank">https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429</a>
+    <a href="https://www.flickr.com/photos/britishlibrary" target="_blank">https://www.flickr.com/photos/britishlibrary</a>
 
 .. |LINK137| raw:: html
 
-    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=1357&serv=319&sett=93" target="_blank">Ufficio Atti Ispettivi</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=860" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=860</a>
 
 .. |LINK138| raw:: html
 
-    <a href="https://www.flickr.com/photos/britishlibrary" target="_blank">https://www.flickr.com/photos/britishlibrary</a>
+    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/albums" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/albums</a>
 
 .. |LINK139| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=860" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=860</a>
+    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it</a>
 
 .. |LINK140| raw:: html
 
-    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/albums" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/albums</a>
+    <a href="https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss" target="_blank">https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss</a>
 
 .. |LINK141| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it</a>
+    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it</a>
 
 .. |LINK142| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss" target="_blank">https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss</a>
+    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it</a>
 
 .. |LINK143| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it</a>
+    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/map" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/map</a>
 
 .. |LINK144| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it</a>
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
 
 .. |LINK145| raw:: html
 
-    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/map" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/map</a>
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014</a>
 
 .. |LINK146| raw:: html
 
     <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
 
-.. |LINK147| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014</a>
-
-.. |LINK148| raw:: html
-
-    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
-
-
-.. |IMG1| image:: static/open-data-incontri-con-referenti-comunali_1.png
-   :height: 212 px
-   :width: 669 px
-
-.. |IMG2| image:: static/open-data-incontri-con-referenti-comunali_2.png
-   :height: 198 px
-   :width: 669 px
-
-.. |IMG3| image:: static/open-data-incontri-con-referenti-comunali_3.jpeg
+.. |IMG1| image:: static/open-data-incontri-con-referenti-comunali_1.jpeg
    :height: 233 px
    :width: 310 px
-
-.. |IMG4| image:: static/open-data-incontri-con-referenti-comunali_4.png
-   :height: 298 px
-   :width: 669 px
-
-.. |IMG5| image:: static/open-data-incontri-con-referenti-comunali_5.png
-   :height: 246 px
-   :width: 421 px
-
-.. |IMG6| image:: static/open-data-incontri-con-referenti-comunali_6.png
-   :height: 472 px
-   :width: 626 px
-
-.. |IMG7| image:: static/open-data-incontri-con-referenti-comunali_7.png
-   :height: 78 px
-   :width: 300 px
-
-.. |IMG8| image:: static/open-data-incontri-con-referenti-comunali_8.png
-   :height: 428 px
-   :width: 669 px
-
-.. |IMG9| image:: static/open-data-incontri-con-referenti-comunali_9.png
-   :height: 385 px
-   :width: 589 px
