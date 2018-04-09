@@ -14,6 +14,7 @@ Cirospat profile
 
     social-profile
     work-profile
+    mappe
     Ciro-Spataro-su-open-data-e-innovazione
     open-data-incontri-con-referenti-comunali
 
