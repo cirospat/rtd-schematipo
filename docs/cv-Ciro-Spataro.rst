@@ -5,202 +5,229 @@ Curriculum Vitae
 #################
 
 
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|INFORMAZIONI PERSONALI /           |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|PERSONAL INFO                      |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|nome e cognome /                   |Ciro Spataro                                                                                                                                                                                   |
-|                                   |                                                                                                                                                                                               |
-|name & last name                   |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|indirizzo di lavoro /              |Via dello Spirito Santo, 35, Palermo, Italy                                                                                                                                                    |
-|                                   |                                                                                                                                                                                               |
-|current work address               |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|telefono ufficio / office phone    |+390917407340                                                                                                                                                                                  |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|email ufficio / office email       |\ |LINK1|\                                                                                                                                                                                     |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|email personale/ personal email    |\ |LINK2|\                                                                                                                                                                                     |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|posta elettronica certificata /    |\ |LINK3|\                                                                                                                                                                                     |
-|                                   |                                                                                                                                                                                               |
-|certified email                    |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|data e luogo di nascita /          |nato il 26.04.1967 a Isola della Scala (Verona)                                                                                                                                                |
-|                                   |                                                                                                                                                                                               |
-|date & place of birth              |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|titolo di studio /                 |Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore”                                                                                                                             |
-|                                   |                                                                                                                                                                                               |
-|study degree                       |di Palermo, nel 1985 / Diploma of Geometry in 1985                                                                                                                                             |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|ESPERIENZA LAVORATIVA /            |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|WORK EXPERIENCE                    |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|date                               |Dal nov. 1989 ad oggi presso il Comune di Palermo:                                                                                                                                             |
-|                                   |                                                                                                                                                                                               |
-|                                   |* 1989 - 2002 al Settore Urbanistica                                                                                                                                                           |
-|                                   |                                                                                                                                                                                               |
-|                                   |* 2002 - 2013 al Settore Ambiente                                                                                                                                                              |
-|                                   |                                                                                                                                                                                               |
-|                                   |* 2013 - 2017 all'Area Innovazione Tecnologica /open data                                                                                                                                      |
-|                                   |                                                                                                                                                                                               |
-|                                   |* 2018 - oggi al Settore servizi alla città, Servizio Innovazione                                                                                                                              |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|nome del datore di lavoro /        |\ |LINK4|\  /                                                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|name of employer                   |Municipality of Palermo                                                                                                                                                                        |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|link a progetti UE in cui è stato  |* \ |LINK5|\   innovation and economic development                                                                                                                                             |
-|                                   |                                                                                                                                                                                               |
-|coinvolto                          |* \ |LINK6|\   Emas UE scheme                                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|/                                  |* \ |LINK7|\   Emas UE scheme and peer review                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|link to UE project in which has    |* \ |LINK8|\   climate protection action plan                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|been involved                      |* \ |LINK9|\  exchange of good practices in urban management                                                                                                                                   |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|principali mansioni e              |Tecnico nella redazione e gestione di progetti negli ambiti della                                                                                                                              |
-|                                   |                                                                                                                                                                                               |
-|responsabilità  /                  |sostenibilità nelle aree urbane, dell'innovazione tecnologica e open                                                                                                                           |
-|                                   |                                                                                                                                                                                               |
-|main functions and responsibilities|data. Posizione Organizzativa su "Innovazione tecnologica,                                                                                                                                     |
-|                                   |                                                                                                                                                                                               |
-|                                   |pubblicazione e open data", 2016-17 presso l'Area Innovazione                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|                                   |Tecnologica  /                                                                                                                                                                                 |
-|                                   |                                                                                                                                                                                               |
-|                                   |Technician involved in projects management related to sustainability                                                                                                                           |
-|                                   |                                                                                                                                                                                               |
-|                                   |in urban areas, innovation technology, and open data. Organizational                                                                                                                           |
-|                                   |                                                                                                                                                                                               |
-|                                   |Position concerning "Innovation technology, publication and open                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|                                   |data" 2016-17 in Innovation Technology municipal department                                                                                                                                    |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|attitudini /                       |Propensione alla risoluzione delle criticità attraverso l’ascolto e il                                                                                                                         |
-|                                   |                                                                                                                                                                                               |
-|attitudes                          |confronto con colleghi, funzionari e dirigenti, per individuare azioni                                                                                                                         |
-|                                   |                                                                                                                                                                                               |
-|                                   |correttive. Attitudine alla progettualità,  alla condivisione della                                                                                                                            |
-|                                   |                                                                                                                                                                                               |
-|                                   |conoscenza e dei dati. Analisi dei processi  partecipativi  con                                                                                                                                |
-|                                   |                                                                                                                                                                                               |
-|                                   |tecniche  di  codesign. Attitudine al lavoro in team multidisciplinari                                                                                                                         |
-|                                   |                                                                                                                                                                                               |
-|                                   |/                                                                                                                                                                                              |
-|                                   |                                                                                                                                                                                               |
-|                                   |Propensity to solve critical issues through listening and comparing                                                                                                                            |
-|                                   |                                                                                                                                                                                               |
-|                                   |with colleagues, officials and executives, in order to identify                                                                                                                                |
-|                                   |                                                                                                                                                                                               |
-|                                   |corrective actions. Attitude to project design, sharing knowledge and                                                                                                                          |
-|                                   |                                                                                                                                                                                               |
-|                                   |data.  Participatory process analysis with co-design techniques.                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|                                   |Attitude to work in multidisciplinary teams                                                                                                                                                    |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|LINGUE STRANIERE /                 |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|FOREIGN LANGUAGES                  |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|Lingua / Language                  |Inglese / English                                                                                                                                                                              |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|lettura / reading                  |buona / good                                                                                                                                                                                   |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|scrittura / writing                |buona / good                                                                                                                                                                                   |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|espressione orale / oral           |buona / good                                                                                                                                                                                   |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|Lingua / Language                  |Spagnolo /Spanish                                                                                                                                                                              |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|lettura / reading                  |buona / good                                                                                                                                                                                   |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|scrittura / writing                |media / average                                                                                                                                                                                |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|espressione orale / oral           |media / average                                                                                                                                                                                |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|FORMAZIONE TECNICA /               |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|TECHNICAL SKILL                    |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|formazione /                       |\ |LINK10|\ :                                                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|training scheme                    |* Progettazione energetica degli edifici, 2008                                                                                                                                                 |
-|                                   |                                                                                                                                                                                               |
-|                                   |* I  sistemi  di  gestione  ambientale,  2004                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Efficienza  energetica,  normativa  e  meccanismi  di incentivazione, 2007                                                                                                                   |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Urban Management, 2008                                                                                                                                                                       |
-|                                   |                                                                                                                                                                                               |
-|                                   |* I sistemi  fotovoltaici  connessi  in  rete, installazione  e collaudo, 2004                                                                                                                 |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Pubblica Amministrazione e Sviluppo Urbano Sostenibile, 2003                                                                                                                                 |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Gli impianti solar cooling, 2008                                                                                                                                                             |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Tecnologie  energetiche  rinnovabili, 2006                                                                                                                                                   |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Parsec ciclo di vita del progetto: gestione dei rischi nei progetti, budgeting e rendicontazione, 2008                                                                                       |
-|                                   |                                                                                                                                                                                               |
-|                                   |* La direzione per obiettivi, 2006                                                                                                                                                             |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Partecipazione al corso online del FormezPA sugli open data, 2014 \ |LINK11|\                                                                                                                |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Partecipazione  al corso  online  del  FormezPA sugli open data,  2015 \ |LINK12|\                                                                                                           |
-|                                   |                                                                                                                                                                                               |
-|                                   |* Partecipazione  al corso   online   del   Formez   sull'e-leadership,  2015 \ |LINK13|\                                                                                                      |
-|                                   |                                                                                                                                                                                               |
-|                                   |* \ |LINK14|\                                                                                                                                                                                  |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|abilità tecniche                   |* use of database for \ |LINK15|\                                                                                                                                                              |
-|                                   |                                                                                                                                                                                               |
-|/                                  |* Google Drive cloud services used for daily work tasks                                                                                                                                        |
-|                                   |                                                                                                                                                                                               |
-|technical skill                    |* competenze organizzative e di monitoraggio attività con l'ausilio di indicatori, acquisite durante l'esperienza di gestione dei progetti di partenariato transnazionale co-finanziati dall'UE|
-|                                   |                                                                                                                                                                                               |
-|                                   |* competenze nella redazione/gestione di progetti con applicazione delle tecniche del Project Management                                                                                       |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|partecipazione a convegni          |Pubblicazioni:                                                                                                                                                                                 |
-|                                   |                                                                                                                                                                                               |
-|e seminari, pubblicazioni,         |* Redazione delle Linee Guida comunali open data in maniera partecipata, adottate dal Comune di Palermo con Deliberazione di GM n. \ |LINK16|\  e n. \ |LINK17|\                               |
-|                                   |                                                                                                                                                                                               |
-|collaborazione a riviste, ecc.     |* Aggiornamento portale didattico su open data per i referenti open data del Comune di Palermo: \ |LINK18|\                                                                                    |
-|                                   |                                                                                                                                                                                               |
-|/                                  |* pubblicazione articoli sulla community online degli Innovatori della Pubblica Amministrazione \ |LINK19|\                                                                                    |
-|                                   |                                                                                                                                                                                               |
-|participation in conferences and   |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|seminars, publications,            |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|collaboration in magazines, etc.   |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|INTERESSI E RETI /                 |                                                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|INTERESTS AND NETWORKING           |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|interessi /                        |photography, trekking, mtbiking, civic hacking                                                                                                                                                 |
-|                                   |                                                                                                                                                                                               |
-|hobbies                            |                                                                                                                                                                                               |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|attivo in reti                     |* \ |LINK20|\  open data network                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|/                                  |* \ |LINK21|\  Medium writing                                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|active in networking               |* \ |LINK22|\                                                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|                                   |* \ |LINK23|\                                                                                                                                                                                  |
-|                                   |                                                                                                                                                                                               |
-|                                   |* \ |LINK24|\  e Agenda Digitale                                                                                                                                                               |
-|                                   |                                                                                                                                                                                               |
-|                                   |* \ |LINK25|\                                                                                                                                                                                  |
-+-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------------------+-----------------------------------------------------------------------+
+|INFORMAZIONI PERSONALI /         |                                                                       |
+|                                 |                                                                       |
+|PERSONAL INFO                    |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|nome e cognome /                 |Ciro Spataro                                                           |
+|                                 |                                                                       |
+|name & last name                 |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|indirizzo di lavoro /            |Via dello Spirito Santo, 35, Palermo, Italy                            |
+|                                 |                                                                       |
+|current work address             |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|telefono ufficio / office phone  |+390917407340                                                          |
++---------------------------------+-----------------------------------------------------------------------+
+|email ufficio / office email     |\ |LINK1|\                                                             |
++---------------------------------+-----------------------------------------------------------------------+
+|email personale/ personal email  |\ |LINK2|\                                                             |
++---------------------------------+-----------------------------------------------------------------------+
+|posta elettronica certificata /  |\ |LINK3|\                                                             |
+|                                 |                                                                       |
+|certified email                  |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|data e luogo di nascita /        |nato il 26.04.1967 a Isola della Scala (Verona)                        |
+|                                 |                                                                       |
+|date & place of birth            |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|titolo di studio /               |Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore”     |
+|                                 |                                                                       |
+|study degree                     |di Palermo, nel 1985 / Diploma of Geometry in 1985                     |
++---------------------------------+-----------------------------------------------------------------------+
+|ESPERIENZA LAVORATIVA /          |                                                                       |
+|                                 |                                                                       |
+|WORK EXPERIENCE                  |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|date                             |Dal nov. 1989 ad oggi presso il Comune di Palermo:                     |
+|                                 |                                                                       |
+|                                 |* 1989 - 2002 al Settore Urbanistica                                   |
+|                                 |                                                                       |
+|                                 |* 2002 - 2013 al Settore Ambiente                                      |
+|                                 |                                                                       |
+|                                 |* 2013 - 2017 all'Area Innovazione Tecnologica /open data              |
+|                                 |                                                                       |
+|                                 |* 2018 - oggi al Settore servizi alla città, Servizio Innovazione      |
++---------------------------------+-----------------------------------------------------------------------+
+|nome del datore di lavoro /      |\ |LINK4|\  /                                                          |
+|                                 |                                                                       |
+|name of employer                 |Municipality of Palermo                                                |
++---------------------------------+-----------------------------------------------------------------------+
+|link a progetti UE in cui è stato|* \ |LINK5|\   innovation and economic development                     |
+|                                 |                                                                       |
+|coinvolto                        |* \ |LINK6|\   Emas UE scheme                                          |
+|                                 |                                                                       |
+|/                                |* \ |LINK7|\   Emas UE scheme and peer review                          |
+|                                 |                                                                       |
+|link to UE project in which has  |* \ |LINK8|\   climate protection action plan                          |
+|                                 |                                                                       |
+|been involved                    |* \ |LINK9|\  exchange of good practices in urban management           |
++---------------------------------+-----------------------------------------------------------------------+
+|principali mansioni e            |Tecnico nella redazione e gestione di progetti negli ambiti della      |
+|                                 |                                                                       |
+|responsabilità  /                |sostenibilità nelle aree urbane, dell'innovazione tecnologica e open   |
+|                                 |                                                                       |
+|main functions and               |data. Posizione Organizzativa su "Innovazione tecnologica,             |
+|                                 |                                                                       |
+|responsibilities                 |pubblicazione e open data", 2016-17 presso l'Area Innovazione          |
+|                                 |                                                                       |
+|                                 |Tecnologica  /                                                         |
+|                                 |                                                                       |
+|                                 |Technician involved in projects management related to sustainability   |
+|                                 |                                                                       |
+|                                 |in urban areas, innovation technology, and open data. Organizational   |
+|                                 |                                                                       |
+|                                 |Position concerning "Innovation technology, publication and open       |
+|                                 |                                                                       |
+|                                 |data" 2016-17 in Innovation Technology municipal department            |
++---------------------------------+-----------------------------------------------------------------------+
+|attitudini /                     |Propensione alla risoluzione delle criticità attraverso l’ascolto e il |
+|                                 |                                                                       |
+|attitudes                        |confronto con colleghi, funzionari e dirigenti, per individuare azioni |
+|                                 |                                                                       |
+|                                 |correttive. Attitudine alla progettualità,  alla condivisione della    |
+|                                 |                                                                       |
+|                                 |conoscenza e dei dati. Analisi dei processi  partecipativi  con        |
+|                                 |                                                                       |
+|                                 |tecniche  di  codesign. Attitudine al lavoro in team multidisciplinari |
+|                                 |                                                                       |
+|                                 |/                                                                      |
+|                                 |                                                                       |
+|                                 |Propensity to solve critical issues through listening and comparing    |
+|                                 |                                                                       |
+|                                 |with colleagues, officials and executives, in order to identify        |
+|                                 |                                                                       |
+|                                 |corrective actions. Attitude to project design, sharing knowledge and  |
+|                                 |                                                                       |
+|                                 |data.  Participatory process analysis with co-design techniques.       |
+|                                 |                                                                       |
+|                                 |Attitude to work in multidisciplinary teams                            |
++---------------------------------+-----------------------------------------------------------------------+
+|LINGUE STRANIERE /               |                                                                       |
+|                                 |                                                                       |
+|FOREIGN LANGUAGES                |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|Lingua / Language                |Inglese / English                                                      |
++---------------------------------+-----------------------------------------------------------------------+
+|lettura / reading                |buona / good                                                           |
++---------------------------------+-----------------------------------------------------------------------+
+|scrittura / writing              |buona / good                                                           |
++---------------------------------+-----------------------------------------------------------------------+
+|espressione orale / oral         |buona / good                                                           |
++---------------------------------+-----------------------------------------------------------------------+
+|Lingua / Language                |Spagnolo /Spanish                                                      |
++---------------------------------+-----------------------------------------------------------------------+
+|lettura / reading                |buona / good                                                           |
++---------------------------------+-----------------------------------------------------------------------+
+|scrittura / writing              |media / average                                                        |
++---------------------------------+-----------------------------------------------------------------------+
+|espressione orale / oral         |media / average                                                        |
++---------------------------------+-----------------------------------------------------------------------+
+|FORMAZIONE TECNICA /             |                                                                       |
+|                                 |                                                                       |
+|TECHNICAL SKILL                  |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|formazione /                     |\ |LINK10|\ :                                                          |
+|                                 |                                                                       |
+|training scheme                  |- Progettazione energetica degli edifici, 2008                         |
+|                                 |                                                                       |
+|                                 |- I  sistemi  di  gestione  ambientale,  2004                          |
+|                                 |                                                                       |
+|                                 |- Efficienza  energetica,  normativa  e  meccanismi                    |
+|                                 |                                                                       |
+|                                 |di incentivazione, 2007                                                |
+|                                 |                                                                       |
+|                                 |- Urban Management, 2008                                               |
+|                                 |                                                                       |
+|                                 |- I sistemi  fotovoltaici  connessi  in  rete, installazione           |
+|                                 |                                                                       |
+|                                 |e collaudo, 2004                                                       |
+|                                 |                                                                       |
+|                                 |- Pubblica Amministrazione e Sviluppo Urbano Sostenibile,              |
+|                                 |                                                                       |
+|                                 |2003                                                                   |
+|                                 |                                                                       |
+|                                 |- Gli impianti solar cooling, 2008                                     |
+|                                 |                                                                       |
+|                                 |- Tecnologie  energetiche  rinnovabili, 2006                           |
+|                                 |                                                                       |
+|                                 |- Parsec ciclo di vita del progetto: gestione dei rischi               |
+|                                 |                                                                       |
+|                                 |nei progetti, budgeting e rendicontazione, 2008                        |
+|                                 |                                                                       |
+|                                 |- La direzione per obiettivi, 2006                                     |
+|                                 |                                                                       |
+|                                 |- Partecipazione al corso online del FormezPA                          |
+|                                 |                                                                       |
+|                                 |sugli open data, 2014 \ |LINK11|\                                      |
+|                                 |                                                                       |
+|                                 |- Partecipazione  al corso  online  del  FormezPA sugli                |
+|                                 |                                                                       |
+|                                 |open data,  2015 \ |LINK12|\                                           |
+|                                 |                                                                       |
+|                                 |- Partecipazione  al corso   online   del   Formez   sull'e-leadership,|
+|                                 |                                                                       |
+|                                 |2015 \ |LINK13|\                                                       |
+|                                 |                                                                       |
+|                                 |- \ |LINK14|\                                                          |
++---------------------------------+-----------------------------------------------------------------------+
+|abilità tecniche                 |- Use of database for \ |LINK15|\                                      |
+|                                 |                                                                       |
+|/                                |- Google Drive cloud services used for daily                           |
+|                                 |                                                                       |
+|technical skill                  |work tasks                                                             |
+|                                 |                                                                       |
+|                                 |- competenze organizzative e di monitoraggio attività                  |
+|                                 |                                                                       |
+|                                 |con l'ausilio di indicatori, acquisite durante l'esperienza di gestione|
+|                                 |                                                                       |
+|                                 |dei progetti di partenariato transnazionale co-finanziati dall'UE      |
+|                                 |                                                                       |
+|                                 |- competenze nella redazione/gestione di progetti con                  |
+|                                 |                                                                       |
+|                                 |applicazione delle tecniche del Project Management                     |
++---------------------------------+-----------------------------------------------------------------------+
+|partecipazione a convegni        |Pubblicazioni:                                                         |
+|                                 |                                                                       |
+|e seminari, pubblicazioni,       |- Redazione delle Linee Guida comunali open data in maniera            |
+|                                 |                                                                       |
+|collaborazione a riviste, ecc.   |partecipata, adottate dal Comune di Palermo con Deliberazione          |
+|                                 |                                                                       |
+|/                                |di GM n. \ |LINK16|\  e n. \ |LINK17|\                                 |
+|                                 |                                                                       |
+|participation in conferences and |- Aggiornamento portale didattico su open data per i referenti         |
+|                                 |                                                                       |
+|seminars, publications,          |open data del Comune di Palermo:                                       |
+|                                 |                                                                       |
+|collaboration in magazines, etc. |\ |LINK18|\                                                            |
+|                                 |                                                                       |
+|                                 |- Pubblicazione articoli sulla community online degli Innovatori       |
+|                                 |                                                                       |
+|                                 |della Pubblica Amministrazione                                         |
+|                                 |                                                                       |
+|                                 |\ |LINK19|\                                                            |
++---------------------------------+-----------------------------------------------------------------------+
+|INTERESSI E RETI /               |                                                                       |
+|                                 |                                                                       |
+|INTERESTS AND NETWORKING         |                                                                       |
++---------------------------------+-----------------------------------------------------------------------+
+|interessi /                      |photography, trekking,                                                 |
+|                                 |                                                                       |
+|hobbies                          |mtbiking, civic hacking                                                |
++---------------------------------+-----------------------------------------------------------------------+
+|attivo in reti                   |\ |LINK20|\  open data network                                         |
+|                                 |                                                                       |
+|/                                |\ |LINK21|\  Medium writing                                            |
+|                                 |                                                                       |
+|active in networking             |\ |LINK22|\                                                            |
+|                                 |                                                                       |
+|                                 |\ |LINK23|\                                                            |
+|                                 |                                                                       |
+|                                 |\ |LINK24|\  e Agenda Digitale                                         |
+|                                 |                                                                       |
+|                                 |\ |LINK25|\                                                            |
++---------------------------------+-----------------------------------------------------------------------+
 
 CV aggiornato al 6 aprile 2018
 
