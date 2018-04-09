@@ -6,12 +6,7 @@ Work profile
 
 \ |LINK1|\ 
 
-|
-
-.. _h4a296e266a7f732d7a15705e25e7146:
-
 active citizenship
-==================
 
 * \ |LINK2|\  
 
