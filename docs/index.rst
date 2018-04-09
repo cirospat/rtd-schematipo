@@ -55,5 +55,5 @@ Cirospat profile
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 .. |IMG1| image:: static/index_1.png
-   :height: 261 px
-   :width: 260 px
+   :height: 222 px
+   :width: 222 px
