@@ -10,7 +10,7 @@ Cirospat profile
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Indice
+    :caption: Contenuti
 
     social-profile
     work-profile
