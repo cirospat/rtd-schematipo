@@ -48,7 +48,9 @@ Curriculum Vitae
 |                                 |                                                                       |
 |                                 |2013 - 2017 all'Area Innovazione Tecnologica /open data                |
 |                                 |                                                                       |
-|                                 |2018 - oggi al Settore servizi alla città, Servizio Innovazione        |
+|                                 |2018 - oggi al Settore servizi alla città,                             |
+|                                 |                                                                       |
+|                                 |Servizio Innovazione                                                   |
 +---------------------------------+-----------------------------------------------------------------------+
 |nome del datore di lavoro /      |\ |LINK4|\  /                                                          |
 |                                 |                                                                       |
@@ -64,43 +66,53 @@ Curriculum Vitae
 |                                 |                                                                       |
 |been involved                    |\ |LINK9|\  exchange of good practices in urban management             |
 +---------------------------------+-----------------------------------------------------------------------+
-|principali mansioni e            |Tecnico nella redazione e gestione di progetti negli ambiti della      |
+|principali mansioni e            |Tecnico nella redazione e gestione di progetti negli                   |
 |                                 |                                                                       |
-|responsabilità  /                |sostenibilità nelle aree urbane, dell'innovazione tecnologica e open   |
+|responsabilità  /                |ambiti della sostenibilità nelle aree urbane,                          |
 |                                 |                                                                       |
-|main functions and               |data. Posizione Organizzativa su "Innovazione tecnologica,             |
+|main functions and               |dell'innovazione tecnologica e open                                    |
 |                                 |                                                                       |
-|responsibilities                 |pubblicazione e open data", 2016-17 presso l'Area Innovazione          |
+|responsibilities                 |data. Posizione Organizzativa su "Innovazione                          |
 |                                 |                                                                       |
-|                                 |Tecnologica  /                                                         |
+|                                 |tecnologica, pubblicazione e open data", 2016-17                       |
 |                                 |                                                                       |
-|                                 |Technician involved in projects management related to sustainability   |
+|                                 |presso l'Area Innovazione Tecnologica  /                               |
 |                                 |                                                                       |
-|                                 |in urban areas, innovation technology, and open data. Organizational   |
+|                                 |Technician involved in projects management related                     |
 |                                 |                                                                       |
-|                                 |Position concerning "Innovation technology, publication and open       |
+|                                 |to sustainability in urban areas, innovation technology,               |
 |                                 |                                                                       |
-|                                 |data" 2016-17 in Innovation Technology municipal department            |
+|                                 |and open data. Organizational Position concerning                      |
+|                                 |                                                                       |
+|                                 |"Innovation technology, publication and open                           |
+|                                 |                                                                       |
+|                                 |data" 2016-17 in Innovation Technology                                 |
+|                                 |                                                                       |
+|                                 |municipal department                                                   |
 +---------------------------------+-----------------------------------------------------------------------+
-|attitudini /                     |Propensione alla risoluzione delle criticità attraverso l’ascolto e il |
+|attitudini /                     |Propensione alla risoluzione delle criticità attraverso                |
 |                                 |                                                                       |
-|attitudes                        |confronto con colleghi, funzionari e dirigenti, per individuare azioni |
+|attitudes                        |l’ascolto e il confronto con colleghi, funzionari e dirigenti,         |
 |                                 |                                                                       |
-|                                 |correttive. Attitudine alla progettualità,  alla condivisione della    |
+|                                 |per individuare azioni correttive. Attitudine alla                     |
 |                                 |                                                                       |
-|                                 |conoscenza e dei dati. Analisi dei processi  partecipativi  con        |
+|                                 |progettualità,  alla condivisione della conoscenza e dei dati.         |
 |                                 |                                                                       |
-|                                 |tecniche  di  codesign. Attitudine al lavoro in team multidisciplinari |
+|                                 |Analisi dei processi  partecipativi  con tecniche  di  codesign.       |
+|                                 |                                                                       |
+|                                 |Attitudine al lavoro in team multidisciplinari                         |
 |                                 |                                                                       |
 |                                 |/                                                                      |
 |                                 |                                                                       |
-|                                 |Propensity to solve critical issues through listening and comparing    |
+|                                 |Propensity to solve critical issues through listening and              |
 |                                 |                                                                       |
-|                                 |with colleagues, officials and executives, in order to identify        |
+|                                 |comparing with colleagues, officials and executives, in order          |
 |                                 |                                                                       |
-|                                 |corrective actions. Attitude to project design, sharing knowledge and  |
+|                                 |to identify corrective actions. Attitude to project design,            |
 |                                 |                                                                       |
-|                                 |data.  Participatory process analysis with co-design techniques.       |
+|                                 |sharing knowledge and data.  Participatory process analysis            |
+|                                 |                                                                       |
+|                                 |with co-design techniques.                                             |
 |                                 |                                                                       |
 |                                 |Attitude to work in multidisciplinary teams                            |
 +---------------------------------+-----------------------------------------------------------------------+
@@ -130,83 +142,85 @@ Curriculum Vitae
 +---------------------------------+-----------------------------------------------------------------------+
 |formazione /                     |\ |LINK10|\ :                                                          |
 |                                 |                                                                       |
-|training scheme                  |- Progettazione energetica degli edifici, 2008                         |
+|training scheme                  |Progettazione energetica degli edifici, 2008.                          |
 |                                 |                                                                       |
-|                                 |- I  sistemi  di  gestione  ambientale,  2004                          |
+|                                 |I  sistemi  di  gestione  ambientale,  2004.                           |
 |                                 |                                                                       |
-|                                 |- Efficienza  energetica,  normativa  e  meccanismi                    |
+|                                 |Efficienza  energetica,  normativa  e  meccanismi                      |
 |                                 |                                                                       |
-|                                 |di incentivazione, 2007                                                |
+|                                 |di incentivazione, 2007.                                               |
 |                                 |                                                                       |
-|                                 |- Urban Management, 2008                                               |
+|                                 |Urban Management, 2008.                                                |
 |                                 |                                                                       |
-|                                 |- I sistemi  fotovoltaici  connessi  in  rete, installazione           |
+|                                 |I sistemi  fotovoltaici  connessi  in  rete, installazione             |
 |                                 |                                                                       |
-|                                 |e collaudo, 2004                                                       |
+|                                 |e collaudo, 2004.                                                      |
 |                                 |                                                                       |
-|                                 |- Pubblica Amministrazione e Sviluppo Urbano Sostenibile,              |
+|                                 |Pubblica Amministrazione e Sviluppo Urbano Sostenibile,                |
 |                                 |                                                                       |
-|                                 |2003                                                                   |
+|                                 |2003.                                                                  |
 |                                 |                                                                       |
-|                                 |- Gli impianti solar cooling, 2008                                     |
+|                                 |Gli impianti solar cooling, 2008.                                      |
 |                                 |                                                                       |
-|                                 |- Tecnologie  energetiche  rinnovabili, 2006                           |
+|                                 |Tecnologie  energetiche  rinnovabili, 2006.                            |
 |                                 |                                                                       |
-|                                 |- Parsec ciclo di vita del progetto: gestione dei rischi               |
+|                                 |Parsec ciclo di vita del progetto: gestione dei rischi                 |
 |                                 |                                                                       |
-|                                 |nei progetti, budgeting e rendicontazione, 2008                        |
+|                                 |nei progetti, budgeting e rendicontazione, 2008.                       |
 |                                 |                                                                       |
-|                                 |- La direzione per obiettivi, 2006                                     |
+|                                 |La direzione per obiettivi, 2006.                                      |
 |                                 |                                                                       |
-|                                 |- Partecipazione al corso online del FormezPA                          |
+|                                 |Partecipazione al corso online del FormezPA                            |
 |                                 |                                                                       |
-|                                 |sugli open data, 2014 \ |LINK11|\                                      |
+|                                 |sugli open data, 2014 \ |LINK11|\ .                                    |
 |                                 |                                                                       |
-|                                 |- Partecipazione  al corso  online  del  FormezPA sugli                |
+|                                 |Partecipazione  al corso  online  del  FormezPA sugli                  |
 |                                 |                                                                       |
-|                                 |open data,  2015 \ |LINK12|\                                           |
+|                                 |open data,  2015 \ |LINK12|\ .                                         |
 |                                 |                                                                       |
-|                                 |- Partecipazione  al corso   online   del   Formez   sull'e-leadership,|
+|                                 |Partecipazione  al corso   online   del   Formez   sull'e-leadership,  |
 |                                 |                                                                       |
-|                                 |2015 \ |LINK13|\                                                       |
+|                                 |2015 \ |LINK13|\ .                                                     |
 |                                 |                                                                       |
-|                                 |- \ |LINK14|\                                                          |
+|                                 |                                                                       |
+|                                 |                                                                       |
+|                                 |\ |LINK14|\                                                            |
 +---------------------------------+-----------------------------------------------------------------------+
-|abilità tecniche                 |- Use of database for \ |LINK15|\                                      |
+|abilità tecniche                 |Use of database for \ |LINK15|\                                        |
 |                                 |                                                                       |
-|/                                |- Google Drive cloud services used for daily                           |
+|/                                |Google Drive cloud services used for daily                             |
 |                                 |                                                                       |
-|technical skill                  |work tasks                                                             |
+|technical skill                  |work tasks.                                                            |
 |                                 |                                                                       |
-|                                 |- competenze organizzative e di monitoraggio attività                  |
+|                                 |Competenze organizzative e di monitoraggio attività                    |
 |                                 |                                                                       |
 |                                 |con l'ausilio di indicatori, acquisite durante l'esperienza di gestione|
 |                                 |                                                                       |
-|                                 |dei progetti di partenariato transnazionale co-finanziati dall'UE      |
-|                                 |                                                                       |
-|                                 |- competenze nella redazione/gestione di progetti con                  |
-|                                 |                                                                       |
-|                                 |applicazione delle tecniche del Project Management                     |
+|                                 |dei progetti di partenariato transnazionale co-finanziati dall'UE.     |
 +---------------------------------+-----------------------------------------------------------------------+
 |partecipazione a convegni        |Pubblicazioni:                                                         |
 |                                 |                                                                       |
-|e seminari, pubblicazioni,       |- Redazione delle Linee Guida comunali open data in maniera            |
+|e seminari, pubblicazioni,       |Redazione delle Linee Guida comunali open data in maniera              |
 |                                 |                                                                       |
 |collaborazione a riviste, ecc.   |partecipata, adottate dal Comune di Palermo con Deliberazione          |
 |                                 |                                                                       |
-|/                                |di GM n. \ |LINK16|\  e n. \ |LINK17|\                                 |
+|/                                |di GM n. \ |LINK16|\  e n. \ |LINK17|\ .                               |
 |                                 |                                                                       |
-|participation in conferences and |- Aggiornamento portale didattico su open data per i referenti         |
+|participation in conferences and |Aggiornamento portale didattico su open data per i referenti           |
 |                                 |                                                                       |
 |seminars, publications,          |open data del Comune di Palermo:                                       |
 |                                 |                                                                       |
-|collaboration in magazines, etc. |\ |LINK18|\                                                            |
+|collaboration in magazines, etc. |\ |LINK18|\ .                                                          |
 |                                 |                                                                       |
-|                                 |- Pubblicazione articoli sulla community online degli Innovatori       |
+|                                 |Pubblicazione articoli sulla community online degli Innovatori         |
 |                                 |                                                                       |
 |                                 |della Pubblica Amministrazione                                         |
 |                                 |                                                                       |
-|                                 |\ |LINK19|\                                                            |
+|                                 |\ |LINK19|\ .                                                          |
+|                                 |                                                                       |
+|                                 |Pubblicazioni articoli Pubblica Amministrazione Digitale               |
+|                                 |                                                                       |
+|                                 |sulla community \ |LINK20|\ .                                          |
 +---------------------------------+-----------------------------------------------------------------------+
 |INTERESSI E RETI /               |                                                                       |
 |                                 |                                                                       |
@@ -216,17 +230,17 @@ Curriculum Vitae
 |                                 |                                                                       |
 |hobbies                          |mtbiking, civic hacking                                                |
 +---------------------------------+-----------------------------------------------------------------------+
-|attivo in reti                   |\ |LINK20|\  open data network                                         |
+|attivo in reti                   |\ |LINK21|\  open data network                                         |
 |                                 |                                                                       |
-|/                                |\ |LINK21|\  Medium writing                                            |
+|/                                |\ |LINK22|\  Medium writing                                            |
 |                                 |                                                                       |
-|active in networking             |\ |LINK22|\                                                            |
+|active in networking             |\ |LINK23|\                                                            |
 |                                 |                                                                       |
-|                                 |\ |LINK23|\                                                            |
+|                                 |\ |LINK24|\                                                            |
 |                                 |                                                                       |
-|                                 |\ |LINK24|\  e Agenda Digitale                                         |
+|                                 |\ |LINK25|\  e Agenda Digitale                                         |
 |                                 |                                                                       |
-|                                 |\ |LINK25|\                                                            |
+|                                 |\ |LINK26|\                                                            |
 +---------------------------------+-----------------------------------------------------------------------+
 
 CV aggiornato al 6 aprile 2018
@@ -314,25 +328,29 @@ CV updated to apr 6, 2018
 
 .. |LINK20| raw:: html
 
-    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">Medium</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
+    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
+    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
 
 .. |LINK25| raw:: html
+
+    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
+
+.. |LINK26| raw:: html
 
     <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
 
