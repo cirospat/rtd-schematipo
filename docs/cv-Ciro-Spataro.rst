@@ -42,27 +42,27 @@ Curriculum Vitae
 +---------------------------------+-----------------------------------------------------------------------+
 |date                             |Dal nov. 1989 ad oggi presso il Comune di Palermo:                     |
 |                                 |                                                                       |
-|                                 |* 1989 - 2002 al Settore Urbanistica                                   |
+|                                 |1989 - 2002 al Settore Urbanistica                                     |
 |                                 |                                                                       |
-|                                 |* 2002 - 2013 al Settore Ambiente                                      |
+|                                 |2002 - 2013 al Settore Ambiente                                        |
 |                                 |                                                                       |
-|                                 |* 2013 - 2017 all'Area Innovazione Tecnologica /open data              |
+|                                 |2013 - 2017 all'Area Innovazione Tecnologica /open data                |
 |                                 |                                                                       |
-|                                 |* 2018 - oggi al Settore servizi alla città, Servizio Innovazione      |
+|                                 |2018 - oggi al Settore servizi alla città, Servizio Innovazione        |
 +---------------------------------+-----------------------------------------------------------------------+
 |nome del datore di lavoro /      |\ |LINK4|\  /                                                          |
 |                                 |                                                                       |
 |name of employer                 |Municipality of Palermo                                                |
 +---------------------------------+-----------------------------------------------------------------------+
-|link a progetti UE in cui è stato|* \ |LINK5|\   innovation and economic development                     |
+|link a progetti UE in cui è stato|\ |LINK5|\   innovation and economic development                       |
 |                                 |                                                                       |
-|coinvolto                        |* \ |LINK6|\   Emas UE scheme                                          |
+|coinvolto                        |\ |LINK6|\   Emas UE scheme                                            |
 |                                 |                                                                       |
-|/                                |* \ |LINK7|\   Emas UE scheme and peer review                          |
+|/                                |\ |LINK7|\   Emas UE scheme and peer review                            |
 |                                 |                                                                       |
-|link to UE project in which has  |* \ |LINK8|\   climate protection action plan                          |
+|link to UE project in which has  |\ |LINK8|\   climate protection action plan                            |
 |                                 |                                                                       |
-|been involved                    |* \ |LINK9|\  exchange of good practices in urban management           |
+|been involved                    |\ |LINK9|\  exchange of good practices in urban management             |
 +---------------------------------+-----------------------------------------------------------------------+
 |principali mansioni e            |Tecnico nella redazione e gestione di progetti negli ambiti della      |
 |                                 |                                                                       |
