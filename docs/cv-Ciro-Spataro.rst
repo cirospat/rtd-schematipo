@@ -186,7 +186,7 @@ Curriculum Vitae
 |                                 |                                                                       |
 |                                 |\ |LINK14|\                                                            |
 +---------------------------------+-----------------------------------------------------------------------+
-|abilità tecniche                 |Use of database for \ |LINK15|\                                        |
+|abilità tecniche                 |Use of database for \ |LINK15|\ .                                      |
 |                                 |                                                                       |
 |/                                |Google Drive cloud services used for daily                             |
 |                                 |                                                                       |
