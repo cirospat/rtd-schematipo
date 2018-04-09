@@ -14,6 +14,7 @@ Cirospat profile
 
     social-profile
     work-profile
+    cv-Ciro-Spataro
     tutorial
     mappe
     Ciro-Spataro-su-open-data-e-innovazione
