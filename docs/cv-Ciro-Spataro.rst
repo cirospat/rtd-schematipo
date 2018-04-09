@@ -1,25 +1,31 @@
 
-|REPLACE1|
-
 .. _h78443221494a701e1b162e4b2040191a:
 
 Curriculum Vitae Ciro Spataro
 #############################
 
 
-|REPLACE2|
+|REPLACE1|
 
 CV aggiornato al 6 aprile 2018
 
 CV updated to apr 6, 2018
 
+--------
+
+
+|REPLACE2|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
-
-    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-.. |REPLACE2| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:95%">
     <tbody>
@@ -55,3 +61,7 @@ CV updated to apr 6, 2018
     <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">interessi / hobbies</span></p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">photography, trekking, mtbiking, civic hacking</span></p></td></tr>
     <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">attivo in reti / active in networking</span></p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a> per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a> open data network</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a> articoli sulla Pubblica Amministrazione digitale</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a> </span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a> </span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a> e Agenda Digitale</span></li><li style="list-style:inherit;list-style-image:inherit"><span  style="font-family:Calibri"><a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a> </span></li></ul></td></tr>
     </tbody></table>
+
+.. |REPLACE2| raw:: html
+
+    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
