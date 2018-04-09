@@ -9,19 +9,19 @@ Social profile
 social
 ======
 
-cirospat@gmail.com
+* \ |LINK1|\ 
 
-\ |LINK1|\ 
+* \ |LINK2|\ 
 
-\ |LINK2|\ 
+* \ |LINK3|\ 
 
-\ |LINK3|\ 
+* \ |LINK4|\ 
 
-\ |LINK4|\ 
+* \ |LINK5|\ 
 
-\ |LINK5|\ 
+* \ |LINK6|\ 
 
-skype: cirospat
+* skype: cirospat
 
 --------
 
@@ -30,19 +30,19 @@ skype: cirospat
 photos
 ======
 
-\ |LINK6|\ 
+* \ |LINK7|\ 
 
-\ |LINK7|\ 
+* \ |LINK8|\ 
 
-\ |LINK8|\ 
+* \ |LINK9|\ 
 
-\ |LINK9|\ 
+* \ |LINK10|\ 
 
-\ |LINK10|\ 
+* \ |LINK11|\ 
 
-\ |LINK11|\ 
+* \ |LINK12|\ 
 
-\ |LINK12|\ 
+* \ |LINK13|\ 
 
 --------
 
@@ -51,7 +51,7 @@ photos
 territorial mini guide
 ======================
 
-\ |LINK13|\  (cc by sa)
+* \ |LINK14|\  (cc by sa)
 
 
 .. bottom of content
@@ -59,53 +59,57 @@ territorial mini guide
 
 .. |LINK1| raw:: html
 
-    <a href="https://plus.google.com/116441269367387619785" target="_blank">google+</a>
+    <a href="mailto:cirospat@gmail.com">cirospat@gmail.com</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.youtube.com/user/cirospat" target="_blank">youtube</a>
+    <a href="https://plus.google.com/116441269367387619785" target="_blank">google+</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter</a>
+    <a href="http://www.youtube.com/user/cirospat" target="_blank">youtube</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.linkedin.com/in/cirospataro" target="_blank">linkedin</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.facebook.com/ciro.spataro.3" target="_blank">facebook</a>
+    <a href="http://www.linkedin.com/in/cirospataro" target="_blank">linkedin</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://www.flickr.com/photos/cirospat" target="_blank">flickr</a>
+    <a href="https://www.facebook.com/ciro.spataro.3" target="_blank">facebook</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.instagram.com/cirospat/" target="_blank">instagram</a>
+    <a href="http://www.flickr.com/photos/cirospat" target="_blank">flickr</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://it.pinterest.com/cirospat/" target="_blank">pinterest</a>
+    <a href="https://www.instagram.com/cirospat/" target="_blank">instagram</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.imagesagainstwar.com/582.html?" target="_blank">imagesagainstwar</a>
+    <a href="https://it.pinterest.com/cirospat/" target="_blank">pinterest</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://bit.ly/inmypalermo" target="_blank">in my Palermo</a>
+    <a href="http://www.imagesagainstwar.com/582.html?" target="_blank">imagesagainstwar</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://cirospat.aminus3.com/portfolio/" target="_blank">a view of world children</a>
+    <a href="http://bit.ly/inmypalermo" target="_blank">in my Palermo</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://get.google.com/albumarchive/116441269367387619785/album/AF1QipMHCHW-j5u0Z9CXRwefUNroCW0xVuc4AHcMnaD2" target="_blank">in baltik forests</a>
+    <a href="http://cirospat.aminus3.com/portfolio/" target="_blank">a view of world children</a>
 
 .. |LINK13| raw:: html
+
+    <a href="https://get.google.com/albumarchive/116441269367387619785/album/AF1QipMHCHW-j5u0Z9CXRwefUNroCW0xVuc4AHcMnaD2" target="_blank">in baltik forests</a>
+
+.. |LINK14| raw:: html
 
     <a href="https://docs.google.com/presentation/d/1FnQJYBtHa6kslcHStOp838BPU8cskQC1Ko-yFKgAPhQ/edit" target="_blank">Sicilia sud-est</a>
 
