@@ -5,243 +5,7 @@ Curriculum Vitae
 #################
 
 
-+---------------------------------+-----------------------------------------------------------------------+
-|INFORMAZIONI PERSONALI /         |                                                                       |
-|                                 |                                                                       |
-|PERSONAL INFO                    |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|nome e cognome /                 |Ciro Spataro                                                           |
-|                                 |                                                                       |
-|name & last name                 |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|indirizzo di lavoro /            |Via dello Spirito Santo, 35, Palermo, Italy                            |
-|                                 |                                                                       |
-|current work address             |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|telefono ufficio / office phone  |+390917407340                                                          |
-+---------------------------------+-----------------------------------------------------------------------+
-|email ufficio / office email     |\ |LINK1|\                                                             |
-+---------------------------------+-----------------------------------------------------------------------+
-|email personale/ personal email  |\ |LINK2|\                                                             |
-+---------------------------------+-----------------------------------------------------------------------+
-|posta elettronica certificata /  |\ |LINK3|\                                                             |
-|                                 |                                                                       |
-|certified email                  |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|data e luogo di nascita /        |nato il 26.04.1967 a Isola della Scala (Verona)                        |
-|                                 |                                                                       |
-|date & place of birth            |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|titolo di studio /               |Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore”     |
-|                                 |                                                                       |
-|study degree                     |di Palermo, nel 1985 / Diploma of Geometry in 1985                     |
-+---------------------------------+-----------------------------------------------------------------------+
-|ESPERIENZA LAVORATIVA /          |                                                                       |
-|                                 |                                                                       |
-|WORK EXPERIENCE                  |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|date                             |Dal nov. 1989 ad oggi presso il Comune di Palermo:                     |
-|                                 |                                                                       |
-|                                 |1989 - 2002 al Settore Urbanistica                                     |
-|                                 |                                                                       |
-|                                 |2002 - 2013 al Settore Ambiente                                        |
-|                                 |                                                                       |
-|                                 |2013 - 2017 all'Area Innovazione Tecnologica /open data                |
-|                                 |                                                                       |
-|                                 |2018 - oggi al Settore servizi alla città,                             |
-|                                 |                                                                       |
-|                                 |Servizio Innovazione                                                   |
-+---------------------------------+-----------------------------------------------------------------------+
-|nome del datore di lavoro /      |\ |LINK4|\  /                                                          |
-|                                 |                                                                       |
-|name of employer                 |Municipality of Palermo                                                |
-+---------------------------------+-----------------------------------------------------------------------+
-|link a progetti UE in cui è stato|\ |LINK5|\   innovation and economic development                       |
-|                                 |                                                                       |
-|coinvolto                        |\ |LINK6|\   Emas UE scheme                                            |
-|                                 |                                                                       |
-|/                                |\ |LINK7|\   Emas UE scheme and peer review                            |
-|                                 |                                                                       |
-|link to UE project in which has  |\ |LINK8|\   climate protection action plan                            |
-|                                 |                                                                       |
-|been involved                    |\ |LINK9|\  exchange of good practices in urban management             |
-+---------------------------------+-----------------------------------------------------------------------+
-|principali mansioni e            |Tecnico nella redazione e gestione di progetti negli                   |
-|                                 |                                                                       |
-|responsabilità  /                |ambiti della sostenibilità nelle aree urbane,                          |
-|                                 |                                                                       |
-|main functions and               |dell'innovazione tecnologica e open                                    |
-|                                 |                                                                       |
-|responsibilities                 |data. Posizione Organizzativa su "Innovazione                          |
-|                                 |                                                                       |
-|                                 |tecnologica, pubblicazione e open data", 2016-17                       |
-|                                 |                                                                       |
-|                                 |presso l'Area Innovazione Tecnologica  /                               |
-|                                 |                                                                       |
-|                                 |Technician involved in projects management related                     |
-|                                 |                                                                       |
-|                                 |to sustainability in urban areas, innovation technology,               |
-|                                 |                                                                       |
-|                                 |and open data. Organizational Position concerning                      |
-|                                 |                                                                       |
-|                                 |"Innovation technology, publication and open                           |
-|                                 |                                                                       |
-|                                 |data" 2016-17 in Innovation Technology                                 |
-|                                 |                                                                       |
-|                                 |municipal department                                                   |
-+---------------------------------+-----------------------------------------------------------------------+
-|attitudini /                     |Propensione alla risoluzione delle criticità attraverso                |
-|                                 |                                                                       |
-|attitudes                        |l’ascolto e il confronto con colleghi, funzionari e dirigenti,         |
-|                                 |                                                                       |
-|                                 |per individuare azioni correttive. Attitudine alla                     |
-|                                 |                                                                       |
-|                                 |progettualità,  alla condivisione della conoscenza e dei dati.         |
-|                                 |                                                                       |
-|                                 |Analisi dei processi  partecipativi  con tecniche  di  codesign.       |
-|                                 |                                                                       |
-|                                 |Attitudine al lavoro in team multidisciplinari                         |
-|                                 |                                                                       |
-|                                 |/                                                                      |
-|                                 |                                                                       |
-|                                 |Propensity to solve critical issues through listening and              |
-|                                 |                                                                       |
-|                                 |comparing with colleagues, officials and executives, in order          |
-|                                 |                                                                       |
-|                                 |to identify corrective actions. Attitude to project design,            |
-|                                 |                                                                       |
-|                                 |sharing knowledge and data.  Participatory process analysis            |
-|                                 |                                                                       |
-|                                 |with co-design techniques.                                             |
-|                                 |                                                                       |
-|                                 |Attitude to work in multidisciplinary teams                            |
-+---------------------------------+-----------------------------------------------------------------------+
-|LINGUE STRANIERE /               |                                                                       |
-|                                 |                                                                       |
-|FOREIGN LANGUAGES                |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|Lingua / Language                |Inglese / English                                                      |
-+---------------------------------+-----------------------------------------------------------------------+
-|lettura / reading                |buona / good                                                           |
-+---------------------------------+-----------------------------------------------------------------------+
-|scrittura / writing              |buona / good                                                           |
-+---------------------------------+-----------------------------------------------------------------------+
-|espressione orale / oral         |buona / good                                                           |
-+---------------------------------+-----------------------------------------------------------------------+
-|Lingua / Language                |Spagnolo /Spanish                                                      |
-+---------------------------------+-----------------------------------------------------------------------+
-|lettura / reading                |buona / good                                                           |
-+---------------------------------+-----------------------------------------------------------------------+
-|scrittura / writing              |media / average                                                        |
-+---------------------------------+-----------------------------------------------------------------------+
-|espressione orale / oral         |media / average                                                        |
-+---------------------------------+-----------------------------------------------------------------------+
-|FORMAZIONE TECNICA /             |                                                                       |
-|                                 |                                                                       |
-|TECHNICAL SKILL                  |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|formazione /                     |\ |LINK10|\ :                                                          |
-|                                 |                                                                       |
-|training scheme                  |Progettazione energetica degli edifici, 2008.                          |
-|                                 |                                                                       |
-|                                 |I  sistemi  di  gestione  ambientale,  2004.                           |
-|                                 |                                                                       |
-|                                 |Efficienza  energetica,  normativa  e  meccanismi                      |
-|                                 |                                                                       |
-|                                 |di incentivazione, 2007.                                               |
-|                                 |                                                                       |
-|                                 |Urban Management, 2008.                                                |
-|                                 |                                                                       |
-|                                 |I sistemi  fotovoltaici  connessi  in  rete, installazione             |
-|                                 |                                                                       |
-|                                 |e collaudo, 2004.                                                      |
-|                                 |                                                                       |
-|                                 |Pubblica Amministrazione e Sviluppo Urbano Sostenibile,                |
-|                                 |                                                                       |
-|                                 |2003.                                                                  |
-|                                 |                                                                       |
-|                                 |Gli impianti solar cooling, 2008.                                      |
-|                                 |                                                                       |
-|                                 |Tecnologie  energetiche  rinnovabili, 2006.                            |
-|                                 |                                                                       |
-|                                 |Parsec ciclo di vita del progetto: gestione dei rischi                 |
-|                                 |                                                                       |
-|                                 |nei progetti, budgeting e rendicontazione, 2008.                       |
-|                                 |                                                                       |
-|                                 |La direzione per obiettivi, 2006.                                      |
-|                                 |                                                                       |
-|                                 |Partecipazione al corso online del FormezPA                            |
-|                                 |                                                                       |
-|                                 |sugli open data, 2014 \ |LINK11|\ .                                    |
-|                                 |                                                                       |
-|                                 |Partecipazione  al corso  online  del  FormezPA sugli                  |
-|                                 |                                                                       |
-|                                 |open data,  2015 \ |LINK12|\ .                                         |
-|                                 |                                                                       |
-|                                 |Partecipazione  al corso   online   del   Formez   sull'e-leadership,  |
-|                                 |                                                                       |
-|                                 |2015 \ |LINK13|\ .                                                     |
-|                                 |                                                                       |
-|                                 |                                                                       |
-|                                 |                                                                       |
-|                                 |\ |LINK14|\                                                            |
-+---------------------------------+-----------------------------------------------------------------------+
-|abilità tecniche                 |Use of database for \ |LINK15|\ .                                      |
-|                                 |                                                                       |
-|/                                |Google Drive cloud services used for daily                             |
-|                                 |                                                                       |
-|technical skill                  |work tasks.                                                            |
-|                                 |                                                                       |
-|                                 |Competenze organizzative e di monitoraggio attività                    |
-|                                 |                                                                       |
-|                                 |con l'ausilio di indicatori, acquisite durante l'esperienza di gestione|
-|                                 |                                                                       |
-|                                 |dei progetti di partenariato transnazionale co-finanziati dall'UE.     |
-+---------------------------------+-----------------------------------------------------------------------+
-|partecipazione a convegni        |Pubblicazioni:                                                         |
-|                                 |                                                                       |
-|e seminari, pubblicazioni,       |Redazione delle Linee Guida comunali open data in maniera              |
-|                                 |                                                                       |
-|collaborazione a riviste, ecc.   |partecipata, adottate dal Comune di Palermo con Deliberazione          |
-|                                 |                                                                       |
-|/                                |di GM n. \ |LINK16|\  e n. \ |LINK17|\ .                               |
-|                                 |                                                                       |
-|participation in conferences and |Aggiornamento portale didattico su open data per i referenti           |
-|                                 |                                                                       |
-|seminars, publications,          |open data del Comune di Palermo:                                       |
-|                                 |                                                                       |
-|collaboration in magazines, etc. |\ |LINK18|\ .                                                          |
-|                                 |                                                                       |
-|                                 |Pubblicazione articoli sulla community online degli Innovatori         |
-|                                 |                                                                       |
-|                                 |della Pubblica Amministrazione                                         |
-|                                 |                                                                       |
-|                                 |\ |LINK19|\ .                                                          |
-|                                 |                                                                       |
-|                                 |Pubblicazioni articoli Pubblica Amministrazione Digitale               |
-|                                 |                                                                       |
-|                                 |sulla community \ |LINK20|\ .                                          |
-+---------------------------------+-----------------------------------------------------------------------+
-|INTERESSI E RETI /               |                                                                       |
-|                                 |                                                                       |
-|INTERESTS AND NETWORKING         |                                                                       |
-+---------------------------------+-----------------------------------------------------------------------+
-|interessi /                      |photography, trekking,                                                 |
-|                                 |                                                                       |
-|hobbies                          |mtbiking, civic hacking                                                |
-+---------------------------------+-----------------------------------------------------------------------+
-|attivo in reti                   |\ |LINK21|\  open data network                                         |
-|                                 |                                                                       |
-|/                                |\ |LINK22|\  Medium writing                                            |
-|                                 |                                                                       |
-|active in networking             |\ |LINK23|\                                                            |
-|                                 |                                                                       |
-|                                 |\ |LINK24|\                                                            |
-|                                 |                                                                       |
-|                                 |\ |LINK25|\  e Agenda Digitale                                         |
-|                                 |                                                                       |
-|                                 |\ |LINK26|\                                                            |
-+---------------------------------+-----------------------------------------------------------------------+
+|REPLACE1|
 
 CV aggiornato al 6 aprile 2018
 
@@ -250,107 +14,39 @@ CV updated to apr 6, 2018
 .. bottom of content
 
 
-.. |LINK1| raw:: html
+.. |REPLACE1| raw:: html
 
-    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
-
-.. |LINK2| raw:: html
-
-    <a href="mailto:cirospat@gmail.com">cirospat@gmail.com</a>
-
-.. |LINK3| raw:: html
-
-    <a href="mailto:ciro.spataro@pec.it">ciro.spataro@pec.it</a>
-
-.. |LINK4| raw:: html
-
-    <a href="https://www.comune.palermo.it/" target="_blank">Comune di Palermo</a>
-
-.. |LINK5| raw:: html
-
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
-
-.. |LINK6| raw:: html
-
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
-
-.. |LINK7| raw:: html
-
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
-
-.. |LINK8| raw:: html
-
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
-
-.. |LINK9| raw:: html
-
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
-
-.. |LINK10| raw:: html
-
-    <a href="https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view" target="_blank">Partecipazione a percorsi formativi</a>
-
-.. |LINK11| raw:: html
-
-    <a href="http://eventipa.formez.it/node/29227" target="_blank">http://eventipa.formez.it/node/29227</a>
-
-.. |LINK12| raw:: html
-
-    <a href="http://eventipa.formez.it/node/57587" target="_blank">http://eventipa.formez.it/node/57587</a>
-
-.. |LINK13| raw:: html
-
-    <a href="http://eventipa.formez.it/node/57584" target="_blank">http://eventipa.formez.it/node/57584</a>
-
-.. |LINK14| raw:: html
-
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">Formazione open data</a>
-
-.. |LINK15| raw:: html
-
-    <a href="https://cirospat.github.io/maps/" target="_blank">map making</a>
-
-.. |LINK16| raw:: html
-
-    <a href="https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">252/2013</a>
-
-.. |LINK17| raw:: html
-
-    <a href="https://www.comune.palermo.it/js/server/normative/_11052017130800.pdf" target="_blank">97/2017</a>
-
-.. |LINK18| raw:: html
-
-    <a href="https://sites.google.com/site/opendatapalermo" target="_blank">https://sites.google.com/site/opendatapalermo</a>
-
-.. |LINK19| raw:: html
-
-    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">http://www.innovatoripa.it/blogs/cirospataro</a>
-
-.. |LINK20| raw:: html
-
-    <a href="https://medium.com/@cirospat/latest" target="_blank">Medium</a>
-
-.. |LINK21| raw:: html
-
-    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
-
-.. |LINK22| raw:: html
-
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
-
-.. |LINK23| raw:: html
-
-    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
-
-.. |LINK24| raw:: html
-
-    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
-
-.. |LINK25| raw:: html
-
-    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
-
-.. |LINK26| raw:: html
-
-    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
-
+    <table cellspacing="0" cellpadding="0" style="width:95%">
+    <tbody>
+    <tr><td style="width:32%;background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">INFORMAZIONI PERSONALI /</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">PERSONAL INFO</span></p></td><td style="width:68%;background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">nome e cognome /</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">name & last name</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Ciro Spataro</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">indirizzo di lavoro / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">current work address</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Via dello Spirito Santo, 35, Palermo, Italy</span></p><p style="font-family:Calibri"></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">telefono ufficio / office phone</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">+390917407340</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">email ufficio / office email</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a> </span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">email personale/ personal email</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="mailto:cirospat@gmail.com">cirospat@gmail.com</a> </span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">posta elettronica certificata / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">certified email</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="mailto:ciro.spataro@pec.it">ciro.spataro@pec.it</a> </span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">data e luogo di nascita /</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">date & place of birth</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">nato il 26.04.1967 a Isola della Scala (Verona)</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">titolo di studio / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">study degree</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore”</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">di Palermo, nel 1985 / Diploma of Geometry in 1985</span></p></td></tr>
+    <tr><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">ESPERIENZA LAVORATIVA /</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">WORK EXPERIENCE </span></p></td><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">date</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Dal nov. 1989 ad oggi presso il Comune di Palermo: </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">1989 - 2002 al Settore Urbanistica</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">2002 - 2013 al Settore Ambiente</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">2013 - 2017 all'Area Innovazione Tecnologica /open data</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">2018 - oggi al Settore servizi alla città, </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Servizio Innovazione</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">nome del datore di lavoro / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">name of employer</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://www.comune.palermo.it/" target="_blank">Comune di Palermo</a> / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Municipality of Palermo</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">link a progetti UE in cui è stato</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">coinvolto </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">/ </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">link to UE project in which has</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">been involved </span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>  innovation and economic development</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>  Emas UE scheme </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>  Emas UE scheme and peer review</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://bit.ly/medclima" target="_blank">medclima</a>  climate protection action plan</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a> exchange of good practices in urban management</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">principali mansioni e</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">responsabilità  / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">main functions and</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">responsibilities</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Tecnico nella redazione e gestione di progetti negli </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">ambiti della sostenibilità nelle aree urbane, </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">dell'innovazione tecnologica e open</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">data. Posizione Organizzativa su "Innovazione </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">tecnologica, pubblicazione e open data", 2016-17 </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">presso l'Area Innovazione Tecnologica  / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Technician involved in projects management related </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">to sustainability in urban areas, innovation technology, </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">and open data. Organizational Position concerning </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">"Innovation technology, publication and open</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">data" 2016-17 in Innovation Technology </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">municipal department</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">attitudini / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">attitudes</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Propensione alla risoluzione delle criticità attraverso </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">l’ascolto e il confronto con colleghi, funzionari e dirigenti, </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">per individuare azioni correttive. Attitudine alla </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">progettualità,  alla condivisione della conoscenza e dei dati. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Analisi dei processi  partecipativi  con tecniche  di  codesign. </span></p><p style="font-family:Calibri"><p style="font-family:Calibri"><span  style="font-family:Calibri">Attitudine al lavoro in team multidisciplinari</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">/</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Propensity to solve critical issues through listening and </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">comparing with colleagues, officials and executives, in order </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">to identify corrective actions. Attitude to project design, </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">sharing knowledge and data.  Participatory process analysis </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">with co-design techniques. </span></p><p style="font-family:Calibri"><p style="font-family:Calibri"><span  style="font-family:Calibri">Attitude to work in multidisciplinary teams</span></p></td></tr>
+    <tr><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">LINGUE STRANIERE / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">FOREIGN LANGUAGES</span></p></td><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"></td></tr>
+    <tr><td style="background-color:#efefef;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Lingua / Language</span></p></td><td style="background-color:#efefef;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Inglese / English</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">lettura / reading</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">buona / good</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">scrittura / writing</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">buona / good</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">espressione orale / oral</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">buona / good</span></p></td></tr>
+    <tr><td style="background-color:#efefef;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Lingua / Language</span></p></td><td style="background-color:#efefef;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Spagnolo /Spanish</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">lettura / reading</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">buona / good</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">scrittura / writing</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">media / average</span></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">espressione orale / oral</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">media / average</span></p></td></tr>
+    <tr><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">FORMAZIONE TECNICA / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">TECHNICAL SKILL</span></p></td><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"></td></tr>
+    <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">formazione / </span></p><p style="font-family:Calibri"><p style="font-family:Calibri"><span  style="font-family:Calibri">training scheme</span></p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view" target="_blank">Partecipazione a percorsi formativi</a>:</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Progettazione energetica degli edifici, 2008. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">I  sistemi  di  gestione  ambientale,  2004. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Efficienza  energetica,  normativa  e  meccanismi  </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">di incentivazione, 2007. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Urban Management, 2008. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">I sistemi  fotovoltaici  connessi  in  rete, installazione  </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">e collaudo, 2004. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Pubblica Amministrazione e Sviluppo Urbano Sostenibile, 2003. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Gli impianti solar cooling, 2008. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Tecnologie  energetiche  rinnovabili, 2006. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Parsec ciclo di vita del progetto: gestione dei rischi </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">nei progetti, budgeting e rendicontazione, 2008. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">La direzione per obiettivi, 2006. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Partecipazione al corso online del FormezPA </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">sugli open data, 2014 <a href="http://eventipa.formez.it/node/29227" target="_blank">http://eventipa.formez.it/node/29227</a>. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Partecipazione  al corso  online  del  FormezPA sugli </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">open data,  2015 <a href="http://eventipa.formez.it/node/57587" target="_blank">http://eventipa.formez.it/node/57587</a>. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Partecipazione  al corso   online   del   Formez   sull'e-leadership,</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">2015 <a href="http://eventipa.formez.it/node/57584" target="_blank">http://eventipa.formez.it/node/57584</a>.</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"> </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://sites.google.com/view/opendataformazione" target="_blank">Formazione open data</a> </span></p></td></tr>
+    <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">abilità tecniche </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">/ </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">technical skill</span></p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Use of database for <a href="https://cirospat.github.io/maps/" target="_blank">map making</a>.</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Google Drive cloud services used for daily </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">work tasks.</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Competenze organizzative e di monitoraggio attività </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">con l'ausilio di indicatori, acquisite durante l'esperienza di gestione</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">dei progetti di partenariato transnazionale co-finanziati dall'UE.</span></p></td></tr>
+    <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">partecipazione a convegni </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">e seminari, pubblicazioni,</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">collaborazione a riviste, ecc. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">/</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">participation in conferences and</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">seminars, publications,</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">collaboration in magazines, etc.</span></p><p style="font-family:Calibri"></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">Pubblicazioni:</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Redazione delle Linee Guida comunali open data in maniera</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">partecipata, adottate dal Comune di Palermo con Deliberazione</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">di GM n. <a href="https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">252/2013</a> e n. <a href="https://www.comune.palermo.it/js/server/normative/_11052017130800.pdf" target="_blank">97/2017</a>. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Aggiornamento portale didattico su open data per i referenti </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">open data del Comune di Palermo: </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://sites.google.com/site/opendatapalermo" target="_blank">https://sites.google.com/site/opendatapalermo</a>. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Pubblicazione articoli sulla community online degli Innovatori </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">della Pubblica Amministrazione</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">http://www.innovatoripa.it/blogs/cirospataro</a>. </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">Pubblicazioni articoli Pubblica Amministrazione Digitale</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">sulla community <a href="https://medium.com/@cirospat/latest" target="_blank">Medium</a>.</span></p></td></tr>
+    <tr><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">INTERESSI E RETI / </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">INTERESTS AND NETWORKING</span></p></td><td style="background-color:#d9d9d9;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"></td></tr>
+    <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">interessi /</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">hobbies</span></p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">photography, trekking, </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">mtbiking, civic hacking</span></p></td></tr>
+    <tr><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri">attivo in reti </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">/ </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri">active in networking</span></p></td><td style="background-color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a> open data network</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a> Medium writing </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a> </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a> </span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a> e Agenda Digitale</span></p><p style="font-family:Calibri"><span  style="font-family:Calibri"><a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a> </span></p></td></tr>
+    </tbody></table>
