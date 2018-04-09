@@ -12,6 +12,9 @@ nominati dai dirigenti comunali
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -27,3 +30,6 @@ nominati dai dirigenti comunali
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pub?output=xlsx?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+.. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pub?output=csv?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
