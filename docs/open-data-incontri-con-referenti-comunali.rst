@@ -146,7 +146,7 @@ Ing. Graziella Pitrolo \ |LINK18|\
 
 Il referente tecnico Dioguardi ha illustrato lo stato dell'arte dei formati del PRG vigente.
 
- Attualmente i file sono disponibili al link istituzionale \ |LINK19|\  in formato aperto DWF ma sono in formato proprietario. Si è tentato di convertire detti file in shape file, ma la conversione ha dato vita a modifiche di alcuni perimetri delle destinazioni delle Zone Territoriali Omogenee del PRG, che quindi va a falsare la destinazione originaria in alcuni tratti di confine tra diverse destinazioni. Per tale ragione si reputa non valida la pubblicazione del PRG.
+Attualmente i file sono disponibili al link istituzionale \ |LINK19|\  in formato aperto DWF ma sono in formato proprietario. Si è tentato di convertire detti file in shape file, ma la conversione ha dato vita a modifiche di alcuni perimetri delle destinazioni delle Zone Territoriali Omogenee del PRG, che quindi va a falsare la destinazione originaria in alcuni tratti di confine tra diverse destinazioni. Per tale ragione si reputa non valida la pubblicazione del PRG. 
 
 Per quanto riguarda, invece, il regime vincolistico sul territorio urbano di Palermo, essendo i vincoli delle perimetrazioni definite da enti sovracomunali (Regione) essa può essere facilmente resa in formato aperto non proprietario e quindi pubblicabile sul portale open data del Comune. A tal uopo si ricorda che Il Dirigente Coordinatore dell'Area Pianificazione Urbanistica, nel mese di dicembre 2014 a inoltrato le tavole dei "vincoli sul territorio" in shape file al webmaster per la pubblicazione sul portale open data.
 
