@@ -6,8 +6,6 @@ Referenti open data
 
 nominati dai dirigenti comunali
 
-- 
-
 
 |REPLACE1|
 
