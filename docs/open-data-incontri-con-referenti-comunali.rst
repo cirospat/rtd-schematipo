@@ -4,9 +4,7 @@
 Report degli incontri con i referenti open data del comune di Palermo per attuazione delle Linee guida
 ######################################################################################################
 
-Area Innovazione Tecnologica (fino al dicembre 2017);
-
-Servizio Innovazione (dal gennaio 2018).
+Area Innovazione Tecnologica (fino al dicembre 2017); Servizio Innovazione (dal gennaio 2018).
 
 Report degli incontri con i referenti open data del comune di Palermo per l'attuazione  delle  \ |LINK1|\  approvate con Deliberazione di G.M.  n. 252 del 13.12.2013, e n. 97 del 4.05.2017 costruite con la partecipazione di soggetti esterni, per la diffusione della cultura dei dati aperti e dell'open government.
 
