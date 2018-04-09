@@ -6,8 +6,6 @@
 Cirospat profile
 ****************
 
-------
-
 
 .. toctree::  
     :maxdepth: 2
