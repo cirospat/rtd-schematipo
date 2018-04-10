@@ -6,10 +6,10 @@ Work profile
 
 \ |LINK1|\ 
 
-.. _h4a296e266a7f732d7a15705e25e7146:
+.. _h5c545a492429339c4615585c52303c:
 
-active citizenship
-==================
+active citizenship & communities
+================================
 
 * \ |LINK2|\  articoli su dati aperti e pubblica amministrazione digitale
 
@@ -68,6 +68,8 @@ works
 
 * \ |LINK21|\  (cc by)
 
+* \ |LINK22|\  (cc by)
+
 --------
 
 .. _h672e36365a5a6e3835651d314b6e1367:
@@ -75,15 +77,15 @@ works
 ue projects 
 ============
 
-* \ |LINK22|\ 
-
 * \ |LINK23|\ 
 
-* \ |LINK24|\  
+* \ |LINK24|\ 
 
 * \ |LINK25|\  
 
-* \ |LINK26|\ 
+* \ |LINK26|\  
+
+* \ |LINK27|\ 
 
 --------
 
@@ -92,7 +94,7 @@ ue projects
 tools for project management   
 ===============================
 
-* \ |LINK27|\  (access required)
+* \ |LINK28|\  (access required)
 
 
 .. bottom of content
@@ -184,25 +186,29 @@ tools for project management
 
 .. |LINK22| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK27| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK28| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
