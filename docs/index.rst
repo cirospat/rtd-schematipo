@@ -11,7 +11,7 @@ Cirospat profile
 
 ..  Note:: 
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE0|\ , che grazie al plugin \ |STYLE1|\  vengono pubblicate automaticamente in formato RST su un contenitore dentro \ |STYLE2|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE3|\ .
+    Questa presentazione è stata costruita su pagine di \ |STYLE0|\ , che grazie al plugin \ |LINK1|\  vengono pubblicate automaticamente in formato RST su un contenitore dentro \ |STYLE1|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE2|\ .
 
 
 .. toctree::  
@@ -38,11 +38,9 @@ Cirospat profile
 
 .. |STYLE0| replace:: **Google Doc**
 
-.. |STYLE1| replace:: **GGeditor**
+.. |STYLE1| replace:: **Github**
 
-.. |STYLE2| replace:: **Github**
-
-.. |STYLE3| replace:: **Read the Docs**
+.. |STYLE2| replace:: **Read the Docs**
 
 
 .. |REPLACE1| raw:: html
@@ -73,6 +71,12 @@ Cirospat profile
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+.. |LINK1| raw:: html
+
+    <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
+
+
 .. |IMG1| image:: static/index_1.png
    :height: 222 px
    :width: 222 px
