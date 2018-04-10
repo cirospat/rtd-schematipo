@@ -26,23 +26,23 @@ Open data e innovazione tecnologica al Comune di Palermo
 
     \ |STYLE1|\ 
     
-    * LINEE GUIDA NAZIONALI VERSIONE 2013 PER LA GESTIONE DEGLI OPEN DATA (AGID)
+    * Linee Guida nazionali versione 2013 per la gestione degli open data (AgID).
     
-    * LINEE GUIDA COMUNALI DEL COMUNE DI PALERMO PER LA GESTIONE DEGLI OPEN DATA, 2013
+    * Linee Guida del comune di Palermo versione 2013 per la gestione degli open data.
     
-    * STRATEGIA REGIONALE DELL'INNOVAZIONE (SMART SPECIALISATION) NECESSARIA PER L'ATTUAZIONE DEL PO FESR SICILIA 2014-2020
+    * Strategia regionale dell'Innovazione (Smart Specialisation Strategy) necessaria per l'attuazione del Programma Operativo FESR 2014-2020 Sicilia.
     
-    * VADEMECUM NAZIONALE ANCI PER LE CITTA' INTELLIGENTI
+    * Vademecum nazionale ANCI per le città intelligenti.
     
-    * #OPENFESR - IDEARIO PER LA CONDIVISIONE DEL PO FESR SICILIA 2014-2020
+    * #OPENFESR - Ideario per la condivisione del PO FESR 2014-2020 Sicilia. 
     
-    * LINEE GUIDA DEL PROGRAMMA NAZIONALE DELLE COMPETENZE, FORMAZIONE E CULTURA DIGITALE (AGID) E IDEE PER L'ATTUAZIONE
+    * Linee Guida del Programma nazionale delle competenze, formazione e cultura digitale e idee per l'attuazione (AgID).
     
-    * 3° PIANO AZIONE NAZIONALE DELL'OPEN GOVERNMENT PARTNERSHIP 2016 \ |LINK4|\ 
+    * 3° Piano di Azione Open Government Partnership 2016 \ |LINK4|\ .
     
-    * LINEE GUIDA COMUNALI DEL COMUNE DI PALERMO PER LA GESTIONE DEGLI OPEN DATA, 2017
+    * Linee Guida del comune di Palermo versione 2017 per la gestione degli open data.
     
-    * RILEVAZIONE SPESA ICT DEL COMUNE DI PALERMO PER LA PARTECIPAZIONE ALLA COSTRUZIONE DEL PIANO TRIENNALE DELL'INFORMATICA NELLA PUBBLICA AMMINISTRAZIONE 2018-2020 (AGID)
+    * Rilevazione spesa ICT del comune di Palermo per la partecipazione alla costruzione del Piano Triennale dell'Informatica nella Pubblica Amministrazione 2018-2020 (AgID).
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -1097,7 +1097,7 @@ Materiali informativi: \ |LINK172|\
 
 .. |LINK4| raw:: html
 
-    <a href="HTTP://OPEN.GOV.IT" target="_blank">HTTP://OPEN.GOV.IT</a>
+    <a href="HTTP://OPEN.GOV.IT" target="_blank">http://open.gov.it</a>
 
 .. |LINK5| raw:: html
 
