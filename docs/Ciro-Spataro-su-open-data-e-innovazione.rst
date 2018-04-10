@@ -935,22 +935,17 @@ Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per 
 
 (infografica da \ |LINK154|\ ) 
 
-\ |STYLE14|\ 
-confermata con Deliberazione di G.M. 185 del 10.10.2017.
+\ |STYLE14|\  Confermata con Deliberazione di G.M. 185 del 10.10.2017.
 
-\ |STYLE15|\ 
-è stata inviata PEC all’AGID pochi giorni prima di Natale con allegato firmato digitalmente il “Modello Implementazione” delle misure minime sicurezza ICT.
+\ |STYLE15|\  E' stata inviata PEC all’AGID pochi giorni prima di Natale con allegato firmato digitalmente il “Modello Implementazione” delle misure minime sicurezza ICT.
 
-\ |STYLE16|\ 
-a dicembre 2015 è stata approvata la delibera di adesione del comune di Palermo al sistema dei pagamenti PagoPA e nel 2017 sono stati già attivati due pagamenti https://www.comune.palermo.it/pago-pa.php. Altri pagamenti sono già in preparazione, da attivare nella prima metà 2018.
+\ |STYLE16|\  A dicembre 2015 è stata approvata la delibera di adesione del comune di Palermo al sistema dei pagamenti PagoPA e nel 2017 sono stati già attivati due pagamenti https://www.comune.palermo.it/pago-pa.php. Altri pagamenti sono già in preparazione, da attivare nella prima metà 2018.
 
-\ |STYLE17|\ 
-già attiva l’autenticazione con SPID per gli operatori del portale tematico dell’\ |LINK155|\ .
+\ |STYLE17|\  Già attiva l’autenticazione con SPID per gli operatori del portale tematico dell’\ |LINK155|\ .
 
-\ |STYLE18|\ 
-i dataset open data comunali sono esposti con metadatazione ai sensi del profilo DCAT_AP_IT previsto dal Piano Triennale ICT della PA e procedure di harvesting già effettuate con la collaborazione dell’AGID.
+\ |STYLE18|\  I dataset open data comunali sono esposti con metadatazione ai sensi del profilo DCAT_AP_IT previsto dal Piano Triennale ICT della PA e procedure di harvesting già effettuate con la collaborazione dell’AGID.
 
-Un articolo dettagliato \ |LINK156|\  
+Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |LINK156|\  
 
 --------
 
@@ -1070,15 +1065,15 @@ Materiali informativi: \ |LINK172|\
 
 .. |STYLE13| replace:: *for the enhancement of Public Sector Information (on quality/interoperability/monitoring/evaluation)*
 
-.. |STYLE14| replace:: **Nomina Responsabile Transizione al Digitale**
+.. |STYLE14| replace:: **Nomina Responsabile Transizione al Digitale.**
 
-.. |STYLE15| replace:: **Sicurezza Informatica**
+.. |STYLE15| replace:: **Sicurezza Informatica.**
 
-.. |STYLE16| replace:: **Pagamenti informatici PagoPA**
+.. |STYLE16| replace:: **Pagamenti informatici PagoPA.**
 
-.. |STYLE17| replace:: **SPID Sistema Pubblico di Identità Digitale**
+.. |STYLE17| replace:: **SPID Sistema Pubblico di Identità Digitale.**
 
-.. |STYLE18| replace:: **Esposizione dei metadati delle banche dati in formato aperto conformi al profilo (DCAT_AP_IT)**
+.. |STYLE18| replace:: **Esposizione dei metadati delle banche dati in formato aperto conformi al profilo (DCAT_AP_IT).**
 
 .. |STYLE19| replace:: **Docs Italia**
 
