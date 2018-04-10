@@ -67,7 +67,7 @@ territorial mini guide
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.youtube.com/user/cirospat" target="_blank">youtube</a>
+    <a href="https://www.youtube.com/user/cirospat/videos" target="_blank">youtube</a>
 
 .. |LINK4| raw:: html
 
