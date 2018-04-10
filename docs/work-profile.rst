@@ -48,7 +48,7 @@ engagement
 works
 =====
 
-* \ |LINK10|\  (cc by sa)
+* \ |LINK10|\  ``cc by sa``
 
 * \ |LINK11|\  (cc by sa)
 
