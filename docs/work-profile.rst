@@ -56,7 +56,7 @@ works
 
 * \ |LINK13|\  2013-now ``cc by`` + \ |LINK14|\  ``cc by`` + \ |LINK15|\  ``cc by sa``
 
-* \ |LINK16|\  (cc by sa)
+* \ |LINK16|\  ``cc by sa``
 
 * \ |LINK17|\  ``cc by sa``
 
