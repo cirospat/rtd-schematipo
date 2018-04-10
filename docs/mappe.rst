@@ -10,7 +10,7 @@ by cirospat
 
 |REPLACE2|
 
-Vedi anche il catalogo delle mappe di \ |LINK1|\ 
+\ |IMG1|\  Vedi anche il catalogo delle mappe di \ |LINK1|\ 
 
 .. bottom of content
 
@@ -26,3 +26,7 @@ Vedi anche il catalogo delle mappe di \ |LINK1|\
 
     <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino</a>
 
+
+.. |IMG1| image:: static/mappe_1.png
+   :height: 36 px
+   :width: 38 px
