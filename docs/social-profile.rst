@@ -53,6 +53,10 @@ territorial mini guide
 
 * \ |LINK14|\  ``cc by``
 
+--------
+
+``cc by`` licenza Creative Commons, Attribuzione dell'opera  
+
 
 .. bottom of content
 
