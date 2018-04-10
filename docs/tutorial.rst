@@ -6,7 +6,6 @@
 Tutorial
 ********
 
-by cirospat
 
 |REPLACE2|
 
