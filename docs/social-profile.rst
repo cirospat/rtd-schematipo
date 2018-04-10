@@ -30,19 +30,19 @@ social
 photos
 ======
 
-* \ |LINK7|\ 
+* \ |LINK7|\  (cc by)
 
-* \ |LINK8|\ 
+* \ |LINK8|\  (cc by)
 
-* \ |LINK9|\ 
+* \ |LINK9|\  (cc by)
 
-* \ |LINK10|\ 
+* \ |LINK10|\  (cc by)
 
-* \ |LINK11|\ 
+* \ |LINK11|\  (cc by)
 
-* \ |LINK12|\ 
+* \ |LINK12|\  (cc by)
 
-* \ |LINK13|\ 
+* \ |LINK13|\  (cc by)
 
 --------
 
@@ -51,7 +51,7 @@ photos
 territorial mini guide
 ======================
 
-* \ |LINK14|\  (cc by sa)
+* \ |LINK14|\  (cc by)
 
 
 .. bottom of content
