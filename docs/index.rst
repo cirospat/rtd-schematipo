@@ -6,8 +6,6 @@
 Cirospat profile
 ****************
 
-\ |IMG1|\ 
-
 
 ..  Note:: 
 
@@ -76,7 +74,3 @@ Cirospat profile
 
     <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
 
-
-.. |IMG1| image:: static/index_1.png
-   :height: 222 px
-   :width: 222 px
