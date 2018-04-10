@@ -7,11 +7,7 @@ Catalogo webinar su open data
 
 |REPLACE1|
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
+Vedi anche il \ |LINK1|\ 
 
 .. bottom of content
 
@@ -19,3 +15,8 @@ Catalogo webinar su open data
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOW_zpOlpJh1mLc4vPIBm6Xq7GQNkRiicl4Gt39aU3lbVLhEOzn7x4Myg-m9yFU_RBHzrXIRBEQtBH/pubhtml"></iframe>
+
+.. |LINK1| raw:: html
+
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">portale didattico sugli open data</a>
+
