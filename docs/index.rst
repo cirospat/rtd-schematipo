@@ -8,6 +8,12 @@ Cirospat profile
 
 \ |IMG1|\ 
 
+
+..  Note:: 
+
+    Questa presentazione è stata costruita su pagine di \ |STYLE0|\ , che grazie al plugin \ |STYLE1|\  vengono pubblicate automaticamente in formato RST su un contenitore dentro \ |STYLE2|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE3|\ .
+
+
 .. toctree::  
     :maxdepth: 2
     :caption: Contenuti
@@ -28,6 +34,15 @@ Cirospat profile
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Google Doc**
+
+.. |STYLE1| replace:: **GGeditor**
+
+.. |STYLE2| replace:: **Github**
+
+.. |STYLE3| replace:: **Read the Docs**
 
 
 .. |REPLACE1| raw:: html
