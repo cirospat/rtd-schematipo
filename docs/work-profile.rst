@@ -48,25 +48,25 @@ engagement
 works
 =====
 
-* \ |LINK10|\   (cc by sa)
+* \ |LINK10|\  (cc by sa)
 
 * \ |LINK11|\  (cc by sa)
 
-* \ |LINK12|\  (cc by sa)
+* \ |LINK12|\   (cc by sa)
 
-* \ |LINK13|\  (cc by sa)
+* \ |LINK13|\  2013-now (cc by) + \ |LINK14|\  (cc by) + \ |LINK15|\  (cc by sa)
 
-* \ |LINK14|\  (cc by sa)
+* \ |LINK16|\  (cc by sa)
 
-* \ |LINK15|\  (cc by sa)
-
-* \ |LINK16|\  2013-now (cc by) + \ |LINK17|\  (cc by)   
+* \ |LINK17|\  (cc by sa)
 
 * \ |LINK18|\  (cc by)
 
 * \ |LINK19|\   (cc by)
 
 * \ |LINK20|\  (cc by)
+
+* \ |LINK21|\  (cc by)
 
 --------
 
@@ -75,15 +75,15 @@ works
 ue projects 
 ============
 
-* \ |LINK21|\ 
-
 * \ |LINK22|\ 
 
-* \ |LINK23|\  
+* \ |LINK23|\ 
 
 * \ |LINK24|\  
 
-* \ |LINK25|\ 
+* \ |LINK25|\  
+
+* \ |LINK26|\ 
 
 --------
 
@@ -92,7 +92,7 @@ ue projects
 tools for project management   
 ===============================
 
-* \ |LINK26|\  (access required)
+* \ |LINK27|\  (access required)
 
 
 .. bottom of content
@@ -136,39 +136,39 @@ tools for project management
 
 .. |LINK10| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">open data-formazione</a>
+    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">Accussì, catalogo di tutorial</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">Accussì, catalogo di tutorial</a>
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino, catalogo di mappe con dati aperti</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo</a>
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">open data, portale di formazione/informazione</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">maps hub by cirospat</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo portale opendata</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida open data 2017 (Read the Docs)</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino, catalogo di mappe con dati aperti</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo in formato aperto</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo portale opendata</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">maps hub by cirospat</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida open data 2017</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://snack.to/5aeb7b" target="_blank">piano strategico mobilità sostenibile Palermo</a>
+    <a href="http://snack.to/5aeb7b" target="_blank">piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK19| raw:: html
 
@@ -176,29 +176,33 @@ tools for project management
 
 .. |LINK20| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">piano strategico Palermo</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">piano strategico di Palermo</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">pubblicazioni del comune di Palermo su Read the Docs</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK26| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK27| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
