@@ -11,17 +11,17 @@ Work profile
 active citizenship
 ==================
 
-* \ |LINK2|\  
+* \ |LINK2|\  articoli su dati aperti e pubblica amministrazione digitale
 
-* \ |LINK3|\  
+* \ |LINK3|\  community sulla cultura dei dati aperti
 
-* \ |LINK4|\  
+* \ |LINK4|\  community sull'innovazione della pubblica amministrazione
 
-* \ |LINK5|\  
+* \ |LINK5|\  laboratori partecipativi sull'innovazione sociale
 
-* \ |LINK6|\ 
+* \ |LINK6|\    repoitory pubblico di dati in formato aperto
 
-* \ |LINK7|\ 
+* \ |LINK7|\  forum delle pubbliche amministrazioni per confronti sulla pubblica amministrazione digitale
 
 --------
 
@@ -60,7 +60,7 @@ works
 
 * \ |LINK15|\  (cc by sa)
 
-* \ |LINK16|\  2013-now (cc by) + \ |LINK17|\  2017 (cc by)   
+* \ |LINK16|\  2013-now (cc by) + \ |LINK17|\  (cc by)   
 
 * \ |LINK18|\  (cc by)
 
@@ -128,7 +128,7 @@ tools for project management
 
 .. |LINK8| raw:: html
 
-    <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/edit?hl=it" target="_blank">cv</a>
+    <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/edit?hl=it" target="_blank">curriculum vitae</a>
 
 .. |LINK9| raw:: html
 
@@ -140,7 +140,7 @@ tools for project management
 
 .. |LINK11| raw:: html
 
-    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">tutorial</a>
+    <a href="http://accussi.opendatasicilia.it/#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6IkFjY3Vzc-wsIHBlcmNo6SBpIHR1dG9yaWFsIHNvbm8gaWwgc3Vkb3JlIGRlbGxlIHBlcnNvbmUgY2hlIGhhbm5vIGNvbmRpdmlzbyBsYSBjb25vc2NlbnphIHtTZWxlY3Qgb25seSBDaXJvIFNwYXRhcm8gaW4gZmFjZXQgQXV0b3JlfSIsInVybCI6Imh0dHA6Ly9hY2N1c3NpLm9wZW5kYXRhc2ljaWxpYS5pdC8iLCJoYXNoIjoiLi8vPyZfc3VpZD0xNTIzMDgyNjY1ODcyMDU3NTI4OTg5NDExMTc2OSIsImRhdGEiOnsiY29tcG9uZW50cyI6eyJmYWNldC10ZXh0LS1kZWZhdWx0LTAiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsidGV4dCI6bnVsbH19LCJmYWNldC1jbG91ZC0udGFnLWRlZmF1bHQtMSI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5hdXRvcmUtZGVmYXVsdC0yIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6WyJDaXJvIFNwYXRhcm8iXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uZm9ybWF0by1kZWZhdWx0LTMiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbGlzdC0uY2F0ZWdvcmlhLWRlZmF1bHQtNCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJ0YWJ1bGFyLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7InBhZ2UiOjAsInNvcnRDb2x1bW4iOjQsInNvcnRBc2NlbmRpbmciOmZhbHNlfX0sInZpZXdQYW5lbC1kZWZhdWx0LTAiOnsidHlwZSI6InZpZXdQYW5lbCIsInN0YXRlIjp7InZpZXdJbmRleCI6MH19fSwic3RhdGUiOjEsImxlbmd0aHkiOnRydWV9LCJpZCI6IjE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5IiwiY2xlYW5VcmwiOiJodHRwOi8vYWNjdXNzaS5vcGVuZGF0YXNpY2lsaWEuaXQvIiwiaGFzaGVkVXJsIjoiaHR0cDovL2FjY3Vzc2kub3BlbmRhdGFzaWNpbGlhLml0Ly8_Jl9zdWlkPTE1MjMwODI2NjU4NzIwNTc1Mjg5ODk0MTExNzY5In0=" target="_blank">Accussì, catalogo di tutorial</a>
 
 .. |LINK12| raw:: html
 
@@ -152,19 +152,19 @@ tools for project management
 
 .. |LINK14| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">petrusino catalogo mappe su dati aperti</a>
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino, catalogo di mappe con dati aperti</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo opendata</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo portale opendata</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida open data</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida open data 2017</a>
 
 .. |LINK18| raw:: html
 
