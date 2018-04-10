@@ -50,25 +50,25 @@ works
 
 * \ |LINK10|\  ``cc by sa``
 
-* \ |LINK11|\  (cc by sa)
+* \ |LINK11|\  ``cc by sa``
 
-* \ |LINK12|\   (cc by sa)
+* \ |LINK12|\   ``cc by sa``
 
-* \ |LINK13|\  2013-now (cc by) + \ |LINK14|\  (cc by) + \ |LINK15|\  (cc by sa)
+* \ |LINK13|\  2013-now ``cc by`` + \ |LINK14|\  ``cc by`` + \ |LINK15|\  ``cc by sa``
 
 * \ |LINK16|\  (cc by sa)
 
-* \ |LINK17|\  (cc by sa)
+* \ |LINK17|\  ``cc by sa``
 
-* \ |LINK18|\  (cc by)
+* \ |LINK18|\  ``cc by``
 
-* \ |LINK19|\   (cc by)
+* \ |LINK19|\  ``cc by``
 
-* \ |LINK20|\  (cc by)
+* \ |LINK20|\  ``cc by``
 
-* \ |LINK21|\  (cc by)
+* \ |LINK21|\  ``cc by``
 
-* \ |LINK22|\  (cc by)
+* \ |LINK22|\  ``cc by``
 
 --------
 
