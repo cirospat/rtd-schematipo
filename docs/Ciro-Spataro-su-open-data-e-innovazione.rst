@@ -595,7 +595,7 @@ News febbraio 2017: La proposta progettuale non è stata valutata positivamente 
 2016- adesione a proposta progettuale UE per cyber security
 ===========================================================
 
-Agosto. Collaborazione alla predisposizione della proposta progettuale \ |IMG2|\  in partenariato trasnazionale nell'ambito del programma UE Horizon 2020, dal titolo "Simpatico" (Security Implementation by Mentoring Public Administrations for Trustworthy Interactions and Cyber-safe Operativity) nell'ambito della sicurezza informatica nelle pubbliche amministrazioni e prevenzione del crimine informatico.
+Agosto. Collaborazione alla predisposizione della proposta progettuale Simpatico  \ |IMG2|\  in partenariato trasnazionale nell'ambito del programma UE Horizon 2020, dal titolo "Simpatico" (Security Implementation by Mentoring Public Administrations for Trustworthy Interactions and Cyber-safe Operativity) nell'ambito della sicurezza informatica nelle pubbliche amministrazioni e prevenzione del crimine informatico.
 
 \ |LINK90|\ .
 
@@ -642,7 +642,9 @@ Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK91|\  a Messina
 2016- partecipazione a evento nuove tecnologie per la fruizione dei musei ai non vedenti
 ========================================================================================
 
-\ |IMG4|\ 27 Ottobre. Partecipazione alla giornata \ |LINK97|\   Organizzato da \ |LINK98|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK99|\ ).
+\ |IMG4|\ 
+
+27 Ottobre. Partecipazione alla giornata \ |LINK97|\   Organizzato da \ |LINK98|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK99|\ ).
 
 \ |LINK100|\ .
 
@@ -758,7 +760,9 @@ E' stato prodotto il \ |LINK122|\  al quale ho partecipato l'8 febbraio 2017 in 
 2017- opendataday 2017 Palermo
 ==============================
 
-\ |IMG5|\ 4 marzo. Opendataday 2017 Palermo.
+\ |IMG5|\ 
+
+4 marzo. Opendataday 2017 Palermo.
 
 \ |LINK131|\  
 
@@ -819,7 +823,9 @@ Andrea Borruso, della community Opendatasicilia e Associazione OnData ha colto i
 2017- lavori e incontri per Palermo capitale giovani
 ====================================================
 
-\ |IMG6|\ 4 aprile. Riunione del gruppo coordinatore dei lavori per Palermo Capitale Italiana dei Giovani 2017 \ |LINK136|\  per identificare step operativi successivi: 1) restituzione pubblica dei lavori dei tavoli tematici ai cantieri culturali della Zisa, 2) prosecuzione lavoro per la narrazione del processo culturale di Palermo Capitale Italiana dei Giovani 2017, 3) eventuali altri tavoli di approfondimento con le proposte operative presentate attraverso la compilazione del modulo google, distinte per ambito tematico.
+\ |IMG6|\ 
+
+4 aprile. Riunione del gruppo coordinatore dei lavori per Palermo Capitale Italiana dei Giovani 2017 \ |LINK136|\  per identificare step operativi successivi: 1) restituzione pubblica dei lavori dei tavoli tematici ai cantieri culturali della Zisa, 2) prosecuzione lavoro per la narrazione del processo culturale di Palermo Capitale Italiana dei Giovani 2017, 3) eventuali altri tavoli di approfondimento con le proposte operative presentate attraverso la compilazione del modulo google, distinte per ambito tematico.
 
 Riunioni del tavolo tecnico Innovazione Tecnologica il 19 aprile e il 3 maggio 2017. Il processo di coinvolgimento e partecipazione a Capitale italiana Giovani 2017 è descritto minuziosamente in questo \ |LINK137|\ .
 
@@ -859,7 +865,9 @@ Settembre. Redazione della proposta di Deliberazione (approvata DG. N. 172 DEL 2
 2017- Hackdevelopers 
 =====================
 
-\ |IMG8|\ 7-8 Ottobre. Hack.developers
+\ |IMG8|\ 
+
+7-8 Ottobre. Hack.developers
 
 Partecipazione all'evento in qualità di referente comunale.  
 
@@ -923,7 +931,9 @@ Contemporaneamente lo staff del webmaster ha rilasciato la nuova versione del po
 
 Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per fine 2017.
 
-\ |IMG10|\ (infografica da \ |LINK154|\ ) 
+\ |IMG10|\ 
+
+(infografica da \ |LINK154|\ ) 
 
 \ |STYLE14|\ 
 confermata con Deliberazione di G.M. 185 del 10.10.2017.
