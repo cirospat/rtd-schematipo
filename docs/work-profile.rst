@@ -96,6 +96,12 @@ tools for project management
 
 * \ |LINK28|\  (access required)
 
+--------
+
+``cc by`` licenza Creative Commons, Attribuzione dell'opera  
+
+``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo 
+
 
 .. bottom of content
 
