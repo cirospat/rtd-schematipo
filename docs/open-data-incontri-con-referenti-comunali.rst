@@ -2320,6 +2320,27 @@ E' stato, quindi, pubblicato il dataset relativo, al link: \ |LINK153|\
 
 --------
 
+63-
+
+.. _h34f4b6c75748602328b27641a7a72:
+
+Settore Servizi educativi
+=========================
+
+Referente: Francesca Iovino
+
+11 aprile 2018
+
+Una riunione che ha permesso di ottimizzare i dati relativamente ai servizi erogati di asili nido e scuole comunali dell'infanzia per l'anno scolastico 2017-2018.
+
+I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivamente ai link:
+
+* \ |LINK154|\ ;
+
+* \ |LINK155|\ .
+
+--------
+
 
 .. bottom of content
 
@@ -3084,4 +3105,12 @@ E' stato, quindi, pubblicato il dataset relativo, al link: \ |LINK153|\
 .. |LINK153| raw:: html
 
     <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
+
+.. |LINK154| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1019" target="_blank">scuole infanzia</a>
+
+.. |LINK155| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1020" target="_blank">asili nido</a>
 
