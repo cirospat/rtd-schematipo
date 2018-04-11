@@ -6,6 +6,16 @@
 Cirospat profile
 ****************
 
+Hello world,
+
+in questo spazio descrivo le principali attività in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo.
+
+Gli ambiti principali di questo spazio sono: i ``dati`` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, l'``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
+
+Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+
+Le iniziative di carattere civico, vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
+
 
 ..  Note:: 
 
