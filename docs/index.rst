@@ -8,16 +8,16 @@ Cirospat pro-file
 
 Hello world,
 
-in questo spazio descrivo le principali attività in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+in questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
-Gli ambiti principali di questo spazio sono: i ``dati`` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, l'``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
+Gli \ |STYLE1|\  principali di questo spazio sono: i ``dati`` che resi pubblici valorizzano il patrimonio informativo della Pubblica Amministrazione, l'``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
 
-Le iniziative di carattere civico, vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
+Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
 
 
 ..  Note:: 
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE0|\ , che grazie al plugin \ |LINK1|\  vengono pubblicate automaticamente in formato RST su un contenitore dentro \ |STYLE1|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE2|\ .
+    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK1|\  vengono pubblicate automaticamente in formato RST su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
 
 
 .. toctree::  
@@ -42,11 +42,17 @@ Le iniziative di carattere civico, vissute in spirito collaborativo insieme ad a
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Google Doc**
+.. |STYLE0| replace:: **attività**
 
-.. |STYLE1| replace:: **Github**
+.. |STYLE1| replace:: **ambiti**
 
-.. |STYLE2| replace:: **Read the Docs**
+.. |STYLE2| replace:: **civico**
+
+.. |STYLE3| replace:: **Google Doc**
+
+.. |STYLE4| replace:: **Github**
+
+.. |STYLE5| replace:: **Read the Docs**
 
 
 .. |REPLACE1| raw:: html
