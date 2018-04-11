@@ -15,7 +15,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 ..  Note:: 
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK1|\  vengono pubblicate automaticamente in formato RST su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
+    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK1|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
 
 
 .. toctree::  
