@@ -1,7 +1,7 @@
 
-.. _h8756b6d28481a44643a464b67287059:
+.. _h6350564f3356542ba314a27475d7c32:
 
-Open data e innovazione tecnologica al Comune di Palermo
+Open data e innovazione tecnologica al comune di Palermo
 ########################################################
 
 .. _h2c1d74277104e41780968148427e:
