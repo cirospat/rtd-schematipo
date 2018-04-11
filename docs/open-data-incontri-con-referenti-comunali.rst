@@ -102,7 +102,7 @@ referente tecnico open data: Vito Gaglio - \ |LINK12|\  - tel 091.7408541
 
 Il Settore Servizi Socio Assistenziali gestisce il database dei servizi residenziali (indirizzati a donne in difficoltà, minori e mamme) erogati dagli enti terzi accreditati presso il Comune di Palermo (Settore Servizi Socio Assistenziali) ed aventi come oggetto l'ambito sociale. 
 
-La pagina del portale web del Settore \ |LINK13|\  riporta database conoscitivi sui servizi erogati e sugli enti accreditati presso il Comune di Palermo. Tali database sono erogati in forma di web service fruibile online.
+La \ |LINK13|\  riporta database conoscitivi sui servizi erogati e sugli enti accreditati presso il Comune di Palermo. Tali database sono erogati in forma di web service fruibile online.
 
 Si condivide l'idea di estrarre dal database online un dataset in formato xml/csv delle stesse informazioni (anche con riferimenti geografici), così da potere essere pubblicato anche sul portale open data istituzionale.
 
@@ -158,7 +158,7 @@ Ing. Graziella Pitrolo \ |LINK25|\
 
 Il referente tecnico Dioguardi ha illustrato lo stato dell'arte dei formati del PRG vigente.
 
-Attualmente i file sono disponibili al link istituzionale \ |LINK26|\  in formato aperto DWF ma sono in formato proprietario. Si è tentato di convertire detti file in shape file, ma la conversione ha dato vita a modifiche di alcuni perimetri delle destinazioni delle Zone Territoriali Omogenee del PRG, che quindi va a falsare la destinazione originaria in alcuni tratti di confine tra diverse destinazioni. Per tale ragione si reputa non valida la pubblicazione del PRG. 
+Attualmente i file sono disponibili al \ |LINK26|\  in formato aperto DWF ma sono in formato proprietario. Si è tentato di convertire detti file in shape file, ma la conversione ha dato vita a modifiche di alcuni perimetri delle destinazioni delle Zone Territoriali Omogenee del PRG, che quindi va a falsare la destinazione originaria in alcuni tratti di confine tra diverse destinazioni. Per tale ragione si reputa non valida la pubblicazione del PRG. 
 
 Per quanto riguarda, invece, il regime vincolistico sul territorio urbano di Palermo, essendo i vincoli delle perimetrazioni definite da enti sovracomunali (Regione) essa può essere facilmente resa in formato aperto non proprietario e quindi pubblicabile sul portale open data del Comune. A tal uopo si ricorda che Il Dirigente Coordinatore dell'Area Pianificazione Urbanistica, nel mese di dicembre 2014 a inoltrato le tavole dei "vincoli sul territorio" in shape file al webmaster per la pubblicazione sul portale open data.
 
@@ -237,11 +237,11 @@ giovedì 26 febbraio 2015 ore 9.30
 
 DOTT.SSA CALANDRA e referenti open data
 
-* BIBLIOTECHE \ |LINK29|\ 
+* \ |LINK29|\  
 
-* ATTIVITA' CULTURALI \ |LINK30|\  
+* \ |LINK30|\  
 
-* SPAZI MUSEALI \ |LINK31|\  
+* \ |LINK31|\  
 
 \ |STYLE11|\ :
 
@@ -405,7 +405,7 @@ La riunione ha subito messo in luce la tipologia di dati che l'Area tratta:
 
 * numero dei provvedimenti disciplinari suddiviso per categoria, ecc.
 
-Alcuni dati vengono caricati e gestiti in applicativi costruiti da Sispi e quindi è possibile aprire una "vista" per produrre dataset in XML da linkare nel portale istituzionale degli open data.
+Alcuni dati vengono caricati e gestiti in applicativi costruiti da Sispi e quindi è possibile aprire una "vista" per produrre dataset in formato ``XML`` da linkare nel portale istituzionale degli open data.
 
 Durante la riunione i referenti tecnici e tematici hanno concordato di produrre un elenco dei dataset contenenti i dati che trattano per competenza da inviare alla capo Area, la quale li condividerà via email con il Responsabile Open Data.
 
@@ -469,7 +469,7 @@ I dataset ritenuti adatti alla pubblicazione, condivisi con la Dirigente dott.ss
 
 * artigianato alimentare (ragione sociale, via e n.civico)
 
-* artigianato delle attività che erogano servizi: parrucchierie, carrozzieri, meccanici, ecc.  (ragione sociale, via e n.civico)
+* artigianato delle attività che erogano servizi: parruccherie, carrozzieri, meccanici, ecc.  (ragione sociale, via e n.civico)
 
 * Noleggio veicoli (ragione sociale, via e n.civico)
 
@@ -824,7 +824,7 @@ La scelta degli attributi del dataset, come sopra descritto, è stata effettuata
 
 Tale dataset, una volta popolato di dati, sarà reso disponibile dal Titolare delle banche dati per la pubblicazione online nel portale open data. Il dataset in esame avrà una frequenza di aggiornamento annuale e si farà riferimento all'anno scolastico in un periodo successivo all'avvio delle attività.
 
-E' stata ulteriormente trattata la questione del fabbisogno di un applicativo per la gestione di tali informazioni. La referente tematica trova utile l'uso del sopra indicato dataset, che al momento attuale gestisce in condivisione con le colleghe sulla piattaforma cloud del Google Drive, ma è logico pensare che partendo proprio dagli attributi del dataset si pensi alla realizzazione di un applicativo gstionale che può essere utilizzato dai diversi Servizi dell'Area della Scuola e dalle postazioni delle Unità Didattiche Educative (UDE).
+E' stata ulteriormente trattata la questione del fabbisogno di un applicativo per la gestione di tali informazioni. La referente tematica trova utile l'uso del sopra indicato dataset, che al momento attuale gestisce in condivisione con le colleghe sulla piattaforma cloud del Google Drive, ma è logico pensare che partendo proprio dagli attributi del dataset si pensi alla realizzazione di un applicativo gestionale che può essere utilizzato dai diversi Servizi dell'Area della Scuola e dalle postazioni delle Unità Didattiche Educative (UDE).
 
 E' stata, inoltre, trattata la proposta di realizzazione di un software che consente  di effettuare le iscrizioni alla scuola dell'infanzia 0-6 anni attraverso procedure online. Una prima ipotesi sperimentale avanzata dalla referente consiste nell'utilizzo dei "moduli" di Google che dovrebbe essere compilato da parte delle 4 UDE, dove tanti cittadini si recano per consegnare le iscrizioni cartacee. Le stesse UDE potrebbero inserire sul modulo Google anche i dati delle iscrizioni effettuate dai cittadini via email (nelle quali sono allegate scansioni di dichiarazioni). 
 
@@ -913,7 +913,7 @@ L'applicativo inoltre mette in diretta relazione la \ |LINK49|\  con i numeri ci
 
 Al fine di pubblicare il dataset sulla Rete dei Numeri Civici (RNC) l'Arch. Salamone sta predisponendo l'organizzazione di una riunione con la Sispi al fine di verificare sia il miglior formato del dataset da esporre pubblicamente che eventuali ulteriori informazioni utili da pubblicare nei metadati e che possono facilitare il riuso applicativo da parte della società.
 
-Il dataset in esame è di estrema utilità - per esempio - per la determinazione dei pass che verranno rilasciati ai richiedenti l'accesso alla Zona  a Traffico Limitato, nei prossimi mesi. Il dataset permetterà di individuare gli esatti civici di ogni via che rientrano dentro o fruori la ZTL in quei casi in cui la perimetrazione della ZTL taglia una via/piazza.
+Il dataset in esame è di estrema utilità - per esempio - per la determinazione dei pass che verranno rilasciati ai richiedenti l'accesso alla Zona  a Traffico Limitato, nei prossimi mesi. Il dataset permetterà di individuare gli esatti civici di ogni via che rientrano dentro o fuori la ZTL in quei casi in cui la perimetrazione della ZTL taglia una via/piazza.
 
 --------
 
@@ -1079,11 +1079,11 @@ REFERENTI: Anna Maria Viola - Massimiliano Parlato
 
 24 aprile  2016 ore 10.00 
 
-L'Ufficio Igiene e Sanità dell'Area Innovazione Tecnologica predispone annualmente le Ordinanze comunali (\ |LINK58|\ ) per il divieto di balneazione nella costa del territorio comunale dal 1 aprile 2016 al 31 ottobre 2016, sulla base di un Decreto Regionale (\ |LINK59|\ ).
+L'Ufficio Igiene e Sanità dell'Area Innovazione Tecnologica predispone annualmente le \ |LINK58|\  per il divieto di balneazione nella costa del territorio comunale dal 1 aprile 2016 al 31 ottobre 2016, sulla base di un \ |LINK59|\ .
 
-A tale scopo l'ufficio Igiene e Sanità ha predisposto, oltre le Ordinanze,  un dataset contenente i dati dei divieti con le coordinate geografiche che è stato, previa condivisione con il geom Ciro Spataro, caricato dall'Ufficio stesso sul portale open data ed è disponibile al link  \ |LINK60|\ .
+A tale scopo l'ufficio Igiene e Sanità ha predisposto, oltre le Ordinanze,  un dataset contenente i dati dei divieti con le coordinate geografiche che è stato, previa condivisione con il geom Ciro Spataro, caricato dall'Ufficio stesso sul portale open data ed è disponibile al \ |LINK60|\ .
 
-Nel riuso del dataset, per creare una \ |LINK61|\  (a cura di Ciro Spataro) che si trova nella sezione MAPPE TEMATICHE del portale Open Data  \ |LINK62|\ , è stato rilevato che 2 coordinate geografiche fornite dall'ente Regionale (\ |LINK63|\ ) ricadono in mare.
+Nel riuso del dataset, per creare una \ |LINK61|\  (a cura di Ciro Spataro) che si trova nella sezione \ |LINK62|\  del portale Open Data , è stato rilevato che 2 coordinate geografiche fornite dall'ente Regionale (\ |LINK63|\ ) ricadono in mare.
 
 Le coordinate errate sono legate a quella di inizio dell'ordinanza n. 63 che è in alto mare di fronte Bagheria, e quella di fine dell'ordinanza n. 60 che si trova oltre l'isolotto di Isola delle Femmine. 
 
@@ -1160,7 +1160,7 @@ Insieme al Geom Spataro sono state effettuate alcune ottimizzazioni sul dataset,
 
 * \ |LINK68|\  
 
-Il geom. Spataro ha riutilizzato il dataset sulle scuole dell'infanzia per la creazione di un infografica: \ |LINK69|\  che mostra in maniera dinamica e graficamente più fruibile i dati.
+Il geom. Spataro ha riutilizzato il dataset sulle scuole dell'infanzia per la creazione di un \ |LINK69|\  che mostra in maniera dinamica e graficamente più fruibile i dati.
 
 --------
 
@@ -1185,7 +1185,7 @@ Il Servizio gestisce principalmente due dataset:
 
 * elenco degli oggetti smarriti. Forze dell'Ordine e Uffici Postali trasmettono settimanalmente all'Ufficio Economato oggetti e documenti personali smarriti. L'Ufficio cataloga oggetti e documenti ed effettua il rilascio ai proprietari che sono in grado di dimostrarne la proprietà.
 
-Durante la riunione si è analizzato il dataset degli oggetti e documenti smarriti dal 1 gennaio 2016 al 13 maggio 2016 e si è proceduto alla pubblicazione sul portale open data: \ |LINK70|\  
+Durante la riunione si è analizzato il dataset degli oggetti e documenti smarriti dal 1 gennaio 2016 al 13 maggio 2016 e si è proceduto alla \ |LINK70|\ . 
 
 I referenti stanno provvedendo a bonificare il dataset dell emissioni degli amministratori per la pubblicazione sul portale open data.
 
@@ -1227,7 +1227,7 @@ Il Servizio Inventario del Settore Valorizzazione Risorse Patrimoniali gestisce 
 
 L'applicativo Patrimonio è molto ricco per quanto riguarda la descrizione delle informazioni che sono attribuibili ad ogni singolo immobile comunale.
 
-Per quanto riguarda la pubblicazione online della consistenza del patrimonio immobiliare, il Servizio Inventario ha provveduto a pubblicare online nell'Area Amministrazione Trasparente ed in formato pdf/a (\ |LINK71|\ ) l'elenco degli immobili di proprietà comunale con i seguenti dati.
+Per quanto riguarda la pubblicazione online della consistenza del patrimonio immobiliare, il Servizio Inventario ha provveduto a pubblicare online nell'Area Amministrazione Trasparente ed in \ |LINK71|\  l'elenco degli immobili di proprietà comunale con i seguenti dati.
 
 * descrizione immobile
 
@@ -1354,7 +1354,7 @@ Alcuni studenti si meravigliano del fatto che molti avvisi pubblicitari nei nost
 
 Si prosegue con la descrizione dei dati in formato aperto.
 
-Si fanno esempi dei formati pdf derivanti da scansioni, in cui non è possibile cercare o selezionare una parte del contenuto, ai pdf/a in cui si possono effettuare ricerche testuali ma non si adattano al riuso da parte di sfotware, ai formati tabellari EXCEL/CSV, ai formati html delle pagine web.
+Si fanno esempi dei formati pdf derivanti da scansioni, in cui non è possibile cercare o selezionare una parte del contenuto, ai pdf/a in cui si possono effettuare ricerche testuali ma non si adattano al riuso da parte di software, ai formati tabellari EXCEL/CSV, ai formati html delle pagine web.
 
 Si effettua un esperimento di riuso dei dati contenuti in una classica pagina web; attraverso il servizio web \ |LINK73|\  si effettua un estrazione dei dati elencati in un \ |LINK74|\  per generare un formato CSV da utilizzare, in un secondo step, su Google Maps per creare una mappa georeferenziata in cui GoogleMaps, attraverso l'indicazione dell'indirizzo contenuto nel formato CSV, genera automaticamente una mappa utile per la consultazione.
 
@@ -1456,7 +1456,7 @@ La comunità di \ |LINK82|\  si è incontrata dal 2 al 4 Settembre 2016 a Messin
 
 Un programma molto ricco di eventi sul mondo dei dati aperti a 360 gradi, con partecipanti provenienti da diverse parti d'Italia (guarda la \ |LINK84|\ ) e con la partecipazione speciale della rappresentante del portale europeo dei dati aperti \ |LINK85|\ .
 
-Report dell'evento\ |STYLE48|\  \ |LINK86|\  
+\ |LINK86|\ \ |STYLE48|\  
 
 --------
 
@@ -1492,7 +1492,7 @@ L'incontro si è svolto con diversi referenti appartenenti a Servizi diversi del
 
 L'Area gestisce le attività di rilascio autorizzazioni agli operatori commerciali che operano nel territorio comunale.
 
-I dati detenuti dall'Area derivano dall'applicativo SUPERA creato dall'Azienda SISPI Spa e utilizzato per il rapporto con l'utenza cittadina (\ |LINK90|\ ).
+I dati detenuti dall'Area derivano dall'applicativo \ |LINK90|\  e utilizzato per il rapporto con l'utenza cittadina.
 
 I dataset proposti dai referenti rappresentano degli export dell'applicativo SUPERA, dove si effettua un lavoro di filtraggio delle informazioni che afferiscono alla privacy.
 
@@ -1506,7 +1506,7 @@ Purtroppo all'interno delle 2 macrocategorie non è oggi possibile effettuare un
 
 Sono stati esaminati congiuntamente i seguenti dataset.
 
-#. Acconciature ed estetisti. Un dataset che riporta la ragione sociale, la distinzione tra acconciature per uomo, donna, e l'indirizzo. Il dataset è stato pubblicato insieme mostrando così ai referenti il processo di metadatazione e caricamento dell'allegato csv sul portale Open Data. Il dataset è disponibile al link \ |LINK91|\ .
+#. Acconciature ed estetisti. Un dataset che riporta la ragione sociale, la distinzione tra acconciature per uomo, donna, e l'indirizzo. Il dataset è stato pubblicato insieme mostrando così ai referenti il processo di metadatazione e caricamento dell'allegato csv sul portale Open Data. Il dataset è disponibile al \ |LINK91|\ .
 
 #. Mercatini rionali. L'Area gestisce in formato Autocad (DWG) i dati delle perimetrazioni dei mercatini rionali e a tal uopo i referenti si impegnano a fornire al geom Spataro un formato dal quale è facilmente possibile creare una mappa georeferenziata degli stessi, dal quale si può estrarre il file kml/geojson da pubblicare nel portale open data.
 
@@ -1534,9 +1534,9 @@ VIA UGO LA MALFA
 
 19 Ottobre 2016
 
-Partecipazione alla giornata conclusiva del progetto \ |LINK92|\  presso il CNR di Palermo con la presentazione dello stato dell’arte sugli open data del Comune di Palermo:
+Partecipazione alla giornata conclusiva del progetto \ |LINK92|\  presso il CNR di Palermo con la \ |LINK93|\  del Comune di Palermo:
 
-\ |LINK93|\  
+--------
 
 \ |STYLE52|\ 
 
@@ -1549,7 +1549,7 @@ GALLERIA ARTE MODERNA
 
 Partecipazione alla giornata \ |LINK94|\   Organizzato da \ |LINK95|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK96|\ ).
 
-\ |LINK97|\ .
+Link a \ |LINK97|\ .
 
 --------
 
@@ -1564,7 +1564,7 @@ Dott. G.Meli
 
 28  novembre 2016
 
-Con il Webmaster è stato analizzato l'argomento sui dati della qualità dell'aria della città di Palermo. I dati sono rilevati dalla Società partecipata comunale RAP SpA e sono disponibili pubblicamente in  bollettini giornalieri e mensili in formato pdf/a al link \ |LINK98|\ . A seguito di contatti con lo staff della Società Rap che si occupa delle attività di rilevamento della qualità dell'aria, sono stati forniti al Webmaster dei dataset sugli stessi dati. Il Webmaster sta provvedendo alla verifica della qualità dei dati ed a eventuali bonifiche propedeutiche alla pubblicazione nel portale open data, che avverrà tra la fine del 2016 e l'inizio del 2017.
+Con il Webmaster è stato analizzato l'argomento sui dati della qualità dell'aria della città di Palermo. I dati sono rilevati dalla Società partecipata comunale RAP SpA e sono disponibili pubblicamente in  bollettini giornalieri e mensili in formato pdf/a al \ |LINK98|\ . A seguito di contatti con lo staff della Società Rap che si occupa delle attività di rilevamento della qualità dell'aria, sono stati forniti al Webmaster dei dataset sugli stessi dati. Il Webmaster sta provvedendo alla verifica della qualità dei dati ed a eventuali bonifiche propedeutiche alla pubblicazione nel portale open data, che avverrà tra la fine del 2016 e l'inizio del 2017.
 
 --------
 
@@ -1583,7 +1583,7 @@ REFERENTI: Michela Alba e Cesare Cozzo
 
 A seguito di un precedente incontro di mesi fa ci si ri-aggiorna per provvedere all'esame del dataset relativo alle procedure espropriative necessarie per la realizzazione del sistema di trasporto tranviario di Palermo e specificatamente le particelle espropriate per la realizzazione dell'opera.
 
-Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio  Espropriazioni a  provveduto al caricamento dello stesso sul portale istituzionale open data, che risulta disponibile al link \ |LINK99|\  .
+Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio  Espropriazioni a  provveduto al caricamento dello stesso sul portale istituzionale open data, che risulta disponibile al \ |LINK99|\ .
 
 |
 
@@ -1628,7 +1628,7 @@ REFERENTE: Giuseppe Morelli (tematico) 3770, e Giovanni Mascari
 
 31 gennaio 2017 presso l'Ufficio Elettorato
 
-E' stato effettuato un incontro con i referenti dell'Ufficio Elettorato per la pubblicazione di importanti dataset sulle elezioni svolte nel territorio comunale di Palermo: \ |LINK102|\ .
+E' stato effettuato un incontro con i referenti dell'Ufficio Elettorato per la \ |LINK102|\ .
 
 Nell'occasione sono stati definiti i criteri con i quali viene \ |LINK103|\  in maniera corretta.
 
@@ -1753,9 +1753,7 @@ REFERENTI: Girolamo Renda e Salvatore Pullara
 
 2 febbraio 2017
 
-L'incontro è stato propedeutico alla verifica dei dati relativi agli abusi rilevati dal personale dell'Area della Polizia Municipale al 2015 e al rilascio del dataset relativo che risulta pubblicato al seguente link:
-
-\ |LINK130|\  
+L'incontro è stato propedeutico alla verifica dei dati relativi agli abusi rilevati dal personale dell'Area della Polizia Municipale al 2015 e al rilascio del dataset relativo che risulta pubblicato al seguente \ |LINK130|\ .
 
 --------
 
@@ -1774,7 +1772,7 @@ L'incontro con l'arch. Michelangelo Salamone dell'Ufficio Toponomastica è stato
 
 CODICE, CAP, TIPO_STRADA, TOPONIMO, LIMITI_STRADA, MINIMO, BARRATO, MAX, BARRATO, CIRCOSCRIZIONE, NUMERAZIONE, TIPO SIGLA, QUARTIERE_NUMERO, QUARTIERE_NOME.
 
-Il dataset è stato pubblicato a fine incontro ed è disponibile al link: \ |LINK131|\  
+Il dataset è stato pubblicato a fine incontro ed è disponibile al \ |LINK131|\ . 
 
 Questo dataset è di utilità ad un'ampia fascia di soggetti che spesso si ritrovano a dover identificare la Circoscrizione di riferimento di una via (si pensi - ad esempio - alle iscrizioni scolastiche dove ogni scuola ha un bacino di utenza definito per Circoscrizione).
 
@@ -1795,7 +1793,7 @@ L'incontro con il referente dell'Ufficio Ambiente, Giovani Lupo, è stato utile 
 
 Tale servizio è gestito dall'Ufficio Ambiente, che redige apposito dataset geografico con le aree nelle quali è stato effettuato l'intervento di rimozione del cemento amianto, dannoso per la salute umana.
 
-Il dataset contenente i dati per il 2016 è stato pubblicato alla pagina \ |LINK132|\  
+Il dataset contenente i dati per il 2016 è stato pubblicato al \ |LINK132|\ . 
 
 --------
 
@@ -1817,7 +1815,7 @@ REFERENTE: Barbera
 
 3 maggio 2017
 
-Il confronto con il collega Barbera è stato utile per predisporre il dataset in formato CSV relativo alle missioni dei soggetti politici istituzionali. Essendo il dataset di lavoro in formato Excel, i colleghi dell'Ufficio missioni hanno effettuato un lavoro di pulizia o bonifica al fine di rendere il CSV quando più "pulito" possibile. L'esercizio ha un carattere didattico e induce a comprendere come strutturare bene il formato tabellare del dataset. A tale scopo risulta utile prendere visione della pagina web formativa proprio sulla costruzione di formati tabellari \ |LINK133|\  curato dal geom. Spataro
+Il confronto con il collega Barbera è stato utile per predisporre il dataset in formato CSV relativo alle missioni dei soggetti politici istituzionali. Essendo il dataset di lavoro in formato Excel, i colleghi dell'Ufficio missioni hanno effettuato un lavoro di pulizia o bonifica al fine di rendere il CSV quando più "pulito" possibile. L'esercizio ha un carattere didattico e induce a comprendere come strutturare bene il formato tabellare del dataset. A tale scopo risulta utile prendere visione della \ |LINK133|\  curato dal geom. Spataro
 
 \ |STYLE61|\ 
 
@@ -1879,9 +1877,7 @@ Di recente nominate referenti open data dell'Ufficio Fondi extracomunali, hanno 
 
 L'Ufficio gestisce le attività di monitoraggio dei fondi extra comunali e il monitoraggio delle attività degli interventi del PON METRO 2014-20 di Palermo.
 
-Ho mostrato alle referenti un esempio di dataset che ho creato mesi fa per il monitoraggio delle iniziative ed azioni del PON METRO: \ |LINK141|\ 
-
-i cui dati sono desunti dai comunicati stampa e dagli atti amministrativi (deliberazioni e determinazioni dirigenziali) pubblicati sul portale web istituzionale. Le referenti hanno apprezzato il lavoro svolto nella costruzione del database e quindi ho condiviso il file (Google Drive) con loro per le attività di aggiornamento nel tempo. Dal file periodicamente possono essere scaricati i file CSV da pubblicare sul portale open data, ogni qualvolta intervengono variazioni o stati di avanzamento consistenti.
+Ho mostrato alle referenti \ |LINK141|\  che ho creato mesi fa per il monitoraggio delle iniziative ed azioni del PON METRO, i cui dati sono desunti dai comunicati stampa e dagli atti amministrativi (deliberazioni e determinazioni dirigenziali) pubblicati sul portale web istituzionale. Le referenti hanno apprezzato il lavoro svolto nella costruzione del database e quindi ho condiviso il file (Google Drive) con loro per le attività di aggiornamento nel tempo. Dal file periodicamente possono essere scaricati i file CSV da pubblicare sul portale open data, ogni qualvolta intervengono variazioni o stati di avanzamento consistenti.
 
 Altresì le referenti hanno reputato valida la pubblicazione di un dataset con l'elencazione delle principali informazioni dei progetti comunitari ai quali ha aderito il comune di Palermo.
 
@@ -2139,7 +2135,7 @@ Dirigente dott.ssa Eliana Calandra - Referente sig. Mauro Costa
 
 Su input del Responsabile open data è stata condivisa l’iniziativa di valorizzare il patrimonio artistico consistente nelle scansioni di cartoline e manufatti storici custoditi nell’Archivio e nella Biblioteca. La valorizzazione pubblica avviene grazie alla pubblicazione dei file jpg nel noto network FLICKR per la esposizione online di fotografie.
 
-L'idea originaria parte dal lavoro svolto dalla British Library \ |LINK143|\  che ad oggi ha pubblicato con licenza CCO (pubblico dominio) oltre 1 milione di immagini scansionate di manoscritti e dipinti custoditi all'interno del sito fisico della Biblioteca di fama mondiale.
+L'idea originaria parte dal lavoro svolto dalla \ |LINK143|\  che ad oggi ha pubblicato con licenza CCO (pubblico dominio) oltre 1 milione di immagini scansionate di manoscritti e dipinti custoditi all'interno del sito fisico della Biblioteca di fama mondiale.
 
 La dott.ssa Calandra si è resa consapevole dell'importanza di valorizzare pubblicamente le numerose scansioni ad oggi effettuate dal personale del Servizio dalla stessa diretto. 
 
@@ -2188,7 +2184,7 @@ Alla data odierna si è provveduto a raccogliere i dati dagli anni 2011 al 2016 
 
 Il dataset è stato pubblicato insieme al geom. Spataro che ha fornito una guida per le procedure di caricamento del dataset e della compilazione della metadatazione.
 
-Il dataset pubblicato è disponibile alla pagina \ |LINK144|\  
+Il dataset pubblicato è disponibile al \ |LINK144|\ .
 
 --------
 
@@ -2219,7 +2215,7 @@ L'accesso ai dati, tramite le API di Flickr, è assicurato dai seguenti link:
 
 * \ |LINK149|\  
 
-Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblicati attraverso il servizio reso disponibile da Flickr: \ |LINK150|\  
+Infine è possibile visualizzare la \ |LINK150|\  attraverso il servizio reso disponibile da Flickr.
 
 --------
 
@@ -2243,11 +2239,11 @@ Referenti Dott. Renda e Sig. Pullara
 
 La Polizia Municipale nell'espletamento delle proprie attività di controllo del territorio raccoglie dati importanti multi ambito.
 
-Sono stati resi ottimizzati e successivamente resi disponibili dalla Polizia Municipale:
+Sono stati ottimizzati e successivamente resi disponibili dalla Polizia Municipale in formato geografico:
 
-* gli interventi effettuati relativi alla presenza di amianto nel territorio comunale di palermo, dalla polizia municipale nel 2017 con dati georeferenziati: \ |LINK151|\  
+* gli \ |LINK151|\  di Palermo, dalla polizia municipale nel 2017 con dati georeferenziati.
 
-* i sinistri stradali rilevati dalla polizia municipale nel territorio del comune di palermo nell'anno 2017: \ |LINK152|\   
+* i \ |LINK152|\  del comune di Palermo nell'anno 2017.
 
 --------
 
@@ -2316,7 +2312,7 @@ L'Area Servizi alla città provvede alla raccolta dei dati sui servizi erogati n
 
 * CARTA D'IDENTITA' PER SCELTE DONAZIONI ORGANI
 
-E' stato, quindi, pubblicato il dataset relativo, al link: \ |LINK153|\  
+E' stato, quindi, pubblicato -  in formato ``CSV`` -  il dataset relativo, al \ |LINK153|\ . 
 
 --------
 
@@ -2441,7 +2437,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |STYLE47| replace:: **39-**
 
-.. |STYLE48| replace:: **:**
+.. |STYLE48| replace:: **.**
 
 .. |STYLE49| replace:: **40-**
 
@@ -2544,7 +2540,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK13| raw:: html
 
-    <a href="http://www.attivitasociali.palermo.it/index.php?option=com_content&view=article&id=380&Itemid=218" target="_blank">http://www.attivitasociali.palermo.it/index.php?option=com_content&view=article&id=380&Itemid=218</a>
+    <a href="http://www.attivitasociali.palermo.it/index.php?option=com_content&view=article&id=380&Itemid=218" target="_blank">pagina del portale web del Settore</a>
 
 .. |LINK14| raw:: html
 
@@ -2596,7 +2592,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.comune.palermo.it/old/prg_2004/html/indexprg04_1.htm" target="_blank">http://www.comune.palermo.it/old/prg_2004/html/indexprg04_1.htm</a>
+    <a href="http://www.comune.palermo.it/old/prg_2004/html/indexprg04_1.htm" target="_blank">link istituzionale</a>
 
 .. |LINK27| raw:: html
 
@@ -2608,15 +2604,15 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK29| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31</a>
+    <a href="www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=31">BIBLIOTECHE</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32" target="_blank">www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32</a>
+    <a href="www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=32">ATTIVITA' CULTURALI</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33" target="_blank">http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33</a>
+    <a href="http://www.comune.palermo.it/settori.php?apt=4&func=settore&sett=15&serv=33" target="_blank">SPAZI MUSEALI</a>
 
 .. |LINK32| raw:: html
 
@@ -2724,15 +2720,15 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK58| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?cat=4&id=9900" target="_blank">http://www.comune.palermo.it/noticext.php?cat=4&id=9900</a>
+    <a href="http://www.comune.palermo.it/noticext.php?cat=4&id=9900" target="_blank">Ordinanze comunali</a>
 
 .. |LINK59| raw:: html
 
-    <a href="http://bit.ly/decretoregionaledivietobalneazione2016" target="_blank">http://bit.ly/decretoregionaledivietobalneazione2016</a>
+    <a href="http://bit.ly/decretoregionaledivietobalneazione2016" target="_blank">Decreto Regionale</a>
 
 .. |LINK60| raw:: html
 
-    <a href="http://www.comune.palermo.it/opendata_dld.php?id=364" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=364</a>
+    <a href="http://www.comune.palermo.it/opendata_dld.php?id=364" target="_blank">link</a>
 
 .. |LINK61| raw:: html
 
@@ -2740,7 +2736,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK62| raw:: html
 
-    <a href="http://www.comune.palermo.it/mappetematiche.php" target="_blank">http://www.comune.palermo.it/mappetematiche.php</a>
+    <a href="http://www.comune.palermo.it/mappetematiche.php" target="_blank">MAPPE TEMATICHE</a>
 
 .. |LINK63| raw:: html
 
@@ -2768,15 +2764,15 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK69| raw:: html
 
-    <a href="https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa" target="_blank">https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa</a>
+    <a href="https://infogr.am/9a972c9d-7caf-4c84-99fe-e6fd9d1f06fa" target="_blank">infografica</a>
 
 .. |LINK70| raw:: html
 
-    <a href="http://www.comune.palermo.it/opendata_dld.php?id=369" target="_blank">http://www.comune.palermo.it/opendata_dld.php?id=369</a>
+    <a href="http://www.comune.palermo.it/opendata_dld.php?id=369" target="_blank">pubblicazione sul portale open data</a>
 
 .. |LINK71| raw:: html
 
-    <a href="http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70" target="_blank">http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70</a>
+    <a href="http://comune.palermo.it/amministrazione_trasparente.php?sel=14&asel=70" target="_blank">formato pdf/a</a>
 
 .. |LINK72| raw:: html
 
@@ -2836,7 +2832,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK86| raw:: html
 
-    <a href="https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ" target="_blank">https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ</a>
+    <a href="https://docs.google.com/document/d/1_2iZFc4vmEmipzUD4PVr2TK4PUiw5n_VWNBTBSeYHFQ" target="_blank">Report dell'evento</a>
 
 .. |LINK87| raw:: html
 
@@ -2852,11 +2848,11 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK90| raw:: html
 
-    <a href="http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera" target="_blank">http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera</a>
+    <a href="http://supera.comune.palermo.it/supera/jsp/home.do?sportello=supera" target="_blank">SUPERA creato dall'Azienda SISPI Spa</a>
 
 .. |LINK91| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=390" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=390</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=390" target="_blank">link</a>
 
 .. |LINK92| raw:: html
 
@@ -2864,7 +2860,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK93| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0" target="_blank">https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0</a>
+    <a href="https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0" target="_blank">presentazione dello stato dell’arte sugli open data</a>
 
 .. |LINK94| raw:: html
 
@@ -2880,15 +2876,15 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK97| raw:: html
 
-    <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_1831821849.html" target="_blank">Rassegna stampa</a>
+    <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_1831821849.html" target="_blank">rassegna stampa</a>
 
 .. |LINK98| raw:: html
 
-    <a href="http://www.rapspa.it/site/qualita-dellaria/" target="_blank">http://www.rapspa.it/site/qualita-dellaria/</a>
+    <a href="http://www.rapspa.it/site/qualita-dellaria/" target="_blank">link</a>
 
 .. |LINK99| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=399" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=399</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=399" target="_blank">link</a>
 
 .. |LINK100| raw:: html
 
@@ -2900,7 +2896,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK102| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_menus.php?sel=15" target="_blank">https://www.comune.palermo.it/opendata_menus.php?sel=15</a>
+    <a href="https://www.comune.palermo.it/opendata_menus.php?sel=15" target="_blank">pubblicazione di importanti dataset sulle elezioni svolte nel territorio comunale di Palermo</a>
 
 .. |LINK103| raw:: html
 
@@ -3012,19 +3008,19 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK130| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=505" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=505</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=505" target="_blank">link</a>
 
 .. |LINK131| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=524" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=524</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=524" target="_blank">link</a>
 
 .. |LINK132| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=543" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=543</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=543" target="_blank">link</a>
 
 .. |LINK133| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle" target="_blank">https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle</a>
+    <a href="https://sites.google.com/view/opendataformazione/per-chi-usa-tabelle" target="_blank">pagina web formativa proprio sulla costruzione di formati tabellari</a>
 
 .. |LINK134| raw:: html
 
@@ -3056,7 +3052,7 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK141| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429" target="_blank">https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429</a>
+    <a href="https://docs.google.com/spreadsheets/d/1XKnxBd3S_3egYWFLsz08_DfZ9LL-rF1EEj7Vv78DCSg/edit#gid=1172325429" target="_blank">un esempio di dataset</a>
 
 .. |LINK142| raw:: html
 
@@ -3064,11 +3060,11 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK143| raw:: html
 
-    <a href="https://www.flickr.com/photos/britishlibrary" target="_blank">https://www.flickr.com/photos/britishlibrary</a>
+    <a href="https://www.flickr.com/photos/britishlibrary" target="_blank">British Library</a>
 
 .. |LINK144| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=860" target="_blank">https://www.comune.palermo.it/opendata_dld.php?id=860</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=860" target="_blank">link</a>
 
 .. |LINK145| raw:: html
 
@@ -3092,19 +3088,19 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 .. |LINK150| raw:: html
 
-    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/map" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/map</a>
+    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/map " target="_blank">mappa georeferenziata dei contenuti pubblicati</a>
 
 .. |LINK151| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">interventi effettuati relativi alla presenza di amianto nel territorio comunale</a>
 
 .. |LINK152| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014</a>
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1014" target="_blank">sinistri stradali rilevati dalla polizia municipale nel territorio</a>
 
 .. |LINK153| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017</a>
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1017" target="_blank">link</a>
 
 .. |LINK154| raw:: html
 
