@@ -17,7 +17,7 @@ active citizenship & communities
 
 * \ |LINK4|\  community sull'innovazione della pubblica amministrazione
 
-* \ |LINK5|\    repoitory pubblico di dati in formato aperto
+* \ |LINK5|\    repository pubblico di dati in formato aperto
 
 * \ |LINK6|\  forum delle pubbliche amministrazioni per confronti sulla pubblica amministrazione digitale
 
