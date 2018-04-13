@@ -130,7 +130,7 @@ tools for project management
 
 .. |LINK7| raw:: html
 
-    <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA/edit?hl=it" target="_blank">curriculum vitae</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/cv-Ciro-Spataro.html" target="_blank">curriculum vitae</a>
 
 .. |LINK8| raw:: html
 
