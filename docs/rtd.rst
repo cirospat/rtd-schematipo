@@ -50,7 +50,7 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK6| raw:: html
 
-    <a href="http://dolomiti2018.readthedocs.io" target="_blank">Dolomiti estate 2018</a>
+    <a href="http://dolomiti2018.readthedocs.io" target="_blank">Dolomiti appunti viaggio estate 2018</a>
 
 .. |LINK7| raw:: html
 
@@ -58,7 +58,7 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK8| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io" target="_blank">Documenti di interesse pubblico del Comune di Palermo</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io" target="_blank">Documenti di interesse pubblico (regolamenti, linee guida) approvati dal Comune di Palermo</a>
 
 .. |LINK9| raw:: html
 
