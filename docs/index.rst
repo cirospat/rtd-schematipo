@@ -10,7 +10,7 @@ Cirospat pro-file
 
 ..  Note:: 
 
-    membro della comunità \ |LINK1|\  e del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
+    membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
@@ -94,7 +94,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. |LINK2| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia</a>
+    <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia"</a>
 
 .. |LINK3| raw:: html
 
