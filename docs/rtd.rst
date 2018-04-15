@@ -4,11 +4,11 @@
 catalogo Read the Docs a cura di Ciro Spataro
 #############################################
 
-\ |LINK1|\ 
+\ |LINK1|\   
 
-\ |LINK2|\ 
+\ |LINK2|\  (con Pablo Persico e Andrea Borruso)
 
-\ |LINK3|\ 
+\ |LINK3|\  (da un articolo di Altalex)
 
 \ |LINK4|\ 
 
@@ -22,6 +22,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 \ |LINK9|\ 
 
+\ |LINK10|\ 
+
 
 .. bottom of content
 
@@ -32,33 +34,37 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK2| raw:: html
 
-    <a href="http://gdpr.readthedocs.io" target="_blank">GDPR - General Data Protection Regulation - regolamento generale sulla protezione dei dati</a>
+    <a href="http://come-creare-guida.readthedocs.io" target="_blank">Come abbiamo creato un «Read the Docs» per pubblicare documenti pubblici su Docs Italia</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://ponmetropalermo-agendadigitale.readthedocs.io" target="_blank">PON Metro Palermo 2014-20 asse 1 agenda digitale</a>
+    <a href="http://gdpr.readthedocs.io" target="_blank">GDPR - General Data Protection Regulation - regolamento generale sulla protezione dei dati</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo</a>
+    <a href="http://ponmetropalermo-agendadigitale.readthedocs.io" target="_blank">PON Metro Palermo 2014-20 asse 1 agenda digitale</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://dolomiti2018.readthedocs.io" target="_blank">Dolomiti estate 2018</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://openagenda.readthedocs.io" target="_blank">OpenAgenda, manuale d'uso per l'applicativo degli eventi culturali</a>
+    <a href="http://dolomiti2018.readthedocs.io" target="_blank">Dolomiti estate 2018</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io" target="_blank">Documenti di interesse pubblico del Comune di Palermo</a>
+    <a href="http://openagenda.readthedocs.io" target="_blank">OpenAgenda, manuale d'uso per l'applicativo degli eventi culturali</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d’uso dell’applicativo ‘Libro Firma-Protocollo’ digitale in uso al Comune di Palermo</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io" target="_blank">Documenti di interesse pubblico del Comune di Palermo</a>
 
 .. |LINK9| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d’uso dell’applicativo ‘Libro Firma-Protocollo’ digitale in uso al Comune di Palermo</a>
+
+.. |LINK10| raw:: html
 
     <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella Pubblica Amministrazione</a>
 
