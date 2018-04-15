@@ -1,8 +1,8 @@
 
-.. _h2355c771e643f516e2e1f4f53667571:
+.. _h7cb2370291f3077872a2c172a7519:
 
-catalogo Read the Docs
-######################
+catalogo Read the Docs a cura di Ciro Spataro
+#############################################
 
 \ |LINK1|\ 
 
@@ -11,6 +11,8 @@ catalogo Read the Docs
 \ |LINK3|\ 
 
 \ |LINK4|\ 
+
+\ |LINK5|\ 
 
 
 .. bottom of content
@@ -31,4 +33,8 @@ catalogo Read the Docs
 .. |LINK4| raw:: html
 
     <a href="http://dolomiti2018.readthedocs.io" target="_blank">Dolomiti estate 2018</a>
+
+.. |LINK5| raw:: html
+
+    <a href="http://openagenda.readthedocs.io" target="_blank">OpenAgenda, manuale d'uso per l'applicativo degli eventi culturali</a>
 
