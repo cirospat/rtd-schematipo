@@ -6,11 +6,10 @@
 Cirospat pro-file
 *****************
 
-\ |IMG1|\  
 
 ..  Note:: 
 
-    \ |IMG2|\ membro della comunità \ |LINK1|\  e del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
+    \ |IMG1|\ membro della comunità \ |LINK1|\  e del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
@@ -106,9 +105,5 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 166 px
-   :width: 382 px
-
-.. |IMG2| image:: static/index_1.png
    :height: 166 px
    :width: 382 px
