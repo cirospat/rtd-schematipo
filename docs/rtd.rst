@@ -16,6 +16,12 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 \ |LINK6|\ 
 
+\ |LINK7|\ 
+
+\ |LINK8|\ 
+
+\ |LINK9|\ 
+
 
 .. bottom of content
 
@@ -43,4 +49,16 @@ catalogo Read the Docs a cura di Ciro Spataro
 .. |LINK6| raw:: html
 
     <a href="http://openagenda.readthedocs.io" target="_blank">OpenAgenda, manuale d'uso per l'applicativo degli eventi culturali</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io" target="_blank">Documenti di interesse pubblico del Comune di Palermo</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d’uso dell’applicativo ‘Libro Firma-Protocollo’ digitale in uso al Comune di Palermo</a>
+
+.. |LINK9| raw:: html
+
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella Pubblica Amministrazione</a>
 
