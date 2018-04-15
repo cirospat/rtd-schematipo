@@ -50,9 +50,13 @@ works
 
 * \ |LINK10|\  ``cc by sa``
 
-* \ |LINK11|\   ``cc by sa``
+* \ |LINK11|\  ``cc by sa``
 
-* \ |LINK12|\  2013-now ``cc by`` + \ |LINK13|\  ``cc by`` + \ |LINK14|\  ``cc by sa``
+* \ |LINK12|\  (in collaborazione con webmaster) 2013-now ``cc by`` + linee guida:
+
+    * \ |LINK13|\  ``cc by`` 
+
+    * \ |LINK14|\  ``cc by sa``
 
 * \ |LINK15|\  ``cc by sa``
 
@@ -146,15 +150,15 @@ tools for project management
 
 .. |LINK11| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">open data, portale di formazione/informazione</a>
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">Portale di formazione/informazione open data</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">comune Palermo portale opendata</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">Portale open data del comune di Palermo</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida open data 2017 (Read the Docs)</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida comunali open data Palermo versione partecipata 2017 (Read the Docs)</a>
 
 .. |LINK14| raw:: html
 
@@ -162,7 +166,7 @@ tools for project management
 
 .. |LINK15| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">maps hub by cirospat</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub (by cirospat)</a>
 
 .. |LINK16| raw:: html
 
@@ -174,7 +178,7 @@ tools for project management
 
 .. |LINK18| raw:: html
 
-    <a href="http://snack.to/ojVztz" target="_blank">1° Rapporto sullo stato dell'Ambiente di Palermo</a>
+    <a href="http://snack.to/ojVztz" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK19| raw:: html
 
@@ -182,11 +186,11 @@ tools for project management
 
 .. |LINK20| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">pubblicazioni del comune di Palermo su Read the Docs</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">samba della transizione al digitale nella pubblica amministrazione</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK22| raw:: html
 
