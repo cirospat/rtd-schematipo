@@ -6,16 +6,20 @@
 Cirospat pro-file
 *****************
 
-in questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+\ |IMG1|\ 
 
-Gli \ |STYLE1|\  principali di questo spazio sono: i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, l’ ``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
+\ |STYLE0|\  \ |LINK1|\  \ |STYLE1|\  \ |LINK2|\ \ |STYLE2|\  \ |LINK3|\ 
 
-Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
+In questo spazio descrivo le principali \ |STYLE3|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+
+Gli \ |STYLE4|\  principali di questo spazio sono: i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, l’ ``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
+
+Le iniziative di carattere \ |STYLE5|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
 
 
 ..  Note:: 
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK1|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
+    Questa presentazione è stata costruita su pagine di \ |STYLE6|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE7|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE8|\ .
 
 
 .. toctree::  
@@ -40,17 +44,23 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 .. bottom of content
 
 
-.. |STYLE0| replace:: **attività**
+.. |STYLE0| replace:: *membro della comunità*
 
-.. |STYLE1| replace:: **ambiti**
+.. |STYLE1| replace:: *e del*
 
-.. |STYLE2| replace:: **civico**
+.. |STYLE2| replace:: *,  dipendente del*
 
-.. |STYLE3| replace:: **Google Doc**
+.. |STYLE3| replace:: **attività**
 
-.. |STYLE4| replace:: **Github**
+.. |STYLE4| replace:: **ambiti**
 
-.. |STYLE5| replace:: **Read the Docs**
+.. |STYLE5| replace:: **civico**
+
+.. |STYLE6| replace:: **Google Doc**
+
+.. |STYLE7| replace:: **Github**
+
+.. |STYLE8| replace:: **Read the Docs**
 
 
 .. |REPLACE1| raw:: html
@@ -84,5 +94,21 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
+    <a href="http://opendatasicilia.it/" target="_blank">“OpendataSicilia”</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia”</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/" target="_blank">“Comune di Palermo”</a>
+
+.. |LINK4| raw:: html
+
     <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
 
+
+.. |IMG1| image:: static/index_1.png
+   :height: 166 px
+   :width: 382 px
