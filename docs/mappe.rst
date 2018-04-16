@@ -8,8 +8,6 @@ Mappe
 
 by cirospat
 
-|
-
 
 Anello Telematico (fibra ottica del comune di Palermo) con uffici connessi e rete wifi comunale
 
