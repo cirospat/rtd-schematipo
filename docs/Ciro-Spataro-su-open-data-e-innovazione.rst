@@ -1022,14 +1022,25 @@ Per il \ |LINK159|\ :
 
 --------
 
-.. _h1f151165765b53be42297c63607174:
+.. _h194332838f442410236251762d6054:
 
-2018- infoday ai Dirigenti su CAD e servizi digitali 
-=====================================================
+2018- info day ai Dirigenti su CAD e servizi digitali 
+======================================================
 
 4-5-6 aprile. Infoday sul Codice dell'Amministrazione Digitale e sui servizi digitali del comune di Palermo, indirizzata ai Dirigenti comunali.
 
 Materiali informativi: \ |LINK171|\  
+
+--------
+
+.. _h402d491925671d115f26462a1bc561b:
+
+2018- info day su open data agli studenti dell'Istituto Alberghiero "Paolo Borsellino" di Palermo
+=================================================================================================
+
+16 aprile. Una mattinata all'Istituto Alberghiero di Palermo a parlare agli studenti di 4° e 5° anno di open data e riuso dei dati in formato aperto in diversi ambiti della vita quotidiana. Presentazione al link \ |LINK172|\ . 
+
+La presentazione dell'Info day sugli open data è stata richiesta dal Vice Preside dell'Istituto con email al Responsabile open data comunale.
 
 --------
 
@@ -1761,6 +1772,10 @@ Materiali informativi: \ |LINK171|\
 .. |LINK171| raw:: html
 
     <a href="http://bit.do/transizionealdigitale" target="_blank">http://bit.do/transizionealdigitale</a>
+
+.. |LINK172| raw:: html
+
+    <a href="http://bit.do/opendata-ipssarborsellino" target="_blank">http://bit.do/opendata-ipssarborsellino</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
