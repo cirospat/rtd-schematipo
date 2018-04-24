@@ -1044,6 +1044,19 @@ La presentazione dell'Info day sugli open data è stata richiesta dal Vice Presi
 
 --------
 
+.. _h635268b11474a66107812e592e1425:
+
+2018 - formazione sul riuso dell'applicativo Open Agenda dell'Associazione dei Comuni Trentini
+==============================================================================================
+
+18-19-20 aprile. 3 giorni di formazione alla Società Sispi sia con il personale tecnico dell'Azienda che con i dipendenti comunali dell'Area Cultura per l'adozione dell'applicativo Open Agenda.
+
+A  questo link \ |LINK173|\  è disponibile il manuale d'uso dell'applicativo.
+
+Open Agenda è un applicativo open source sviluppato dalla Società OpenContent per la gestione e pubblicazione degli eventi culturali nella città a disposizione anche delle Associazioni locali che organizzano eventi.
+
+--------
+
 
 .. bottom of content
 
@@ -1776,6 +1789,10 @@ La presentazione dell'Info day sugli open data è stata richiesta dal Vice Presi
 .. |LINK172| raw:: html
 
     <a href="http://bit.do/opendata-ipssarborsellino" target="_blank">http://bit.do/opendata-ipssarborsellino</a>
+
+.. |LINK173| raw:: html
+
+    <a href="http://openagenda.readthedocs.io/it/latest/" target="_blank">http://openagenda.readthedocs.io/it/latest/</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
