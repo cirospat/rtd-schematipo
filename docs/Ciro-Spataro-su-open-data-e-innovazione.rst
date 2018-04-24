@@ -1055,7 +1055,7 @@ Il dott. Gabriele Francescotto della Società OpenContent ha effettuato la forma
 
 A  questo link \ |LINK173|\  è disponibile il manuale d'uso dell'applicativo.
 
-Open Agenda è un applicativo open source sviluppato dalla Società OpenContent per la gestione e pubblicazione degli eventi culturali nella città, a disposizione anche delle Associazioni locali che organizzano eventi nel territorio.
+Open Agenda è un applicativo open source sviluppato dalla Società OpenContent in riuso gratuito per la gestione e pubblicazione degli eventi culturali nella città, a disposizione anche delle Associazioni locali che organizzano eventi nel territorio.
 
 Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LINK176|\ .
 
