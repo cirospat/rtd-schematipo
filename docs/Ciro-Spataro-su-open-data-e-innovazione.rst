@@ -1051,9 +1051,13 @@ La presentazione dell'Info day sugli open data è stata richiesta dal Vice Presi
 
 18-19-20 aprile. 3 giorni di formazione alla Società Sispi sia con il personale tecnico dell'Azienda che con i dipendenti comunali dell'Area Cultura per l'adozione dell'applicativo Open Agenda.
 
+Il dott. Gabriele Francescotto della Società OpenContent ha effettuato la formazione.
+
 A  questo link \ |LINK173|\  è disponibile il manuale d'uso dell'applicativo.
 
-Open Agenda è un applicativo open source sviluppato dalla Società OpenContent per la gestione e pubblicazione degli eventi culturali nella città a disposizione anche delle Associazioni locali che organizzano eventi.
+Open Agenda è un applicativo open source sviluppato dalla Società OpenContent per la gestione e pubblicazione degli eventi culturali nella città, a disposizione anche delle Associazioni locali che organizzano eventi nel territorio.
+
+Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LINK176|\ .
 
 --------
 
@@ -1793,6 +1797,18 @@ Open Agenda è un applicativo open source sviluppato dalla Società OpenContent 
 .. |LINK173| raw:: html
 
     <a href="http://openagenda.readthedocs.io/it/latest/" target="_blank">http://openagenda.readthedocs.io/it/latest/</a>
+
+.. |LINK174| raw:: html
+
+    <a href="http://www.comune.ala.tn.it/eventi" target="_blank">alcuni comuni trentini</a>
+
+.. |LINK175| raw:: html
+
+    <a href="https://eventi.comune.bolzano.it/" target="_blank">Bolzano</a>
+
+.. |LINK176| raw:: html
+
+    <a href="https://www.agenda.udine.it/" target="_blank">Udine</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
