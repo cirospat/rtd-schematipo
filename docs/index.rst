@@ -24,9 +24,6 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
 
 
-|REPLACE2|
-
-
 .. toctree::  
     :maxdepth: 2
     :caption: Contenuti
@@ -43,7 +40,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 --------
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -66,22 +63,6 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
-
-    <!-- script Back To Top
-    -->
-    <a id='backTop'>Back To Top</a>
-    <script src="/top/jquery.backTop.min.js"></script>
-    <script>
-               $(document).ready( function() 
-                   $('#backTop').backTop({
-                       'position' : 500,
-                       'speed' : 500,
-                       'color' : 'red',
-    
-                                                });
-                });
-    </script>
-.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
