@@ -74,7 +74,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     <script>
                $(document).ready( function() 
                    $('#backTop').backTop({
-                       'position' : 500,
+                       'position' : 200,
                        'speed' : 500,
                        'color' : 'red',
     
