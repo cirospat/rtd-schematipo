@@ -45,9 +45,9 @@ package_data={'top': [
 '*.html',
 '*.css',
 '*.js',	
-	'/img/*.png',
+'/img/*.png',
 '/img/*.db',
-	]},
+]},
 include_package_data=True,
 ],
 )
