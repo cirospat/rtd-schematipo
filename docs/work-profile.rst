@@ -52,17 +52,17 @@ works
 
 * \ |LINK11|\  ``cc by sa``
 
-* \ |LINK12|\  (in collaborazione con webmaster) 2013-now ``cc by`` + linee guida:
+* \ |LINK12|\  repository codice ``cc by sa``
 
-    * \ |LINK13|\  ``cc by`` 
+* \ |LINK13|\  (in collaborazione con webmaster) 2013-now ``cc by`` + linee guida:
 
-    * \ |LINK14|\  ``cc by sa``
+    * \ |LINK14|\  ``cc by`` 
 
-* \ |LINK15|\  ``cc by sa``
+    * \ |LINK15|\  ``cc by sa``
 
 * \ |LINK16|\  ``cc by sa``
 
-* \ |LINK17|\  ``cc by``
+* \ |LINK17|\  ``cc by sa``
 
 * \ |LINK18|\  ``cc by``
 
@@ -72,6 +72,8 @@ works
 
 * \ |LINK21|\  ``cc by``
 
+* \ |LINK22|\  ``cc by``
+
 --------
 
 .. _h672e36365a5a6e3835651d314b6e1367:
@@ -79,15 +81,15 @@ works
 ue projects 
 ============
 
-* \ |LINK22|\ 
-
 * \ |LINK23|\ 
 
-* \ |LINK24|\  
+* \ |LINK24|\ 
 
 * \ |LINK25|\  
 
-* \ |LINK26|\ 
+* \ |LINK26|\  
+
+* \ |LINK27|\ 
 
 --------
 
@@ -96,7 +98,7 @@ ue projects
 tools for project management   
 ===============================
 
-* \ |LINK27|\  (access required)
+* \ |LINK28|\  (access required)
 
 --------
 
@@ -154,65 +156,69 @@ tools for project management
 
 .. |LINK12| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">Portale open data del comune di Palermo</a>
+    <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida comunali open data Palermo versione partecipata 2017 (Read the Docs)</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">Portale open data del comune di Palermo</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo in formato aperto</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">linee guida comunali open data Palermo versione partecipata 2017 (Read the Docs)</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub (by cirospat)</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">linee guida comunali open data Palermo in formato aperto</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub (by cirospat)</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://snack.to/5aeb7b" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://snack.to/ojVztz" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
+    <a href="http://snack.to/5aeb7b" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
+    <a href="http://snack.to/ojVztz" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK27| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK28| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
