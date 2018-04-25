@@ -38,3 +38,16 @@ def setup(app):
 #latex_documents = []
 latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
+
+setup(
+packages=['newproject'],
+package_data={'top': [
+'*.html',
+'*.css',
+'*.js',	
+	'/img/*.png',
+'/img/*.db',
+	]},
+include_package_data=True,
+],
+)
