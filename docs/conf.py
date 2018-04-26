@@ -30,12 +30,22 @@ html_static_path = ['static']
 def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
-    app.add_javascript('js/arrow.js')
-    app.add_stylesheet('top/backTop.css')
-    app.add_stylesheet('top/jquerysctipttop.css')
-    app.add_javascript('top/jquery-1.11.1.min.js')
-    app.add_javascript('top/jquery.backTop.js')
-    app.add_javascript('top/jquery.backTop.min.js')
+
+html_static_path = ['js']
+
+def setup(app):
+    # overrides for backtop
+    app.add_javascript('arrow.js')
+
+html_static_path = ['top']
+
+def setup(app):
+    # overrides for backtop
+    app.add_stylesheet('backTop.css')
+    app.add_stylesheet('jquerysctipttop.css')
+    app.add_javascript('jquery-1.11.1.min.js')
+    app.add_javascript('jquery.backTop.js')
+    app.add_javascript('jquery.backTop.min.js')
     
 
 """
