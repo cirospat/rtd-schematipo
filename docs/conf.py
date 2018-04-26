@@ -41,7 +41,7 @@ html_logo = "static/cirospat.jpg"
 
 
 
-# -- estensioni per lo script 'top' (sono solo prove) ------------------------------
+# -- estensioni per lo script 'top' per abilitare la freccia che porta in alto (sono solo prove) ------------------------------
 
 extensions = ['top']
 
