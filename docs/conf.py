@@ -41,8 +41,9 @@ html_logo = "static/cirospat.jpg"
 
 
 
-# estensioni per lo script 'top'
-extensions = ['top']
+# -- estensioni per lo script 'top' (sono solo prove) ------------------------------
+
+extensions = ['/top']
 
 setup(
 packages=['/top'],
@@ -67,12 +68,4 @@ setup(
             });
 
 	
-	
-extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage',
-    'sphinx.ext.ifconfig',
-]
+
