@@ -39,9 +39,14 @@ def setup(app):
 latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
+
+
+# estensioni per lo script 'top'
 extensions = [
     'top'
-    
+]
+
+
 setup(
 packages=['top'],
 package_data={'top': [
@@ -51,5 +56,4 @@ package_data={'top': [
 '/img/*.db',
 ]},
 include_package_data=True,
-],
 )
