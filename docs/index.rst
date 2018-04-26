@@ -67,18 +67,20 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
 
-    <!-- script Back To Top
-    -->
-    <a id='backTop'>Back To Top</a>
-    <script src="top/jquery.backTop.min.js"></script>
+    <!-- script Back To Top -->
+     <a id='backTop'>Back To Top</a>
+    <script src="js/top/jquery.backTop.min.js"></script>
     <script>
-               $(document).ready( function() 
-                   $('#backTop').backTop({
-                       'position' : 200,
-                       'speed' : 500,
-                       'color' : 'red',                          
+                $(document).ready( function() {
+                    $('#backTop').backTop({
+                        'position' : 100,
+                        'speed' : 500,
+                        'color' : 'red',
+    					
+    					                });
                 });
-    </script>
+            </script>
+    
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
