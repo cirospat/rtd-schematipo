@@ -69,7 +69,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     <!-- script Back To Top -->
      <a id='backTop'>Back To Top</a>
-    <script src="js/top/jquery.backTop.min.js"></script>
+    <script src="top/jquery.backTop.min.js"></script>
     <script>
                 $(document).ready( function() {
                     $('#backTop').backTop({
