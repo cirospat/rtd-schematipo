@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'cirospat'
-copyright = '= licenza CC BY cirospat'
+project = 'Ciro Spataro'
+copyright = '= licenza CC BY Cirospat'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -30,19 +30,14 @@ html_static_path = ['static']
 def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
-    
-    app.add_config_value('recommonmark_config', {
-        'auto_toc_tree_section': 'Contents',
-        'enable_eval_rst': True,
-        'enable_auto_doc_ref': True
-    }, True)
-    app.add_transform(AutoStructify)
-    
+
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
 """
 #latex_documents = []
+
+
 latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
