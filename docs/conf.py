@@ -37,7 +37,6 @@ def setup(app):
 """
 #latex_documents = []
 
-
 latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
