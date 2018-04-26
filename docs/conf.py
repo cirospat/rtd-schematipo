@@ -30,7 +30,8 @@ html_static_path = ['static']
 def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
-
+    app.add_javascript("js/arrow.js")
+    
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
@@ -66,8 +67,5 @@ html_logo = "static/cirospat.jpg"
 #                    'color' : 'red',					
 #		});
 #            });
-
-# -- AutoStructify --------------------------------------------------------
-def setup(app):
-    app.add_javascript("js/arrow.js")	
+    	
 
