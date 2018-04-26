@@ -33,6 +33,10 @@ def setup(app):
     app.add_javascript('js/arrow.js')
     app.add_stylesheet('top/backTop.css')
     app.add_stylesheet('top/jquerysctipttop.css')
+    app.add_javascript('top/jquery-1.11.1.min.js')
+    app.add_javascript('top/jquery.backTop.js')
+    app.add_javascript('top/jquery.backTop.min.js')
+    
 
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
