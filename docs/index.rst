@@ -76,9 +76,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
                    $('#backTop').backTop({
                        'position' : 200,
                        'speed' : 500,
-                       'color' : 'red',
-    
-                                                });
+                       'color' : 'red',                          
                 });
     </script>
 .. |REPLACE3| raw:: html
