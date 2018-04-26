@@ -1854,21 +1854,4 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 #add back on top
 
 .. raw:: html
-
-  <embed>
-  <!-- script Back To Top
--->
-<a id='backTop'>Back To Top</a>
-<script src="top/jquery.backTop.min.js"></script>
-<script>
-          $(document).ready( function() 
-              $('#backTop').backTop({
-                  'position' : 500,
-                  'speed' : 500,
-                  'color' : 'red',
-
-                                           });
-           });
-</script> 
-
-  </embed>
+<script language="javascript" src="/js/arrow.js"></script>
