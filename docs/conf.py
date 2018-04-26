@@ -31,12 +31,16 @@ def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
 
+    
+    
 html_static_path = ['js']
 
 def setup(app):
     # overrides for backtop
     app.add_javascript('arrow.js')
 
+    
+    
 html_static_path = ['top']
 
 def setup(app):
