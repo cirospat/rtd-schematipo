@@ -1854,4 +1854,4 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 #add back on top
 
 .. raw:: html
-<script language="javascript" src="/js/arrow.js"></script>
+<script language="javascript" src="js/arrow.js"></script>
