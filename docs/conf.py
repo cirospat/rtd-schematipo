@@ -42,10 +42,7 @@ html_logo = "static/cirospat.jpg"
 
 
 # estensioni per lo script 'top'
-extensions = [
-    'top'
-]
-
+extensions = ['top']
 
 setup(
 packages=['top'],
@@ -59,7 +56,8 @@ include_package_data=True,
 )
 
 
-script src=['top/jquery.backTop.min.js']
+setup(
+	['top/jquery.backTop.min.js']
             (document).ready( function() {
                 ('#backTop').backTop({
                     'position' : 100,
