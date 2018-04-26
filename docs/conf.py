@@ -59,14 +59,15 @@ include_package_data=True,
 )
 
 
-<script src="top/jquery.backTop.min.js"></script>
-<script>
-            $(document).ready( function() {
-                $('#backTop').backTop({
+script src="top/jquery.backTop.min.js"
+/script
+script
+            (document).ready( function() {
+                ('#backTop').backTop({
                     'position' : 100,
                     'speed' : 500,
                     'color' : 'red',
 					
 					                });
             });
-        </script>
+        /script
