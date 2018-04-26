@@ -39,10 +39,12 @@ def setup(app):
 latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
+extensions = [
+    'top'
+    
 setup(
 packages=['top'],
 package_data={'top': [
-'*.html',
 '*.css',
 '*.js',	
 '/img/*.png',
