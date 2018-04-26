@@ -56,16 +56,3 @@ package_data={'top': [
 ]},
 include_package_data=True,
 )
-
-
-setup(
-	['top/jquery.backTop.min.js']
-            (document).ready( function() {
-                ('#backTop').backTop({
-                    'position' : 100,
-                    'speed' : 500,
-                    'color' : 'red',					
-		});
-            });
-    	
-
