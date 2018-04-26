@@ -40,7 +40,7 @@ latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
 setup(
-packages=['newproject'],
+packages=['top'],
 package_data={'top': [
 '*.html',
 '*.css',
