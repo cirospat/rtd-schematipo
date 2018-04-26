@@ -59,15 +59,12 @@ include_package_data=True,
 )
 
 
-script src="top/jquery.backTop.min.js"
-/script
-script
+script src=['top/jquery.backTop.min.js"
+	   ]
             (document).ready( function() {
                 ('#backTop').backTop({
                     'position' : 100,
                     'speed' : 500,
-                    'color' : 'red',
-					
-					                });
+                    'color' : 'red',					
+		});
             });
-        /script
