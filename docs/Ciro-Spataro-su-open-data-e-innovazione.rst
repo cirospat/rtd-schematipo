@@ -1850,3 +1850,23 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 .. |IMG10| image:: static/Ciro-Spataro-su-open-data-e-innovazione_10.png
    :height: 348 px
    :width: 340 px
+#add back on top
+.. html ::
+
+  <embed>
+  <!-- script Back To Top
+-->
+<a id='backTop'>Back To Top</a>
+<script src="top/jquery.backTop.min.js"></script>
+<script>
+          $(document).ready( function() 
+              $('#backTop').backTop({
+                  'position' : 500,
+                  'speed' : 500,
+                  'color' : 'red',
+
+                                           });
+           });
+</script> 
+
+  </embed>
