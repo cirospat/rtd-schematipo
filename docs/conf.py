@@ -43,29 +43,31 @@ html_logo = "static/cirospat.jpg"
 
 # -- estensioni per lo script 'top' per abilitare la freccia che porta in alto (sono solo prove) ------------------------------
 
-extensions = ['top']
+#extensions = ['top']
 
-setup(
-packages=['top'],
-package_data={'top': [
-'*.css',
-'*.js',	
-'/img/*.png',
-'/img/*.db',
-]},
-include_package_data=True,
-)
+#setup(
+#packages=['top'],
+#package_data={'top': [
+#'*.css',
+#'*.js',	
+#'/img/*.png',
+#'/img/*.db',
+#]},
+#include_package_data=True,
+#)
 
 
-setup(
-	['top/jquery.backTop.min.js']
-            (document).ready( function() {
-                ('#backTop').backTop({
-                    'position' : 100,
-                    'speed' : 500,
-                    'color' : 'red',					
-		});
-            });
+#setup(
+#	['top/jquery.backTop.min.js']
+#            (document).ready( function() {
+#                ('#backTop').backTop({
+#                    'position' : 100,
+#                    'speed' : 500,
+#                    'color' : 'red',					
+#		});
+#            });
 
-	
+# -- AutoStructify --------------------------------------------------------
+def setup(app):
+    app.add_javascript("js/arrow.js")	
 
