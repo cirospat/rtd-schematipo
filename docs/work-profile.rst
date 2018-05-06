@@ -102,18 +102,26 @@ tools for project management
 
 --------
 
+
+|REPLACE1|
+
+--------
+
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
 
 ``cc by sa`` licenza Creative Commons, Attribuzione dell'opera, Condividi allo stesso modo 
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
