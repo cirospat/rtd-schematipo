@@ -120,7 +120,7 @@ tools for project management
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="1000px" frameBorder="1" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
