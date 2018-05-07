@@ -13,12 +13,21 @@ Core vocabulary degli eventi pubblici
 
 --------
 
+.. _h4b2e3317a1a4d236c6b63c274d104e:
+
+Manuale d'uso dell'Applicativo "Open Agenda"
+********************************************
+
+\ |LINK2|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+
+--------
+
 .. _h736128786770412a5751301a2a4f5e60:
 
 Developers Italia, i progetti su Github - The community of developers of Italian Public Services
 ************************************************************************************************
 
-\ |LINK2|\ 
+\ |LINK3|\ 
 
 --------
 
@@ -27,7 +36,7 @@ Developers Italia, i progetti su Github - The community of developers of Italian
 Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 ***************************************************************************
 
-\ |LINK3|\ 
+\ |LINK4|\ 
 
 --------
 
@@ -36,7 +45,7 @@ Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 Codice dell’Amministrazione Digitale
 ************************************
 
-\ |LINK4|\ 
+\ |LINK5|\ 
 
 --------
 
@@ -45,7 +54,7 @@ Codice dell’Amministrazione Digitale
 Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 ************************************************************************
 
-\ |LINK5|\  
+\ |LINK6|\  
 
 --------
 
@@ -54,7 +63,7 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 Linee Guida su acquisizione e riuso di software per le PA
 *********************************************************
 
-\ |LINK6|\ 
+\ |LINK7|\ 
 
 --------
 
@@ -63,7 +72,7 @@ Linee Guida su acquisizione e riuso di software per le PA
 Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 ****************************************************************************
 
-\ |LINK7|\ 
+\ |LINK8|\ 
 
  
 
@@ -77,25 +86,29 @@ Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 
 .. |LINK2| raw:: html
 
-    <a href="https://github.com/italia" target="_blank">Github</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Forum</a>
+    <a href="https://github.com/italia" target="_blank">Github</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">Versione v2017-12-13</a>
+    <a href="https://forum.italia.it/" target="_blank">Forum</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/index.html" target="_blank">Piano</a>
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">Versione v2017-12-13</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/" target="_blank">Linee Guida</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/index.html" target="_blank">Piano</a>
 
 .. |LINK7| raw:: html
+
+    <a href="http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/" target="_blank">Linee Guida</a>
+
+.. |LINK8| raw:: html
 
     <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
 
