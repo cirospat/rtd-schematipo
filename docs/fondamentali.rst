@@ -118,6 +118,15 @@ Competenze digitali
 
 --------
 
+.. _h03175641c527c403e5c5c3b2d3a911:
+
+Censimento del Patrimonio ICT delle Pubbliche Amministrazioni
+*************************************************************
+
+\ |LINK16|\  
+
+--------
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -186,4 +195,8 @@ Competenze digitali
 .. |LINK15| raw:: html
 
     <a href="http://competenze-digitali-docs.readthedocs.io/it/latest/" target="_blank">Definizione delle competenze digitali</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://censimentoict.italia.it" target="_blank">censimentoict.italia.it</a>
 
