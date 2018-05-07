@@ -6,7 +6,6 @@
 Cirospat pro-file
 *****************
 
-\ |IMG1|\   
 
 ..  Note:: 
 
@@ -104,15 +103,3 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
 
-
-.. |IMG1| image:: static/index_1.png
-   :height: 94 px
-   :width: 85 px
-
-.. |IMG2| image:: static/index_2.png
-   :height: 81 px
-   :width: 81 px
-
-.. |IMG3| image:: static/index_3.png
-   :height: 64 px
-   :width: 72 px
