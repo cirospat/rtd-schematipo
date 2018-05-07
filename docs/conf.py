@@ -30,14 +30,7 @@ html_static_path = ['static']
 def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
-
-    
-# -- AutoStructify ----on --- da https://github.com/gabrielefrancescotto/content-classes/blob/master/conf.py----------
-
-def setup(app):
-    app.add_config_value('recommonmark_config')
-   
-# -- AutoStructify ----off --- da https://github.com/gabrielefrancescotto/content-classes/blob/master/conf.py----------    
+  
     
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
