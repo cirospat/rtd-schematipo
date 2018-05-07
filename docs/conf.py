@@ -31,6 +31,19 @@ def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
 
+    
+# -- AutoStructify ----on --- da https://github.com/gabrielefrancescotto/content-classes/blob/master/conf.py----------
+
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+        'auto_toc_tree_section': 'Contents',
+        'enable_eval_rst': True,
+        'enable_auto_doc_ref': True
+    }, True)
+    app.add_transform(AutoStructify)
+
+# -- AutoStructify ----off --- da https://github.com/gabrielefrancescotto/content-classes/blob/master/conf.py----------    
+    
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
   Because the pdflatex raises exception when generate Latex documents with CKJ characters.
