@@ -40,12 +40,30 @@ Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 
 --------
 
+.. _h5f7f1d14e3128d35c13602138563f:
+
+Data Analytics Framework
+************************
+
+Pannello di visualizzazione dati della Pubblica Amministrazione - \ |LINK5|\ 
+
+--------
+
+.. _h6c32816a2a135b4d15421c5c1b5831:
+
+Catalogo nazionale dei metadati relativi ai dati rilasciati in formato aperto dalle pubbliche amministrazioni italiane
+**********************************************************************************************************************
+
+\ |LINK6|\  
+
+--------
+
 .. _hd413074293e253c757785d4769213a:
 
 Codice dell’Amministrazione Digitale
 ************************************
 
-\ |LINK5|\ 
+\ |LINK7|\ 
 
 --------
 
@@ -54,7 +72,7 @@ Codice dell’Amministrazione Digitale
 Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 ************************************************************************
 
-\ |LINK6|\  
+\ |LINK8|\  
 
 --------
 
@@ -63,7 +81,7 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 Linee Guida su acquisizione e riuso di software per le PA
 *********************************************************
 
-\ |LINK7|\ 
+\ |LINK9|\ 
 
 --------
 
@@ -72,7 +90,7 @@ Linee Guida su acquisizione e riuso di software per le PA
 Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 ****************************************************************************
 
-\ |LINK8|\ 
+\ |LINK10|\ 
 
 --------
 
@@ -81,13 +99,13 @@ Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 ****************************************************************************
 
-\ |LINK9|\ 
-
-* \ |LINK10|\ 
-
-* \ |LINK11|\  
+\ |LINK11|\ 
 
 * \ |LINK12|\ 
+
+* \ |LINK13|\  
+
+* \ |LINK14|\ 
 
 .. bottom of content
 
@@ -110,33 +128,41 @@ Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 
 .. |LINK5| raw:: html
 
-    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">Versione v2017-12-13</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search" target="_blank">DAF</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/index.html" target="_blank">Piano</a>
+    <a href="https://www.dati.gov.it/" target="_blank">www.dati.gov.it</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/" target="_blank">Linee Guida</a>
+    <a href="https://cad.readthedocs.io/it/v2017-12-13/" target="_blank">Versione v2017-12-13</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/index.html" target="_blank">Piano</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
+    <a href="http://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/" target="_blank">Linee Guida</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
+    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
+    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
 
 .. |LINK12| raw:: html
+
+    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
+
+.. |LINK13| raw:: html
+
+    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
+
+.. |LINK14| raw:: html
 
     <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
 
