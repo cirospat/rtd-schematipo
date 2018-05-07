@@ -36,3 +36,7 @@
 h1, h2, h3 {
     color: #ff5a00 !important;
 }
+
+.wy-side-nav-search {
+    background-color: #FF6300;
+}
