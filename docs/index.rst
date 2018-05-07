@@ -6,16 +6,12 @@
 Cirospat pro-file
 *****************
 
-\ |IMG1|\ 
 
 ..  Note:: 
 
-    membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
+    \ |IMG1|\ membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
 
-
-.. admonition:: contenuti
-
-    In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
 Gli \ |STYLE1|\  principali di questo spazio sono: i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, l’ ``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
 
