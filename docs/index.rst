@@ -6,7 +6,7 @@
 Cirospat pro-file
 *****************
 
-\ |IMG1|\  
+\ |IMG1|\   
 
 ..  Note:: 
 
