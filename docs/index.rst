@@ -6,17 +6,14 @@
 Cirospat pro-file
 *****************
 
+\ |IMG1|\ 
 
-+-------------------------------------------------------------------------------+
-|\ |IMG1|\                                                                      |
-+-------------------------------------------------------------------------------+
-|membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ |
-+-------------------------------------------------------------------------------+
+|REPLACE2|
 
 
 ..  Note:: 
 
-    membro della comunità \ |LINK4|\ , del \ |LINK5|\ ,  dipendente del \ |LINK6|\ 
+    membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
@@ -27,7 +24,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 ..  Note:: 
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK7|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
+    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
 
 
 .. toctree::  
@@ -46,7 +43,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 --------
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -69,6 +66,14 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:99%">
+    <tbody>
+    <tr><td rowspan="2" style="width:100%;background-color:#fce5cd;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #cccccc"><p>membro della comunità <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>, del <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia"</a>,  dipendente del <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a></p></td></tr>
+    <tr></tr>
+    </tbody></table>
+
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -107,18 +112,6 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
 
 .. |LINK4| raw:: html
-
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>
-
-.. |LINK5| raw:: html
-
-    <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia"</a>
-
-.. |LINK6| raw:: html
-
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
-
-.. |LINK7| raw:: html
 
     <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
 
