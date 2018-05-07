@@ -107,6 +107,23 @@ Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 
 * \ |LINK14|\ 
 
+--------
+
+.. _h736a6a6e38565e283a1079807510a:
+
+Competenze digitali
+*******************
+
+\ |LINK15|\  per le professionalità operanti nel settore ICT e per i soggetti che utilizzano l’ICT all’interno delle attività lavorative (osservatorio delle competenze digitali 2017)
+
+--------
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
 .. bottom of content
 
 
@@ -165,4 +182,8 @@ Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
 .. |LINK14| raw:: html
 
     <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
+
+.. |LINK15| raw:: html
+
+    <a href="http://competenze-digitali-docs.readthedocs.io/it/latest/" target="_blank">Definizione delle competenze digitali</a>
 
