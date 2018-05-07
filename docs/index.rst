@@ -6,11 +6,17 @@
 Cirospat pro-file
 *****************
 
-\ |IMG1|\ 
+
++-------------------------------------------------------------------------------+
+|\ |IMG1|\                                                                      |
++-------------------------------------------------------------------------------+
+|membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ |
++-------------------------------------------------------------------------------+
+
 
 ..  Note:: 
 
-    membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
+    membro della comunità \ |LINK4|\ , del \ |LINK5|\ ,  dipendente del \ |LINK6|\ 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
@@ -21,7 +27,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 ..  Note:: 
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
+    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK7|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
 
 
 .. toctree::  
@@ -101,6 +107,18 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
 
 .. |LINK4| raw:: html
+
+    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia"</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
+
+.. |LINK7| raw:: html
 
     <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
 
