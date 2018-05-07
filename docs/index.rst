@@ -30,12 +30,12 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     social-profile
     work-profile
-    servizi-digitali-comune-palermo
     cv-Ciro-Spataro
     tutorial
     mappe
     Ciro-Spataro-su-open-data-e-innovazione
     open-data-incontri-con-referenti-comunali
+    servizi-digitali-comune-palermo
     webinar-opendata
     fondamentali
 
@@ -108,5 +108,5 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 126 px
-   :width: 301 px
+   :height: 132 px
+   :width: 317 px
