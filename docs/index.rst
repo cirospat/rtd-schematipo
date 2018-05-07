@@ -8,9 +8,6 @@ Cirospat pro-file
 
 \ |IMG1|\ 
 
-|REPLACE2|
-
-
 ..  Note:: 
 
     membro della comunità \ |LINK1|\ , del \ |LINK2|\ ,  dipendente del \ |LINK3|\ 
@@ -43,7 +40,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 --------
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -66,14 +63,6 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:99%">
-    <tbody>
-    <tr><td rowspan="2" style="width:100%;background-color:#fce5cd;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #cccccc"><p>membro della comunità <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>, del <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia"</a>,  dipendente del <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a></p></td></tr>
-    <tr></tr>
-    </tbody></table>
-
-.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
