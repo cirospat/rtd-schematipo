@@ -76,10 +76,10 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 
 --------
 
-.. _h3255557014281a7367613b804b283c69:
+.. _h14614f513b7a3367673b534d56445240:
 
-Linee Guida su acquisizione e riuso di software per le PA
-*********************************************************
+Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
+********************************************************************************
 
 \ |LINK9|\ 
 
