@@ -27,3 +27,8 @@
     /* draw a boder around a admonition */
     border-bottom: solid 1px #b59e9e !important;
 }
+
+.btn-neutral {
+    background-color: #ff5a00 !important;
+    color: #fff !important;
+}
