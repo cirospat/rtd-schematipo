@@ -35,9 +35,7 @@ def setup(app):
 # -- AutoStructify ----on --- da https://github.com/gabrielefrancescotto/content-classes/blob/master/conf.py----------
 
 def setup(app):
-    app.add_config_value('recommonmark_config', {
-        'enable_eval_rst': True,
-    }, True)
+    app.add_config_value('recommonmark_config')
    
 # -- AutoStructify ----off --- da https://github.com/gabrielefrancescotto/content-classes/blob/master/conf.py----------    
     
