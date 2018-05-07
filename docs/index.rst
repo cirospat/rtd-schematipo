@@ -30,6 +30,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     social-profile
     work-profile
+    servizi-digitali-comune-palermo
     cv-Ciro-Spataro
     tutorial
     mappe
