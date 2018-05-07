@@ -74,8 +74,20 @@ Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 
 \ |LINK8|\ 
 
- 
+--------
 
+.. _h22b14804133193668465b80e2a5d:
+
+Linee Guida per la valorizzazione del Patrimonio Informativo Pubblico (2017)
+****************************************************************************
+
+\ |LINK9|\ 
+
+* \ |LINK10|\ 
+
+* \ |LINK11|\  
+
+* \ |LINK12|\ 
 
 .. bottom of content
 
@@ -111,4 +123,20 @@ Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
 .. |LINK8| raw:: html
 
     <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
+
+.. |LINK9| raw:: html
+
+    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/" target="_blank">Linee guida per i cataloghi dati</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://pianotri-schede-bdin.readthedocs.io/en/latest/" target="_blank">Schede descrittive delle basi dati di interesse nazionale</a>
+
+.. |LINK12| raw:: html
+
+    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">Elenco delle basi dati chiave</a>
 
