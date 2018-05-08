@@ -108,5 +108,5 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 132 px
-   :width: 317 px
+   :height: 117 px
+   :width: 280 px
