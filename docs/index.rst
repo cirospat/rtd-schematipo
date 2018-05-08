@@ -8,9 +8,9 @@ Cirospat pro-file
 
 \ |IMG1|\ 
 
-..  Note:: 
+.. admonition:: Reti
 
-    Membro di \ |LINK1|\ , del \ |LINK2|\ , dipendente del \ |LINK3|\ 
+    \ |LINK1|\ , \ |LINK2|\ , \ |LINK3|\ 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
@@ -19,9 +19,9 @@ Gli \ |STYLE1|\  principali di questo spazio sono: i ``dati`` che resi ``pubblic
 Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
 
 
-..  Note:: 
+.. admonition:: Questa visualizzazione è costruita
 
-    Questa presentazione è stata costruita su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
+    su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
 
 
 .. toctree::  
@@ -96,7 +96,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. |LINK2| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">forum sui servizi pubblici digitali “Developers Italia"</a>
+    <a href="https://forum.italia.it/" target="_blank">Forum sui servizi pubblici digitali “Developers Italia"</a>
 
 .. |LINK3| raw:: html
 
