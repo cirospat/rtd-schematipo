@@ -9,10 +9,14 @@ Tutorial
 
 |REPLACE2|
 
-.. _h2c1d74277104e41780968148427e:
+.. _h5231154d48564c132e542693d1d1d5f:
 
+Manuali 
+========
 
+* \ |LINK1|\ 
 
+* \ |LINK2|\  in uso al Comune di Palermo
 
 
 |REPLACE3|
@@ -52,3 +56,12 @@ Tutorial
     })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+.. |LINK1| raw:: html
+
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
