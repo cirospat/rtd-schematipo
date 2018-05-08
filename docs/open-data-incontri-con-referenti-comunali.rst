@@ -2339,6 +2339,28 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 
 --------
 
+.. _h3f3679477a204e4a4368420252e5165:
+
+2 Quadrimestre 2018
+*******************
+
+64-
+
+.. _h41794365525891b6525423d37307a40:
+
+Area della Cultura / Spazio museale Galleria Arte Moderna
+=========================================================
+
+Referente Giulia Rizzo
+
+8 maggio 2018
+
+In collaborazione con la dott.ssa Giulia Rizzo è stato reso disponibile il dataset su dati statistici relativi a: numero visitatori collezione permanente, numero visitatori mostre temporanee, mostre temporanee realizzate, giorni annuali di apertura al pubblico, numero di attivita' didattica laboratori, numero visite scuole, numero alunni, numero visite guidate, restauri effettuati opere d'arte, per l'anno 2017.
+
+Il dataset pubblicato è disponibile al link \ |LINK157|\ . 
+
+--------
+
 
 .. bottom of content
 
@@ -3125,4 +3147,8 @@ I dataset in formato ``CSV`` sono stati pubblicati lo stesso giorno rispettivame
 .. |LINK156| raw:: html
 
     <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1020" target="_blank">asili nido</a>
+
+.. |LINK157| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1024" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1024</a>
 
