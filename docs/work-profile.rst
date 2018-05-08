@@ -66,11 +66,11 @@ works
 
 * \ |LINK19|\  ``cc by``
 
-* \ |LINK20|\  ``cc by``
+* \ |LINK20|\  (2007) ``cc by``
 
-* \ |LINK21|\  ``cc by``
+* \ |LINK21|\  (2006) ``cc by``
 
-* \ |LINK22|\  ``cc by``
+* \ |LINK22|\  (2008) ``cc by``
 
 * \ |LINK23|\  ``cc by``
 
