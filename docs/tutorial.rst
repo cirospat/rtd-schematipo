@@ -18,6 +18,8 @@ Manuali
 
 * \ |LINK2|\  in uso al Comune di Palermo
 
+* \ |LINK3|\  del comune di Palermo
+
 
 |REPLACE3|
 
@@ -64,4 +66,8 @@ Manuali
 .. |LINK2| raw:: html
 
     <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK3| raw:: html
+
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
