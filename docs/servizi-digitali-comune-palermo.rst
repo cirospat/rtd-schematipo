@@ -17,7 +17,9 @@ Servizi digitali online del Comune di Palermo, delle Società partecipate e di A
 Agenda Digitale Palermo
 =======================
 
-\ |LINK1|\  (Asse 1 del PON METRO Palermo 2014-2020)
+\ |LINK1|\  
+
+(Asse 1 del PON METRO Palermo 2014-2020)
 
 .. _h338a4a7b16150384c2e2855d3a60:
 
