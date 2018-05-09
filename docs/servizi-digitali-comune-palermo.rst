@@ -23,10 +23,10 @@ Agenda Digitale Palermo
 
 --------
 
-.. _h7c6b343a2f1767727814625b35383614:
+.. _h338a4a7b16150384c2e2855d3a60:
 
-Attuazione CAD e Piano Triennale per l'Informatica nella PA a Palermo
-=====================================================================
+Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palermo
+=================================================================================
 
 
 |REPLACE2|
