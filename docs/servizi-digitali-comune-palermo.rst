@@ -23,6 +23,9 @@ Agenda Digitale Palermo
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 |
 
 .. _h338a4a7b16150384c2e2855d3a60:
@@ -31,7 +34,7 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 =================================================================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -44,6 +47,9 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/1-ckzpMPMk3o2eq3aU2s4GIE-6oQs1Dmxjil3kupEPOE/edit#gid=0"></iframe>
+.. |REPLACE4| raw:: html
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
 
