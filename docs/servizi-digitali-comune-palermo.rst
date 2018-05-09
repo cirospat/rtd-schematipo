@@ -15,12 +15,18 @@ Servizi digitali online del Comune di Palermo, delle Società partecipate e di A
 --------
 
 
+|REPLACE2|
+
+
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
 
 .. |LINK1| raw:: html
 
