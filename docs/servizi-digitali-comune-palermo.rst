@@ -4,15 +4,29 @@
 Catalogo dei servizi digitali online del Comune di Palermo
 ##########################################################
 
+.. _h28612c50212349739c15624d58701b:
+
 Servizi digitali online del Comune di Palermo, delle Società partecipate e di Aziende private (con dati comunali)
+=================================================================================================================
+
 
 |REPLACE1|
 
 --------
 
-\ |LINK1|\  (PON METRO Palermo 2014-2020)
+.. _h11414b2e2a25777e5e2170c574f702f:
+
+Agenda Digitale Palermo
+=======================
+
+\ |LINK1|\  (Asse 1 del PON METRO Palermo 2014-2020)
 
 --------
+
+.. _h7c6b343a2f1767727814625b35383614:
+
+Attuazione CAD e Piano Triennale per l'Informatica nella PA a Palermo
+=====================================================================
 
 
 |REPLACE2|
