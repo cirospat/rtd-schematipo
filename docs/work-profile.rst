@@ -8,8 +8,7 @@ Work profile
 .. admonition:: Ciro Spataro
 
     \ |STYLE0|\  - \ |STYLE1|\ 
-    \ |STYLE2|\  
-    ↳ \ |LINK1|\ 
+    \ |STYLE2|\   ↳ \ |LINK1|\ 
     Via dello Spirito Santo n. 35, Palermo (lat.: 38.117622, long.: 13.357408)
     0917407340 - c.spataro@comune.palermo.it
 
