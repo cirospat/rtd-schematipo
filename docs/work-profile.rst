@@ -4,7 +4,14 @@
 Work profile
 ************
 
-\ |LINK1|\ 
+
+.. admonition:: Ciro Spataro
+
+    \ |STYLE0|\  - \ |STYLE1|\ 
+    \ |STYLE2|\  
+    ↳ \ |LINK1|\ 
+    Via dello Spirito Santo n. 35, Palermo (lat.: 38.117622, long.: 13.357408)
+    0917407340 - c.spataro@comune.palermo.it
 
 .. _h5c545a492429339c4615585c52303c:
 
@@ -115,6 +122,13 @@ tools for project management
 .. bottom of content
 
 
+.. |STYLE0| replace:: **Comune di Palermo**
+
+.. |STYLE1| replace:: **Area Servizi alla città**
+
+.. |STYLE2| replace:: **Servizio Innovazione**
+
+
 .. |REPLACE1| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -143,7 +157,7 @@ tools for project management
 
 .. |LINK1| raw:: html
 
-    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138" target="_blank">U.O. Transizione al Digitale</a>
 
 .. |LINK2| raw:: html
 
