@@ -231,11 +231,11 @@ tools for project management
 
 .. |LINK20| raw:: html
 
-    <a href="http://snack.to/5aeb7b" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://snack.to/ojVztz" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK22| raw:: html
 
