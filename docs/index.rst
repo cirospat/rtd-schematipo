@@ -15,11 +15,11 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 Gli \ |STYLE1|\  principali di questo spazio sono:
 
-* i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, 
+* i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
-* l’ ``innovazione`` di ``processo`` e di ``servizio``, 
+* l’ ``innovazione`` di ``processo`` e di ``servizio``; 
 
-* le ``competenze digitali`` dei dirigenti e dipendenti pubblici, 
+* le ``competenze digitali`` dei dirigenti e dipendenti pubblici; 
 
 * la ``cultura digitale``.
 
