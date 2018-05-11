@@ -43,6 +43,7 @@ Wifi comunale di Palermo
 
 |REPLACE4|
 
+\ |IMG1|\ 
 
 .. bottom of content
 
@@ -64,3 +65,7 @@ Wifi comunale di Palermo
 
     <a href="http://ponmetropalermo-agendadigitale.readthedocs.io" target="_blank">Agenda Digitale del Programma Operativo Nazionale Città Metropolitana Palermo</a>
 
+
+.. |IMG1| image:: static/servizi-digitali-comune-palermo_1.png
+   :height: 494 px
+   :width: 482 px
