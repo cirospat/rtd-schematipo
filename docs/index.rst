@@ -13,14 +13,22 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
     \ |LINK1|\ , \ |LINK2|\ , \ |LINK3|\ 
 
-Gli \ |STYLE1|\  principali di questo spazio sono: i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, l’ ``innovazione`` di ``processo`` e di ``servizio``, le ``competenze digitali`` dei dirigenti e dipendenti pubblici, la ``cultura digitale``.
+Gli \ |STYLE1|\  principali di questo spazio sono:
 
-Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali utili nell'ambiente di lavoro al comune di Palermo.
+* i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, 
+
+* l’ ``innovazione`` di ``processo`` e di ``servizio``, 
+
+* le ``competenze digitali`` dei dirigenti e dipendenti pubblici, 
+
+* la ``cultura digitale``.
+
+Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
 .. admonition:: Questa visualizzazione è costruita
 
-    su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente sulla piattaforma \ |STYLE5|\ .
+    su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente pagine HTML sulla piattaforma \ |STYLE5|\ .
 
 
 .. toctree::  
