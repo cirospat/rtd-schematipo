@@ -267,11 +267,9 @@ Tutorial: Guardian Datastore Explorer
 Come inserire uno sfondo tiles personalizzato sulle mappe di UMAP
 =================================================================
 
-.. _h2853a65f2843553c4e2cb4b6f4b:
+\ |IMG6|\ 
 
-\ |IMG6|\ ==========
-
-il video tutorial di Andrea Borruso è disponibile = \ |LINK19|\  
+il video tutorial di Andrea Borruso è disponibile: \ |LINK19|\  
 
 --------
 
