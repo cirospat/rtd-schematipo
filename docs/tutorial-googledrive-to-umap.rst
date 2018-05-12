@@ -36,11 +36,15 @@ Se lo cambio in (in grassetto la modifica)
 
 ottengo i "dati grezzi". 
 
-Se imposto il formato di output li posso avere ad esempio in :
+Se imposto il formato di output li posso avere ad esempio in:
 
-* csv \ |LINK7|\ 
+\ |STYLE0|\ 
 
-* html \ |LINK8|\ 
+\ |LINK7|\ 
+
+\ |STYLE1|\ 
+
+\ |LINK8|\ 
 
 Se guardi l'output dell'html vedi che ci sono colonne in più.
 
@@ -82,9 +86,9 @@ Questi ultimi due URL però contengono (nella query) caratteri strani ed è megl
 
     SELECT%20B%2CC%2CD%2CE%2CG%2CI%2CJ%20WHERE%20I%20Contains%20%27.%27
 
-"\ |STYLE0|\ " è il modo corretto di scrivere uno spazio.
+"\ |STYLE2|\ " è il modo corretto di scrivere uno spazio.
 
-"\ |STYLE1|\ " è la virgola.
+"\ |STYLE3|\ " è la virgola.
 
 Altre info sui caratteri qui: \ |LINK9|\ 
 
@@ -161,7 +165,7 @@ E sotto le impostazioni da settare su UMAP alla voce "dati remoti":
 
 \ |IMG4|\ 
 
-\ |STYLE2|\ 
+\ |STYLE4|\ 
 
 Dataset 2016 Incidenti stradali Palermo, QUERY per mappe uMap: 
 
@@ -181,7 +185,7 @@ e quindi query =
 
     http://spreadsheets.google.com/tq?tqx=out:csv&tq=select%20A%2CB%2CC%2CD%2CE%2CF%2CG%2CH%2CI%2CJ%2CK%2CL%20where%20L%20%3E%20datetime%20%272015-06-19%2002%3A30%3A00%27&key=1rpOadyp3npcOfJfFJbGjFNnLpJHF8q5fnxde_kMneMs 
 
-\ |STYLE3|\  è:  
+\ |STYLE5|\  è:  
 
 .. code:: 
 
@@ -282,7 +286,7 @@ codice da tenere sempre presente come riferimento x generare mappe su UMAP
 
     https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT………………………..WHERE%20_%20Contains%20%27.%27&key=(e poi indirizzo specifico del foglio csv di googledrive)
 
-\ |STYLE4|\ 
+\ |STYLE6|\ 
 
 .. code:: 
 
@@ -290,7 +294,7 @@ codice da tenere sempre presente come riferimento x generare mappe su UMAP
 
  
 
-\ |STYLE5|\ 
+\ |STYLE7|\ 
 
 .. code:: 
 
@@ -309,7 +313,7 @@ Andare su \ |LINK23|\  e premere "Create Spreadsheet"
 
 \ |IMG7|\ 
 
-(\ |STYLE6|\ )
+(\ |STYLE8|\ )
 
 si aprirà un foglio elettronico nuovo  con un indirizzo come per es. \ |LINK24|\  sul quale potere inserire dati.
 
@@ -328,19 +332,23 @@ Questa è un'informazione importante da conoscere prima di utilizzare EtherCalc 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **%20**
+.. |STYLE0| replace:: **csv**
 
-.. |STYLE1| replace:: **%2C**
+.. |STYLE1| replace:: **html**
 
-.. |STYLE2| replace:: **ricordarsi di settare formato "CSV", spuntare "richiesta proxy" e "dinamico"**
+.. |STYLE2| replace:: **%20**
 
-.. |STYLE3| replace:: **La query per tutti gli incidenti tra le 00:00:00 e le 07:00:00**
+.. |STYLE3| replace:: **%2C**
 
-.. |STYLE4| replace:: **url x UMAP mappa uffici comunali:**
+.. |STYLE4| replace:: **ricordarsi di settare formato "CSV", spuntare "richiesta proxy" e "dinamico"**
 
-.. |STYLE5| replace:: **url x UMAP mappa aziende partecipanti al bio cluster mediterraneo di expo2015:**
+.. |STYLE5| replace:: **La query per tutti gli incidenti tra le 00:00:00 e le 07:00:00**
 
-.. |STYLE6| replace:: *nota: non c'è bisogno di creare account per generare un dataset su EtherCalc*
+.. |STYLE6| replace:: **url x UMAP mappa uffici comunali:**
+
+.. |STYLE7| replace:: **url x UMAP mappa aziende partecipanti al bio cluster mediterraneo di expo2015:**
+
+.. |STYLE8| replace:: *nota: non c'è bisogno di creare account per generare un dataset su EtherCalc*
 
 
 .. |LINK1| raw:: html
