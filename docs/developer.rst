@@ -110,47 +110,47 @@ SFONDI TILES PER UMAP
 CODICE DA USARE PER UMAP
 ========================
 
-* video embedding = {{{https://www.youtube.com/embed/_______|250}}} 
+video embedding = {{{\ |LINK37|\ }}}
 
-* link con testo = [[\ |LINK37|\ |testo del link]] 
+link con testo = [[\ |LINK38|\ |testo del link]] 
 
-* immagine = {{\ |LINK38|\ |larghezza}} Immagine 
+immagine = {{\ |LINK39|\ |larghezza}} Immagine 
 
-* link a url con icona cliccabile = [[\ |LINK39|\ }}]]
+link a url con icona cliccabile = [[\ |LINK40|\ }}]]
 
-* ICONE MAPPE = \ |LINK40|\  
+ICONE MAPPE = \ |LINK41|\  
 
-* GOOGLEMAPS = <iframe width='100%' height='500' src="http....   "></iframe>
+GOOGLEMAPS = <iframe width='100%' height='500' src="http....   "></iframe>
 
-* URL ENCODER E DECODER = \ |LINK41|\  
+URL ENCODER E DECODER = \ |LINK42|\  
 
-* POST IMAGE DA LINKARE SU UMAP: \ |LINK42|\  
+POST IMAGE DA LINKARE SU UMAP: \ |LINK43|\  
 
-* Icone mappe \ |LINK43|\  ccbysa
+Icone mappe \ |LINK44|\  ccbysa
 
 .. _h1c7b5b1f64462a201813244135465568:
 
 GOOGLE DRIVE SPREADSHEET TO UMAP
 --------------------------------
 
-* Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK44|\ 
+Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK45|\ 
 
-* Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK45|\  
+Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK46|\  
 
-* DB x UMAP con output in csv =
+DB x UMAP con output in csv =
 
 .. code:: 
 
     https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20B%2CC%2CD%2CE%2CF%2CG%2CH%20WHERE%20G%20Contains%20%27.%27&key=
 
-     
+| 
 
-.. _h455d4f4d504e743545517251775b685f:
+.. _h5c292f496250491a331a4a4775b4b11:
 
-\ |LINK46|\  e \ |LINK47|\  UMAP AVVISI POLIZIA MUNICIPALE PA
+\ |LINK47|\  e \ |LINK48|\  UMAP AVVISI POLIZIA MUNICIPALE PA
 -------------------------------------------------------------
 
-=IMPORTXML("\ |LINK48|\ ") 
+=IMPORTXML("\ |LINK49|\ ") 
 
 TRUE:   =if(G2="","",REGEXMATCH(G2,"[a-zA-Z]{3}, "&TEXT(DAY(TODAY()),"00")))
 
@@ -177,29 +177,29 @@ Query per Umap =
 GEOCODER PER TROVARE COORDINATE LAT E LONG 
 ===========================================
 
-* \ |LINK49|\  con Openstreetmap tramite OnData
+* \ |LINK50|\  con Openstreetmap tramite OnData
 
-* \ |LINK50|\   con Openstreetmap
-
-* \ |LINK51|\  con Openstreetmap
+* \ |LINK51|\   con Openstreetmap
 
 * \ |LINK52|\  con Openstreetmap
 
-* \ |LINK53|\  con Googlemap
+* \ |LINK53|\  con Openstreetmap
 
-* \ |LINK54|\  by GBVitrano con API Google
+* \ |LINK54|\  con Googlemap
 
 * \ |LINK55|\  by GBVitrano con API Google
 
-* \ |LINK56|\  con le API di Google
+* \ |LINK56|\  by GBVitrano con API Google
 
-    * \ |LINK57|\  con API Google
+* \ |LINK57|\  con le API di Google
 
-* \ |LINK58|\  (google e bing) 
+    * \ |LINK58|\  con API Google
 
-* \ |LINK59|\  con API di Mapquest
+* \ |LINK59|\  (google e bing) 
 
-* \ |LINK60|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
+* \ |LINK60|\  con API di Mapquest
+
+* \ |LINK61|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
 
 --------
 
@@ -208,9 +208,9 @@ GEOCODER PER TROVARE COORDINATE LAT E LONG
 SENSORE POLVERI SOTTILI
 =======================
 
-* \ |LINK61|\  (tutorial) - 
+* \ |LINK62|\  (tutorial) - 
 
-* \ |LINK62|\  (mappa con grafici e dati su sensore mio)
+* \ |LINK63|\  (mappa con grafici e dati su sensore mio)
 
 --------
 
@@ -219,7 +219,7 @@ SENSORE POLVERI SOTTILI
 GIT GUIDE
 =========
 
-just a simple guide for getting started with git. \ |LINK63|\ 
+just a simple guide for getting started with git. \ |LINK64|\ 
 
 --------
 
@@ -228,9 +228,9 @@ just a simple guide for getting started with git. \ |LINK63|\
 REPOSITORY DATA CIRO
 ====================
 
-* \ |LINK64|\  
+* \ |LINK65|\  
 
-* \ |LINK65|\  OpenDatasoft domain trial version
+* \ |LINK66|\  OpenDatasoft domain trial version
 
 --------
 
@@ -239,7 +239,7 @@ REPOSITORY DATA CIRO
 MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 ==========================================
 
-\ |LINK66|\  
+\ |LINK67|\  
 
 --------
 
@@ -248,16 +248,16 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 RICHIESTA FOIA ONLINE
 =====================
 
-\ |LINK67|\  
+\ |LINK68|\  
 
 .. _h597d5e521a157c477c7371454c784711:
 
 CSV EDITOR
 ==========
 
-* \ |LINK68|\   download
+* \ |LINK69|\   download
 
-* \ |LINK69|\  online
+* \ |LINK70|\  online
 * 
 
 .. _h4c6c275e14302f40783e423111543c68:
@@ -265,15 +265,15 @@ CSV EDITOR
 EDITOR ONLINE PER LAVORI CONDIVISI
 ==================================
 
-* \ |LINK70|\  
-
-* \ |LINK71|\ 
+* \ |LINK71|\  
 
 * \ |LINK72|\ 
 
 * \ |LINK73|\ 
 
-* \ |LINK74|\  
+* \ |LINK74|\ 
+
+* \ |LINK75|\  
 
 --------
 
@@ -288,9 +288,9 @@ cad= parola da cercare
 
 newscount= il numero delle news da visualizzare come output della query
 
-\ |LINK75|\ 
+\ |LINK76|\ 
 
-\ |LINK76|\  
+\ |LINK77|\  
 
 --------
 
@@ -444,161 +444,165 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |LINK37| raw:: html
 
-    <a href="http://example.com/" target="_blank">http://example.com</a>
+    <a href="https://www.youtube.com/embed/_______|250" target="_blank">https://www.youtube.com/embed/_______|250</a>
 
 .. |LINK38| raw:: html
 
-    <a href="http://immagine.url.it/" target="_blank">http://immagine.url.it</a>
+    <a href="http://example.com/" target="_blank">http://example.com</a>
 
 .. |LINK39| raw:: html
 
-    <a href="http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90" target="_blank">http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90</a>
+    <a href="http://immagine.url.it/" target="_blank">http://immagine.url.it</a>
 
 .. |LINK40| raw:: html
 
-    <a href="http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/" target="_blank">http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/</a>
+    <a href="http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90" target="_blank">http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90</a>
 
 .. |LINK41| raw:: html
 
-    <a href="http://meyerweb.com/eric/tools/dencoder/" target="_blank">http://meyerweb.com/eric/tools/dencoder/</a>
+    <a href="http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/" target="_blank">http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/</a>
 
 .. |LINK42| raw:: html
 
-    <a href="http://postimages.org/" target="_blank">http://postimages.org/</a>
+    <a href="http://meyerweb.com/eric/tools/dencoder/" target="_blank">http://meyerweb.com/eric/tools/dencoder/</a>
 
 .. |LINK43| raw:: html
 
-    <a href="https://mapicons.mapsmarker.com" target="_blank">https://mapicons.mapsmarker.com</a>
+    <a href="http://postimages.org/" target="_blank">http://postimages.org/</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=YKZc84WtTd4" target="_blank">https://www.youtube.com/watch?v=YKZc84WtTd4</a>
+    <a href="https://mapicons.mapsmarker.com" target="_blank">https://mapicons.mapsmarker.com</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I" target="_blank">https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I</a>
+    <a href="https://www.youtube.com/watch?v=YKZc84WtTd4" target="_blank">https://www.youtube.com/watch?v=YKZc84WtTd4</a>
 
 .. |LINK46| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0" target="_blank">DATASET XML</a>
+    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I" target="_blank">https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I</a>
 
 .. |LINK47| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416" target="_blank">MAPPA</a>
+    <a href="https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0" target="_blank">DATASET XML</a>
 
 .. |LINK48| raw:: html
 
-    <a href="https://www.comune.palermo.it/feed/rss_pm.xml","//item" target="_blank">https://www.comune.palermo.it/feed/rss_pm.xml","//item</a>
+    <a href="http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416" target="_blank">MAPPA</a>
 
 .. |LINK49| raw:: html
 
-    <a href="http://geocoder.ondata.it/" target="_blank">http://geocoder.ondata.it/</a>
+    <a href="https://www.comune.palermo.it/feed/rss_pm.xml","//item" target="_blank">https://www.comune.palermo.it/feed/rss_pm.xml","//item</a>
 
 .. |LINK50| raw:: html
 
-    <a href="http://dati.comune.galatone.le.it/geocoder/" target="_blank">http://dati.comune.galatone.le.it/geocoder/</a>
+    <a href="http://geocoder.ondata.it/" target="_blank">http://geocoder.ondata.it/</a>
 
 .. |LINK51| raw:: html
 
-    <a href="http://school.dataninja.it/tools/geocoder-trova-le-coordinate/" target="_blank">http://school.dataninja.it/tools/geocoder-trova-le-coordinate/</a>
+    <a href="http://dati.comune.galatone.le.it/geocoder/" target="_blank">http://dati.comune.galatone.le.it/geocoder/</a>
 
 .. |LINK52| raw:: html
 
-    <a href="http://www.apposta.biz/prove/geocoder.php" target="_blank">http://www.apposta.biz/prove/geocoder.php</a>
+    <a href="http://school.dataninja.it/tools/geocoder-trova-le-coordinate/" target="_blank">http://school.dataninja.it/tools/geocoder-trova-le-coordinate/</a>
 
 .. |LINK53| raw:: html
 
-    <a href="http://it.mygeoposition.com/" target="_blank">http://it.mygeoposition.com/</a>
+    <a href="http://www.apposta.biz/prove/geocoder.php" target="_blank">http://www.apposta.biz/prove/geocoder.php</a>
 
 .. |LINK54| raw:: html
 
-    <a href="http://developers.gbvitrano.it/geolocation/geolocation.html" target="_blank">http://developers.gbvitrano.it/geolocation/geolocation.html</a>
+    <a href="http://it.mygeoposition.com/" target="_blank">http://it.mygeoposition.com/</a>
 
 .. |LINK55| raw:: html
 
-    <a href="https://siciliahub.github.io/mappe/geolocation/geolocation.html" target="_blank">https://siciliahub.github.io/mappe/geolocation/geolocation.html</a>
+    <a href="http://developers.gbvitrano.it/geolocation/geolocation.html" target="_blank">http://developers.gbvitrano.it/geolocation/geolocation.html</a>
 
 .. |LINK56| raw:: html
 
-    <a href="https://developers.google.com/maps/documentation/geocoding/start" target="_blank">https://developers.google.com/maps/documentation/geocoding/start</a>
+    <a href="https://siciliahub.github.io/mappe/geolocation/geolocation.html" target="_blank">https://siciliahub.github.io/mappe/geolocation/geolocation.html</a>
 
 .. |LINK57| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1_MH8u1JESQ_Qls5YBcZvlCLKvMmAsiV46b-w3kZQL8Y/edit#gid=0" target="_blank">Foglio mio prova geocode</a>
+    <a href="https://developers.google.com/maps/documentation/geocoding/start" target="_blank">https://developers.google.com/maps/documentation/geocoding/start</a>
 
 .. |LINK58| raw:: html
 
-    <a href="http://www.gpsvisualizer.com/geocode" target="_blank">http://www.gpsvisualizer.com/geocode</a>
+    <a href="https://docs.google.com/spreadsheets/d/1_MH8u1JESQ_Qls5YBcZvlCLKvMmAsiV46b-w3kZQL8Y/edit#gid=0" target="_blank">Foglio mio prova geocode</a>
 
 .. |LINK59| raw:: html
 
-    <a href="http://www.gpsvisualizer.com/geocoder/" target="_blank">http://www.gpsvisualizer.com/geocoder/</a>
+    <a href="http://www.gpsvisualizer.com/geocode" target="_blank">http://www.gpsvisualizer.com/geocode</a>
 
 .. |LINK60| raw:: html
 
-    <a href="https://developer.mapquest.com/user/me/apps" target="_blank">https://developer.mapquest.com/user/me/apps</a>
+    <a href="http://www.gpsvisualizer.com/geocoder/" target="_blank">http://www.gpsvisualizer.com/geocoder/</a>
 
 .. |LINK61| raw:: html
 
-    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
+    <a href="https://developer.mapquest.com/user/me/apps" target="_blank">https://developer.mapquest.com/user/me/apps</a>
 
 .. |LINK62| raw:: html
 
-    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
+    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
 
 .. |LINK63| raw:: html
 
-    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
+    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://data.world/cirospat/" target="_blank">https://data.world/cirospat/</a>
+    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
 
 .. |LINK65| raw:: html
 
-    <a href="https://cirospat.trial.opendatasoft.com" target="_blank">https://cirospat.trial.opendatasoft.com</a>
+    <a href="https://data.world/cirospat/" target="_blank">https://data.world/cirospat/</a>
 
 .. |LINK66| raw:: html
 
-    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
+    <a href="https://cirospat.trial.opendatasoft.com" target="_blank">https://cirospat.trial.opendatasoft.com</a>
 
 .. |LINK67| raw:: html
 
-    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
+    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
 
 .. |LINK68| raw:: html
 
-    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
+    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
 
 .. |LINK69| raw:: html
 
-    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
+    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
 
 .. |LINK70| raw:: html
 
-    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
+    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
 
 .. |LINK71| raw:: html
 
-    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
+    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
 
 .. |LINK72| raw:: html
 
-    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
+    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
 
 .. |LINK73| raw:: html
 
-    <a href="http://collabedit.com/j4skw" target="_blank">http://collabedit.com/j4skw</a>
+    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
+    <a href="http://collabedit.com/j4skw" target="_blank">http://collabedit.com/j4skw</a>
 
 .. |LINK75| raw:: html
 
-    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
+    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
 
 .. |LINK76| raw:: html
+
+    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
+
+.. |LINK77| raw:: html
 
     <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
 
