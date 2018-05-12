@@ -99,11 +99,7 @@ SFONDI TILES PER UMAP
 
 * tile con sfondo satellite da mapbox/satellite-v9 con API: \ |LINK34|\   (senza nomi strade)
 
-::
-
 * \ |LINK35|\  (con nomi strade)
-
-|
 
 * SERVIZIO ONLINE CREAZIONE DI TILES DA IMMAGINI  Mapwarper \ |LINK36|\  
 
@@ -160,8 +156,6 @@ Query per Umap =
     https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20A%2CB%2CC%2CG%2CH%2CI%20WHERE%20H%20Contains%20%27.%27%20AND%20K%20Contains%20%27true%27&key=1nalX173WMBzIl7kWrMb52CG5MvRuyLqhvR7hCMk7CIM  
     
     (db GBVitrano)
-
-|
 
 
 .. code:: 
