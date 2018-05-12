@@ -9,27 +9,31 @@ Tutorial
 
 |REPLACE2|
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h7b2a66733893a3aa3e44584830783a:
 
 Tutorial GoogleDrive to Umap
 ============================
 
-
-|REPLACE3|
+\ |LINK1|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
 .. _h5231154d48564c132e542693d1d1d5f:
 
 Manuali 
 ========
 
-* \ |LINK1|\ 
+* \ |LINK2|\ 
 
-* \ |LINK2|\  in uso al Comune di Palermo
+* \ |LINK3|\  in uso al Comune di Palermo
 
-* \ |LINK3|\  del comune di Palermo
+* \ |LINK4|\  del comune di Palermo
 
 
-|REPLACE4|
+|REPLACE3|
 
 
 .. bottom of content
@@ -42,9 +46,6 @@ Manuali
 
     <iframe width="100%" height="600px" frameBorder="0" src="http://bit.do/tutorialcirospat?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://bit.do/tutorialcirospat">Visualizza a schermo intero</a></p>
 .. |REPLACE3| raw:: html
-
-    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSiFUqq3pxMlvRb0LWMWNHSIHea1Ffbb6dSKoXHI9riKbF7Cp0yWSgBAxMij5fh850EMw_coCsuG7NR/pub">Visualizza a schermo intero</a></p>
-.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -72,13 +73,17 @@ Manuali
 
 .. |LINK1| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK3| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK4| raw:: html
 
     <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
