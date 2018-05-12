@@ -14,10 +14,10 @@ Tutorial
 
 
 
-.. _h7b2a66733893a3aa3e44584830783a:
+.. _h242063432c2d23134650773949664338:
 
-Tutorial GoogleDrive to Umap
-============================
+Tutorial GoogleDrive (spreadsheet) to Umap
+==========================================
 
 \ |LINK1|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
