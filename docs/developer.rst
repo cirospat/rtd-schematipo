@@ -137,7 +137,13 @@ GOOGLE DRIVE SPREADSHEET TO UMAP
 
 * Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK45|\  
 
-* DB x UMAP con output in csv = https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20B%2CC%2CD%2CE%2CF%2CG%2CH%20WHERE%20G%20Contains%20%27.%27&key=
+* DB x UMAP con output in csv =
+
+.. code:: 
+
+    https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT%20B%2CC%2CD%2CE%2CF%2CG%2CH%20WHERE%20G%20Contains%20%27.%27&key=
+
+     
 
 .. _h455d4f4d504e743545517251775b685f:
 
