@@ -228,9 +228,7 @@ just a simple guide for getting started with git. \ |LINK64|\
 REPOSITORY DATA CIRO
 ====================
 
-* \ |LINK65|\  
-
-* \ |LINK66|\  OpenDatasoft domain trial version
+\ |LINK65|\  
 
 --------
 
@@ -239,7 +237,7 @@ REPOSITORY DATA CIRO
 MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 ==========================================
 
-\ |LINK67|\  
+\ |LINK66|\  
 
 --------
 
@@ -248,32 +246,33 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 RICHIESTA FOIA ONLINE
 =====================
 
-\ |LINK68|\  
+\ |LINK67|\  
 
 .. _h597d5e521a157c477c7371454c784711:
 
 CSV EDITOR
 ==========
 
-* \ |LINK69|\   download
+* \ |LINK68|\   download
 
-* \ |LINK70|\  online
-* 
+* \ |LINK69|\  online
+
+--------
 
 .. _h4c6c275e14302f40783e423111543c68:
 
 EDITOR ONLINE PER LAVORI CONDIVISI
 ==================================
 
-* \ |LINK71|\  
+* \ |LINK70|\  
+
+* \ |LINK71|\ 
 
 * \ |LINK72|\ 
 
 * \ |LINK73|\ 
 
-* \ |LINK74|\ 
-
-* \ |LINK75|\  
+* \ |LINK74|\  
 
 --------
 
@@ -288,9 +287,9 @@ cad= parola da cercare
 
 newscount= il numero delle news da visualizzare come output della query
 
-\ |LINK76|\ 
+\ |LINK75|\ 
 
-\ |LINK77|\  
+\ |LINK76|\  
 
 --------
 
@@ -560,49 +559,45 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |LINK66| raw:: html
 
-    <a href="https://cirospat.trial.opendatasoft.com" target="_blank">https://cirospat.trial.opendatasoft.com</a>
+    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
 
 .. |LINK67| raw:: html
 
-    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
+    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
 
 .. |LINK68| raw:: html
 
-    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
+    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
 
 .. |LINK69| raw:: html
 
-    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
+    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
 
 .. |LINK70| raw:: html
 
-    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
+    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
 
 .. |LINK71| raw:: html
 
-    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
+    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
 
 .. |LINK72| raw:: html
 
-    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
+    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
+    <a href="http://collabedit.com/j4skw" target="_blank">http://collabedit.com/j4skw</a>
 
 .. |LINK74| raw:: html
 
-    <a href="http://collabedit.com/j4skw" target="_blank">http://collabedit.com/j4skw</a>
+    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
-
-.. |LINK76| raw:: html
-
     <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
 
-.. |LINK77| raw:: html
+.. |LINK76| raw:: html
 
     <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
 
