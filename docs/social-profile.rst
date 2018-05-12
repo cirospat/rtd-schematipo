@@ -53,6 +53,8 @@ territorial mini guide
 
 * \ |LINK14|\  ``cc by``
 
+|REPLACE1|
+
 --------
 
 ``cc by`` licenza Creative Commons, Attribuzione dell'opera  
@@ -60,6 +62,10 @@ territorial mini guide
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="1000px" frameBorder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/pub?start=false&loop=false&delayms=5000"></iframe>
 
 .. |LINK1| raw:: html
 
