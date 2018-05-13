@@ -6,20 +6,30 @@
 Mappe
 *****
 
-by cirospat
-
+.. _h2118236467345a5462543374815143f:
 
 Anello Telematico (fibra ottica del comune di Palermo) con uffici connessi e rete wifi comunale
+===============================================================================================
+
 
 |REPLACE2|
 
 |
 
-Catalogo mappe 
+.. _h731718451137537a2d1f10425f4ef8:
+
+Catalogo mappe elaborate da Ciro Spataro
+========================================
+
 
 |REPLACE3|
 
-\ |IMG1|\  Vedi anche il catalogo delle mappe di \ |LINK1|\ 
+.. _h406f1b6c2c6a6065787c6a3f57606:
+
+Petrusino, catalogo mappe curato dalla community di \ |LINK1|\ 
+===============================================================
+
+\ |IMG1|\  \ |LINK2|\  concentrato principalmente sul territorio della Sicilia e Palermo.
 
 
 .. bottom of content
@@ -37,7 +47,11 @@ Catalogo mappe
 
 .. |LINK1| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Petrusino</a>
+    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Catalogo mappe di Petrusino</a>
 
 
 .. |IMG1| image:: static/mappe_1.png
