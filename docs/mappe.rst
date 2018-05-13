@@ -24,6 +24,8 @@ Catalogo mappe elaborate da Ciro Spataro
 
 |REPLACE3|
 
+|
+
 .. _h406f1b6c2c6a6065787c6a3f57606:
 
 Petrusino, catalogo mappe curato dalla community di \ |LINK1|\ 
