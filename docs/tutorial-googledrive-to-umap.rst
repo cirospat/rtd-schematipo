@@ -267,9 +267,7 @@ Tutorial: Guardian Datastore Explorer
 Come inserire uno sfondo tiles personalizzato sulle mappe di UMAP
 =================================================================
 
-\ |IMG6|\ 
-
-il video tutorial di Andrea Borruso è disponibile: \ |LINK19|\  
+il video tutorial di Andrea Borruso è disponibile al link: \ |LINK19|\  
 
 |REPLACE1|
 
@@ -311,7 +309,7 @@ a cura di Ciro Spataro, che l'ha scoperto grazie a Maurizio Napolitano (NAPO) di
 
 Andare su \ |LINK23|\  e premere "Create Spreadsheet"
 
-\ |IMG7|\ 
+\ |IMG6|\ 
 
 (\ |STYLE8|\ )
 
@@ -323,7 +321,7 @@ Tutto qui, molto più semplice della procedura  da seguire per i fogli elettroni
 
 Un modo per proteggere i dati caricati nelle celle del foglio elettronico di EtherCalc è quello di mettere il lucchetto alle celle già compilate.
 
-\ |IMG8|\ 
+\ |IMG7|\ 
 
 EtherCalc è un foglio elettronico comunque aperto a tutti gli editor, non ci sono funzioni per mettere altri utenti solo come visualizzatori e non editor, diversamente da come avviene nei fogli elettronici di GoogleDrive. 
 
@@ -512,13 +510,9 @@ Questa è un'informazione importante da conoscere prima di utilizzare EtherCalc 
    :width: 728 px
 
 .. |IMG6| image:: static/tutorial-googledrive-to-umap_6.png
-   :height: 485 px
-   :width: 717 px
-
-.. |IMG7| image:: static/tutorial-googledrive-to-umap_7.png
    :height: 96 px
    :width: 356 px
 
-.. |IMG8| image:: static/tutorial-googledrive-to-umap_8.png
+.. |IMG7| image:: static/tutorial-googledrive-to-umap_7.png
    :height: 225 px
    :width: 652 px
