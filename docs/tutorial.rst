@@ -6,6 +6,11 @@
 Tutorial e manuali
 ******************
 
+.. _h610f1d13307a2f11a7a19146e57:
+
+Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\ 
+=============================================================================
+
 
 |REPLACE2|
 
@@ -19,18 +24,18 @@ Tutorial e manuali
 Tutorial GoogleDrive (spreadsheet) to Umap
 ==========================================
 
-\ |LINK1|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+\ |LINK2|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
 .. _h5231154d48564c132e542693d1d1d5f:
 
 Manuali 
 ========
 
-* \ |LINK2|\ 
+* \ |LINK3|\ 
 
-* \ |LINK3|\  in uso al Comune di Palermo
+* \ |LINK4|\  in uso al Comune di Palermo
 
-* \ |LINK4|\  del comune di Palermo
+* \ |LINK5|\  del comune di Palermo
 
 
 |REPLACE3|
@@ -73,17 +78,21 @@ Manuali
 
 .. |LINK1| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
+    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK4| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK5| raw:: html
 
     <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
