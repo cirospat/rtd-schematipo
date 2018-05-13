@@ -271,6 +271,8 @@ Come inserire uno sfondo tiles personalizzato sulle mappe di UMAP
 
 il video tutorial di Andrea Borruso è disponibile: \ |LINK19|\  
 
+|REPLACE1|
+
 --------
 
 .. _h19412b2c2c21137d41633d46453117b:
@@ -330,7 +332,7 @@ Questa è un'informazione importante da conoscere prima di utilizzare EtherCalc 
 --------
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
@@ -356,6 +358,9 @@ Questa è un'informazione importante da conoscere prima di utilizzare EtherCalc 
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
