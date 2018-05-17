@@ -1061,6 +1061,17 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 
 --------
 
+.. _h342c6d1f42345d20a2dd80563e49:
+
+2018 - Disposizioni agli uffici per la pubblicazione di atti amministrativi in formato accesibile
+=================================================================================================
+
+17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF derivante dalla scansione degli atti cartacei, il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i \ |LINK177|\ . 
+
+Nella \ |LINK178|\  si legge: “\ |STYLE20|\  .”
+
+--------
+
 
 .. bottom of content
 
@@ -1104,6 +1115,8 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 .. |STYLE18| replace:: **Esposizione dei metadati delle banche dati in formato aperto conformi al profilo (DCAT_AP_IT).**
 
 .. |STYLE19| replace:: **Docs Italia**
+
+.. |STYLE20| replace:: *Ciò significa che i moduli e formulari, ma anche gli atti e i provvedimenti amministrativi oggetto di pubblicità legale, devono essere fruibili anche da persone con disabilità. Non è ammessa, pertanto, la pubblicazione di documenti-immagine, vale a dire scansioni digitali di documenti cartacei senza che si sia provveduto ad opportuna digitalizzazione del testo ivi contenuto*
 
 
 .. |LINK1| raw:: html
@@ -1809,6 +1822,14 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 .. |LINK176| raw:: html
 
     <a href="https://www.agenda.udine.it/" target="_blank">Udine</a>
+
+.. |LINK177| raw:: html
+
+    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">requisiti tecnici di accessibilità riportati nell'allegato "A" del Decreto Ministeriale dell'8 luglio 2005</a>
+
+.. |LINK178| raw:: html
+
+    <a href="http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf" target="_blank">Circolare n. 61/2013 dell’AgID</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
