@@ -127,6 +127,13 @@ Censimento del Patrimonio ICT delle Pubbliche Amministrazioni
 
 --------
 
+.. _hc7a246a51497a4d513477a143de74:
+
+Guida al linguaggio della Pubblica Amministrazione
+**************************************************
+
+\ |LINK17|\  
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -199,4 +206,8 @@ Censimento del Patrimonio ICT delle Pubbliche Amministrazioni
 .. |LINK16| raw:: html
 
     <a href="https://censimentoict.italia.it" target="_blank">censimentoict.italia.it</a>
+
+.. |LINK17| raw:: html
+
+    <a href="http://guida-linguaggio-pubblica-amministrazione.readthedocs.io" target="_blank">http://guida-linguaggio-pubblica-amministrazione.readthedocs.io</a>
 
