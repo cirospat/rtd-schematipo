@@ -11,7 +11,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 .. admonition:: Reti di impegno
 
-    \ |LINK1|\ , \ |LINK2|\ , \ |LINK3|\ 
+    \ |LINK1|\ , \ |LINK2|\ , \ |LINK3|\  
 
 Gli \ |STYLE1|\  principali di questo spazio sono:
 
@@ -99,15 +99,15 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Forum sui servizi pubblici digitali “Developers Italia"</a>
+    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
+    <a href="https://forum.italia.it/" target="_blank">Forum sui servizi pubblici digitali “Developers Italia"</a>
 
 .. |LINK4| raw:: html
 
