@@ -303,7 +303,7 @@ codice da tenere sempre presente come riferimento x generare mappe su UMAP
 .. _h6b1a403e8e3d6f1c191076a3339d:
 
 Tutorial: creare mappe online con UMAP aggiornabili con file CSV da \ |LINK20|\ 
-********************************************************************************
+================================================================================
 
 a cura di Ciro Spataro, che l'ha scoperto grazie a Maurizio Napolitano (NAPO) di Trento. A questo \ |LINK21|\  è possibile leggere il suo validissimo tutorial (di NAPO) sulla possibilità di creare mappe con UMAP utilizzando fotografie attraverso EtherCalc.
 
