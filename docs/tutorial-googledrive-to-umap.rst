@@ -38,11 +38,11 @@ ottengo i "dati grezzi".
 
 Se imposto il formato di output li posso avere ad esempio in:
 
-\ |STYLE0|\ 
+csv =
 
 \ |LINK7|\ 
 
-\ |STYLE1|\ 
+html =
 
 \ |LINK8|\ 
 
@@ -86,9 +86,9 @@ Questi ultimi due URL però contengono (nella query) caratteri strani ed è megl
 
     SELECT%20B%2CC%2CD%2CE%2CG%2CI%2CJ%20WHERE%20I%20Contains%20%27.%27
 
-"\ |STYLE2|\ " è il modo corretto di scrivere uno spazio.
+"\ |STYLE0|\ " è il modo corretto di scrivere uno spazio.
 
-"\ |STYLE3|\ " è la virgola.
+"\ |STYLE1|\ " è la virgola.
 
 Altre info sui caratteri qui: \ |LINK9|\ 
 
@@ -165,7 +165,7 @@ E sotto le impostazioni da settare su UMAP alla voce "dati remoti":
 
 \ |IMG4|\ 
 
-\ |STYLE4|\ 
+\ |STYLE2|\ 
 
 Dataset 2016 Incidenti stradali Palermo, QUERY per mappe uMap: 
 
@@ -185,7 +185,7 @@ e quindi query =
 
     http://spreadsheets.google.com/tq?tqx=out:csv&tq=select%20A%2CB%2CC%2CD%2CE%2CF%2CG%2CH%2CI%2CJ%2CK%2CL%20where%20L%20%3E%20datetime%20%272015-06-19%2002%3A30%3A00%27&key=1rpOadyp3npcOfJfFJbGjFNnLpJHF8q5fnxde_kMneMs 
 
-\ |STYLE5|\  è:  
+\ |STYLE3|\  è:  
 
 .. code:: 
 
@@ -241,7 +241,7 @@ dove i puntini stanno per l'indirizzo specifico del video di youtube. Se siamo n
 .. _h7e3d78703d3145c24171c565ed157a:
 
 Mappathon del 25 giugno 2015 da PMO coworking via Principe di Belmonte
-----------------------------------------------------------------------
+======================================================================
 
 Mappa che contiene tutte le info e gli strumenti utilizzati per realizzare i lavori fatti in comune:
 
@@ -284,7 +284,7 @@ codice da tenere sempre presente come riferimento x generare mappe su UMAP
 
     https://spreadsheets.google.com/tq?tqx=out:csv&tq=SELECT………………………..WHERE%20_%20Contains%20%27.%27&key=(e poi indirizzo specifico del foglio csv di googledrive)
 
-\ |STYLE6|\ 
+url x UMAP mappa uffici comunali:
 
 .. code:: 
 
@@ -292,7 +292,7 @@ codice da tenere sempre presente come riferimento x generare mappe su UMAP
 
  
 
-\ |STYLE7|\ 
+url x UMAP mappa aziende partecipanti al bio cluster mediterraneo di expo2015:
 
 .. code:: 
 
@@ -311,7 +311,7 @@ Andare su \ |LINK22|\  e premere "Create Spreadsheet"
 
 \ |IMG6|\ 
 
-(\ |STYLE8|\ )
+(\ |STYLE4|\ )
 
 si aprirà un foglio elettronico nuovo  con un indirizzo come per es. \ |LINK23|\  sul quale potere inserire dati.
 
@@ -336,23 +336,15 @@ Questa è un'informazione importante da conoscere prima di utilizzare EtherCalc 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **csv**
+.. |STYLE0| replace:: **%20**
 
-.. |STYLE1| replace:: **html**
+.. |STYLE1| replace:: **%2C**
 
-.. |STYLE2| replace:: **%20**
+.. |STYLE2| replace:: **ricordarsi di settare formato "CSV", spuntare "richiesta proxy" e "dinamico"**
 
-.. |STYLE3| replace:: **%2C**
+.. |STYLE3| replace:: **La query per tutti gli incidenti tra le 00:00:00 e le 07:00:00**
 
-.. |STYLE4| replace:: **ricordarsi di settare formato "CSV", spuntare "richiesta proxy" e "dinamico"**
-
-.. |STYLE5| replace:: **La query per tutti gli incidenti tra le 00:00:00 e le 07:00:00**
-
-.. |STYLE6| replace:: **url x UMAP mappa uffici comunali:**
-
-.. |STYLE7| replace:: **url x UMAP mappa aziende partecipanti al bio cluster mediterraneo di expo2015:**
-
-.. |STYLE8| replace:: *nota: non c'è bisogno di creare account per generare un dataset su EtherCalc*
+.. |STYLE4| replace:: *nota: non c'è bisogno di creare account per generare un dataset su EtherCalc*
 
 
 .. |REPLACE1| raw:: html
