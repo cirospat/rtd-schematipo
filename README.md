@@ -7,7 +7,7 @@ profilo professionale di Ciro Spataro
 
 Dai Documenti Google Doc sul Drive, tramite il plugin [GGeditor](http://googledocs.readthedocs.io), direttamente alle pagine HTML su [Read the Docs](https://readthedocs.org/).
 
-Licenza CC BY 
+Licenza dei contenuti: CC BY 
 
 
 
