@@ -4,31 +4,62 @@
 catalogo Read the Docs a cura di Ciro Spataro
 #############################################
 
-\ |LINK1|\   
 
-\ |LINK2|\  (con Pablo Persico e Andrea Borruso)
++------------------------------------------------+
+|\ |LINK1|\                                      |
++------------------------------------------------+
+|\ |LINK2|\  (con Pablo Persico e Andrea Borruso)|
++------------------------------------------------+
+|\ |LINK3|\  (da un articolo di Altalex)         |
++------------------------------------------------+
+|\ |LINK4|\                                      |
++------------------------------------------------+
+|\ |LINK5|\                                      |
++------------------------------------------------+
+|\ |LINK6|\                                      |
++------------------------------------------------+
+|\ |LINK7|\                                      |
++------------------------------------------------+
+|\ |LINK8|\                                      |
++------------------------------------------------+
+|\ |LINK9|\                                      |
++------------------------------------------------+
+|\ |LINK10|\                                     |
++------------------------------------------------+
+|\ |LINK11|\                                     |
++------------------------------------------------+
+|\ |LINK12|\                                     |
++------------------------------------------------+
+|\ |LINK13|\                                     |
++------------------------------------------------+
+|                                                |
++------------------------------------------------+
 
-\ |LINK3|\  (da un articolo di Altalex)
+\ |LINK14|\   
 
-\ |LINK4|\ 
+\ |LINK15|\  (con Pablo Persico e Andrea Borruso)
 
-\ |LINK5|\ 
+\ |LINK16|\  (da un articolo di Altalex)
 
-\ |LINK6|\ 
+\ |LINK17|\ 
 
-\ |LINK7|\ 
+\ |LINK18|\ 
 
-\ |LINK8|\ 
+\ |LINK19|\ 
 
-\ |LINK9|\ 
+\ |LINK20|\ 
 
-\ |LINK10|\  
+\ |LINK21|\ 
 
-\ |LINK11|\   
+\ |LINK22|\ 
 
-\ |LINK12|\ 
+\ |LINK23|\  
 
-\ |LINK13|\ 
+\ |LINK24|\   
+
+\ |LINK25|\ 
+
+\ |LINK26|\ 
 
 
 .. bottom of content
@@ -83,6 +114,58 @@ catalogo Read the Docs a cura di Ciro Spataro
     <a href="http://casarsa-2017-2022.readthedocs.io" target="_blank">Programma di Casarsa della Delizia 2017-2022</a>
 
 .. |LINK13| raw:: html
+
+    <a href="https://libro-bianco-innovazione-2018-fpa.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
+
+.. |LINK14| raw:: html
+
+    <a href="http://googledocs.readthedocs.io" target="_blank">Tutorial, da Google Doc direttamente a Read the Docs con GGeditor</a>
+
+.. |LINK15| raw:: html
+
+    <a href="http://come-creare-guida.readthedocs.io" target="_blank">Come abbiamo creato un «Read the Docs» per pubblicare documenti pubblici su Docs Italia</a>
+
+.. |LINK16| raw:: html
+
+    <a href="http://gdpr.readthedocs.io" target="_blank">GDPR - General Data Protection Regulation - regolamento generale sulla protezione dei dati</a>
+
+.. |LINK17| raw:: html
+
+    <a href="http://ponmetropalermo-agendadigitale.readthedocs.io" target="_blank">PON Metro Palermo 2014-20 asse 1 agenda digitale</a>
+
+.. |LINK18| raw:: html
+
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Procedura per il caricamento dei dataset open data e metadati sul portale del comune di Palermo</a>
+
+.. |LINK19| raw:: html
+
+    <a href="http://dolomiti2018.readthedocs.io" target="_blank">Dolomiti appunti viaggio estate 2018</a>
+
+.. |LINK20| raw:: html
+
+    <a href="http://openagenda.readthedocs.io" target="_blank">OpenAgenda, manuale d'uso per l'applicativo degli eventi culturali</a>
+
+.. |LINK21| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io" target="_blank">Documenti di interesse pubblico (regolamenti, linee guida) approvati dal Comune di Palermo</a>
+
+.. |LINK22| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d’uso dell’applicativo ‘Libro Firma-Protocollo’ digitale in uso al Comune di Palermo</a>
+
+.. |LINK23| raw:: html
+
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella Pubblica Amministrazione</a>
+
+.. |LINK24| raw:: html
+
+    <a href="http://carta-servizi-civici-musei-comune-udine.readthedocs.io" target="_blank">Carta Servizi Civici dei Musei del Comune di Udine</a>
+
+.. |LINK25| raw:: html
+
+    <a href="http://casarsa-2017-2022.readthedocs.io" target="_blank">Programma di Casarsa della Delizia 2017-2022</a>
+
+.. |LINK26| raw:: html
 
     <a href="https://libro-bianco-innovazione-2018-fpa.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
 
