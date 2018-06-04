@@ -300,27 +300,22 @@ codice da tenere sempre presente come riferimento x generare mappe su UMAP
 
 --------
 
-.. _h2c1d74277104e41780968148427e:
+.. _h6b1a403e8e3d6f1c191076a3339d:
 
+Tutorial: creare mappe online con UMAP aggiornabili con file CSV da \ |LINK20|\ 
+********************************************************************************
 
+a cura di Ciro Spataro, che l'ha scoperto grazie a Maurizio Napolitano (NAPO) di Trento. A questo \ |LINK21|\  è possibile leggere il suo validissimo tutorial (di NAPO) sulla possibilità di creare mappe con UMAP utilizzando fotografie attraverso EtherCalc.
 
-
-.. _h59108023312347276643d5d482b4f2d:
-
-Tutorial: creare mappe online con \ |LINK20|\   aggiornabili con file CSV da \ |LINK21|\ 
-*****************************************************************************************
-
-a cura di Ciro Spataro, che l'ha scoperto grazie a Maurizio Napolitano (NAPO) di Trento. A questo \ |LINK22|\  è possibile leggere il suo validissimo tutorial (di NAPO) sulla possibilità di creare mappe con UMAP utilizzando fotografie attraverso EtherCalc.
-
-Andare su \ |LINK23|\  e premere "Create Spreadsheet"
+Andare su \ |LINK22|\  e premere "Create Spreadsheet"
 
 \ |IMG6|\ 
 
 (\ |STYLE8|\ )
 
-si aprirà un foglio elettronico nuovo  con un indirizzo come per es. \ |LINK24|\  sul quale potere inserire dati.
+si aprirà un foglio elettronico nuovo  con un indirizzo come per es. \ |LINK23|\  sul quale potere inserire dati.
 
-Alla fine dell'inserimento di dati, andare su UMAP a Layer e nella sezione DATI REMOTI - URL inserire l'url generato da EtherCalc, quindi nel caso di prima, \ |LINK25|\  seguito da .csv quindi \ |LINK26|\ . 
+Alla fine dell'inserimento di dati, andare su UMAP a Layer e nella sezione DATI REMOTI - URL inserire l'url generato da EtherCalc, quindi nel caso di prima, \ |LINK24|\  seguito da .csv quindi \ |LINK25|\ . 
 
 Tutto qui, molto più semplice della procedura  da seguire per i fogli elettronici di Google Drive. Ma non c'è un sistema di protezione dei dati che si caricano nel foglio elettronico online di EtherCalc.
 
@@ -467,29 +462,25 @@ Questa è un'informazione importante da conoscere prima di utilizzare EtherCalc 
 
 .. |LINK20| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/" target="_blank">UMAP</a>
+    <a href="https://ethercalc.org/" target="_blank">EtherCalc</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://ethercalc.org" target="_blank">EtherCalc</a>
+    <a href="http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/" target="_blank">link</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/" target="_blank">link</a>
+    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
+    <a href="https://ethercalc.org/78ljkaxjtw" target="_blank">https://ethercalc.org/78ljkaxjtw</a>
 
 .. |LINK24| raw:: html
 
     <a href="https://ethercalc.org/78ljkaxjtw" target="_blank">https://ethercalc.org/78ljkaxjtw</a>
 
 .. |LINK25| raw:: html
-
-    <a href="https://ethercalc.org/78ljkaxjtw" target="_blank">https://ethercalc.org/78ljkaxjtw</a>
-
-.. |LINK26| raw:: html
 
     <a href="https://ethercalc.org/78ljkaxjtw.csv" target="_blank">https://ethercalc.org/78ljkaxjtw.csv</a>
 
