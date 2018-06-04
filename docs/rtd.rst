@@ -22,7 +22,13 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 \ |LINK9|\ 
 
-\ |LINK10|\ 
+\ |LINK10|\  
+
+\ |LINK11|\   
+
+\ |LINK12|\ 
+
+\ |LINK13|\ 
 
 
 .. bottom of content
@@ -67,4 +73,16 @@ catalogo Read the Docs a cura di Ciro Spataro
 .. |LINK10| raw:: html
 
     <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella Pubblica Amministrazione</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://carta-servizi-civici-musei-comune-udine.readthedocs.io" target="_blank">Carta Servizi Civici dei Musei del Comune di Udine</a>
+
+.. |LINK12| raw:: html
+
+    <a href="http://casarsa-2017-2022.readthedocs.io" target="_blank">Programma di Casarsa della Delizia 2017-2022</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://libro-bianco-innovazione-2018-fpa.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
 
