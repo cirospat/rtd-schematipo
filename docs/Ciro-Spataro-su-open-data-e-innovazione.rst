@@ -1066,9 +1066,9 @@ Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LI
 2018 - Disposizioni agli uffici per la pubblicazione di atti amministrativi in formato accesibile
 =================================================================================================
 
-17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF derivante dalla scansione degli atti cartacei, il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i \ |LINK177|\ . 
+17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF \ |LINK177|\ , il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i \ |LINK178|\ . 
 
-Nella \ |LINK178|\  si legge: “\ |STYLE20|\  .”
+Nella \ |LINK179|\  si legge: “\ |STYLE20|\  .”
 
 --------
 
@@ -1825,9 +1825,13 @@ Nella \ |LINK178|\  si legge: “\ |STYLE20|\  .”
 
 .. |LINK177| raw:: html
 
-    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">requisiti tecnici di accessibilità riportati nell'allegato "A" del Decreto Ministeriale dell'8 luglio 2005</a>
+    <a href="https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/inviti-pa" target="_blank">derivante dalla scansione degli atti cartacei</a>
 
 .. |LINK178| raw:: html
+
+    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">requisiti tecnici di accessibilità riportati nell'allegato "A" del Decreto Ministeriale dell'8 luglio 2005</a>
+
+.. |LINK179| raw:: html
 
     <a href="http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf" target="_blank">Circolare n. 61/2013 dell’AgID</a>
 
