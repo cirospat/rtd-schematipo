@@ -32,7 +32,7 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------+
 |\ |LINK13|\                                     |
 +------------------------------------------------+
-|                                                |
+|\ |LINK14|\                                     |
 +------------------------------------------------+
 |                                                |
 +------------------------------------------------+
@@ -92,4 +92,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 .. |LINK13| raw:: html
 
     <a href="https://libro-bianco-innovazione-2018-fpa.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
+
+.. |LINK14| raw:: html
+
+    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report Palermo Smarter City Challenge 2017 by IBM</a>
 
