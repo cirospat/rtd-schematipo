@@ -143,6 +143,14 @@ Linee guida competenze digitali e Linee guida per l’armonizzazione delle quali
 
 \ |LINK18|\   
 
+* \ |LINK19|\ 
+
+* \ |LINK20|\ 
+
+* \ |LINK21|\ 
+
+--------
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -218,9 +226,21 @@ Linee guida competenze digitali e Linee guida per l’armonizzazione delle quali
 
 .. |LINK17| raw:: html
 
-    <a href="http://guida-linguaggio-pubblica-amministrazione.readthedocs.io" target="_blank">http://guida-linguaggio-pubblica-amministrazione.readthedocs.io</a>
+    <a href="http://guida-linguaggio-pubblica-amministrazione.readthedocs.io" target="_blank">guida-linguaggio-pubblica-amministrazione.readthedocs.io</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">http://lg-competenzedigitali.readthedocs.io</a>
+    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
+
+.. |LINK19| raw:: html
+
+    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_di_base/index.html" target="_blank">Competenze di base</a>
+
+.. |LINK20| raw:: html
+
+    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_e-leadership/index.html" target="_blank">Competenze di e-leadership</a>
+
+.. |LINK21| raw:: html
+
+    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html" target="_blank">Competenze specialistiche</a>
 
