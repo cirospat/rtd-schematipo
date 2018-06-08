@@ -134,6 +134,15 @@ Guida al linguaggio della Pubblica Amministrazione
 
 \ |LINK17|\  
 
+--------
+
+.. _h1d3e4b2231664c36e5b73c50113b6c:
+
+Linee guida competenze digitali e Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT 
+*****************************************************************************************************************************************************
+
+http://lg-competenzedigitali.readthedocs.io
+
 .. _h2c1d74277104e41780968148427e:
 
 
