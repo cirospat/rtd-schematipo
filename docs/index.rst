@@ -32,7 +32,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 
 .. toctree::  
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: Contenuti
 
     social-profile
