@@ -9,7 +9,7 @@ Fondamentali (external links)
 Core vocabulary degli eventi pubblici
 *************************************
 
-\ |LINK1|\  - un lavoro del gruppo italiano sulle ontologie della Pubblica Amministrazione
+\ |LINK1|\  - un lavoro del gruppo italiano sulle ``ontologie`` della Pubblica Amministrazione
 
 --------
 
