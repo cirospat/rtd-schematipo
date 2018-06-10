@@ -27,7 +27,7 @@ Open Agenda - Manuale d'uso dell'applicativo
 Developers Italia - i progetti su Github, the community of developers of Italian Public Services
 ************************************************************************************************
 
-\ |LINK3|\ 
+\ |LINK3|\  repository di codice per i servizi pubblici digitali (a cura del Team Trasformazione DIgitale)
 
 --------
 
@@ -36,7 +36,7 @@ Developers Italia - i progetti su Github, the community of developers of Italian
 Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 ***************************************************************************
 
-\ |LINK4|\ 
+\ |LINK4|\ , uno spazio pubblico per lo scambio di conoscenza e buone prassi tra i soggetti della PA, (creato dal Team Trasformazione DIgitale)
 
 --------
 
@@ -45,7 +45,7 @@ Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 DAF - Data Analytics Framework
 ******************************
 
-Pannello di visualizzazione dati della Pubblica Amministrazione - \ |LINK5|\ 
+Pannello di visualizzazione dei dati delle Pubbliche Amministrazioni italiane - \ |LINK5|\ 
 
 --------
 
@@ -63,7 +63,7 @@ Dati.gov.it - catalogo nazionale dei metadati relativi ai dati rilasciati in for
 CAD - Codice dell’Amministrazione Digitale
 ******************************************
 
-\ |LINK7|\ 
+\ |LINK7|\  include anche le versioni precedenti a cominciare dal 2005
 
 --------
 
@@ -147,7 +147,7 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 *************************************************************************
 
-\ |LINK21|\ 
+\ |LINK21|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
 
 .. _h2c1d74277104e41780968148427e:
 
