@@ -127,18 +127,29 @@ Guida al linguaggio della Pubblica Amministrazione
 
 --------
 
+.. _h5e325d1c457764d5d552b5d43642f1f:
+
+Linee guida di design per i servizi digitali della PA
+*****************************************************
+
+\ |LINK17|\ 
+
+ 
+
+--------
+
 .. _h51340204d40f21207d69516f225c48:
 
 Linee guida competenze digitali e per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT 
 *****************************************************************************************************************************************
 
-\ |LINK17|\   
-
-* \ |LINK18|\ 
+\ |LINK18|\   
 
 * \ |LINK19|\ 
 
 * \ |LINK20|\ 
+
+* \ |LINK21|\ 
 
 --------
 
@@ -147,7 +158,9 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 *************************************************************************
 
-\ |LINK21|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
+\ |LINK22|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
+
+--------
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -224,21 +237,25 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 
 .. |LINK17| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
+    <a href="http://design-italia.readthedocs.io" target="_blank">linee guida design servizi digitali PA</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_di_base/index.html" target="_blank">Competenze di base</a>
+    <a href="http://lg-competenzedigitali.readthedocs.io" target="_blank">lg-competenzedigitali.readthedocs.io</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_e-leadership/index.html" target="_blank">Competenze di e-leadership</a>
+    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_di_base/index.html" target="_blank">Competenze di base</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html" target="_blank">Competenze specialistiche</a>
+    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_e-leadership/index.html" target="_blank">Competenze di e-leadership</a>
 
 .. |LINK21| raw:: html
+
+    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html" target="_blank">Competenze specialistiche</a>
+
+.. |LINK22| raw:: html
 
     <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
 
