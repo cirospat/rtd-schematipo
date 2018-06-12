@@ -145,11 +145,13 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 
 \ |LINK18|\   
 
-* \ |LINK19|\ 
+\ |LINK19|\  
 
-* \ |LINK20|\ 
+* Competenze di base
 
-* \ |LINK21|\ 
+* Competenze di e-leadership
+
+* Competenze specialistiche
 
 --------
 
@@ -158,7 +160,7 @@ Linee guida competenze digitali e per l’armonizzazione delle qualificazioni pr
 Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 *************************************************************************
 
-\ |LINK22|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
+\ |LINK20|\  a cura di IBM Foundation, per la città di Palermo. Interessante per le raccomandazioni sul digitale
 
 --------
 
@@ -245,17 +247,9 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 
 .. |LINK19| raw:: html
 
-    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_di_base/index.html" target="_blank">Competenze di base</a>
+    <a href="http://competenze-digitali-docs.readthedocs.io" target="_blank">competenze-digitali-docs.readthedocs.io</a>
 
 .. |LINK20| raw:: html
-
-    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_e-leadership/index.html" target="_blank">Competenze di e-leadership</a>
-
-.. |LINK21| raw:: html
-
-    <a href="http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html" target="_blank">Competenze specialistiche</a>
-
-.. |LINK22| raw:: html
 
     <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
 
