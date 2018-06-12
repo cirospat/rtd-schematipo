@@ -19,23 +19,35 @@ Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\
 
 
 
-.. _h242063432c2d23134650773949664338:
+.. _h3d2c74af713b617650305f436a148:
 
-Tutorial GoogleDrive (spreadsheet) to Umap
-==========================================
+Tutorial, pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
+==========================================================================================================
 
-\ |LINK2|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+\ |LINK2|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h2d445454471810122377186e3d33039:
+
+Tutorial, GoogleDrive (spreadsheet) to uMap
+===========================================
+
+\ |LINK3|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
 .. _h5231154d48564c132e542693d1d1d5f:
 
 Manuali 
 ========
 
-* \ |LINK3|\ 
+* \ |LINK4|\ 
 
-* \ |LINK4|\  in uso al Comune di Palermo
+* \ |LINK5|\  in uso al Comune di Palermo
 
-* \ |LINK5|\  del comune di Palermo
+* \ |LINK6|\  del comune di Palermo
 
 
 |REPLACE3|
@@ -82,17 +94,21 @@ Manuali
 
 .. |LINK2| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
+    <a href="http://googledocs.readthedocs.io" target="_blank">un componente aggiuntivo (GGeditor)</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK5| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK6| raw:: html
 
     <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
