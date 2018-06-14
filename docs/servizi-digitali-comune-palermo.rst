@@ -25,13 +25,25 @@ Agenda Digitale Palermo
 
 |
 
+.. _h3c4711514587c74144412617e4153:
+
+Uffici comunali connelli all'Anello Telematico
+==============================================
+
+(banda ultra larga comunale)
+
+
+|REPLACE3|
+
+|
+
 .. _h338a4a7b16150384c2e2855d3a60:
 
 Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palermo
 =================================================================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -41,7 +53,7 @@ Wifi comunale di Palermo
 ========================
 
 
-|REPLACE4|
+|REPLACE5|
 
 
 .. bottom of content
@@ -55,8 +67,11 @@ Wifi comunale di Palermo
     <iframe width="100%" height="2100px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="2560px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
+    <iframe width="100%" height="2100px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
 .. |REPLACE4| raw:: html
+
+    <iframe width="100%" height="2560px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
+.. |REPLACE5| raw:: html
 
     <iframe width="100%" height="740px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
 
