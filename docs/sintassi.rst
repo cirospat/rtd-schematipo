@@ -4,7 +4,16 @@
 Sintassi RST
 ************
 
-(gruppo di lavoro Team Trasformazione Digitale su Slack, Docs-Italia)
+
+..  Important:: 
+
+    \ |STYLE0|\ 
+    
+    \ |LINK1|\  
+
+|
+
+(Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-Italia)
 
 
 |REPLACE1|
@@ -13,6 +22,14 @@ Sintassi RST
 .. bottom of content
 
 
+.. |STYLE0| replace:: **reStructuredText Markup Specification**
+
+
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="8200px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSGrsZNTPtU47vYJ7yNO2FsGY24LHH6M1rYz5l2FcuhYeB1pDiWP9zDnzDCoRyesqAS_ri9DJFlvRV5/pub"></iframe>
+
+.. |LINK1| raw:: html
+
+    <a href="http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html" target="_blank">http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html</a>
+
