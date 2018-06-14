@@ -47,10 +47,10 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 
 |
 
-.. _h2b22c571238174fc252f5531517280:
+.. _h7f2c3ad4d106a7f2e2c4d502c1ce16:
 
-Wifi comunale di Palermo
-========================
+Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
+==============================================================
 
 
 |REPLACE5|
