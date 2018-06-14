@@ -6,7 +6,7 @@ developer
 
 
 .. toctree::  
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: developer
 
     developer
