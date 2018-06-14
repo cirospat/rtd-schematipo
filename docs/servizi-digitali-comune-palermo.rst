@@ -4,10 +4,10 @@
 Catalogo dei servizi online del Comune di Palermo
 #################################################
 
-.. _h28612c50212349739c15624d58701b:
+.. _h5f59463d5a5b7f50b2b6e5b572c6753:
 
-Servizi digitali online del Comune di Palermo, delle Società partecipate e di Aziende private (con dati comunali)
-=================================================================================================================
+Servizi digitali online del Comune di Palermo, delle Società partecipate e di Aziende private (sulla città)
+===========================================================================================================
 
 
 |REPLACE1|
