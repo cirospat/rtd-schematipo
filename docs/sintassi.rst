@@ -9,7 +9,19 @@ Sintassi RST
 
     \ |STYLE0|\ 
     
-    \ |LINK1|\  
+    * \ |LINK1|\   
+    
+    * \ |LINK2|\  guida alla sintassi del linguaggio RST, al momento non online e ripresa \ |LINK3|\ , utile per capire nel dettaglio come funziona la sintassi del linguaggio; 
+    
+    * \ |LINK4|\  tool per convertire il linguaggio Markdown nel linguaggio RST; 
+    
+    * \ |LINK5|\  editor di tabelle per più linguaggi di programmazione, per esempio con Markdown; 
+    
+    * \ |LINK6|\  editor di testo per linguaggio RST; 
+    
+    * \ |LINK7|\  MarkdownTableMaker,  estensione Markdown per tabelle su Google spreadsheet, converte tabelle in linguaggio Markdown; 
+    
+    * \ |LINK8|\  editor utile per facilitare la scrittura in codice; 
 
 |
 
@@ -25,7 +37,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 .. bottom of content
 
 
-.. |STYLE0| replace:: **reStructuredText Markup Specification**
+.. |STYLE0| replace:: **reStructuredText  Markup Specification, editor e convertitori**
 
 
 .. |REPLACE1| raw:: html
@@ -34,5 +46,33 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |LINK1| raw:: html
 
-    <a href="http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html" target="_blank">http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html</a>
+    <a href="http://docutils.sourceforge.net/docs/user/rst/quickref.html" target="_blank">http://docutils.sourceforge.net/docs/user/rst/quickref.html</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://docutils.sourceforge.net/docs/user/rst/quickref.html" target="_blank">http://docutils.sourceforge.net/docs/user/rst/quickref.html</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://cirospat.github.io/la-samba-digitale-della-pa/rst" target="_blank">qui</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://pandoc.org/try" target="_blank">http://pandoc.org/try</a>
+
+.. |LINK5| raw:: html
+
+    <a href="http://truben.no/table/" target="_blank">http://truben.no/table/</a>
+
+.. |LINK6| raw:: html
+
+    <a href="http://rst.ninjs.org/" target="_blank">http://rst.ninjs.org/</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold" target="_blank">https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://docutils.sourceforge.net/docs/user/links.html#editors" target="_blank">http://docutils.sourceforge.net/docs/user/links.html#editors</a>
 
