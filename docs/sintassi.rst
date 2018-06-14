@@ -19,7 +19,7 @@ Sintassi RST
     
     * \ |LINK6|\  editor di testo per linguaggio RST; 
     
-    * \ |LINK7|\  MarkdownTableMaker,  estensione Markdown per tabelle su Google spreadsheet, converte tabelle in linguaggio Markdown; 
+    * \ |LINK7|\ , estensione Markdown per tabelle su Google spreadsheet, converte tabelle in linguaggio Markdown; 
     
     * \ |LINK8|\  editor utile per facilitare la scrittura in codice; 
 
@@ -70,7 +70,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |LINK7| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold" target="_blank">https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold</a>
+    <a href="https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold" target="_blank">MarkdownTableMaker</a>
 
 .. |LINK8| raw:: html
 
