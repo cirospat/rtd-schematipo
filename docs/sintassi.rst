@@ -13,7 +13,10 @@ Sintassi RST
 
 |
 
-(Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-Italia)
+.. _h29571f416a4151c30e381c447d2222:
+
+Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-Italia
+=====================================================================================
 
 
 |REPLACE1|
