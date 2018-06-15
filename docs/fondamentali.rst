@@ -4,6 +4,13 @@
 Fondamentali (external links)
 #############################
 
+
+.. toctree::  
+    :maxdepth: 3
+    :caption: index-fondamentali
+
+    fondamentali
+
 .. _h7f37505a6b283765633f1437b4b615d:
 
 Core vocabulary degli eventi pubblici
