@@ -11,46 +11,41 @@ Tutorial e manuali
 Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\ 
 =============================================================================
 
+* \ |LINK2|\ 
 
-|REPLACE2|
+|
 
-.. _h2c1d74277104e41780968148427e:
+.. _h29261b7f1c264404b19385c75c4a3f:
 
-
-
-
-.. _h3d2c74af713b617650305f436a148:
-
-Tutorial, pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
+Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
 ==========================================================================================================
 
-\ |LINK2|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
+* \ |LINK3|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
-.. _h2c1d74277104e41780968148427e:
+|
 
+.. _h484f4548251a737775d2c7014541949:
 
+Tutorial: GoogleDrive spreadsheet to uMap
+=========================================
 
+* \ |LINK4|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
-.. _h2d445454471810122377186e3d33039:
-
-Tutorial, GoogleDrive (spreadsheet) to uMap
-===========================================
-
-\ |LINK3|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+|
 
 .. _h5231154d48564c132e542693d1d1d5f:
 
 Manuali 
 ========
 
-* \ |LINK4|\ 
+* \ |LINK5|\ 
 
-* \ |LINK5|\  in uso al Comune di Palermo
+* \ |LINK6|\  in uso al Comune di Palermo
 
-* \ |LINK6|\  del comune di Palermo
+* \ |LINK7|\  del comune di Palermo
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -60,9 +55,6 @@ Manuali
 
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
-
-    <iframe width="100%" height="2000px" frameBorder="0" src="http://bit.do/tutorialcirospat?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://bit.do/tutorialcirospat">Visualizza a schermo intero</a></p>
-.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -94,21 +86,25 @@ Manuali
 
 .. |LINK2| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank">un componente aggiuntivo (GGeditor)</a>
+    <a href="http://accussi.opendatasicilia.it/" target="_blank">Catalogo Tutorial</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
+    <a href="http://googledocs.readthedocs.io" target="_blank">un componente aggiuntivo (GGeditor)</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente da Google Drive</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK6| raw:: html
+
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK7| raw:: html
 
     <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
