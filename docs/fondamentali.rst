@@ -181,6 +181,30 @@ Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
 
 --------
 
+.. _h5c722c755aa6253a6b54014631410:
+
+Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informatica nella PA”
+*****************************************************************************************
+
+\ |LINK22|\  Palermo 12 giugno 2018 e slide interventi nelle città Bari, Milano, Napoli, Torino, Firenze, Cagliari
+
+
++--------------+
+|* \ |LINK23|\ |
++--------------+
+|* \ |LINK24|\ |
++--------------+
+|* \ |LINK25|\ |
++--------------+
+|* \ |LINK26|\ |
++--------------+
+|* \ |LINK27|\ |
++--------------+
+|* \ |LINK28|\ |
++--------------+
+
+--------
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -282,4 +306,32 @@ Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
 .. |LINK21| raw:: html
 
     <a href="https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io" target="_blank">linee guida</a>
+
+.. |LINK22| raw:: html
+
+    <a href="http://www.consip.it/media/approfondimenti/roadshow-le-iniziative-consip-a-supporto-del-piano-triennale-per-linformatica-nella-pa-i-prossimi-appuntamenti-e-il-calendario-completo" target="_blank">slide interventi</a>
+
+.. |LINK23| raw:: html
+
+    <a href="http://www.consip.it/sites/consip.it/files/Il%20piano%20triennale%20ICT%20della%20PA%20e%20il%20ruolo%20di%20Consip%20-%20Ing.%20Renato%20Di%20Donna%20%28Consip%29_3.pdf" target="_blank">Il piano triennale ICT della PA e il ruolo di Consip</a>
+
+.. |LINK24| raw:: html
+
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%201%20%28cloud%20computing%29%20-%20Dott.%20Massimiliano%20Pucciarelli%20%28AgID%29_3.pdf" target="_blank">SPC “Cloud” lotto 1 (cloud computing)</a>
+
+.. |LINK25| raw:: html
+
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%202%20%28servizi%20di%20sicurezza%29%20-%20Ing.%20Roberto%20Bettacchi%20%28Consip%29_2.pdf" target="_blank">SPC “Cloud” lotto 2 (servizi di sicurezza)</a>
+
+.. |LINK26| raw:: html
+
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%203%20%28interoperabilit%C3%A0%2C%20Open%20e%20Big%20Data%29%20-%20Dott.%20Ing.%20Roberto%20Bettacchi%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 3 (interoperabilità, Open e Big Data)</a>
+
+.. |LINK27| raw:: html
+
+    <a href="http://www.consip.it/sites/consip.it/files/SPC%20%E2%80%9CCloud%E2%80%9D%20lotto%204%20%28applicazioni%20Web%29%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29.pdf" target="_blank">SPC “Cloud” lotto 4 (applicazioni Web)</a>
+
+.. |LINK28| raw:: html
+
+    <a href="http://www.consip.it/sites/consip.it/files/SGI%20%E2%80%9CSistemi%20Gestionali%20Integrati%E2%80%9D%20-%20Dott.%20Gabriele%20Mezzacapo%20%28Consip%29_2.pdf" target="_blank">SGI “Sistemi Gestionali Integrati”</a>
 
