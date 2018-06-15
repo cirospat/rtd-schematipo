@@ -2364,6 +2364,25 @@ Il dataset pubblicato è disponibile al link \ |LINK158|\ .
 
 --------
 
+65-
+
+.. _h41794365525891b6525423d37307a40:
+
+Area della Cultura / Spazio museale Galleria Arte Moderna
+=========================================================
+
+Referente Giulia Rizzo e colleghe
+
+15 giugno 2018
+
+Una riunione nella quale sono state approfondite le modalità per pubblicare un atto in ALbo Pretorio (es. Determinazioni Dirigenziali) in formato PDF accessibile.
+
+Sono state seguite passo passo le modalità operative per salvare un file formato Word in formato PDF accessibile.
+
+E' stata, altresì, approfondita la questione della firma digitale che il Dirigente può apporre nel formato PDF accessibile da pubblicare in Albo Pretorio, secondo le disposizioni del CAD.
+
+--------
+
 
 .. bottom of content
 
