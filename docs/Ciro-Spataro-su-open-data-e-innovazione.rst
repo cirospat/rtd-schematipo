@@ -1,3 +1,4 @@
+.. _bookmark-id-ywhoocrw4qt7:
 
 .. _h6350564f3356542ba314a27475d7c32:
 
@@ -72,6 +73,8 @@ Contributi per la costruzione delle "Linee Guida nazionali per la  valorizzazion
 
 --------
 
+\ |LINK6|\ 
+
 .. _h56757d131c246d3a3111594f2211d49:
 
 2013- opendataday 2013
@@ -79,9 +82,9 @@ Contributi per la costruzione delle "Linee Guida nazionali per la  valorizzazion
 
 Organizzazione dei lavori - in collaborazione con il webmaster G. Meli e il consulente per l'ICT J. Marsh - finalizzati alla partecipazione del Comune di Palermo all'International Open Data Day del 23 febbraio 2013 
 
-\ |LINK6|\ 
+\ |LINK7|\ 
 
-\ |LINK7|\  In occasione dell'International Open Data Day il webmaster del comune di Palermo ha attivato la sezione open data nel portale web istituzionale con i set di dati pervenuti da vari settori comunali
+\ |LINK8|\  In occasione dell'International Open Data Day il webmaster del comune di Palermo ha attivato la sezione open data nel portale web istituzionale con i set di dati pervenuti da vari settori comunali
 
 --------
 
@@ -92,9 +95,9 @@ Organizzazione dei lavori - in collaborazione con il webmaster G. Meli e il cons
 
 Partecipazione attiva per la redazione partecipata delle "Linee Guida del Comune di Palermo per la gestione degli open data" 
 
-\ |LINK8|\  le linee guida comunali per la gestione degli open data sono state presentate formalmente dal gruppo di lavoro opendata Palermo al Comune che le ha approvate con \ |LINK9|\  + \ |LINK10|\ 
+\ |LINK9|\  le linee guida comunali per la gestione degli open data sono state presentate formalmente dal gruppo di lavoro opendata Palermo al Comune che le ha approvate con \ |LINK10|\  + \ |LINK11|\ 
 
-(articolo \ |LINK11|\ )
+(articolo \ |LINK12|\ )
 
 --------
 
@@ -105,18 +108,20 @@ Partecipazione attiva per la redazione partecipata delle "Linee Guida del Comune
 
 Contributi per la definizione di metodi e strumenti di pianificazione e governance delle Smart Cities  
 
-\ |LINK12|\  
+\ |LINK13|\  
 
-\ |LINK13|\  VADEMECUM PER LA CITTA' INTELLIGENTE (OSSERVATORIO DELL'ANCI). Contributo personale riportato, come abstract, a pag.211 del vademecum 
+\ |LINK14|\  VADEMECUM PER LA CITTA' INTELLIGENTE (OSSERVATORIO DELL'ANCI). Contributo personale riportato, come abstract, a pag.211 del vademecum 
 
 --------
+
+\ |LINK15|\ 
 
 .. _h331d4d49297c2f1c4a62f4ffa4f3c:
 
 2013- rilevazione fabbisogni innovazione
 ========================================
 
-Redazione della manifestazione di interesse del Comune di Palermo (e invio telematico) nell'ambito del \ |LINK14|\  PER LA "RILEVAZIONE DEI FABBISOGNI DI INNOVAZIONE ALL'INTERNO DEL SETTORE PUBBLICO DELLE REGIONI CONVERGENZA".
+Redazione della manifestazione di interesse del Comune di Palermo (e invio telematico) nell'ambito del \ |LINK16|\  PER LA "RILEVAZIONE DEI FABBISOGNI DI INNOVAZIONE ALL'INTERNO DEL SETTORE PUBBLICO DELLE REGIONI CONVERGENZA".
 
 Oggetto della manifestazione di interesse del Comune di Palermo: "Piattaforma online per l'ottimizzazione della gestione dei flussi di lavoro interni (innovazione di processo) e per il miglioramento dei servizi all'utenza, quali presupposti per l'attuazione concreta dell'Agenda Digitale del Comune di Palermo."
 
@@ -129,15 +134,13 @@ In attesa della valutazione del MISE.
 2013- focus regionale su innovazione sociale (smart specialization strategy)
 ============================================================================
 
-Partecipazione al focus tematico sull'"innovazione sociale" della Regione Sicilia \ |LINK15|\  avviato per la costruzione della strategia regionale dell'innovazione necessaria per l'attuazione del PO FESR 2014-2020.
+Partecipazione al focus tematico sull'"innovazione sociale" della Regione Sicilia \ |LINK17|\  avviato per la costruzione della strategia regionale dell'innovazione necessaria per l'attuazione del PO FESR 2014-2020.
 
-\ |LINK16|\  con il contributo sull'attività del Comune di Palermo avviata sugli open data, quale fattore utile a generare processi locali di innovazione sociale economica e ambientale.
+\ |LINK18|\  con il contributo sull'attività del Comune di Palermo avviata sugli open data, quale fattore utile a generare processi locali di innovazione sociale economica e ambientale.
 
 --------
 
-.. _h2c1d74277104e41780968148427e:
-
-
+\ |LINK19|\ 
 
 
 .. _h32182a493252554f293541d7b41445e:
@@ -152,9 +155,9 @@ Partecipazione al focus tematico sull'"innovazione sociale" della Regione Sicili
 
 Partecipazione alla redazione online del Programma nazionale per la cultura, la formazione e le competenze digitali (AGID)
 
-(utenti più attivi = \ |LINK17|\ )
+(utenti più attivi = \ |LINK20|\ )
 
-Partecipazione allo strumento online IDEARIO per la raccolta di idee per la cultura digitale, in attuazione del Programma nazionale per la cultura, la formazione e le competenze digitali (AGID) \ |LINK18|\  
+Partecipazione allo strumento online IDEARIO per la raccolta di idee per la cultura digitale, in attuazione del Programma nazionale per la cultura, la formazione e le competenze digitali (AGID) \ |LINK21|\  
 
 .. _h20d70186274b59412b137422437757:
 
@@ -163,13 +166,15 @@ Partecipazione allo strumento online IDEARIO per la raccolta di idee per la cult
 
 Attività di assistenza costante al Responsabile Open Data del Comune di Palermo per l'attuazione delle linee guida comunali open data, in particolare con le prime attività del 2014 di:
 
-* creazione del database dei referenti tecnici e tematici open data del Comune, come nominati dai dirigenti (su invito del Responsabile open data)  -> \ |LINK19|\  (documento in visione per gli account @comune.palermo.it)
+* creazione del database dei referenti tecnici e tematici open data del Comune, come nominati dai dirigenti (su invito del Responsabile open data)  -> \ |LINK22|\  (documento in visione per gli account @comune.palermo.it)
 
 * predisposizione del materiale didattico online per la formazione dei referenti open data comunali
 
 * supporto tecnico ai referenti open data per l'attività di censimento delle banche dati da pubblicare sul portale open data 
 
 --------
+
+\ |LINK23|\ 
 
 .. _h131e62703763524a3a141e506d267214:
 
@@ -178,7 +183,7 @@ Attività di assistenza costante al Responsabile Open Data del Comune di Palermo
 
 Partecipazione alla redazione online delle Linee Guida per la Valorizzazione del Patrimonio informativo pubblico, open data, versione 2014 (AGID)
 
-\ |LINK20|\  
+\ |LINK24|\  
 
 --------
 
@@ -189,15 +194,17 @@ Partecipazione alla redazione online delle Linee Guida per la Valorizzazione del
 
 Partecipazione all'iniziativa #OPENFESR della Regione Sicilia, propedeutica alla condivisione del Programma Operativo FESR Sicilia 2014-2020 
 
-\ |LINK21|\  
+\ |LINK25|\  
 
-\ |LINK22|\   - \ |LINK23|\  (Pag. 22)
+\ |LINK26|\   - \ |LINK27|\  (Pag. 22)
 
-Contributi all'Obiettivo tematico 2  del PO FESR Sicilia 2014-2020 (Agenda Digitale): \ |LINK24|\  
+Contributi all'Obiettivo tematico 2  del PO FESR Sicilia 2014-2020 (Agenda Digitale): \ |LINK28|\  
 
-Contributi all'Obiettivo tematico 11 del PO FESR Sicilia 2014-2020  (Rafforzare la capacità istituzionale delle autorità pubbliche e delle parti interessate e un’amministrazione pubblica efficiente): \ |LINK25|\  
+Contributi all'Obiettivo tematico 11 del PO FESR Sicilia 2014-2020  (Rafforzare la capacità istituzionale delle autorità pubbliche e delle parti interessate e un’amministrazione pubblica efficiente): \ |LINK29|\  
 
 --------
+
+\ |LINK30|\ 
 
 .. _h6d125b354837267b111719736262b71:
 
@@ -206,7 +213,7 @@ Contributi all'Obiettivo tematico 11 del PO FESR Sicilia 2014-2020  (Rafforzare 
 
 Partecipazione alla generazione di contributi per la costruzione della Strategia regionale dell'Innovazione della Sicilia (Smart Specialisation Strategy - RIS3) propedeutica all'attuazione del PO FESR Sicilia 2014-2020
 
-\ |LINK26|\  
+\ |LINK31|\  
 
 .. _h31c793c422117a43b3f6f762c524:
 
@@ -215,7 +222,7 @@ Partecipazione alla generazione di contributi per la costruzione della Strategia
 
 Analisi dei profili ICT del framework europeo al fine di mappare le e-competenze del Comune di Palermo anche attraverso le figure professionali presenti presso l'Azienda partecipata Sispi SPA
 
-\ |LINK27|\  
+\ |LINK32|\  
 
 --------
 
@@ -226,11 +233,13 @@ Analisi dei profili ICT del framework europeo al fine di mappare le e-competenze
 
 Diffusione, di concerto con il Responsabile open data, via email al personale dirigente e dipendente del Comune del \ |STYLE2|\  organizzato dal Formez PA nell’ambito delle attività formative legate al "Programma nazionale per la cultura, la formazione e le competenze digitali"
 
-\ |LINK28|\  - \ |LINK29|\  - \ |LINK30|\  
+\ |LINK33|\  - \ |LINK34|\  - \ |LINK35|\  
 
-\ |LINK31|\  
+\ |LINK36|\  
 
 --------
+
+\ |LINK37|\ 
 
 .. _h2d23806a1d782a62e511d5245d2e:
 
@@ -239,13 +248,13 @@ Diffusione, di concerto con il Responsabile open data, via email al personale di
 
 Cogestione del workshop pubblico open data nel contesto della 1° giornata della Trasparenza e Partecipazione del Comune di Palermo dell'8 luglio 2014
 
-\ |LINK32|\  
+\ |LINK38|\  
 
 Due report sono disponibili sul workshop open data: 
 
-* \ |LINK33|\  a cura di Andrea Borruso
+* \ |LINK39|\  a cura di Andrea Borruso
 
-* \ |LINK34|\  a cura di Ciro Spataro
+* \ |LINK40|\  a cura di Ciro Spataro
 
 --------
 
@@ -258,37 +267,39 @@ Adesione alla piattaforma digitale dell'applicazione per dispositivi mobili IO R
 
 L'app (per sistemi Andorid e Ios) è disponibile gratuitamente per i cittadini e le aziende di Palermo per la visualizzazione dei calendari della raccolta differenziata, per la descrizione e ubicazione georeferenziata dei centri di raccolta dei rifiuti elettronici ed ingombranti e per i messaggi diretti che la società RAP intende inviare per particolari esigenze. Il servizio informativo dell'app è a costo zero per l'Amministrazione Comunale
 
-download dell'app \ |LINK35|\  
+download dell'app \ |LINK41|\  
 
-comunicato stampa istituzionale di lancio dell'app \ |LINK36|\  
+comunicato stampa istituzionale di lancio dell'app \ |LINK42|\  
 
 .. _h5638763e2f183614e364f3e1d721b2f:
 
 2014- appfordummies
 ===================
 
-Cogestione del workshop pubblico “APP4DUMMIES” del 23 luglio 2014 alla Fonderia Oretea, nell’ambito delle attività di dissemination del progetto UE “Citadel on the Move”  \ |LINK37|\ . Il workshop focalizza l’attenzione sull’utilità degli “Open data” e fa da laboratorio per sperimentare co-creazione e partecipazione ad esperienze pratiche sull’argomento. Nel format del workshop “Apps4Dummies”, si assistono i partecipanti (referenti interni open data) a creare la prima app in tempo reale utilizzando file excel e visualizzando dati nel territorio.
+Cogestione del workshop pubblico “APP4DUMMIES” del 23 luglio 2014 alla Fonderia Oretea, nell’ambito delle attività di dissemination del progetto UE “Citadel on the Move”  \ |LINK43|\ . Il workshop focalizza l’attenzione sull’utilità degli “Open data” e fa da laboratorio per sperimentare co-creazione e partecipazione ad esperienze pratiche sull’argomento. Nel format del workshop “Apps4Dummies”, si assistono i partecipanti (referenti interni open data) a creare la prima app in tempo reale utilizzando file excel e visualizzando dati nel territorio.
 
 locandina e registrazione
 
-\ |LINK38|\ 
+\ |LINK44|\ 
 
-report su innovatoripa.it: \ |LINK39|\  
+report su innovatoripa.it: \ |LINK45|\  
 
 report su opendatasicilia.it:
 
-\ |LINK40|\  
+\ |LINK46|\  
+
+\ |LINK47|\ 
 
 .. _h55272739135f216de595b1e116e5514:
 
 2014- formazione Formez su open data a referenti comunali Palermo
 =================================================================
 
-Condivisione (effettuata via email) del percorso formativo online del FORMEZ \ |LINK41|\  sugli open data, destinato a dipendenti pubblici delle 4 regioni meridionali obiettivo convergenza. 
+Condivisione (effettuata via email) del percorso formativo online del FORMEZ \ |LINK48|\  sugli open data, destinato a dipendenti pubblici delle 4 regioni meridionali obiettivo convergenza. 
 
 Oltre 40 dipendenti comunali (referenti tecnici e tematici) hanno partecipato al percorso online e 70 dipendenti hanno partecipato alla giornata formativa del 2 dicembre 2014 alla Fonderia Oretea.
 
-Condivisione (effettuata via email) con i referenti open data di \ |LINK42|\ . 
+Condivisione (effettuata via email) con i referenti open data di \ |LINK49|\ . 
 
 --------
 
@@ -297,11 +308,13 @@ Condivisione (effettuata via email) con i referenti open data di \ |LINK42|\ .
 2014- partecipazione a bando MeetYoungCities
 ============================================
 
-Partecipazione, insieme alla dott.ssa Angela Errore dell'Area Cittadinanza Sociale, al bando “\ |LINK43|\ : Social innovation e partecipazione per i giovani dei Comuni italiani". Un iniziativa nata da una collaborazione tra ANCI, IFEL e ANG-Agenzia Nazionale Giovani. 
+Partecipazione, insieme alla dott.ssa Angela Errore dell'Area Cittadinanza Sociale, al bando “\ |LINK50|\ : Social innovation e partecipazione per i giovani dei Comuni italiani". Un iniziativa nata da una collaborazione tra ANCI, IFEL e ANG-Agenzia Nazionale Giovani. 
 
-Il Comune partecipa nel Novembre 2014 (con la \ |LINK44|\ ) al bando con l'iniziativa "spazi creativi di lavoro".
+Il Comune partecipa nel Novembre 2014 (con la \ |LINK51|\ ) al bando con l'iniziativa "spazi creativi di lavoro".
 
 --------
+
+\ |LINK52|\ 
 
 .. _h652e16342587959173c3581c45d45:
 
@@ -313,7 +326,7 @@ Il Comune partecipa nel Novembre 2014 (con la \ |LINK44|\ ) al bando con l'inizi
 2015- riunioni periodiche con i referenti open data per la pubblicazione dataset
 ================================================================================
 
-Riunioni  settimanali (obiettivi UO Innovazione) con i referenti open data dei vari uffici comunali al fine di: 1) rendere omogenea la conoscenza sugli open data (funzioni, vantaggi, pubblicazione), e utilizzare facilmente un linguaggio tecnico comune, e 2) identificare congiuntamente i dataset in formato aperto già disponibili nei vari uffici, da sottoporre a valutazione del titolare della banca dati (dirigente di Servizio o Capo Area) per la pubblicazione sul \ |LINK45|\ . 
+Riunioni  settimanali (obiettivi UO Innovazione) con i referenti open data dei vari uffici comunali al fine di: 1) rendere omogenea la conoscenza sugli open data (funzioni, vantaggi, pubblicazione), e utilizzare facilmente un linguaggio tecnico comune, e 2) identificare congiuntamente i dataset in formato aperto già disponibili nei vari uffici, da sottoporre a valutazione del titolare della banca dati (dirigente di Servizio o Capo Area) per la pubblicazione sul \ |LINK53|\ . 
 
 --------
 
@@ -322,7 +335,7 @@ Riunioni  settimanali (obiettivi UO Innovazione) con i referenti open data dei v
 2015- riunione Team open data Palermo
 =====================================
 
-Il 16 febbraio 2015 è stata organizzata la prima riunione del Team Open Data come previsto dalle \ |LINK46|\ . Partecipanti: Segretario Generale, Responsabile Trasparenza, Responsabile Open Data, Capi Area, Webmaster, Esperto Gis.  Il Segretario Generale ha sottolineato l'esigenza di effettuare degli incontri tra lo staff del responsabile Open Data (Dott.ssa Rimedio, Geom. Spataro, Dott. Meli) e i Capi Area dell'Amministrazione al fine di 1) rendere omogenea la conoscenza sugli open data (funzioni, vantaggi, pubblicazione), per utilizzare facilmente un linguaggio tecnico comune, e 2) identificare congiuntamente i dataset in formato aperto prioritari per la pubblicazione (secondo la metodologia MOSCOW descritta a pagine 8 nelle \ |LINK47|\ ).
+Il 16 febbraio 2015 è stata organizzata la prima riunione del Team Open Data come previsto dalle \ |LINK54|\ . Partecipanti: Segretario Generale, Responsabile Trasparenza, Responsabile Open Data, Capi Area, Webmaster, Esperto Gis.  Il Segretario Generale ha sottolineato l'esigenza di effettuare degli incontri tra lo staff del responsabile Open Data (Dott.ssa Rimedio, Geom. Spataro, Dott. Meli) e i Capi Area dell'Amministrazione al fine di 1) rendere omogenea la conoscenza sugli open data (funzioni, vantaggi, pubblicazione), per utilizzare facilmente un linguaggio tecnico comune, e 2) identificare congiuntamente i dataset in formato aperto prioritari per la pubblicazione (secondo la metodologia MOSCOW descritta a pagine 8 nelle \ |LINK55|\ ).
 
 --------
 
@@ -331,16 +344,18 @@ Il 16 febbraio 2015 è stata organizzata la prima riunione del Team Open Data co
 2015- opendataday 2015 Palermo
 ==============================
 
-Partecipazione all'iniziativa mondiale dell'Open Data Day 2015 (21 febbraio) di Palermo \ |LINK48|\  
+Partecipazione all'iniziativa mondiale dell'Open Data Day 2015 (21 febbraio) di Palermo \ |LINK56|\  
 
 --------
+
+\ |LINK57|\ 
 
 .. _h7a6a4f4946b42591880153219682f6e:
 
 2015- portale formazione open data 
 ===================================
 
-A seguito della riunione del Team Open Data nel mese di febbraio 2015 ho costruito il portale web didattico/formativo sugli open data \ |LINK49|\  così da dare la possibilità a tutti i 140 referenti open data dell'Amministrazione, ma anche ai titolari delle banche dati (dirigenti) di fruire permanentemente di una formazione ad hoc nel momento in cui ogni singolo individuo ravvisa la necessità di approfondire la conoscenza nell'ambito dei dati in formato aperto. Un portale che oltre alla parte didattica formativa, riporta buone prassi da prendere come punto di riferimento operativo.
+A seguito della riunione del Team Open Data nel mese di febbraio 2015 ho costruito il portale web didattico/formativo sugli open data \ |LINK58|\  così da dare la possibilità a tutti i 140 referenti open data dell'Amministrazione, ma anche ai titolari delle banche dati (dirigenti) di fruire permanentemente di una formazione ad hoc nel momento in cui ogni singolo individuo ravvisa la necessità di approfondire la conoscenza nell'ambito dei dati in formato aperto. Un portale che oltre alla parte didattica formativa, riporta buone prassi da prendere come punto di riferimento operativo.
 
 --------
 
@@ -351,7 +366,7 @@ A seguito della riunione del Team Open Data nel mese di febbraio 2015 ho costrui
 
 Febbraio. Condivisione via email  dell'informazione di 5 webinar sulla Prevenzione della Corruzione realizzati dal FormezPA nel mese di febbraio e di marzo.  
 
-\ |LINK50|\ 
+\ |LINK59|\ 
 
 --------
 
@@ -360,7 +375,9 @@ Febbraio. Condivisione via email  dell'informazione di 5 webinar sulla Prevenzio
 2015- webinar fatturazione elettronica
 ======================================
 
-Febbraio. Condivisione via email del ciclo webinar dal titolo “\ |LINK51|\ " - 4 incontri dalle 11.30 alle 13.00 delle seguenti date:  12 marzo 2015  - 19 marzo 2015  - 26 marzo 2015  - 2 aprile 2015.
+Febbraio. Condivisione via email del ciclo webinar dal titolo “\ |LINK60|\ " - 4 incontri dalle 11.30 alle 13.00 delle seguenti date:  12 marzo 2015  - 19 marzo 2015  - 26 marzo 2015  - 2 aprile 2015.
+
+\ |LINK61|\ 
 
 .. _h455b23266794a38273a41761793e51:
 
@@ -369,9 +386,9 @@ Febbraio. Condivisione via email del ciclo webinar dal titolo “\ |LINK51|\ " -
 
 Febbraio. Condivisione via email con la dott.ssa Vincenza Simonte (UO Gestione e Sviluppo Sistemi Informativi dell'Area Innovazione Tecnologica) di alcune bozze di Piano di Informatizzazione dei servizi comunali (ai sensi ex art. 24 DL 90/2014):
 
-\ |LINK52|\ 
+\ |LINK62|\ 
 
-\ |LINK53|\ 
+\ |LINK63|\ 
 
 --------
 
@@ -380,7 +397,7 @@ Febbraio. Condivisione via email con la dott.ssa Vincenza Simonte (UO Gestione e
 2015- proposta progetto UE open data OpenIt4Change
 ==================================================
 
-Maggio 27. E' stata presentata dal capofila (Università di Belfast, Norther Ireland) alla Commissione Europea, nel contesto del programma Horizon2020 (call \ |LINK54|\ ), una proposta di progetto trasnazionale denominata "\ |STYLE3|\ " (oltre 10 partner europei tra enti pubblici, privati e di ricerca). L'obiettivo della proposta progettuale è la valorizzazione degli open data pubblicati dalle pubbliche amministrazioni, in termini di realizzazione di servizi online utili a tutti. La città di Palermo è stata inserita in questo partenariato trasnazionale come città pilota. Si è in attesa delle risultanze delle analisi da parte della  Commissione Europea. 
+Maggio 27. E' stata presentata dal capofila (Università di Belfast, Norther Ireland) alla Commissione Europea, nel contesto del programma Horizon2020 (call \ |LINK64|\ ), una proposta di progetto trasnazionale denominata "\ |STYLE3|\ " (oltre 10 partner europei tra enti pubblici, privati e di ricerca). L'obiettivo della proposta progettuale è la valorizzazione degli open data pubblicati dalle pubbliche amministrazioni, in termini di realizzazione di servizi online utili a tutti. La città di Palermo è stata inserita in questo partenariato trasnazionale come città pilota. Si è in attesa delle risultanze delle analisi da parte della  Commissione Europea. 
 
 Ottobre 2015. Il partner coordinatore informa i partner periferici della non positiva valutazione della proposta progettuale da parte della Commissione EU.
 
@@ -391,16 +408,18 @@ Ottobre 2015. Il partner coordinatore informa i partner periferici della non pos
 2015- evento diffusione software libero
 =======================================
 
-Maggio 12. Organizzazione dell'evento Libre Office Roadshow, \ |LINK55|\  di sensibilizzazione, diretto ai referenti open data per l'uso di sofware open source. Stimolo all'uso di formati aperti per la gestione dei dati nell'ambito del lavoro quotidiano.
+Maggio 12. Organizzazione dell'evento Libre Office Roadshow, \ |LINK65|\  di sensibilizzazione, diretto ai referenti open data per l'uso di sofware open source. Stimolo all'uso di formati aperti per la gestione dei dati nell'ambito del lavoro quotidiano.
 
 --------
+
+\ |LINK66|\ 
 
 .. _h21a126c6b1844123a67231d355b1d2d:
 
 2015- webinar dati personali e trasparenza
 ==========================================
 
-Giugno.  Condivisione via email del webinar  "\ |STYLE4|\ ". \ |LINK56|\ .
+Giugno.  Condivisione via email del webinar  "\ |STYLE4|\ ". \ |LINK67|\ .
 
 --------
 
@@ -409,7 +428,7 @@ Giugno.  Condivisione via email del webinar  "\ |STYLE4|\ ". \ |LINK56|\ .
 2015- seminario per migliorare le competenze digitali nella Pubblica Amministrazione locale
 ===========================================================================================
 
-Giugno 9. Collaborazione per l'organizzazione del Seminario per migliorare le competenze digitali nella Pubblica Amministrazione locale \ |LINK57|\ . Evento in collaborazione con il FormezPA e Stati Generali dell'Innovazione. All'evento hanno partecipato i referenti open data.
+Giugno 9. Collaborazione per l'organizzazione del Seminario per migliorare le competenze digitali nella Pubblica Amministrazione locale \ |LINK68|\ . Evento in collaborazione con il FormezPA e Stati Generali dell'Innovazione. All'evento hanno partecipato i referenti open data.
 
 --------
 
@@ -418,23 +437,25 @@ Giugno 9. Collaborazione per l'organizzazione del Seminario per migliorare le co
 2015- corso Formez online su e-leadership
 =========================================
 
-Ottobre-Novembre. Partecipazione al corso online del Formez sull'\ |LINK58|\ .
+Ottobre-Novembre. Partecipazione al corso online del Formez sull'\ |LINK69|\ .
 
 --------
+
+\ |LINK70|\ 
 
 .. _h63507764117e79585d4e584f3403b44:
 
 2015- corso Formez su open data
 ===============================
 
-Novembre. Partecipazione al corso online sugli open data del FormezPA \ |LINK59|\  
+Novembre. Partecipazione al corso online sugli open data del FormezPA \ |LINK71|\  
 
 .. _h1e742f97f282087a4a6027385e59f:
 
 2015- riunione Team open data Palermo
 =====================================
 
-Dicembre. \ |LINK60|\ .
+Dicembre. \ |LINK72|\ .
 
 --------
 
@@ -443,11 +464,13 @@ Dicembre. \ |LINK60|\ .
 2015- adesione a piattaforma nazionale PagoPA
 =============================================
 
-Dicembre.  Redazione, in collaborazione con il dott. Marchese e la dott.ssa Collura, della \ |LINK61|\  del Comune di Palermo al nodo dei pagamenti elettronici delle PA (approva Protocollo Intesa tra Comune Palermo e AGID).
+Dicembre.  Redazione, in collaborazione con il dott. Marchese e la dott.ssa Collura, della \ |LINK73|\  del Comune di Palermo al nodo dei pagamenti elettronici delle PA (approva Protocollo Intesa tra Comune Palermo e AGID).
 
-Ricognizione, presso gli uffici comunali, delle tipologie dei pagamenti dovuti a vario titolo al Comune di Palermo, con il quale - attraverso modulo google - è stato prodotto relativo \ |LINK62|\ .
+Ricognizione, presso gli uffici comunali, delle tipologie dei pagamenti dovuti a vario titolo al Comune di Palermo, con il quale - attraverso modulo google - è stato prodotto relativo \ |LINK74|\ .
 
 --------
+
+\ |LINK75|\ 
 
 
 .. _h6b192c68732379165b81d6a40e262e:
@@ -460,7 +483,7 @@ Ricognizione, presso gli uffici comunali, delle tipologie dei pagamenti dovuti a
 2016- mappa della mobilità sostenibile di Palermo
 =================================================
 
-Gennaio. \ |LINK63|\ . 
+Gennaio. \ |LINK76|\ . 
 
 --------
 
@@ -469,7 +492,7 @@ Gennaio. \ |LINK63|\ .
 2016- opendataday 2016 Palermo
 ==============================
 
-5 Marzo. Partecipazione alla giornata mondiale Opendataday in rappresentanza dell'Area Innovazione Tecnologica. \ |LINK64|\  
+5 Marzo. Partecipazione alla giornata mondiale Opendataday in rappresentanza dell'Area Innovazione Tecnologica. \ |LINK77|\  
 
 --------
 
@@ -478,16 +501,18 @@ Gennaio. \ |LINK63|\ .
 2016- mappa Palermo accessibile
 ===============================
 
-Marzo. Redazione della mappa della Palermo Accessibile ai portatori di disabilità: \ |LINK65|\  e \ |LINK66|\ . I lavori sono stati preparatori per \ |LINK67|\ .
+Marzo. Redazione della mappa della Palermo Accessibile ai portatori di disabilità: \ |LINK78|\  e \ |LINK79|\ . I lavori sono stati preparatori per \ |LINK80|\ .
 
 --------
+
+\ |LINK81|\ 
 
 .. _h7e5318483f40f6b466b4c4174541e:
 
 2016- mappa Anello Telematico comunale con uffici connessi
 ==========================================================
 
-Marzo. Redazione della mappa georeferenziata informativa sulla struttura denominata \ |LINK68|\  (rete fibra ottica comunale) per la distribuzione della connettività ad alta velocità agli \ |LINK69|\ .
+Marzo. Redazione della mappa georeferenziata informativa sulla struttura denominata \ |LINK82|\  (rete fibra ottica comunale) per la distribuzione della connettività ad alta velocità agli \ |LINK83|\ .
 
 --------
 
@@ -496,18 +521,20 @@ Marzo. Redazione della mappa georeferenziata informativa sulla struttura denomin
 2016- mappa Piano emergenza Protezione Civile Palermo
 =====================================================
 
-Marzo. Redazione della \ |LINK70|\ , sulla base degli \ |LINK71|\ . La mappa è disponibile per la pubblica visione nell'area "\ |LINK72|\ " del portale open data.
+Marzo. Redazione della \ |LINK84|\ , sulla base degli \ |LINK85|\ . La mappa è disponibile per la pubblica visione nell'area "\ |LINK86|\ " del portale open data.
 
 .. _h1255d322b7a611443186b27175179:
 
 2016- Startup Weekend Tourism Edition
 =====================================
 
-Aprile. partecipazione come \ |LINK73|\  allo Startup Weekend Tourism Edition
+Aprile. partecipazione come \ |LINK87|\  allo Startup Weekend Tourism Edition
 
-Il comune di Palermo ha fornito il proprio supporto attraverso la figura di un mentor sugli open data (Ciro Spataro dell'Ufficio Innovazione) che ha presentato i dati del settore Turismo che l'Amministrazione pubblica nel portale Open Data. \ |LINK74|\  
+Il comune di Palermo ha fornito il proprio supporto attraverso la figura di un mentor sugli open data (Ciro Spataro dell'Ufficio Innovazione) che ha presentato i dati del settore Turismo che l'Amministrazione pubblica nel portale Open Data. \ |LINK88|\  
 
 --------
+
+\ |LINK89|\ 
 
 .. _h21533d747a7c45137164b44767e4d3b:
 
@@ -516,7 +543,7 @@ Il comune di Palermo ha fornito il proprio supporto attraverso la figura di un m
 
 Marzo 5. Partecipazione alla giornata mondiale opendataday svoltasi a Palermo (Noviziato dei Crociferi). Report dei lavori: 
 
-\ |LINK75|\ .
+\ |LINK90|\ .
 
 --------
 
@@ -525,7 +552,7 @@ Marzo 5. Partecipazione alla giornata mondiale opendataday svoltasi a Palermo (N
 2016- riunione Team open data Palermo
 =====================================
 
-Giugno 1. Riunione del Team comunale Open Data e \ |LINK76|\ .
+Giugno 1. Riunione del Team comunale Open Data e \ |LINK91|\ .
 
 --------
 
@@ -534,25 +561,27 @@ Giugno 1. Riunione del Team comunale Open Data e \ |LINK76|\ .
 2016- protocollo intesa con Istituto Einaudi per laboratorio open data
 ======================================================================
 
-Giugno. Delibera GM 97 del 20.05.2016 di approvazione del \ |LINK77|\ .
+Giugno. Delibera GM 97 del 20.05.2016 di approvazione del \ |LINK92|\ .
 
-\ |LINK78|\  tra IPS Einaudi, Comune di Palermo e community Opendatasicilia.
+\ |LINK93|\  tra IPS Einaudi, Comune di Palermo e community Opendatasicilia.
 
 --------
+
+\ |LINK94|\ 
 
 .. _h4758787c357b3810101e651a6e74294c:
 
 2016- adesione a wiki loves monuments Italia
 ============================================
 
-Luglio. Lavori preparatori per l'\ |LINK79|\  all'iniziativa \ |LINK80|\ . \ |LINK81|\  aderenti all'iniziativa. \ |LINK82|\  aderenti all'iniziativa.
+Luglio. Lavori preparatori per l'\ |LINK95|\  all'iniziativa \ |LINK96|\ . \ |LINK97|\  aderenti all'iniziativa. \ |LINK98|\  aderenti all'iniziativa.
 
 .. _h7e194d426e2102ef5317712494212:
 
 2016- adesione a protocollo Anci-Polizia per Prevenzione crimini informatici
 ============================================================================
 
-Luglio. Lavori preparatori per l'\ |LINK83|\  al \ |LINK84|\ . Presa d'atto dell'adesione del Comune avvenuta con \ |LINK85|\ .  \ |LINK86|\ . 
+Luglio. Lavori preparatori per l'\ |LINK99|\  al \ |LINK100|\ . Presa d'atto dell'adesione del Comune avvenuta con \ |LINK101|\ .  \ |LINK102|\ . 
 
 Deliberazione  inviata alla società partecipata SISPI SpA per porre in essere le azioni consequenziali.
 
@@ -563,11 +592,13 @@ Deliberazione  inviata alla società partecipata SISPI SpA per porre in essere l
 2016- partecipazione a redazione 3° Piano Azione Open Government Partnership
 ============================================================================
 
-Agosto. Partecipazione online alla costruzione condivisa del \ |LINK87|\  
+Agosto. Partecipazione online alla costruzione condivisa del \ |LINK103|\  
 
 (OGP: iniziativa internazionale che mira a ottenere impegni concreti dai Governi in termini di promozione della trasparenza, di sostegno alla partecipazione civica, di lotta alla corruzione e di diffusione, dentro e fuori le Pubbliche Amministrazioni, di nuove tecnologie a sostegno dell’innovazione).
 
 --------
+
+\ |LINK104|\ 
 
 .. _h7a30d42516729231a6d49632216749:
 
@@ -576,7 +607,7 @@ Agosto. Partecipazione online alla costruzione condivisa del \ |LINK87|\
 
 Agosto. Collaborazione alla predisposizione della proposta progettuale in partenariato trasnazionale nell'ambito del programma UE CEF (Connecting Europe Facilities), da titolo "Toward a crossborder north south links for Opendata".  \ |STYLE5|\  \ |STYLE6|\  \ |STYLE7|\  \ |STYLE8|\  \ |STYLE9|\  \ |STYLE10|\  \ |STYLE11|\  \ |STYLE12|\  \ |STYLE13|\ . 
 
-\ |LINK88|\ 
+\ |LINK105|\ 
 
 Partners: Provincia di Trento, Regione Emilia Romagna, Regione Friuli Venezia Giulia, Comune di Palermo, Stato di Slovenia, Fondazione Bruno Kessler, Stato di Malta.
 
@@ -597,7 +628,7 @@ News febbraio 2017: La proposta progettuale non è stata valutata positivamente 
 
 Agosto. Collaborazione alla predisposizione della proposta progettuale Simpatico  \ |IMG2|\  in partenariato trasnazionale nell'ambito del programma UE Horizon 2020, dal titolo "Simpatico" (Security Implementation by Mentoring Public Administrations for Trustworthy Interactions and Cyber-safe Operativity) nell'ambito della sicurezza informatica nelle pubbliche amministrazioni e prevenzione del crimine informatico.
 
-\ |LINK89|\ .
+\ |LINK106|\ .
 
 Se la proposta sarà ammessa dalla Commissione valutatrice a finanziamento, Palermo,  insieme ad altre PA partners, farà da pilota nella sperimentazione di un software elaborato nel progetto.
 
@@ -615,12 +646,14 @@ News gen_2017: la proposta non è stata valutata positivamente dalla Commissione
 
 --------
 
+\ |LINK107|\ 
+
 .. _h7f5b747e7d137c3c756c357247657d52:
 
 2016- partecipazione a evento annuale opendatasicilia
 =====================================================
 
-Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK90|\  a Messina dal 2 al 4 settembre 2016.  Un programma molto ricco di eventi sul mondo dei dati aperti a 360 gradi, con partecipanti esperti di open data provenienti da diverse parti d’Italia (guarda la \ |LINK91|\ ) e con una rappresentanza del portale europeo dei dati aperti \ |LINK92|\ . Report completo della 3 giorni: \ |LINK93|\  
+Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK108|\  a Messina dal 2 al 4 settembre 2016.  Un programma molto ricco di eventi sul mondo dei dati aperti a 360 gradi, con partecipanti esperti di open data provenienti da diverse parti d’Italia (guarda la \ |LINK109|\ ) e con una rappresentanza del portale europeo dei dati aperti \ |LINK110|\ . Report completo della 3 giorni: \ |LINK111|\  
 
 \ |IMG3|\ 
 
@@ -631,11 +664,13 @@ Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK90|\  a Messina
 2016- partecipazione a evento Biggerdata al CNR Palermo
 =======================================================
 
-19 Ottobre. Partecipazione alla giornata conclusiva del progetto \ |LINK94|\  presso il CNR di Palermo con la presentazione dello stato dell’arte sugli open data del Comune di Palermo:
+19 Ottobre. Partecipazione alla giornata conclusiva del progetto \ |LINK112|\  presso il CNR di Palermo con la presentazione dello stato dell’arte sugli open data del Comune di Palermo:
 
-\ |LINK95|\  
+\ |LINK113|\  
 
 --------
+
+\ |LINK114|\ 
 
 .. _h7b4e3b717d1783b21486d3384d373e:
 
@@ -644,39 +679,41 @@ Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK90|\  a Messina
 
 \ |IMG4|\ 
 
-27 Ottobre. Partecipazione alla giornata \ |LINK96|\   Organizzato da \ |LINK97|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK98|\ ).
+27 Ottobre. Partecipazione alla giornata \ |LINK115|\   Organizzato da \ |LINK116|\  presso Palazzo Branciforte, con la presentazione sulle potenzialità degli open data comunali di Palermo sul turismo per la creazione di servizi rivolti ai portatori di diverse disabilità, inclusi gli ipovedenti (\ |LINK117|\ ).
 
-\ |LINK99|\ .
+\ |LINK118|\ .
 
 .. _h53325d917f451932766d513750353f:
 
 2016- deliberazione partnership con Istituto Einaudi-Pareto per partecipazione a bando MIUR
 ===========================================================================================
 
-Novembre.  Predisposizione \ |LINK100|\  sui Curricoli Digitali.
+Novembre.  Predisposizione \ |LINK119|\  sui Curricoli Digitali.
+
+\ |LINK120|\ 
 
 .. _h31341f4e4b3a1d214b4a3c4b25607678:
 
 2016- giornata trasparenza e open data comune Palermo
 =====================================================
 
-Dicembre 20. Partecipazione attiva alla \ |LINK101|\ . Organizzazione delle attività che hanno visto partecipare cittadini esponendo casi di riuso degli open data comunali finora pubblicati nel portale istituzionale.
+Dicembre 20. Partecipazione attiva alla \ |LINK121|\ . Organizzazione delle attività che hanno visto partecipare cittadini esponendo casi di riuso degli open data comunali finora pubblicati nel portale istituzionale.
 
-Si è registrata una una costruttiva partecipazione civica di \ |LINK102|\ , \ |LINK103|\ , \ |LINK104|\  e di Salvatore Pullara (Polizia Municipale) e Girolamo Mimmo Renda (Polizia Municipale) sul riuso.
+Si è registrata una una costruttiva partecipazione civica di \ |LINK122|\ , \ |LINK123|\ , \ |LINK124|\  e di Salvatore Pullara (Polizia Municipale) e Girolamo Mimmo Renda (Polizia Municipale) sul riuso.
 
 L'Amministrazione comunale con alcuni dei suoi Dirigenti Capo Area (Segretario Generale, Responsabile trasparenza, Responsabile open data e pubblicazione, Vice Capo di Gabinetto) hanno apprezzato gli interventi che hanno focalizzato l'attenzione sul riutilizzo degli opendata comunali per creare servizi informativi di vario tipo, con una concentrazione sui dati del trasporto pubblico urbano.
 
 Patrizio Hausmann della comunità opendatasicilia è stato citato dai funzionari della Polizia Municipale come fonte per gli interessanti riusi dei dati per visualizzazione dei dati significativi sugli incidenti di veicoli in città. E' stata una interessante pagina di storia palermitana sulla partecipazione civica ai processi di pubblicazione di dati in formato aperto.
 
-La presentazione di Daniele Mondello \ |LINK105|\ 
+La presentazione di Daniele Mondello \ |LINK125|\ 
 
-La presentazione di Ciro Spataro \ |LINK106|\ 
+La presentazione di Ciro Spataro \ |LINK126|\ 
 
-La presentazione della piattaforma della mobilità di Peppe Pace \ |LINK107|\ 
+La presentazione della piattaforma della mobilità di Peppe Pace \ |LINK127|\ 
 
-La presentazione della mappa degli incidenti e della rilevazione dell'inquinamento atmosferico dei funzionari della Polizia Municipale (Girolamo Renda e Salvatore Pullara) \ |LINK108|\ 
+La presentazione della mappa degli incidenti e della rilevazione dell'inquinamento atmosferico dei funzionari della Polizia Municipale (Girolamo Renda e Salvatore Pullara) \ |LINK128|\ 
 
-La presentazione di Andrea Borruso \ |LINK109|\ 
+La presentazione di Andrea Borruso \ |LINK129|\ 
 
 --------
 
@@ -687,7 +724,7 @@ La presentazione di Andrea Borruso \ |LINK109|\
 
 Dicembre
 
-Riunione del Team Open Data del Comune di Palermo il 21 dicembre, in ossequio alle Linee Guida comunali open data e redazione del \ |LINK110|\  
+Riunione del Team Open Data del Comune di Palermo il 21 dicembre, in ossequio alle Linee Guida comunali open data e redazione del \ |LINK130|\  
 
 --------
 
@@ -696,10 +733,11 @@ Riunione del Team Open Data del Comune di Palermo il 21 dicembre, in ossequio al
 2016- partecipazione a evento invernale opendatasicilia
 =======================================================
 
-Dicembre. 28 dicembre partecipazione al raduno invernale dell'attiva comunità opendatasicilia a Castelbuono \ |LINK111|\   e condivisione dei risultati del \ |LINK112|\  del Team Open Data del Comune di Palermo.
+Dicembre. 28 dicembre partecipazione al raduno invernale dell'attiva comunità opendatasicilia a Castelbuono \ |LINK131|\   e condivisione dei risultati del \ |LINK132|\  del Team Open Data del Comune di Palermo.
 
 --------
 
+\ |LINK133|\ 
 
 .. _h737818381f403a4c743113b633175f:
 
@@ -711,7 +749,7 @@ Dicembre. 28 dicembre partecipazione al raduno invernale dell'attiva comunità o
 2017- database programmi Palermo per riqualificazione e innovazione
 ===================================================================
 
-Gennaio. Redazione del \ |LINK113|\ .
+Gennaio. Redazione del \ |LINK134|\ .
 
 --------
 
@@ -720,20 +758,22 @@ Gennaio. Redazione del \ |LINK113|\ .
 2017- linee guida comunali open data aggiornate a profilo DCAT_AP_IT
 ====================================================================
 
-Gennaio. Adeguamento delle \ |LINK114|\  (approvate con Deliberazione di GM 252 del 13.2.2013) agli standard dell'AGID \ |LINK115|\  (2016) e alle \ |LINK116|\  (2016) per la valorizzazione del sistema informativo pubblico (AGID) e \ |LINK117|\  comunali.
+Gennaio. Adeguamento delle \ |LINK135|\  (approvate con Deliberazione di GM 252 del 13.2.2013) agli standard dell'AGID \ |LINK136|\  (2016) e alle \ |LINK137|\  (2016) per la valorizzazione del sistema informativo pubblico (AGID) e \ |LINK138|\  comunali.
 
 --------
+
+\ |LINK139|\ 
 
 .. _hd7d173b78f6467d27b7d2c7c514a:
 
 2017- Palermo capitale italiana giovani, lavori preparatori alla partecipazione della cittadinanza
 ==================================================================================================
 
-Febbraio. Realizzazione dei moduli google per 1) la gestione dei dati di iscrizione delle Associazioni  ai tavoli tematici del'\ |LINK118|\ , concernenti la costruzione del percorso di Palermo Capitale italiana dei Giovani 2017 \ |LINK119|\  e 2) la raccolta dei dati sulla propositività delle stesse Associazioni relative all'anno 2017. 
+Febbraio. Realizzazione dei moduli google per 1) la gestione dei dati di iscrizione delle Associazioni  ai tavoli tematici del'\ |LINK140|\ , concernenti la costruzione del percorso di Palermo Capitale italiana dei Giovani 2017 \ |LINK141|\  e 2) la raccolta dei dati sulla propositività delle stesse Associazioni relative all'anno 2017. 
 
-Dalla compilazione di questo secondo modulo è stato possibile costruire \ |LINK120|\  di elevato valore per la ricchezza di dati dettagliati sulle attività svolte da oltre 300 Associazioni attive a Palermo nel campo della cultura, inclusione sociale, turismo e innovazione tecnologica. Su questo database si costruiranno - in condivisione con vari uffici comunali -  le reti di Associazioni con azioni omogenee da realizzare a Palermo a partire dal 2017.
+Dalla compilazione di questo secondo modulo è stato possibile costruire \ |LINK142|\  di elevato valore per la ricchezza di dati dettagliati sulle attività svolte da oltre 300 Associazioni attive a Palermo nel campo della cultura, inclusione sociale, turismo e innovazione tecnologica. Su questo database si costruiranno - in condivisione con vari uffici comunali -  le reti di Associazioni con azioni omogenee da realizzare a Palermo a partire dal 2017.
 
-E' stato prodotto il \ |LINK121|\  al quale ho partecipato l'8 febbraio 2017 in qualità di moderatore e relatore.
+E' stato prodotto il \ |LINK143|\  al quale ho partecipato l'8 febbraio 2017 in qualità di moderatore e relatore.
 
 --------
 
@@ -742,7 +782,7 @@ E' stato prodotto il \ |LINK121|\  al quale ho partecipato l'8 febbraio 2017 in 
 2017- proposte open data sulla piattaforma di lavoro del Team nazionale trasformazione Digitale
 ===============================================================================================
 
-20 Febbraio. Sulla piattaforma \ |LINK122|\  di lavoro dei comuni italiani pilota e del \ |LINK123|\  per l'attuazione dell'Agenda Digitale, al gruppo specifico \ |LINK124|\  (Data Analytics Framework) è stata presentata, da Palermo, la proposta operativa sugli open data, che è disponibile a questo link: \ |LINK125|\  
+20 Febbraio. Sulla piattaforma \ |LINK144|\  di lavoro dei comuni italiani pilota e del \ |LINK145|\  per l'attuazione dell'Agenda Digitale, al gruppo specifico \ |LINK146|\  (Data Analytics Framework) è stata presentata, da Palermo, la proposta operativa sugli open data, che è disponibile a questo link: \ |LINK147|\  
 
 --------
 
@@ -751,9 +791,11 @@ E' stato prodotto il \ |LINK121|\  al quale ho partecipato l'8 febbraio 2017 in 
 2017- proposta di Palermo per SPID nazionale
 ============================================
 
-28 Febbraio. Sulla piattaforma \ |LINK126|\  di lavoro dei comuni italiani pilota e del \ |LINK127|\  per l'attuazione dell'Agenda Digitale, al gruppo specifico \ |LINK128|\  (Sistema Pubblico d'Identità Digitale) è stata presentata, da Palermo, la proposta per l'implementazione del sistema SPID, disponibile a questo link: \ |LINK129|\  
+28 Febbraio. Sulla piattaforma \ |LINK148|\  di lavoro dei comuni italiani pilota e del \ |LINK149|\  per l'attuazione dell'Agenda Digitale, al gruppo specifico \ |LINK150|\  (Sistema Pubblico d'Identità Digitale) è stata presentata, da Palermo, la proposta per l'implementazione del sistema SPID, disponibile a questo link: \ |LINK151|\  
 
 --------
+
+\ |LINK152|\ 
 
 .. _h1375297125375171424f451f5e752c5f:
 
@@ -764,9 +806,9 @@ E' stato prodotto il \ |LINK121|\  al quale ho partecipato l'8 febbraio 2017 in 
 
 4 marzo. Opendataday 2017 Palermo.
 
-\ |LINK130|\  
+\ |LINK153|\  
 
-Organizzazione e realizzazione dell'\ |LINK131|\  insieme ad ARCA incubatore d'imprese e alla comunità Opendatasicilia. \ |LINK132|\  e programma:
+Organizzazione e realizzazione dell'\ |LINK154|\  insieme ad ARCA incubatore d'imprese e alla comunità Opendatasicilia. \ |LINK155|\  e programma:
 
 * 9.30: Saluti del Direttore Generale del Consorzio ARCA, a cura del dott. Fabio Maria Montagnino
 
@@ -776,11 +818,11 @@ Organizzazione e realizzazione dell'\ |LINK131|\  insieme ad ARCA incubatore d'i
 
 * 10.00: La bozza del nuovo portale Open Data comunale, a cura del Webmaster Dott. Giuseppe Meli
 
-* 10.15: \ |LINK133|\ , a cura di Ciro Spataro
+* 10.15: \ |LINK156|\ , a cura di Ciro Spataro
 
 * 10.30: Gli Open Data della Polizia Municipale, a cura di Girolamo Renda
 
-* 10.45: Vulnerabilità sismica degli edifici residenziali di Palermo: \ |LINK134|\ , a cura di Letizia Carbone e Giovan Battista Vitrano
+* 10.45: Vulnerabilità sismica degli edifici residenziali di Palermo: \ |LINK157|\ , a cura di Letizia Carbone e Giovan Battista Vitrano
 
 * 11.05: A scuola di Opencoesione, a cura di Giulio Di Chiara + testimonianza studenti 2015/16
 
@@ -825,18 +867,20 @@ Andrea Borruso, della community Opendatasicilia e Associazione OnData ha colto i
 
 \ |IMG6|\ 
 
-4 aprile. Riunione del gruppo coordinatore dei lavori per Palermo Capitale Italiana dei Giovani 2017 \ |LINK135|\  per identificare step operativi successivi: 1) restituzione pubblica dei lavori dei tavoli tematici ai cantieri culturali della Zisa, 2) prosecuzione lavoro per la narrazione del processo culturale di Palermo Capitale Italiana dei Giovani 2017, 3) eventuali altri tavoli di approfondimento con le proposte operative presentate attraverso la compilazione del modulo google, distinte per ambito tematico.
+4 aprile. Riunione del gruppo coordinatore dei lavori per Palermo Capitale Italiana dei Giovani 2017 \ |LINK158|\  per identificare step operativi successivi: 1) restituzione pubblica dei lavori dei tavoli tematici ai cantieri culturali della Zisa, 2) prosecuzione lavoro per la narrazione del processo culturale di Palermo Capitale Italiana dei Giovani 2017, 3) eventuali altri tavoli di approfondimento con le proposte operative presentate attraverso la compilazione del modulo google, distinte per ambito tematico.
 
-Riunioni del tavolo tecnico Innovazione Tecnologica il 19 aprile e il 3 maggio 2017. Il processo di coinvolgimento e partecipazione a Capitale italiana Giovani 2017 è descritto minuziosamente in questo \ |LINK136|\ .
+Riunioni del tavolo tecnico Innovazione Tecnologica il 19 aprile e il 3 maggio 2017. Il processo di coinvolgimento e partecipazione a Capitale italiana Giovani 2017 è descritto minuziosamente in questo \ |LINK159|\ .
 
 --------
+
+\ |LINK160|\ 
 
 .. _h143f3e452d292c2a70466f5f44b44:
 
 2017- avvio piattaforma pagamenti elettronici alle PA, PAgoPA
 =============================================================
 
-Aprile. E' stata resa disponibile - dalla Società SISPI SpA - la pagina dei pagamenti elettronici del comune di Palermo \ |LINK137|\  attraverso l'adesione del Comune al sistema nazionale \ |LINK138|\ , istituito dall'AgID. La deliberazione di GM di adesione comunale al sistema nazionale PagoPA era stata redatta e approvata nel dicembre 2015.
+Aprile. E' stata resa disponibile - dalla Società SISPI SpA - la pagina dei pagamenti elettronici del comune di Palermo \ |LINK161|\  attraverso l'adesione del Comune al sistema nazionale \ |LINK162|\ , istituito dall'AgID. La deliberazione di GM di adesione comunale al sistema nazionale PagoPA era stata redatta e approvata nel dicembre 2015.
 
 Ad aprile 2017 è possibile  effettuare 2 pagamenti elettronici al Comune di Palermo
 
@@ -847,7 +891,7 @@ Ad aprile 2017 è possibile  effettuare 2 pagamenti elettronici al Comune di Pal
 2017- delibera approvazione linee guida comunali aggiornate a profilo DCAT_AP_IT
 ================================================================================
 
-Maggio. Redazione della deliberazione di GM (n. 97/2017) di approvazione delle Linee guida comunali open data, versione 2017 partecipate. La nuova versione di linee guida deriva dall'integrazione delle linee guida comunali open data del 2013 con il \ |LINK139|\  (profilo nazionale dei metadati) e con le l\ |LINK140|\  dell'AgID del 2016. Altresì le linee guida comunali di Palermo versione 2017 partecipata, derivano da un processo di partecipazione, essendo state (le stesse linee guida) \ |LINK141|\ .
+Maggio. Redazione della deliberazione di GM (n. 97/2017) di approvazione delle Linee guida comunali open data, versione 2017 partecipate. La nuova versione di linee guida deriva dall'integrazione delle linee guida comunali open data del 2013 con il \ |LINK163|\  (profilo nazionale dei metadati) e con le l\ |LINK164|\  dell'AgID del 2016. Altresì le linee guida comunali di Palermo versione 2017 partecipata, derivano da un processo di partecipazione, essendo state (le stesse linee guida) \ |LINK165|\ .
 
 --------
 
@@ -856,9 +900,11 @@ Maggio. Redazione della deliberazione di GM (n. 97/2017) di approvazione delle L
 2017- protocollo intesa con Associazione Comuni Trentini per riuso software OpenAgenda
 ======================================================================================
 
-Settembre. Redazione della proposta di Deliberazione (approvata DG. N. 172 DEL 21/09/2017) di approvazione del PROTOCOLLO D'INTESA TRA COMUNE DI PALERMO E CONSORZIO DEI COMUNI TRENTINI SOCIETA' COOPERATIVA PER IL RIUSO GRATUITO DEI MICROSERVIZI DELLA PIATTAFORMA \ |LINK142|\ . Uno dei microservizi di prima utilità per il comune di Palermo è rappresentato da \ |LINK143|\ , con possibilità di rilascio automatico di open data degli eventi stessi e delle Associazioni che popolano la piattaforma di dati.
+Settembre. Redazione della proposta di Deliberazione (approvata DG. N. 172 DEL 21/09/2017) di approvazione del PROTOCOLLO D'INTESA TRA COMUNE DI PALERMO E CONSORZIO DEI COMUNI TRENTINI SOCIETA' COOPERATIVA PER IL RIUSO GRATUITO DEI MICROSERVIZI DELLA PIATTAFORMA \ |LINK166|\ . Uno dei microservizi di prima utilità per il comune di Palermo è rappresentato da \ |LINK167|\ , con possibilità di rilascio automatico di open data degli eventi stessi e delle Associazioni che popolano la piattaforma di dati.
 
 --------
+
+\ |LINK168|\ 
 
 .. _h19356c6a35535a7d282374708ea:
 
@@ -871,7 +917,7 @@ Settembre. Redazione della proposta di Deliberazione (approvata DG. N. 172 DEL 2
 
 Partecipazione all'evento in qualità di referente comunale.  
 
-\ |LINK144|\  
+\ |LINK169|\  
 
 Tutte le tech community italiane e gli sviluppatori hanno partecipato alla maratona di programmazione organizzata in contemporanea in oltre 20 città su tutto il territorio nazionale! Hack.Developers, promosso dal Team per la Trasformazione Digitale in collaborazione con Codemotion, è stato il più grande hackathon mai realizzato in Italia! I progetti su cui hanno lavorato i partecipanti sono: SPID - Sistema Pubblico d'Identità Digitale, ANPR - Anagrafe Nazionale della Popolazione Residente, DAF - Data & Analitycs Framework, DAF - Dataportal, DAT - Dati Pubblici (nuovo Dati Gov.it), Security, Design.
 
@@ -882,7 +928,7 @@ Tutte le tech community italiane e gli sviluppatori hanno partecipato alla marat
 2017- lavori per pubblicazioni foto Biblioteca comunale sulla piattaforma Flickr
 ================================================================================
 
-Ottobre. Nell'ambito delle attività legate alla valorizzazione del patrimonio informativo comunale, è stato costruito, insieme al gruppo di lavoro "Promozione e Comunicazione" della Biblioteca Comunale di Palermo, il profilo Flickr \ |LINK145|\  per la pubblicazione del patrimonio storico già digitalizzato.
+Ottobre. Nell'ambito delle attività legate alla valorizzazione del patrimonio informativo comunale, è stato costruito, insieme al gruppo di lavoro "Promozione e Comunicazione" della Biblioteca Comunale di Palermo, il profilo Flickr \ |LINK170|\  per la pubblicazione del patrimonio storico già digitalizzato.
 
 Sono stati avviati i caricamenti delle foto scegliendo la licenza CC BY SA prevista dalle linee guida comunali open data.
 
@@ -890,26 +936,28 @@ Questa iniziativa rappresenta un importante passo dell'Amministrazione che conse
 
 L'accesso ai dati, tramite le API di Flickr, è assicurato dai seguenti link:
 
-* \ |LINK146|\ 
+* \ |LINK171|\ 
 
-* \ |LINK147|\ 
+* \ |LINK172|\ 
 
-* \ |LINK148|\  
+* \ |LINK173|\  
 
-* \ |LINK149|\  
+* \ |LINK174|\  
 
-Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblicati attraverso il servizio reso disponibile da Flickr: \ |LINK150|\  
+Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblicati attraverso il servizio reso disponibile da Flickr: \ |LINK175|\  
 
 \ |IMG9|\ 
 
 --------
+
+\ |LINK176|\ 
 
 .. _h5b586d1343b2810542c3a423a7e6c62:
 
 2017- Implementazione Misure minime ICT da Piano Triennale Informatica nella PA
 ===============================================================================
 
-Dicembre. In collaborazione con Capo Area Innovazione Tecnologica, Responsabile Transizione al Digitale (art. 17 CAD) e con staff Società Sispi è stato redatto e inviato via PEC all’AGID pochi giorni prima di Natale il \ |LINK151|\ .
+Dicembre. In collaborazione con Capo Area Innovazione Tecnologica, Responsabile Transizione al Digitale (art. 17 CAD) e con staff Società Sispi è stato redatto e inviato via PEC all’AGID pochi giorni prima di Natale il \ |LINK177|\ .
 
 --------
 
@@ -920,7 +968,7 @@ Dicembre. In collaborazione con Capo Area Innovazione Tecnologica, Responsabile 
 
 Dicembre. In collaborazione con lo staff del Webmaster e con il dott. Davide Taibi del CNR di Palermo e con la dott.ssa Giorgia Lodi dell'AgID è stato possibile effettuare 1) l'adeguamento dei metadati del catalogo dei dataset comunali al profilo DCAT_AP_IT dell'AgID, 2) l'harvesting dei metadati del catalogo dei dataset comunali nel portale dati.gov.it
 
-Contemporaneamente lo staff del webmaster ha rilasciato la nuova versione del portale opendata \ |LINK152|\  compliant con il profilo DCAT_AP_IT.
+Contemporaneamente lo staff del webmaster ha rilasciato la nuova versione del portale opendata \ |LINK178|\  compliant con il profilo DCAT_AP_IT.
 
 --------
 
@@ -933,7 +981,7 @@ Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per 
 
 \ |IMG10|\ 
 
-(infografica da \ |LINK153|\ ) 
+(infografica da \ |LINK179|\ ) 
 
 \ |STYLE14|\  Confermata con Deliberazione di G.M. 185 del 10.10.2017.
 
@@ -941,13 +989,15 @@ Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per 
 
 \ |STYLE16|\  A dicembre 2015 è stata approvata la delibera di adesione del comune di Palermo al sistema dei pagamenti PagoPA e nel 2017 sono stati già attivati due pagamenti https://www.comune.palermo.it/pago-pa.php. Altri pagamenti sono già in preparazione, da attivare nella prima metà 2018.
 
-\ |STYLE17|\  Già attiva l’autenticazione con SPID per gli operatori del portale tematico dell’\ |LINK154|\ .
+\ |STYLE17|\  Già attiva l’autenticazione con SPID per gli operatori del portale tematico dell’\ |LINK180|\ .
 
 \ |STYLE18|\  I dataset open data comunali sono esposti con metadatazione ai sensi del profilo DCAT_AP_IT previsto dal Piano Triennale ICT della PA e procedure di harvesting già effettuate con la collaborazione dell’AGID.
 
-Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |LINK155|\  
+Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |LINK181|\  
 
 --------
+
+\ |LINK182|\ 
 
 
 .. _h7c23534126f3d5c721d737044187276:
@@ -978,38 +1028,40 @@ Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |L
 2018- attivazione SPID
 ======================
 
-20 febbraio: \ |LINK156|\  per l'accesso dei cittadini ai servizi digitali del comune di Palermo, grazie alla Società SISPI SpA.  \ |LINK157|\ .
+20 febbraio: \ |LINK183|\  per l'accesso dei cittadini ai servizi digitali del comune di Palermo, grazie alla Società SISPI SpA.  \ |LINK184|\ .
 
 --------
+
+\ |LINK185|\ 
 
 .. _h754448375910422d163243118394579:
 
 2018- adozione piattaforma DocsItalia su Read the Docs per pubblicazione documenti del comune di Palermo
 ========================================================================================================
 
-Marzo.  L'Agenzia per l'Italia Digitale in collaborazione con il Team Trasformazione Digitale ha reso disponibile il servizio \ |LINK158|\  per le Pubbliche Amministrazioni al fine di far pubblicare documenti tecnici e amministrativi su una piattaforma che offre ai cittadini la possibilità di leggere e commentare documenti pubblici ed essere informati sull’andamento dei progetti. 
+Marzo.  L'Agenzia per l'Italia Digitale in collaborazione con il Team Trasformazione Digitale ha reso disponibile il servizio \ |LINK186|\  per le Pubbliche Amministrazioni al fine di far pubblicare documenti tecnici e amministrativi su una piattaforma che offre ai cittadini la possibilità di leggere e commentare documenti pubblici ed essere informati sull’andamento dei progetti. 
 
 \ |STYLE19|\  vuole diventare, per l'AGID, il luogo che offre una visione di insieme sui progetti pubblici in corso, affiancando gli aspetti tecnologici e quelli amministrativi. Docs Italia utilizza il version control system di GitHub e mette a disposizione un sistema che consente di tenere traccia della storia di un documento e mantenerne tutte le versioni, permettendo di confrontarle fra loro. I documenti di Docs Italia hanno un indice ben strutturato, un motore di ricerca efficace e sono di facile lettura, anche sullo smartphone.
 
-Per il \ |LINK159|\ :
+Per il \ |LINK187|\ :
 
-* \ |LINK160|\ 
+* \ |LINK188|\ 
 
-* \ |LINK161|\ 
+* \ |LINK189|\ 
 
-* \ |LINK162|\ 
+* \ |LINK190|\ 
 
-* \ |LINK163|\ 
+* \ |LINK191|\ 
 
-* \ |LINK164|\ 
+* \ |LINK192|\ 
 
-* \ |LINK165|\ 
+* \ |LINK193|\ 
 
-* \ |LINK166|\ 
+* \ |LINK194|\ 
 
-* \ |LINK167|\ 
+* \ |LINK195|\ 
 
-* \ |LINK168|\ 
+* \ |LINK196|\ 
 
 --------
 
@@ -1018,7 +1070,7 @@ Per il \ |LINK159|\ :
 2018- invio compilazione questionario online su rilevazione spesa ICT ad AGID
 =============================================================================
 
-19 marzo. Invio all'AGID del \ |LINK169|\  del Comune di Palermo. I dati rilevati servono all'AGID per la costruzione del \ |LINK170|\  2018-2020.
+19 marzo. Invio all'AGID del \ |LINK197|\  del Comune di Palermo. I dati rilevati servono all'AGID per la costruzione del \ |LINK198|\  2018-2020.
 
 --------
 
@@ -1029,16 +1081,18 @@ Per il \ |LINK159|\ :
 
 4-5-6 aprile. Infoday sul Codice dell'Amministrazione Digitale e sui servizi digitali del comune di Palermo, indirizzata ai Dirigenti comunali.
 
-Materiali informativi: \ |LINK171|\  
+Materiali informativi: \ |LINK199|\  
 
 --------
+
+\ |LINK200|\ 
 
 .. _h402d491925671d115f26462a1bc561b:
 
 2018- info day su open data agli studenti dell'Istituto Alberghiero "Paolo Borsellino" di Palermo
 =================================================================================================
 
-16 aprile. Una mattinata all'Istituto Alberghiero di Palermo a parlare agli studenti di 4° e 5° anno di open data e riuso dei dati in formato aperto in diversi ambiti della vita quotidiana. Presentazione al link \ |LINK172|\ . 
+16 aprile. Una mattinata all'Istituto Alberghiero di Palermo a parlare agli studenti di 4° e 5° anno di open data e riuso dei dati in formato aperto in diversi ambiti della vita quotidiana. Presentazione al link \ |LINK201|\ . 
 
 La presentazione dell'Info day sugli open data è stata richiesta dal Vice Preside dell'Istituto con email al Responsabile open data comunale.
 
@@ -1053,22 +1107,24 @@ La presentazione dell'Info day sugli open data è stata richiesta dal Vice Presi
 
 Il dott. Gabriele Francescotto della Società OpenContent ha effettuato la formazione.
 
-A  questo link \ |LINK173|\  è disponibile il manuale d'uso dell'applicativo.
+A  questo link \ |LINK202|\  è disponibile il manuale d'uso dell'applicativo.
 
 Open Agenda è un applicativo open source sviluppato dalla Società OpenContent in riuso gratuito per la gestione e pubblicazione degli eventi culturali nella città, a disposizione anche delle Associazioni locali che organizzano eventi nel territorio.
 
-Open Agenda è già stato utilizzato in \ |LINK174|\ , a \ |LINK175|\  e a \ |LINK176|\ .
+Open Agenda è già stato utilizzato in \ |LINK203|\ , a \ |LINK204|\  e a \ |LINK205|\ .
 
 --------
+
+\ |LINK206|\ 
 
 .. _h342c6d1f42345d20a2dd80563e49:
 
 2018 - Disposizioni agli uffici per la pubblicazione di atti amministrativi in formato accesibile
 =================================================================================================
 
-17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF \ |LINK177|\ , il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i \ |LINK178|\ . 
+17 maggio. Considerato che da tempo il formato degli atti amministrativi pubblicati nell'albo pretorio del comune è il PDF \ |LINK207|\ , il Servizio Innovazione ha ritenuto opportuno inviare una circolare agli Uffici e Dirigenti indicando le modalità di pubblicazione degli atti in formato PDF accessibile anche ai portatori di disabilità visive. Il PDF dell'atto amministrativo deve rispettare i \ |LINK208|\ . 
 
-Nella \ |LINK179|\  si legge: “\ |STYLE20|\  .”
+Nella \ |LINK209|\  si legge: “\ |STYLE20|\  .”
 
 --------
 
@@ -1141,697 +1197,817 @@ Nella \ |LINK179|\  si legge: “\ |STYLE20|\  .”
 
 .. |LINK6| raw:: html
 
-    <a href="http://opendataday.it/palermo/" target="_blank">http://opendataday.it/palermo/</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?id=1344" target="_blank">http://www.comune.palermo.it/noticext.php?id=1344</a>
+    <a href="http://opendataday.it/palermo/" target="_blank">http://opendataday.it/palermo/</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?id=2827" target="_blank">www.comune.palermo.it/noticext.php?id=2827</a>
+    <a href="http://www.comune.palermo.it/noticext.php?id=1344" target="_blank">http://www.comune.palermo.it/noticext.php?id=1344</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">Deliberazione di Giunta n. 252 del 13.12.2013</a>
+    <a href="http://www.comune.palermo.it/noticext.php?id=2827" target="_blank">www.comune.palermo.it/noticext.php?id=2827</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://www.flipsnack.com/5CFF866BDC9/fdclv3l5" target="_blank">http://www.flipsnack.com/5CFF866BDC9/fdclv3l5</a>
+    <a href="http://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">Deliberazione di Giunta n. 252 del 13.12.2013</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://www.rosalio.it/2013/10/16/che-cosa-sono-gli-open-data-e-perche-sono-importanti/" target="_blank">www.rosalio.it/2013/10/16/che-cosa-sono-gli-open-data-e-perche-sono-importanti</a>
+    <a href="http://www.flipsnack.com/5CFF866BDC9/fdclv3l5" target="_blank">http://www.flipsnack.com/5CFF866BDC9/fdclv3l5</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://app.box.com/s/oh35o7sk9jyvjmfd50xb" target="_blank">https://app.box.com/s/oh35o7sk9jyvjmfd50xb</a>
+    <a href="http://www.rosalio.it/2013/10/16/che-cosa-sono-gli-open-data-e-perche-sono-importanti/" target="_blank">www.rosalio.it/2013/10/16/che-cosa-sono-gli-open-data-e-perche-sono-importanti</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://osservatoriosmartcity.it/wp-content/uploads/Vademecum_def_2_light.pdf" target="_blank">http://osservatoriosmartcity.it/wp-content/uploads/Vademecum_def_2_light.pdf</a>
+    <a href="https://app.box.com/s/oh35o7sk9jyvjmfd50xb" target="_blank">https://app.box.com/s/oh35o7sk9jyvjmfd50xb</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://attiministeriali.miur.it/anno-2013/marzo/di-13032013.aspx" target="_blank">BANDO INTERMINISTERIALE MISE/MIUR N.437 DEL 13 MARZO 2013</a>
+    <a href="http://osservatoriosmartcity.it/wp-content/uploads/Vademecum_def_2_light.pdf" target="_blank">http://osservatoriosmartcity.it/wp-content/uploads/Vademecum_def_2_light.pdf</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://www.innovatoripa.it/strategia-innovazione-sicilia/discussione/focus-tematico-innovazione-sociale" target="_blank">www.innovatoripa.it/strategia-innovazione-sicilia/discussione/focus-tematico-innovazione-sociale</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://www.slideshare.net/innosicilia/10-spataro-ciroopendatasociety" target="_blank">www.slideshare.net/innosicilia/10-spataro-ciroopendatasociety</a>
+    <a href="http://attiministeriali.miur.it/anno-2013/marzo/di-13032013.aspx" target="_blank">BANDO INTERMINISTERIALE MISE/MIUR N.437 DEL 13 MARZO 2013</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://commenta.formez.it/ch/PianoCulturaDigitale/admin?id=0&t=users" target="_blank">http://commenta.formez.it/ch/PianoCulturaDigitale/admin?id=0&t=users</a>
+    <a href="http://www.innovatoripa.it/strategia-innovazione-sicilia/discussione/focus-tematico-innovazione-sociale" target="_blank">www.innovatoripa.it/strategia-innovazione-sicilia/discussione/focus-tematico-innovazione-sociale</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://ideario.formez.it/content/usare-semplici-strumenti-di-cloud-x-sviluppare-il-senso-del-lavoro-condiviso-rete" target="_blank">http://ideario.formez.it/content/usare-semplici-strumenti-di-cloud-x-sviluppare-il-senso-del-lavoro-condiviso-rete</a>
+    <a href="http://www.slideshare.net/innosicilia/10-spataro-ciroopendatasociety" target="_blank">www.slideshare.net/innosicilia/10-spataro-ciroopendatasociety</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1Tao1dny6BXvxldMal9uKOVrQ3yHogZseoBMYb_fXyAA/edit#gid=0" target="_blank">https://docs.google.com/spreadsheets/d/1Tao1dny6BXvxldMal9uKOVrQ3yHogZseoBMYb_fXyAA/edit#gid=0</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://pubwiki.agid.gov.it/index.php?title=Discussione:Linee_Guida_Community_Editing&oldid=158" target="_blank">http://pubwiki.agid.gov.it/index.php?title=Discussione:Linee_Guida_Community_Editing&oldid=158</a>
+    <a href="http://commenta.formez.it/ch/PianoCulturaDigitale/admin?id=0&t=users" target="_blank">http://commenta.formez.it/ch/PianoCulturaDigitale/admin?id=0&t=users</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://ideario.formez.it/content/rendere-luso-degli-opendata-il-motore-di-nuovi-servizi-e-di-nuova-economia-sicilia" target="_blank">http://ideario.formez.it/content/rendere-luso-degli-opendata-il-motore-di-nuovi-servizi-e-di-nuova-economia-sicilia</a>
+    <a href="http://ideario.formez.it/content/usare-semplici-strumenti-di-cloud-x-sviluppare-il-senso-del-lavoro-condiviso-rete" target="_blank">http://ideario.formez.it/content/usare-semplici-strumenti-di-cloud-x-sviluppare-il-senso-del-lavoro-condiviso-rete</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://www.euroinfosicilia.it/programmazione-20142020/open-fesr-percorso-di-consultazione-pubblica-online/" target="_blank">http://www.euroinfosicilia.it/programmazione-20142020/open-fesr-percorso-di-consultazione-pubblica-online/</a>
+    <a href="https://docs.google.com/spreadsheets/d/1Tao1dny6BXvxldMal9uKOVrQ3yHogZseoBMYb_fXyAA/edit#gid=0" target="_blank">https://docs.google.com/spreadsheets/d/1Tao1dny6BXvxldMal9uKOVrQ3yHogZseoBMYb_fXyAA/edit#gid=0</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://www.euroinfosicilia.it/?attachment_id=132649" target="_blank">OpenFesr_Report_Finale_Ideario</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://commenta.formez.it/ch/openfesr/?id_speech=82" target="_blank">http://commenta.formez.it/ch/openfesr/?id_speech=82</a>
+    <a href="http://pubwiki.agid.gov.it/index.php?title=Discussione:Linee_Guida_Community_Editing&oldid=158" target="_blank">http://pubwiki.agid.gov.it/index.php?title=Discussione:Linee_Guida_Community_Editing&oldid=158</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://commenta.formez.it/ch/openfesr/?id_speech=91" target="_blank">http://commenta.formez.it/ch/openfesr/?id_speech=91</a>
+    <a href="http://ideario.formez.it/content/rendere-luso-degli-opendata-il-motore-di-nuovi-servizi-e-di-nuova-economia-sicilia" target="_blank">http://ideario.formez.it/content/rendere-luso-degli-opendata-il-motore-di-nuovi-servizi-e-di-nuova-economia-sicilia</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://www.innovatoripa.it/strategia-innovazione-sicilia/discussione/tavolo-tematico-smart-cities-communities#comment-25413" target="_blank">http://www.innovatoripa.it/strategia-innovazione-sicilia/discussione/tavolo-tematico-smart-cities-communities#comment-25413</a>
+    <a href="http://www.euroinfosicilia.it/programmazione-20142020/open-fesr-percorso-di-consultazione-pubblica-online/" target="_blank">http://www.euroinfosicilia.it/programmazione-20142020/open-fesr-percorso-di-consultazione-pubblica-online/</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://docs.google.com/document/d/10dQnvDwvb1fiHkfoWSYeA1vLVeJjqivAREcP6vokTeo/edit" target="_blank">https://docs.google.com/document/d/10dQnvDwvb1fiHkfoWSYeA1vLVeJjqivAREcP6vokTeo/edit</a>
+    <a href="http://www.euroinfosicilia.it/?attachment_id=132649" target="_blank">OpenFesr_Report_Finale_Ideario</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://eventipa.formez.it/node/22587" target="_blank">12/06/2014: La cittadinanza digitale</a>
+    <a href="http://commenta.formez.it/ch/openfesr/?id_speech=82" target="_blank">http://commenta.formez.it/ch/openfesr/?id_speech=82</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://eventipa.formez.it/node/23356" target="_blank">19/06/2014: Le nuove professioni digitali - 26/06/2014: La e-leadership</a>
+    <a href="http://commenta.formez.it/ch/openfesr/?id_speech=91" target="_blank">http://commenta.formez.it/ch/openfesr/?id_speech=91</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://eventipa.formez.it/node/24145" target="_blank">03/07/2014: Competenze digitali per la PA - 17/07/2014: L'inclusione digitale</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://www.innovatoripa.it/posts/2014/06/5360/al-il-12-giugno-il-ciclo-di-webinar-su-cultura-digitale" target="_blank">http://www.innovatoripa.it/posts/2014/06/5360/al-il-12-giugno-il-ciclo-di-webinar-su-cultura-digitale</a>
+    <a href="http://www.innovatoripa.it/strategia-innovazione-sicilia/discussione/tavolo-tematico-smart-cities-communities#comment-25413" target="_blank">http://www.innovatoripa.it/strategia-innovazione-sicilia/discussione/tavolo-tematico-smart-cities-communities#comment-25413</a>
 
 .. |LINK32| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?id=4378" target="_blank">http://www.comune.palermo.it/noticext.php?id=4378</a>
+    <a href="https://docs.google.com/document/d/10dQnvDwvb1fiHkfoWSYeA1vLVeJjqivAREcP6vokTeo/edit" target="_blank">https://docs.google.com/document/d/10dQnvDwvb1fiHkfoWSYeA1vLVeJjqivAREcP6vokTeo/edit</a>
 
 .. |LINK33| raw:: html
 
-    <a href="http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/" target="_blank">http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/</a>
+    <a href="http://eventipa.formez.it/node/22587" target="_blank">12/06/2014: La cittadinanza digitale</a>
 
 .. |LINK34| raw:: html
 
-    <a href="http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703" target="_blank">http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703</a>
+    <a href="http://eventipa.formez.it/node/23356" target="_blank">19/06/2014: Le nuove professioni digitali - 26/06/2014: La e-leadership</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://play.google.com/store/apps/details?id=it.xtremesoftware.ioriciclo&hl=it" target="_blank">https://play.google.com/store/apps/details?id=it.xtremesoftware.ioriciclo&hl=it</a>
+    <a href="http://eventipa.formez.it/node/24145" target="_blank">03/07/2014: Competenze digitali per la PA - 17/07/2014: L'inclusione digitale</a>
 
 .. |LINK36| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?id=4578" target="_blank">http://www.comune.palermo.it/noticext.php?id=4578</a>
+    <a href="http://www.innovatoripa.it/posts/2014/06/5360/al-il-12-giugno-il-ciclo-di-webinar-su-cultura-digitale" target="_blank">http://www.innovatoripa.it/posts/2014/06/5360/al-il-12-giugno-il-ciclo-di-webinar-su-cultura-digitale</a>
 
 .. |LINK37| raw:: html
 
-    <a href="http://www.citadelonthemove.eu/" target="_blank">www.citadelonthemove.eu</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://docs.google.com/document/d/1sIjTcHqQM6Epu5ZpbEDSVKqeiKywp3uQ7CKLk3zTcbw/edit" target="_blank">https://docs.google.com/document/d/1sIjTcHqQM6Epu5ZpbEDSVKqeiKywp3uQ7CKLk3zTcbw/edit</a>
+    <a href="http://www.comune.palermo.it/noticext.php?id=4378" target="_blank">http://www.comune.palermo.it/noticext.php?id=4378</a>
 
 .. |LINK39| raw:: html
 
-    <a href="http://www.innovatoripa.it/posts/2014/07/5818/app4dummies-di-opendata-ne-capiscono-pi%C3%B9-di-quanto-immaginassi" target="_blank">http://www.innovatoripa.it/posts/2014/07/5818/app4dummies-di-opendata-ne-capiscono-pi%C3%B9-di-quanto-immaginassi</a>
+    <a href="http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/" target="_blank">http://opendatasicilia.it/2014/07/14/prima-giornata-della-trasparenza-e-della-partecipazione-del-comune-di-palermo/</a>
 
 .. |LINK40| raw:: html
 
-    <a href="http://opendatasicilia.it/2014/07/28/app4dummies-opendata-per-allinizio-come-andata/" target="_blank">http://opendatasicilia.it/2014/07/28/app4dummies-opendata-per-allinizio-come-andata/</a>
+    <a href="http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703" target="_blank">http://www.rosalio.it/2014/07/09/partecipazione-e-trasparenza-a-palermo-larte-del-non-fare/#comment-1349703</a>
 
 .. |LINK41| raw:: html
 
-    <a href="http://eventipa.formez.it/node/29227" target="_blank">http://eventipa.formez.it/node/29227</a>
+    <a href="https://play.google.com/store/apps/details?id=it.xtremesoftware.ioriciclo&hl=it" target="_blank">https://play.google.com/store/apps/details?id=it.xtremesoftware.ioriciclo&hl=it</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://sites.google.com/site/opendatapalermo/home/materiali-didattici" target="_blank">video tutorial sugli open data</a>
+    <a href="http://www.comune.palermo.it/noticext.php?id=4578" target="_blank">http://www.comune.palermo.it/noticext.php?id=4578</a>
 
 .. |LINK43| raw:: html
 
-    <a href="http://osservatoriosmartcity.it/meetyoungcities-lavviso-pubblico-progetti-di-innovazione-sociale-nei-comuni-dellosservatorio-nazionale-anci-smart-city/" target="_blank">MeetYoungCities</a>
+    <a href="http://www.citadelonthemove.eu/" target="_blank">www.citadelonthemove.eu</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiNHVldERwVmxNXzA/view?usp=sharing" target="_blank">Deliberazione di GM 208 del 28.11.2014</a>
+    <a href="https://docs.google.com/document/d/1sIjTcHqQM6Epu5ZpbEDSVKqeiKywp3uQ7CKLk3zTcbw/edit" target="_blank">https://docs.google.com/document/d/1sIjTcHqQM6Epu5ZpbEDSVKqeiKywp3uQ7CKLk3zTcbw/edit</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/opendata.php" target="_blank">portale istituzionale online sugli open data</a>
+    <a href="http://www.innovatoripa.it/posts/2014/07/5818/app4dummies-di-opendata-ne-capiscono-pi%C3%B9-di-quanto-immaginassi" target="_blank">http://www.innovatoripa.it/posts/2014/07/5818/app4dummies-di-opendata-ne-capiscono-pi%C3%B9-di-quanto-immaginassi</a>
 
 .. |LINK46| raw:: html
 
-    <a href="http://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">Linee Guida comunali</a>
+    <a href="http://opendatasicilia.it/2014/07/28/app4dummies-opendata-per-allinizio-come-andata/" target="_blank">http://opendatasicilia.it/2014/07/28/app4dummies-opendata-per-allinizio-come-andata/</a>
 
 .. |LINK47| raw:: html
 
-    <a href="http://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">Linee Guida comunali sugli open data</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK48| raw:: html
 
-    <a href="http://opendatasicilia.it/2015/02/23/la-pragmaticita-scena-oddit15/" target="_blank">http://opendatasicilia.it/2015/02/23/la-pragmaticita-scena-oddit15/</a>
+    <a href="http://eventipa.formez.it/node/29227" target="_blank">http://eventipa.formez.it/node/29227</a>
 
 .. |LINK49| raw:: html
 
-    <a href="https://sites.google.com/site/opendatapalermo/" target="_blank">https://sites.google.com/site/opendatapalermo/</a>
+    <a href="https://sites.google.com/site/opendatapalermo/home/materiali-didattici" target="_blank">video tutorial sugli open data</a>
 
 .. |LINK50| raw:: html
 
-    <a href="http://saperi.forumpa.it/story/104376/prevenire-la-corruzione-nella-pa-dal-12-febbraio-terzo-ciclo-di-webinar" target="_blank">http://saperi.forumpa.it/story/104376/prevenire-la-corruzione-nella-pa-dal-12-febbraio-terzo-ciclo-di-webinar</a>
+    <a href="http://osservatoriosmartcity.it/meetyoungcities-lavviso-pubblico-progetti-di-innovazione-sociale-nei-comuni-dellosservatorio-nazionale-anci-smart-city/" target="_blank">MeetYoungCities</a>
 
 .. |LINK51| raw:: html
 
-    <a href="http://www.agendadigitale.regione.lombardia.it/cs/Satellite?c=Page&childpagename=DG_01%2FMILayout&cid=1213474652963&packedargs=TemplateDestinazione%3DMIRedazionaleDettaglio2Col%26assetid%3D1213716503443%26assettype%3DRedazionale_P&pagename=DG_01Wrapper" target="_blank">Fatturazione elettronica e ulteriori adempimenti normativi ad elevato impatto per gli EE.LL.</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiNHVldERwVmxNXzA/view?usp=sharing" target="_blank">Deliberazione di GM 208 del 28.11.2014</a>
 
 .. |LINK52| raw:: html
 
-    <a href="http://www.entionline.it/j17/SEGR/Delibera_G.C._-_Piano_di_informatizzazione.pdf" target="_blank">http://www.entionline.it/j17/SEGR/Delibera_G.C._-_Piano_di_informatizzazione.pdf</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK53| raw:: html
 
-    <a href="http://autonomielocali.regione.fvg.it/aall/opencms/AALL/SIAL/Piano_informatizzazione_ex_art_24_dl_90/index.html" target="_blank">http://autonomielocali.regione.fvg.it/aall/opencms/AALL/SIAL/Piano_informatizzazione_ex_art_24_dl_90/index.html</a>
+    <a href="https://opendata.comune.palermo.it/opendata.php" target="_blank">portale istituzionale online sugli open data</a>
 
 .. |LINK54| raw:: html
 
-    <a href="http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/calls/h2020-euro-6-2015.html#tab2" target="_blank">H2020-EURO-6-2015</a>
+    <a href="http://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">Linee Guida comunali</a>
 
 .. |LINK55| raw:: html
 
-    <a href="http://libreoffice-roadshow.it/" target="_blank">http://libreoffice-roadshow.it/</a>
+    <a href="http://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">Linee Guida comunali sugli open data</a>
 
 .. |LINK56| raw:: html
 
-    <a href="http://eventipa.formez.it/node/48879" target="_blank">http://eventipa.formez.it/node/48879</a>
+    <a href="http://opendatasicilia.it/2015/02/23/la-pragmaticita-scena-oddit15/" target="_blank">http://opendatasicilia.it/2015/02/23/la-pragmaticita-scena-oddit15/</a>
 
 .. |LINK57| raw:: html
 
-    <a href="http://eventipa.formez.it/node/49185" target="_blank">http://eventipa.formez.it/node/49185</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK58| raw:: html
 
-    <a href="http://eventipa.formez.it/node/57584" target="_blank">e-leadership</a>
+    <a href="https://sites.google.com/site/opendatapalermo/" target="_blank">https://sites.google.com/site/opendatapalermo/</a>
 
 .. |LINK59| raw:: html
 
-    <a href="http://eventipa.formez.it/node/57587" target="_blank">http://eventipa.formez.it/node/57587</a>
+    <a href="http://saperi.forumpa.it/story/104376/prevenire-la-corruzione-nella-pa-dal-12-febbraio-terzo-ciclo-di-webinar" target="_blank">http://saperi.forumpa.it/story/104376/prevenire-la-corruzione-nella-pa-dal-12-febbraio-terzo-ciclo-di-webinar</a>
 
 .. |LINK60| raw:: html
 
-    <a href="http://www.comune.palermo.it/js/server/uploads/opendata/VerbaleriunioneTeamOpenDataComunePalermo11dic2015.pdf" target="_blank">Redazione del Verbale della 2° riunione del Team Open Data 2015</a>
+    <a href="http://www.agendadigitale.regione.lombardia.it/cs/Satellite?c=Page&childpagename=DG_01%2FMILayout&cid=1213474652963&packedargs=TemplateDestinazione%3DMIRedazionaleDettaglio2Col%26assetid%3D1213716503443%26assettype%3DRedazionale_P&pagename=DG_01Wrapper" target="_blank">Fatturazione elettronica e ulteriori adempimenti normativi ad elevato impatto per gli EE.LL.</a>
 
 .. |LINK61| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiU2dKbVBteE5NRTQ/view?usp=sharing" target="_blank">Delibera Adesione</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK62| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1FpWZFXiIm0kE0iJ3gZL8nACdG-pKkqCQra_eTOEL_x0" target="_blank">database</a>
+    <a href="http://www.entionline.it/j17/SEGR/Delibera_G.C._-_Piano_di_informatizzazione.pdf" target="_blank">http://www.entionline.it/j17/SEGR/Delibera_G.C._-_Piano_di_informatizzazione.pdf</a>
 
 .. |LINK63| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/palermo-mobilita-sostenibile-2016_64782" target="_blank">Redazione della mappa della mobilità sostenibile di Palermo dal 2016</a>
+    <a href="http://autonomielocali.regione.fvg.it/aall/opencms/AALL/SIAL/Piano_informatizzazione_ex_art_24_dl_90/index.html" target="_blank">http://autonomielocali.regione.fvg.it/aall/opencms/AALL/SIAL/Piano_informatizzazione_ex_art_24_dl_90/index.html</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.b9f5aujl4" target="_blank">https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.b9f5aujl4</a>
+    <a href="http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/calls/h2020-euro-6-2015.html#tab2" target="_blank">H2020-EURO-6-2015</a>
 
 .. |LINK65| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/palermo-accessibile_76608" target="_blank">1</a>
+    <a href="http://libreoffice-roadshow.it/" target="_blank">http://libreoffice-roadshow.it/</a>
 
 .. |LINK66| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/accessibilita-ai-disabili-dei-siti-a-palermo_78549" target="_blank">2</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK67| raw:: html
 
-    <a href="https://turismo.comune.palermo.it/turismo-accessibile.php" target="_blank">la mappa istituzionale sul portale web del turismo</a>
+    <a href="http://eventipa.formez.it/node/48879" target="_blank">http://eventipa.formez.it/node/48879</a>
 
 .. |LINK68| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/at-palermo_71124" target="_blank">ANELLO TELEMATICO</a>
+    <a href="http://eventipa.formez.it/node/49185" target="_blank">http://eventipa.formez.it/node/49185</a>
 
 .. |LINK69| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/palermo-uffici-comunali_32944" target="_blank">uffici comunali (mappa)</a>
+    <a href="http://eventipa.formez.it/node/57584" target="_blank">e-leadership</a>
 
 .. |LINK70| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/piano-protezione-civile-palermo-da-open-data-comun_89239" target="_blank">mappa informativa georeferenziata del Piano di Emergenza della Protezione Civile di Palermo</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK71| raw:: html
 
-    <a href="https://www.comune.palermo.it/opendata_dld.php?id=351" target="_blank">open data comunali</a>
+    <a href="http://eventipa.formez.it/node/57587" target="_blank">http://eventipa.formez.it/node/57587</a>
 
 .. |LINK72| raw:: html
 
-    <a href="https://www.comune.palermo.it/mappetematiche.php" target="_blank">mappe tematiche</a>
+    <a href="http://www.comune.palermo.it/js/server/uploads/opendata/VerbaleriunioneTeamOpenDataComunePalermo11dic2015.pdf" target="_blank">Redazione del Verbale della 2° riunione del Team Open Data 2015</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://docs.google.com/document/d/1pRThYRQWwPjTuLAE43DUdGR1IL4fgPsEWszOB-wXmDM" target="_blank">mentor comunale</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiU2dKbVBteE5NRTQ/view?usp=sharing" target="_blank">Delibera Adesione</a>
 
 .. |LINK74| raw:: html
 
-    <a href="http://www.comune.palermo.it/noticext.php?cat=1&id=9979" target="_blank">http://www.comune.palermo.it/noticext.php?cat=1&id=9979</a>
+    <a href="https://docs.google.com/spreadsheets/d/1FpWZFXiIm0kE0iJ3gZL8nACdG-pKkqCQra_eTOEL_x0" target="_blank">database</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.syhlfjsmd" target="_blank">https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.syhlfjsmd</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK76| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/opendata/Verbale_riunione_Team_OpenData_Comune_Palermo_1giugno2016.pdf" target="_blank">redazione del Verbale</a>
+    <a href="http://umap.openstreetmap.fr/it/map/palermo-mobilita-sostenibile-2016_64782" target="_blank">Redazione della mappa della mobilità sostenibile di Palermo dal 2016</a>
 
 .. |LINK77| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NianRKYjA2SkpWZW8/view?usp=sharing" target="_blank">Protocollo di Intesa Comune Palermo e Istituto Professionale Luigi Einaudi di Palermo per la diffusione della cultura sugli open data</a>
+    <a href="https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.b9f5aujl4" target="_blank">https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.b9f5aujl4</a>
 
 .. |LINK78| raw:: html
 
-    <a href="http://www.forumpa.it/pa-digitale/palermo-storie-umane-di-percorsi-open-data" target="_blank">Report dei lavori di collaborazione</a>
+    <a href="http://umap.openstreetmap.fr/it/map/palermo-accessibile_76608" target="_blank">1</a>
 
 .. |LINK79| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=11104" target="_blank">adesione del Comune di Palermo</a>
+    <a href="http://umap.openstreetmap.fr/it/map/accessibilita-ai-disabili-dei-siti-a-palermo_78549" target="_blank">2</a>
 
 .. |LINK80| raw:: html
 
-    <a href="http://wikilovesmonuments.wikimedia.it/" target="_blank">Wiki loves monuments Italia 2016</a>
+    <a href="https://turismo.comune.palermo.it/turismo-accessibile.php" target="_blank">la mappa istituzionale sul portale web del turismo</a>
 
 .. |LINK81| raw:: html
 
-    <a href="http://opendatasicilia.it/2016/08/02/palermo-aderisce-wiki-loves-monuments-italia/" target="_blank">Elenco siti comunali (con geolocalizzazione)</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK82| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/beni-monumentali-artistici-di-proprieta-o-gestione_89593" target="_blank">Mappa siti comunali</a>
+    <a href="http://umap.openstreetmap.fr/it/map/at-palermo_71124" target="_blank">ANELLO TELEMATICO</a>
 
 .. |LINK83| raw:: html
 
-    <a href="http://www.anci.sicilia.it/2016/06/14/prevenzione-contrasto-dei-crimini-informatici-sottoscritto-protocollo-dintesa-lancisicilia-la-polizia-postale/" target="_blank">adesione del Comune di Palermo</a>
+    <a href="http://umap.openstreetmap.fr/it/map/palermo-uffici-comunali_32944" target="_blank">uffici comunali (mappa)</a>
 
 .. |LINK84| raw:: html
 
-    <a href="http://www.anci.sicilia.it/wp-content/uploads/Protocollo-dIntesa-Ancisicilia-Polizia-Postale.pdf" target="_blank">Protocollo Anci Sicilia-Polizia di Stato per la prevenzione dei crimini informatici</a>
+    <a href="http://umap.openstreetmap.fr/it/map/piano-protezione-civile-palermo-da-open-data-comun_89239" target="_blank">mappa informativa georeferenziata del Piano di Emergenza della Protezione Civile di Palermo</a>
 
 .. |LINK85| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3Nic04wWXBpWUY1aW8/view?usp=sharing" target="_blank">Deliberazione GM 131 del 20.07.2016</a>
+    <a href="https://www.comune.palermo.it/opendata_dld.php?id=351" target="_blank">open data comunali</a>
 
 .. |LINK86| raw:: html
 
-    <a href="http://www.anci.sicilia.it/protocollo-dintesa-ancisicilia-polizia-postale/" target="_blank">Protocollo e Modulo Adesione</a>
+    <a href="https://www.comune.palermo.it/mappetematiche.php" target="_blank">mappe tematiche</a>
 
 .. |LINK87| raw:: html
 
-    <a href="http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/" target="_blank">3° Piano di Azione Nazionale dell'OGP (Open Government Partnership)</a>
+    <a href="https://docs.google.com/document/d/1pRThYRQWwPjTuLAE43DUdGR1IL4fgPsEWszOB-wXmDM" target="_blank">mentor comunale</a>
 
 .. |LINK88| raw:: html
 
-    <a href="https://ec.europa.eu/inea/en/connecting-europe-facility/cef-telecom/apply-funding/2016-cef-telecom-call-pod-cef-tc-2016-2" target="_blank">Call: 2016 CEF Telecom Call - Public Open Data (CEF-TC-2016-2)</a>
+    <a href="http://www.comune.palermo.it/noticext.php?cat=1&id=9979" target="_blank">http://www.comune.palermo.it/noticext.php?cat=1&id=9979</a>
 
 .. |LINK89| raw:: html
 
-    <a href="http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/ds-02-2016.html" target="_blank">Call: H2020-DS-2016-2017 - Cyber Security for SMEs, local public administration and Individuals</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK90| raw:: html
 
-    <a href="http://opendatasicilia.it" target="_blank">http://opendatasicilia.it</a>
+    <a href="https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.syhlfjsmd" target="_blank">https://medium.com/@cirospat/opendataday-2016-palermo-una-giovane-storia-di-dati-9cbfecda3ab2#.syhlfjsmd</a>
 
 .. |LINK91| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/mappa-dei-partecipanti-a-opendatasicilia-2-4_sett__100758" target="_blank">mappa</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/opendata/Verbale_riunione_Team_OpenData_Comune_Palermo_1giugno2016.pdf" target="_blank">redazione del Verbale</a>
 
 .. |LINK92| raw:: html
 
-    <a href="https://www.europeandataportal.eu/" target="_blank">www.europeandataportal.eu</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NianRKYjA2SkpWZW8/view?usp=sharing" target="_blank">Protocollo di Intesa Comune Palermo e Istituto Professionale Luigi Einaudi di Palermo per la diffusione della cultura sugli open data</a>
 
 .. |LINK93| raw:: html
 
-    <a href="http://opendatasicilia.it/2016/09/21/ods16-3-giorni-eventi-messina-contaminarsi-la-cultura-operativa-degli-open-data/" target="_blank">http://opendatasicilia.it/2016/09/21/ods16-3-giorni-eventi-messina-contaminarsi-la-cultura-operativa-degli-open-data/</a>
+    <a href="http://www.forumpa.it/pa-digitale/palermo-storie-umane-di-percorsi-open-data" target="_blank">Report dei lavori di collaborazione</a>
 
 .. |LINK94| raw:: html
 
-    <a href="http://www.biggerdata.it/" target="_blank">www.biggerdata.it</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK95| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0" target="_blank">https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=11104" target="_blank">adesione del Comune di Palermo</a>
 
 .. |LINK96| raw:: html
 
-    <a href="https://www.facebook.com/events/528674317334934/" target="_blank">Nuove tecnologie per la fruizione dei musei ai non vedenti</a>
+    <a href="http://wikilovesmonuments.wikimedia.it/" target="_blank">Wiki loves monuments Italia 2016</a>
 
 .. |LINK97| raw:: html
 
-    <a href="https://www.facebook.com/gruppoarte16/" target="_blank">GruppoArte16</a>
+    <a href="http://opendatasicilia.it/2016/08/02/palermo-aderisce-wiki-loves-monuments-italia/" target="_blank">Elenco siti comunali (con geolocalizzazione)</a>
 
 .. |LINK98| raw:: html
 
-    <a href="http://bit.ly/opendataneiserviziadisabili" target="_blank">bit.ly/opendataneiserviziadisabili</a>
+    <a href="http://umap.openstreetmap.fr/it/map/beni-monumentali-artistici-di-proprieta-o-gestione_89593" target="_blank">Mappa siti comunali</a>
 
 .. |LINK99| raw:: html
 
-    <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_1831821849.html" target="_blank">Rassegna stampa</a>
+    <a href="http://www.anci.sicilia.it/2016/06/14/prevenzione-contrasto-dei-crimini-informatici-sottoscritto-protocollo-dintesa-lancisicilia-la-polizia-postale/" target="_blank">adesione del Comune di Palermo</a>
 
 .. |LINK100| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiWGRpZzVCeEdPZEhLcVU0ZkR4WUluVVdwX25v/view?usp=sharing" target="_blank">Deliberazione di GM 234 del 24-11-2016 per l'adesione del Comune di Palermo al partenariato di progetto con l'Istituto Professionale Einaudi Pareto di Palermo per la partecipazione al bando MIUR</a>
+    <a href="http://www.anci.sicilia.it/wp-content/uploads/Protocollo-dIntesa-Ancisicilia-Polizia-Postale.pdf" target="_blank">Protocollo Anci Sicilia-Polizia di Stato per la prevenzione dei crimini informatici</a>
 
 .. |LINK101| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=4&id=12540" target="_blank">seconda giornata delle trasparenza e open data del Comune di Palermo</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3Nic04wWXBpWUY1aW8/view?usp=sharing" target="_blank">Deliberazione GM 131 del 20.07.2016</a>
 
 .. |LINK102| raw:: html
 
-    <a href="https://www.facebook.com/andreaborruso" target="_blank">Andrea Borruso</a>
+    <a href="http://www.anci.sicilia.it/protocollo-dintesa-ancisicilia-polizia-postale/" target="_blank">Protocollo e Modulo Adesione</a>
 
 .. |LINK103| raw:: html
 
-    <a href="https://www.facebook.com/daniele.mondello" target="_blank">Daniele Mondello</a>
+    <a href="http://open.gov.it/partecipa/consultazioni-attive/consultazione-terzo-nap/" target="_blank">3° Piano di Azione Nazionale dell'OGP (Open Government Partnership)</a>
 
 .. |LINK104| raw:: html
 
-    <a href="https://www.facebook.com/peppepace" target="_blank">Giuseppe Pace</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK105| raw:: html
 
-    <a href="http://www.slideshare.net/DanieleMondello/openamat-giornata-trasparenza-2016" target="_blank">http://www.slideshare.net/…/openamat-giornata-trasparenza-2…</a>
+    <a href="https://ec.europa.eu/inea/en/connecting-europe-facility/cef-telecom/apply-funding/2016-cef-telecom-call-pod-cef-tc-2016-2" target="_blank">Call: 2016 CEF Telecom Call - Public Open Data (CEF-TC-2016-2)</a>
 
 .. |LINK106| raw:: html
 
-    <a href="http://slides.com/cirospat/opendata_2_day_trasparenza_2016_palermo/live#/" target="_blank">http://slides.com/…/opendata_2_day_trasparenza_2016_p…/live…</a>
+    <a href="http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/ds-02-2016.html" target="_blank">Call: H2020-DS-2016-2017 - Cyber Security for SMEs, local public administration and Individuals</a>
 
 .. |LINK107| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/16B_xg3MXkpReZi7QbrNZOqdEhatAC3xwlvxzNTHolJQ/edit#slide=id.p" target="_blank">https://docs.google.com/…/16B_xg3MXkpReZi7QbrNZOqdEha…/edit…</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK108| raw:: html
 
-    <a href="https://www.comune.palermo.it/polizia_municipale.php?sel=2&asel=25" target="_blank">https://www.comune.palermo.it/polizia_municipale.php… https://www.comune.palermo.it/polizia_municipale.php?sel=16</a>
+    <a href="http://opendatasicilia.it" target="_blank">http://opendatasicilia.it</a>
 
 .. |LINK109| raw:: html
 
-    <a href="http://slides.com/dataninja/i-dati-come-come-fertilizzanti-naturali/fullscreen#/" target="_blank">http://slides.com/…/i-dati-come-come-fertilizza…/fullscreen…</a>
+    <a href="http://umap.openstreetmap.fr/it/map/mappa-dei-partecipanti-a-opendatasicilia-2-4_sett__100758" target="_blank">mappa</a>
 
 .. |LINK110| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/opendata/verbale_riunione_team_open_data_Comune_Palermo_21_dic_2016.pdf" target="_blank">Verbale</a>
+    <a href="https://www.europeandataportal.eu/" target="_blank">www.europeandataportal.eu</a>
 
 .. |LINK111| raw:: html
 
-    <a href="http://odswinter.opendatasicilia.it/" target="_blank">http://odswinter.opendatasicilia.it/</a>
+    <a href="http://opendatasicilia.it/2016/09/21/ods16-3-giorni-eventi-messina-contaminarsi-la-cultura-operativa-degli-open-data/" target="_blank">http://opendatasicilia.it/2016/09/21/ods16-3-giorni-eventi-messina-contaminarsi-la-cultura-operativa-degli-open-data/</a>
 
 .. |LINK112| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/opendata/verbale_riunione_team_open_data_Comune_Palermo_21_dic_2016.pdf" target="_blank">Verbale</a>
+    <a href="http://www.biggerdata.it/" target="_blank">www.biggerdata.it</a>
 
 .. |LINK113| raw:: html
 
-    <a href="https://medium.com/@cirospat/palermo-2017-2023-riqualificazione-e-innovazione-52a79be3336a#.wp9opt7yl" target="_blank">database di tutte le opere previste da 3 Programmi per la riqualificazione e innovazione del territorio comunale di Palermo</a>
+    <a href="https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0" target="_blank">https://docs.google.com/presentation/d/1t3c8s873HgSUgMGv9MubI8p2DTeuB0AkrbfHUSh4Hn0</a>
 
 .. |LINK114| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">linee guida comunali open data</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK115| raw:: html
 
-    <a href="http://www.dati.gov.it/content/dcat-ap_it_v10" target="_blank">DCAT_AP_IT</a>
+    <a href="https://www.facebook.com/events/528674317334934/" target="_blank">Nuove tecnologie per la fruizione dei musei ai non vedenti</a>
 
 .. |LINK116| raw:: html
 
-    <a href="http://www.dati.gov.it/sites/default/files/LG2016_0.pdf" target="_blank">Linee guida nazionali</a>
+    <a href="https://www.facebook.com/gruppoarte16/" target="_blank">GruppoArte16</a>
 
 .. |LINK117| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13143" target="_blank">pubblicazione online di un documento bozza per permettere la partecipazione al percorso di aggiornamento delle linee guida</a>
+    <a href="http://bit.ly/opendataneiserviziadisabili" target="_blank">bit.ly/opendataneiserviziadisabili</a>
 
 .. |LINK118| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13257" target="_blank">8 febbraio 2017</a>
+    <a href="http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Comunicati/visualizza_asset.html_1831821849.html" target="_blank">Rassegna stampa</a>
 
 .. |LINK119| raw:: html
 
-    <a href="https://www.comune.palermo.it/capitale_giovani_2017.php" target="_blank">www.comune.palermo.it/capitale_giovani_2017.php</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiWGRpZzVCeEdPZEhLcVU0ZkR4WUluVVdwX25v/view?usp=sharing" target="_blank">Deliberazione di GM 234 del 24-11-2016 per l'adesione del Comune di Palermo al partenariato di progetto con l'Istituto Professionale Einaudi Pareto di Palermo per la partecipazione al bando MIUR</a>
 
 .. |LINK120| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1fXPwrBHHYxhr3LsF8UidcNwCpQG4w4rqXw9Uhy4wSeQ/edit#gid=164292727" target="_blank">un database</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK121| raw:: html
 
-    <a href="https://docs.google.com/document/d/10NbPRA3Voitmau6ZfLWLbQmZK1sbRuzgenkMyLSxUQo/edit" target="_blank">report del Tavolo tematico Innovazione Tecnologica e Vivibilità</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=4&id=12540" target="_blank">seconda giornata delle trasparenza e open data del Comune di Palermo</a>
 
 .. |LINK122| raw:: html
 
-    <a href="https://comunipilota.slack.com" target="_blank">https://comunipilota.slack.com</a>
+    <a href="https://www.facebook.com/andreaborruso" target="_blank">Andrea Borruso</a>
 
 .. |LINK123| raw:: html
 
-    <a href="https://teamdigitale.governo.it/" target="_blank">Team per la Trasformazione Digitale AgID</a>
+    <a href="https://www.facebook.com/daniele.mondello" target="_blank">Daniele Mondello</a>
 
 .. |LINK124| raw:: html
 
-    <a href="https://comunipilota.slack.com/messages/prj_daf/details/" target="_blank">DAF</a>
+    <a href="https://www.facebook.com/peppepace" target="_blank">Giuseppe Pace</a>
 
 .. |LINK125| raw:: html
 
-    <a href="https://docs.google.com/document/d/1anHmbpaDMYyGeUjBb-jkthjVl4-o2cw4HzJs6OJZ_EA" target="_blank">https://docs.google.com/document/d/1anHmbpaDMYyGeUjBb-jkthjVl4-o2cw4HzJs6OJZ_EA</a>
+    <a href="http://www.slideshare.net/DanieleMondello/openamat-giornata-trasparenza-2016" target="_blank">http://www.slideshare.net/…/openamat-giornata-trasparenza-2…</a>
 
 .. |LINK126| raw:: html
 
-    <a href="https://comunipilota.slack.com" target="_blank">https://comunipilota.slack.com</a>
+    <a href="http://slides.com/cirospat/opendata_2_day_trasparenza_2016_palermo/live#/" target="_blank">http://slides.com/…/opendata_2_day_trasparenza_2016_p…/live…</a>
 
 .. |LINK127| raw:: html
 
-    <a href="https://teamdigitale.governo.it/" target="_blank">Team per la Trasformazione Digitale AgID</a>
+    <a href="https://docs.google.com/presentation/d/16B_xg3MXkpReZi7QbrNZOqdEhatAC3xwlvxzNTHolJQ/edit#slide=id.p" target="_blank">https://docs.google.com/…/16B_xg3MXkpReZi7QbrNZOqdEha…/edit…</a>
 
 .. |LINK128| raw:: html
 
-    <a href="https://comunipilota.slack.com/messages/prj_spid/details/" target="_blank">SPID</a>
+    <a href="https://www.comune.palermo.it/polizia_municipale.php?sel=2&asel=25" target="_blank">https://www.comune.palermo.it/polizia_municipale.php… https://www.comune.palermo.it/polizia_municipale.php?sel=16</a>
 
 .. |LINK129| raw:: html
 
-    <a href="https://docs.google.com/document/d/1j7z0fJ_csDxzOF6NRuR-Mbi8Zpxu230pmbXs85jY05g" target="_blank">https://docs.google.com/document/d/1j7z0fJ_csDxzOF6NRuR-Mbi8Zpxu230pmbXs85jY05g</a>
+    <a href="http://slides.com/dataninja/i-dati-come-come-fertilizzanti-naturali/fullscreen#/" target="_blank">http://slides.com/…/i-dati-come-come-fertilizza…/fullscreen…</a>
 
 .. |LINK130| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13523" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=13523</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/opendata/verbale_riunione_team_open_data_Comune_Palermo_21_dic_2016.pdf" target="_blank">Verbale</a>
 
 .. |LINK131| raw:: html
 
-    <a href="http://www.consorzioarca.it/index.php/it/notizie-news/item/808-opendataday" target="_blank">evento</a>
+    <a href="http://odswinter.opendatasicilia.it/" target="_blank">http://odswinter.opendatasicilia.it/</a>
 
 .. |LINK132| raw:: html
 
-    <a href="https://attending.io/events/open-data-day-2017-palermo" target="_blank">Registrazione all'evento</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/opendata/verbale_riunione_team_open_data_Comune_Palermo_21_dic_2016.pdf" target="_blank">Verbale</a>
 
 .. |LINK133| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Le linee guida comunali Open Data versione 2017 partecipate</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK134| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/vulnerabilita-sismica-degli-edifici-residenziali-d_129514#14/38.1416/13.3634" target="_blank">realizzazione di una mappa con Open Data</a>
+    <a href="https://medium.com/@cirospat/palermo-2017-2023-riqualificazione-e-innovazione-52a79be3336a#.wp9opt7yl" target="_blank">database di tutte le opere previste da 3 Programmi per la riqualificazione e innovazione del territorio comunale di Palermo</a>
 
 .. |LINK135| raw:: html
 
-    <a href="https://www.comune.palermo.it/capitale_giovani_2017.php" target="_blank">https://www.comune.palermo.it/capitale_giovani_2017.php</a>
+    <a href="https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">linee guida comunali open data</a>
 
 .. |LINK136| raw:: html
 
-    <a href="https://docs.google.com/document/d/10NbPRA3Voitmau6ZfLWLbQmZK1sbRuzgenkMyLSxUQo" target="_blank">report</a>
+    <a href="http://www.dati.gov.it/content/dcat-ap_it_v10" target="_blank">DCAT_AP_IT</a>
 
 .. |LINK137| raw:: html
 
-    <a href="https://www.comune.palermo.it/pago-pa.php" target="_blank">https://www.comune.palermo.it/pago-pa.php</a>
+    <a href="http://www.dati.gov.it/sites/default/files/LG2016_0.pdf" target="_blank">Linee guida nazionali</a>
 
 .. |LINK138| raw:: html
 
-    <a href="http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici" target="_blank">PagoPA</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13143" target="_blank">pubblicazione online di un documento bozza per permettere la partecipazione al percorso di aggiornamento delle linee guida</a>
 
 .. |LINK139| raw:: html
 
-    <a href="http://www.dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0" target="_blank">profilo nazionale DCAT_AP_IT</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK140| raw:: html
 
-    <a href="http://www.dati.gov.it/content/linee-guida-nazionali-valorizzazione-patrimonio-informativo-pubblico-2016-0" target="_blank">inee guida nazionali per la valorizzazione del patrimonio informativo pubblico</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13257" target="_blank">8 febbraio 2017</a>
 
 .. |LINK141| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13143" target="_blank">rese disponibili per la pubblica consultazione e interazione nel febbraio e marzo 2017</a>
+    <a href="https://www.comune.palermo.it/capitale_giovani_2017.php" target="_blank">www.comune.palermo.it/capitale_giovani_2017.php</a>
 
 .. |LINK142| raw:: html
 
-    <a href="http://www.comunweb.it/" target="_blank">COMUNWEB</a>
+    <a href="https://docs.google.com/spreadsheets/d/1fXPwrBHHYxhr3LsF8UidcNwCpQG4w4rqXw9Uhy4wSeQ/edit#gid=164292727" target="_blank">un database</a>
 
 .. |LINK143| raw:: html
 
-    <a href="https://www.opencontent.it/Per-la-PA/OpenAgenda" target="_blank">Open Agenda per la collezione, gestione e pubblicazione degli eventi culturali nella città</a>
+    <a href="https://docs.google.com/document/d/10NbPRA3Voitmau6ZfLWLbQmZK1sbRuzgenkMyLSxUQo/edit" target="_blank">report del Tavolo tematico Innovazione Tecnologica e Vivibilità</a>
 
 .. |LINK144| raw:: html
 
-    <a href="https://hack.developers.italia.it/sedi/palermo/" target="_blank">https://hack.developers.italia.it/sedi/palermo/</a>
+    <a href="https://comunipilota.slack.com" target="_blank">https://comunipilota.slack.com</a>
 
 .. |LINK145| raw:: html
 
-    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/albums" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/albums</a>
+    <a href="https://teamdigitale.governo.it/" target="_blank">Team per la Trasformazione Digitale AgID</a>
 
 .. |LINK146| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it</a>
+    <a href="https://comunipilota.slack.com/messages/prj_daf/details/" target="_blank">DAF</a>
 
 .. |LINK147| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss" target="_blank">https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss</a>
+    <a href="https://docs.google.com/document/d/1anHmbpaDMYyGeUjBb-jkthjVl4-o2cw4HzJs6OJZ_EA" target="_blank">https://docs.google.com/document/d/1anHmbpaDMYyGeUjBb-jkthjVl4-o2cw4HzJs6OJZ_EA</a>
 
 .. |LINK148| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it</a>
+    <a href="https://comunipilota.slack.com" target="_blank">https://comunipilota.slack.com</a>
 
 .. |LINK149| raw:: html
 
-    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it</a>
+    <a href="https://teamdigitale.governo.it/" target="_blank">Team per la Trasformazione Digitale AgID</a>
 
 .. |LINK150| raw:: html
 
-    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/map" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/map</a>
+    <a href="https://comunipilota.slack.com/messages/prj_spid/details/" target="_blank">SPID</a>
 
 .. |LINK151| raw:: html
 
-    <a href="http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cert-pa/misure-minime-sicurezza-ict-pubbliche-amministrazioni" target="_blank">“Modello Implementazione” delle misure minime sicurezza ICT</a>
+    <a href="https://docs.google.com/document/d/1j7z0fJ_csDxzOF6NRuR-Mbi8Zpxu230pmbXs85jY05g" target="_blank">https://docs.google.com/document/d/1j7z0fJ_csDxzOF6NRuR-Mbi8Zpxu230pmbXs85jY05g</a>
 
 .. |LINK152| raw:: html
 
-    <a href="http://opendata.comune.palermo.it" target="_blank">http://opendata.comune.palermo.it</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK153| raw:: html
 
-    <a href="www.lapadigitale.it">www.lapadigitale.it</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13523" target="_blank">https://www.comune.palermo.it/noticext.php?cat=1&id=13523</a>
 
 .. |LINK154| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fidsportale.comune.palermo.it%2Fweb%2Fids%2Fbenvenuto%3Fp_p_state%3Dmaximized%26p_p_mode%3Dview%26saveLastPath%3D0%26_58_struts_action%3D%252Flogin%252Flogin%26p_p_id%3D58%26p_p_lifecycle%3D0%26_58_redirect%3D%252Fgroup%252Fids%252Fmodello-21&h=ATNvT28aovhZZWIJipIqAdpmPjAP2h91S-YLaP01FK95RamdiItKB6IYRBWMLJf6r1zFzn1Z-araZxwUpftp8TbOBRLQlfrao-mKp2PJTLMdUhJNdEW-jR0iboJ37MKg9WHStX3p6Q" target="_blank">imposta di soggiorno</a>
+    <a href="http://www.consorzioarca.it/index.php/it/notizie-news/item/808-opendataday" target="_blank">evento</a>
 
 .. |LINK155| raw:: html
 
-    <a href="https://medium.com/@cirospat/piano-triennale-ict-della-pa-il-comune-di-palermo-%C3%A8-sul-pezzo-grazie-alle-persone-636ac9b1f9cb" target="_blank">https://medium.com/@cirospat/piano-triennale-ict-della-pa-il-comune-di-palermo-%C3%A8-sul-pezzo-grazie-alle-persone-636ac9b1f9cb</a>
+    <a href="https://attending.io/events/open-data-day-2017-palermo" target="_blank">Registrazione all'evento</a>
 
 .. |LINK156| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=17367" target="_blank">attivazione di SPID</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Le linee guida comunali Open Data versione 2017 partecipate</a>
 
 .. |LINK157| raw:: html
 
-    <a href="http://www.palermotoday.it/video/spid-identita-digitale-sito-comune.html" target="_blank">Rassegna stampa</a>
+    <a href="http://umap.openstreetmap.fr/it/map/vulnerabilita-sismica-degli-edifici-residenziali-d_129514#14/38.1416/13.3634" target="_blank">realizzazione di una mappa con Open Data</a>
 
 .. |LINK158| raw:: html
 
-    <a href="https://docs.developers.italia.it/" target="_blank">https://docs.developers.italia.it</a>
+    <a href="https://www.comune.palermo.it/capitale_giovani_2017.php" target="_blank">https://www.comune.palermo.it/capitale_giovani_2017.php</a>
 
 .. |LINK159| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Comune di Palermo sono stati già resi disponibili su questa piattaforma i seguenti documenti</a>
+    <a href="https://docs.google.com/document/d/10NbPRA3Voitmau6ZfLWLbQmZK1sbRuzgenkMyLSxUQo" target="_blank">report</a>
 
 .. |LINK160| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#linee-guida-open-data" target="_blank">Linee guida open data</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK161| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-del-consiglio-comunale-di-palermo" target="_blank">Regolamento del Consiglio Comunale di Palermo</a>
+    <a href="https://www.comune.palermo.it/pago-pa.php" target="_blank">https://www.comune.palermo.it/pago-pa.php</a>
 
 .. |LINK162| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-sul-decentramento-comunale" target="_blank">Regolamento sul Decentramento comunale</a>
+    <a href="http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/pagamenti-elettronici" target="_blank">PagoPA</a>
 
 .. |LINK163| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-sui-beni-confiscati" target="_blank">Regolamento sui beni confiscati</a>
+    <a href="http://www.dati.gov.it/content/dcat-ap-it-v10-profilo-italiano-dcat-ap-0" target="_blank">profilo nazionale DCAT_AP_IT</a>
 
 .. |LINK164| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-del-funzionamento-urp" target="_blank">Regolamento del funzionamento URP</a>
+    <a href="http://www.dati.gov.it/content/linee-guida-nazionali-valorizzazione-patrimonio-informativo-pubblico-2016-0" target="_blank">inee guida nazionali per la valorizzazione del patrimonio informativo pubblico</a>
 
 .. |LINK165| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-disciplina-dei-procedimenti-amministrativi" target="_blank">Regolamento Disciplina dei procedimenti amministrativi</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=13143" target="_blank">rese disponibili per la pubblica consultazione e interazione nel febbraio e marzo 2017</a>
 
 .. |LINK166| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-per-il-commercio-su-aree-pubbliche" target="_blank">Regolamento per il commercio su aree pubbliche</a>
+    <a href="http://www.comunweb.it/" target="_blank">COMUNWEB</a>
 
 .. |LINK167| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#carta-dei-servizi-dellarea-cultura" target="_blank">Carta dei servizi dell’Area Cultura</a>
+    <a href="https://www.opencontent.it/Per-la-PA/OpenAgenda" target="_blank">Open Agenda per la collezione, gestione e pubblicazione degli eventi culturali nella città</a>
 
 .. |LINK168| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-delle-attivita-sportive-e-regolamento-della-piscina-e-dello-stadio-delle-palme" target="_blank">Regolamento delle attività sportive e regolamento della Piscina e dello Stadio delle Palme</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK169| raw:: html
 
-    <a href="https://questionari-ict.italia.it/index.php/" target="_blank">questionario per la rilevazione della spesa ICT</a>
+    <a href="https://hack.developers.italia.it/sedi/palermo/" target="_blank">https://hack.developers.italia.it/sedi/palermo/</a>
 
 .. |LINK170| raw:: html
 
-    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/" target="_blank">Piano Triennale dell'Informatica nella PA</a>
+    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/albums" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/albums</a>
 
 .. |LINK171| raw:: html
 
-    <a href="http://bit.do/transizionealdigitale" target="_blank">http://bit.do/transizionealdigitale</a>
+    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=rss2&lang=it-it</a>
 
 .. |LINK172| raw:: html
 
-    <a href="http://bit.do/opendata-ipssarborsellino" target="_blank">http://bit.do/opendata-ipssarborsellino</a>
+    <a href="https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss" target="_blank">https://api.flickr.com/services/feeds/geo/?id=140129279@N05&lang=it-it&format=feed-georss</a>
 
 .. |LINK173| raw:: html
 
-    <a href="http://openagenda.readthedocs.io/it/latest/" target="_blank">http://openagenda.readthedocs.io/it/latest/</a>
+    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=csv&lang=it-it</a>
 
 .. |LINK174| raw:: html
 
-    <a href="http://www.comune.ala.tn.it/eventi" target="_blank">alcuni comuni trentini</a>
+    <a href="https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it" target="_blank">https://api.flickr.com/services/feeds/photos_public.gne?id=140129279@N05&format=json&lang=it-it</a>
 
 .. |LINK175| raw:: html
 
-    <a href="https://eventi.comune.bolzano.it/" target="_blank">Bolzano</a>
+    <a href="https://www.flickr.com/photos/biblioteca-comunale-palermo/map" target="_blank">https://www.flickr.com/photos/biblioteca-comunale-palermo/map</a>
 
 .. |LINK176| raw:: html
 
-    <a href="https://www.agenda.udine.it/" target="_blank">Udine</a>
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 .. |LINK177| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/inviti-pa" target="_blank">derivante dalla scansione degli atti cartacei</a>
+    <a href="http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cert-pa/misure-minime-sicurezza-ict-pubbliche-amministrazioni" target="_blank">“Modello Implementazione” delle misure minime sicurezza ICT</a>
 
 .. |LINK178| raw:: html
 
-    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">requisiti tecnici di accessibilità riportati nell'allegato "A" del Decreto Ministeriale dell'8 luglio 2005</a>
+    <a href="http://opendata.comune.palermo.it" target="_blank">http://opendata.comune.palermo.it</a>
 
 .. |LINK179| raw:: html
+
+    <a href="www.lapadigitale.it">www.lapadigitale.it</a>
+
+.. |LINK180| raw:: html
+
+    <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fidsportale.comune.palermo.it%2Fweb%2Fids%2Fbenvenuto%3Fp_p_state%3Dmaximized%26p_p_mode%3Dview%26saveLastPath%3D0%26_58_struts_action%3D%252Flogin%252Flogin%26p_p_id%3D58%26p_p_lifecycle%3D0%26_58_redirect%3D%252Fgroup%252Fids%252Fmodello-21&h=ATNvT28aovhZZWIJipIqAdpmPjAP2h91S-YLaP01FK95RamdiItKB6IYRBWMLJf6r1zFzn1Z-araZxwUpftp8TbOBRLQlfrao-mKp2PJTLMdUhJNdEW-jR0iboJ37MKg9WHStX3p6Q" target="_blank">imposta di soggiorno</a>
+
+.. |LINK181| raw:: html
+
+    <a href="https://medium.com/@cirospat/piano-triennale-ict-della-pa-il-comune-di-palermo-%C3%A8-sul-pezzo-grazie-alle-persone-636ac9b1f9cb" target="_blank">https://medium.com/@cirospat/piano-triennale-ict-della-pa-il-comune-di-palermo-%C3%A8-sul-pezzo-grazie-alle-persone-636ac9b1f9cb</a>
+
+.. |LINK182| raw:: html
+
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
+
+.. |LINK183| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=17367" target="_blank">attivazione di SPID</a>
+
+.. |LINK184| raw:: html
+
+    <a href="http://www.palermotoday.it/video/spid-identita-digitale-sito-comune.html" target="_blank">Rassegna stampa</a>
+
+.. |LINK185| raw:: html
+
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
+
+.. |LINK186| raw:: html
+
+    <a href="https://docs.developers.italia.it/" target="_blank">https://docs.developers.italia.it</a>
+
+.. |LINK187| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Comune di Palermo sono stati già resi disponibili su questa piattaforma i seguenti documenti</a>
+
+.. |LINK188| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#linee-guida-open-data" target="_blank">Linee guida open data</a>
+
+.. |LINK189| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-del-consiglio-comunale-di-palermo" target="_blank">Regolamento del Consiglio Comunale di Palermo</a>
+
+.. |LINK190| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-sul-decentramento-comunale" target="_blank">Regolamento sul Decentramento comunale</a>
+
+.. |LINK191| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-sui-beni-confiscati" target="_blank">Regolamento sui beni confiscati</a>
+
+.. |LINK192| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-del-funzionamento-urp" target="_blank">Regolamento del funzionamento URP</a>
+
+.. |LINK193| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-disciplina-dei-procedimenti-amministrativi" target="_blank">Regolamento Disciplina dei procedimenti amministrativi</a>
+
+.. |LINK194| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-per-il-commercio-su-aree-pubbliche" target="_blank">Regolamento per il commercio su aree pubbliche</a>
+
+.. |LINK195| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#carta-dei-servizi-dellarea-cultura" target="_blank">Carta dei servizi dell’Area Cultura</a>
+
+.. |LINK196| raw:: html
+
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/_docs/documentipalermo.html#regolamento-delle-attivita-sportive-e-regolamento-della-piscina-e-dello-stadio-delle-palme" target="_blank">Regolamento delle attività sportive e regolamento della Piscina e dello Stadio delle Palme</a>
+
+.. |LINK197| raw:: html
+
+    <a href="https://questionari-ict.italia.it/index.php/" target="_blank">questionario per la rilevazione della spesa ICT</a>
+
+.. |LINK198| raw:: html
+
+    <a href="https://pianotriennale-ict.readthedocs.io/it/latest/" target="_blank">Piano Triennale dell'Informatica nella PA</a>
+
+.. |LINK199| raw:: html
+
+    <a href="http://bit.do/transizionealdigitale" target="_blank">http://bit.do/transizionealdigitale</a>
+
+.. |LINK200| raw:: html
+
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
+
+.. |LINK201| raw:: html
+
+    <a href="http://bit.do/opendata-ipssarborsellino" target="_blank">http://bit.do/opendata-ipssarborsellino</a>
+
+.. |LINK202| raw:: html
+
+    <a href="http://openagenda.readthedocs.io/it/latest/" target="_blank">http://openagenda.readthedocs.io/it/latest/</a>
+
+.. |LINK203| raw:: html
+
+    <a href="http://www.comune.ala.tn.it/eventi" target="_blank">alcuni comuni trentini</a>
+
+.. |LINK204| raw:: html
+
+    <a href="https://eventi.comune.bolzano.it/" target="_blank">Bolzano</a>
+
+.. |LINK205| raw:: html
+
+    <a href="https://www.agenda.udine.it/" target="_blank">Udine</a>
+
+.. |LINK206| raw:: html
+
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
+
+.. |LINK207| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale/inviti-pa" target="_blank">derivante dalla scansione degli atti cartacei</a>
+
+.. |LINK208| raw:: html
+
+    <a href="http://www.agid.gov.it/dm-8-luglio-2005-allegato-A" target="_blank">requisiti tecnici di accessibilità riportati nell'allegato "A" del Decreto Ministeriale dell'8 luglio 2005</a>
+
+.. |LINK209| raw:: html
 
     <a href="http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf" target="_blank">Circolare n. 61/2013 dell’AgID</a>
 
