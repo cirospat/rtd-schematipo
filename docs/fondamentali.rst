@@ -92,7 +92,9 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione 2017-19
 Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 ********************************************************************************
 
-\ |LINK10|\ 											\ |LINK11|\ 
+\ |LINK10|\ 											
+
+\ |LINK11|\ 
 
 --------
 
