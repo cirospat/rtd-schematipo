@@ -164,6 +164,23 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 
 --------
 
+.. _h7667196b667727314f214f7a242de4f:
+
+Linee Guida SPID - Rilascio dell’identità digitale per uso professionale
+************************************************************************
+
+\ |LINK21|\ 
+
+#. \ |STYLE0|\ : identità digitale SPID contenente un attributo che dichiara tale caratteristica;
+
+#. \ |STYLE1|\ : l’identità digitale che contiene gli attributi della persona fisica cui sono state rilasciate le credenziali di autenticazione;
+
+#. \ |STYLE2|\ : l’identità digitale che contiene gli attributi della persona giuridica e della persona fisica cui sono state rilasciate le credenziali di autenticazione;
+
+#. \ |STYLE3|\ : identità digitale utilizzabile esclusivamente per la gestione delle identità di cui alla precedente lettera c).
+
+--------
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -171,6 +188,15 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **identità digitale uso professionale**
+
+.. |STYLE1| replace:: **identità digitale uso professionale della persona fisica**
+
+.. |STYLE2| replace:: **identità digitale uso professionale per la persona giuridica**
+
+.. |STYLE3| replace:: **utenza master**
 
 
 .. |LINK1| raw:: html
@@ -252,4 +278,8 @@ Comune di Palermo - report IBM di Smarter Cities Challenge, edizione 2017
 .. |LINK20| raw:: html
 
     <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report</a>
+
+.. |LINK21| raw:: html
+
+    <a href="https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io" target="_blank">linee guida</a>
 
