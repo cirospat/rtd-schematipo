@@ -71,8 +71,6 @@ Contributi per la costruzione delle "Linee Guida nazionali per la  valorizzazion
 
 \ |LINK5|\   LINEE GUIDA NAZIONALI PER LA VALORIZZAZIONE DEL PATRIMONIO INFORMATIVO PUBBLICO,  OPENDATA - SECONDO SEMESTRE 2013 - (Agenzia per l'Italia Digitale, che dipende da Presidenza Consiglio Ministri). Tra i ringraziamenti a pag. 8  il Comune di Palermo (solo Ciro Spataro ha inviato contributo via email) 
 
---------
-
 \ |LINK6|\ 
 
 .. _h56757d131c246d3a3111594f2211d49:
@@ -86,8 +84,6 @@ Organizzazione dei lavori - in collaborazione con il webmaster G. Meli e il cons
 
 \ |LINK8|\  In occasione dell'International Open Data Day il webmaster del comune di Palermo ha attivato la sezione open data nel portale web istituzionale con i set di dati pervenuti da vari settori comunali
 
---------
-
 .. _h2c6f5a3f50706a96e56676d474639d:
 
 2013- linee guida open data comune Palermo
@@ -99,8 +95,6 @@ Partecipazione attiva per la redazione partecipata delle "Linee Guida del Comune
 
 (articolo \ |LINK12|\ )
 
---------
-
 .. _h2694f6c1d2568287d4f151b56266660:
 
 2013- vademecum per pa città intelligente
@@ -111,8 +105,6 @@ Contributi per la definizione di metodi e strumenti di pianificazione e governan
 \ |LINK13|\  
 
 \ |LINK14|\  VADEMECUM PER LA CITTA' INTELLIGENTE (OSSERVATORIO DELL'ANCI). Contributo personale riportato, come abstract, a pag.211 del vademecum 
-
---------
 
 \ |LINK15|\ 
 
@@ -127,8 +119,6 @@ Oggetto della manifestazione di interesse del Comune di Palermo: "Piattaforma on
 
 In attesa della valutazione del MISE.
 
---------
-
 .. _h302ed123535335a166378304f3f7dd:
 
 2013- focus regionale su innovazione sociale (smart specialization strategy)
@@ -137,8 +127,6 @@ In attesa della valutazione del MISE.
 Partecipazione al focus tematico sull'"innovazione sociale" della Regione Sicilia \ |LINK17|\  avviato per la costruzione della strategia regionale dell'innovazione necessaria per l'attuazione del PO FESR 2014-2020.
 
 \ |LINK18|\  con il contributo sull'attività del Comune di Palermo avviata sugli open data, quale fattore utile a generare processi locali di innovazione sociale economica e ambientale.
-
---------
 
 \ |LINK19|\ 
 
@@ -172,8 +160,6 @@ Attività di assistenza costante al Responsabile Open Data del Comune di Palermo
 
 * supporto tecnico ai referenti open data per l'attività di censimento delle banche dati da pubblicare sul portale open data 
 
---------
-
 \ |LINK23|\ 
 
 .. _h131e62703763524a3a141e506d267214:
@@ -184,8 +170,6 @@ Attività di assistenza costante al Responsabile Open Data del Comune di Palermo
 Partecipazione alla redazione online delle Linee Guida per la Valorizzazione del Patrimonio informativo pubblico, open data, versione 2014 (AGID)
 
 \ |LINK24|\  
-
---------
 
 .. _h3d661c3d26c3b24723f4037246829:
 
@@ -201,8 +185,6 @@ Partecipazione all'iniziativa #OPENFESR della Regione Sicilia, propedeutica alla
 Contributi all'Obiettivo tematico 2  del PO FESR Sicilia 2014-2020 (Agenda Digitale): \ |LINK28|\  
 
 Contributi all'Obiettivo tematico 11 del PO FESR Sicilia 2014-2020  (Rafforzare la capacità istituzionale delle autorità pubbliche e delle parti interessate e un’amministrazione pubblica efficiente): \ |LINK29|\  
-
---------
 
 \ |LINK30|\ 
 
@@ -224,8 +206,6 @@ Analisi dei profili ICT del framework europeo al fine di mappare le e-competenze
 
 \ |LINK32|\  
 
---------
-
 .. _h4c7854796f7b2836665c3142417c3940:
 
 2014- webinar cultura digitale
@@ -236,8 +216,6 @@ Diffusione, di concerto con il Responsabile open data, via email al personale di
 \ |LINK33|\  - \ |LINK34|\  - \ |LINK35|\  
 
 \ |LINK36|\  
-
---------
 
 \ |LINK37|\ 
 
@@ -255,8 +233,6 @@ Due report sono disponibili sul workshop open data:
 * \ |LINK39|\  a cura di Andrea Borruso
 
 * \ |LINK40|\  a cura di Ciro Spataro
-
---------
 
 .. _h3f2135563c6d1c316b92345749f3a:
 
@@ -301,8 +277,6 @@ Oltre 40 dipendenti comunali (referenti tecnici e tematici) hanno partecipato al
 
 Condivisione (effettuata via email) con i referenti open data di \ |LINK49|\ . 
 
---------
-
 .. _h4717212a7eb2c263e11d597543461f:
 
 2014- partecipazione a bando MeetYoungCities
@@ -311,8 +285,6 @@ Condivisione (effettuata via email) con i referenti open data di \ |LINK49|\ .
 Partecipazione, insieme alla dott.ssa Angela Errore dell'Area Cittadinanza Sociale, al bando “\ |LINK50|\ : Social innovation e partecipazione per i giovani dei Comuni italiani". Un iniziativa nata da una collaborazione tra ANCI, IFEL e ANG-Agenzia Nazionale Giovani. 
 
 Il Comune partecipa nel Novembre 2014 (con la \ |LINK51|\ ) al bando con l'iniziativa "spazi creativi di lavoro".
-
---------
 
 \ |LINK52|\ 
 
@@ -328,8 +300,6 @@ Il Comune partecipa nel Novembre 2014 (con la \ |LINK51|\ ) al bando con l'inizi
 
 Riunioni  settimanali (obiettivi UO Innovazione) con i referenti open data dei vari uffici comunali al fine di: 1) rendere omogenea la conoscenza sugli open data (funzioni, vantaggi, pubblicazione), e utilizzare facilmente un linguaggio tecnico comune, e 2) identificare congiuntamente i dataset in formato aperto già disponibili nei vari uffici, da sottoporre a valutazione del titolare della banca dati (dirigente di Servizio o Capo Area) per la pubblicazione sul \ |LINK53|\ . 
 
---------
-
 .. _h1e742f97f282087a4a6027385e59f:
 
 2015- riunione Team open data Palermo
@@ -337,16 +307,12 @@ Riunioni  settimanali (obiettivi UO Innovazione) con i referenti open data dei v
 
 Il 16 febbraio 2015 è stata organizzata la prima riunione del Team Open Data come previsto dalle \ |LINK54|\ . Partecipanti: Segretario Generale, Responsabile Trasparenza, Responsabile Open Data, Capi Area, Webmaster, Esperto Gis.  Il Segretario Generale ha sottolineato l'esigenza di effettuare degli incontri tra lo staff del responsabile Open Data (Dott.ssa Rimedio, Geom. Spataro, Dott. Meli) e i Capi Area dell'Amministrazione al fine di 1) rendere omogenea la conoscenza sugli open data (funzioni, vantaggi, pubblicazione), per utilizzare facilmente un linguaggio tecnico comune, e 2) identificare congiuntamente i dataset in formato aperto prioritari per la pubblicazione (secondo la metodologia MOSCOW descritta a pagine 8 nelle \ |LINK55|\ ).
 
---------
-
 .. _h13a73695216105a633a463c2c59617c:
 
 2015- opendataday 2015 Palermo
 ==============================
 
 Partecipazione all'iniziativa mondiale dell'Open Data Day 2015 (21 febbraio) di Palermo \ |LINK56|\  
-
---------
 
 \ |LINK57|\ 
 
@@ -357,8 +323,6 @@ Partecipazione all'iniziativa mondiale dell'Open Data Day 2015 (21 febbraio) di 
 
 A seguito della riunione del Team Open Data nel mese di febbraio 2015 ho costruito il portale web didattico/formativo sugli open data \ |LINK58|\  così da dare la possibilità a tutti i 140 referenti open data dell'Amministrazione, ma anche ai titolari delle banche dati (dirigenti) di fruire permanentemente di una formazione ad hoc nel momento in cui ogni singolo individuo ravvisa la necessità di approfondire la conoscenza nell'ambito dei dati in formato aperto. Un portale che oltre alla parte didattica formativa, riporta buone prassi da prendere come punto di riferimento operativo.
 
---------
-
 .. _hf3a364b1b4541563544a19196537:
 
 2015- webinar Formez su prevenzione della corruzione
@@ -367,8 +331,6 @@ A seguito della riunione del Team Open Data nel mese di febbraio 2015 ho costrui
 Febbraio. Condivisione via email  dell'informazione di 5 webinar sulla Prevenzione della Corruzione realizzati dal FormezPA nel mese di febbraio e di marzo.  
 
 \ |LINK59|\ 
-
---------
 
 .. _h5d5ce545133f261414e57140396a:
 
@@ -390,8 +352,6 @@ Febbraio. Condivisione via email con la dott.ssa Vincenza Simonte (UO Gestione e
 
 \ |LINK63|\ 
 
---------
-
 .. _h197356c733a675933383f172a63126:
 
 2015- proposta progetto UE open data OpenIt4Change
@@ -401,16 +361,12 @@ Maggio 27. E' stata presentata dal capofila (Università di Belfast, Norther Ire
 
 Ottobre 2015. Il partner coordinatore informa i partner periferici della non positiva valutazione della proposta progettuale da parte della Commissione EU.
 
---------
-
 .. _h311f467354e4361615a5d4b57e1d1:
 
 2015- evento diffusione software libero
 =======================================
 
 Maggio 12. Organizzazione dell'evento Libre Office Roadshow, \ |LINK65|\  di sensibilizzazione, diretto ai referenti open data per l'uso di sofware open source. Stimolo all'uso di formati aperti per la gestione dei dati nell'ambito del lavoro quotidiano.
-
---------
 
 \ |LINK66|\ 
 
@@ -421,8 +377,6 @@ Maggio 12. Organizzazione dell'evento Libre Office Roadshow, \ |LINK65|\  di sen
 
 Giugno.  Condivisione via email del webinar  "\ |STYLE4|\ ". \ |LINK67|\ .
 
---------
-
 .. _h6095a4046537a2c1c182cc19124410:
 
 2015- seminario per migliorare le competenze digitali nella Pubblica Amministrazione locale
@@ -430,16 +384,12 @@ Giugno.  Condivisione via email del webinar  "\ |STYLE4|\ ". \ |LINK67|\ .
 
 Giugno 9. Collaborazione per l'organizzazione del Seminario per migliorare le competenze digitali nella Pubblica Amministrazione locale \ |LINK68|\ . Evento in collaborazione con il FormezPA e Stati Generali dell'Innovazione. All'evento hanno partecipato i referenti open data.
 
---------
-
 .. _h12333f471996b1c246e4f4f7718653e:
 
 2015- corso Formez online su e-leadership
 =========================================
 
 Ottobre-Novembre. Partecipazione al corso online del Formez sull'\ |LINK69|\ .
-
---------
 
 \ |LINK70|\ 
 
@@ -457,8 +407,6 @@ Novembre. Partecipazione al corso online sugli open data del FormezPA \ |LINK71|
 
 Dicembre. \ |LINK72|\ .
 
---------
-
 .. _h80710a454d571078253a502c42468:
 
 2015- adesione a piattaforma nazionale PagoPA
@@ -467,8 +415,6 @@ Dicembre. \ |LINK72|\ .
 Dicembre.  Redazione, in collaborazione con il dott. Marchese e la dott.ssa Collura, della \ |LINK73|\  del Comune di Palermo al nodo dei pagamenti elettronici delle PA (approva Protocollo Intesa tra Comune Palermo e AGID).
 
 Ricognizione, presso gli uffici comunali, delle tipologie dei pagamenti dovuti a vario titolo al Comune di Palermo, con il quale - attraverso modulo google - è stato prodotto relativo \ |LINK74|\ .
-
---------
 
 \ |LINK75|\ 
 
@@ -485,8 +431,6 @@ Ricognizione, presso gli uffici comunali, delle tipologie dei pagamenti dovuti a
 
 Gennaio. \ |LINK76|\ . 
 
---------
-
 .. _h2e5b2f2b2164c6c357021f7a685430:
 
 2016- opendataday 2016 Palermo
@@ -494,16 +438,12 @@ Gennaio. \ |LINK76|\ .
 
 5 Marzo. Partecipazione alla giornata mondiale Opendataday in rappresentanza dell'Area Innovazione Tecnologica. \ |LINK77|\  
 
---------
-
 .. _h7e804845667d296d6f336319227c3445:
 
 2016- mappa Palermo accessibile
 ===============================
 
 Marzo. Redazione della mappa della Palermo Accessibile ai portatori di disabilità: \ |LINK78|\  e \ |LINK79|\ . I lavori sono stati preparatori per \ |LINK80|\ .
-
---------
 
 \ |LINK81|\ 
 
@@ -513,8 +453,6 @@ Marzo. Redazione della mappa della Palermo Accessibile ai portatori di disabilit
 ==========================================================
 
 Marzo. Redazione della mappa georeferenziata informativa sulla struttura denominata \ |LINK82|\  (rete fibra ottica comunale) per la distribuzione della connettività ad alta velocità agli \ |LINK83|\ .
-
---------
 
 .. _h711b2860404d3c11ac47727967155c:
 
@@ -532,8 +470,6 @@ Aprile. partecipazione come \ |LINK87|\  allo Startup Weekend Tourism Edition
 
 Il comune di Palermo ha fornito il proprio supporto attraverso la figura di un mentor sugli open data (Ciro Spataro dell'Ufficio Innovazione) che ha presentato i dati del settore Turismo che l'Amministrazione pubblica nel portale Open Data. \ |LINK88|\  
 
---------
-
 \ |LINK89|\ 
 
 .. _h21533d747a7c45137164b44767e4d3b:
@@ -545,16 +481,12 @@ Marzo 5. Partecipazione alla giornata mondiale opendataday svoltasi a Palermo (N
 
 \ |LINK90|\ .
 
---------
-
 .. _h113538765be1a5442115a5417626d6c:
 
 2016- riunione Team open data Palermo
 =====================================
 
 Giugno 1. Riunione del Team comunale Open Data e \ |LINK91|\ .
-
---------
 
 .. _h7b5536203e83c49217380676cb4949:
 
@@ -564,8 +496,6 @@ Giugno 1. Riunione del Team comunale Open Data e \ |LINK91|\ .
 Giugno. Delibera GM 97 del 20.05.2016 di approvazione del \ |LINK92|\ .
 
 \ |LINK93|\  tra IPS Einaudi, Comune di Palermo e community Opendatasicilia.
-
---------
 
 \ |LINK94|\ 
 
@@ -585,8 +515,6 @@ Luglio. Lavori preparatori per l'\ |LINK99|\  al \ |LINK100|\ . Presa d'atto del
 
 Deliberazione  inviata alla società partecipata SISPI SpA per porre in essere le azioni consequenziali.
 
---------
-
 .. _h3156325136334049775b763452c3f9:
 
 2016- partecipazione a redazione 3° Piano Azione Open Government Partnership
@@ -595,8 +523,6 @@ Deliberazione  inviata alla società partecipata SISPI SpA per porre in essere l
 Agosto. Partecipazione online alla costruzione condivisa del \ |LINK103|\  
 
 (OGP: iniziativa internazionale che mira a ottenere impegni concreti dai Governi in termini di promozione della trasparenza, di sostegno alla partecipazione civica, di lotta alla corruzione e di diffusione, dentro e fuori le Pubbliche Amministrazioni, di nuove tecnologie a sostegno dell’innovazione).
-
---------
 
 \ |LINK104|\ 
 
@@ -618,8 +544,6 @@ Durata 24 mesi.
 Entro il 15 settembre la Provincia di Trento sottopone la proposta progettuale telematicamente nel portale web EU per la valutazione.
 
 News febbraio 2017: La proposta progettuale non è stata valutata positivamente dalla Commissione del Programma UE. Sarà riformulata in maniera rivista in occasione del Programma 2017 CEF e riproposta.
-
---------
 
 .. _h2740741f47453e7f252c16263868515e:
 
@@ -644,8 +568,6 @@ Entro il 25 agosto 2016 il partner tecnico Softeco sottometterà la candidatura 
 
 News gen_2017: la proposta non è stata valutata positivamente dalla Commissione UE.
 
---------
-
 \ |LINK107|\ 
 
 .. _h7f5b747e7d137c3c756c357247657d52:
@@ -657,8 +579,6 @@ Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK108|\  a Messin
 
 \ |IMG3|\ 
 
---------
-
 .. _h35b6b5e2d22382f29121b4168337943:
 
 2016- partecipazione a evento Biggerdata al CNR Palermo
@@ -667,8 +587,6 @@ Settembre. Partecipazione all’iniziativa di 3 giorni di \ |LINK108|\  a Messin
 19 Ottobre. Partecipazione alla giornata conclusiva del progetto \ |LINK112|\  presso il CNR di Palermo con la presentazione dello stato dell’arte sugli open data del Comune di Palermo:
 
 \ |LINK113|\  
-
---------
 
 \ |LINK114|\ 
 
@@ -715,8 +633,6 @@ La presentazione della mappa degli incidenti e della rilevazione dell'inquinamen
 
 La presentazione di Andrea Borruso \ |LINK129|\ 
 
---------
-
 .. _h113538765be1a5442115a5417626d6c:
 
 2016- riunione Team open data Palermo
@@ -726,16 +642,12 @@ Dicembre
 
 Riunione del Team Open Data del Comune di Palermo il 21 dicembre, in ossequio alle Linee Guida comunali open data e redazione del \ |LINK130|\  
 
---------
-
 .. _h3f6e6b306a694f5cd12075157b3b:
 
 2016- partecipazione a evento invernale opendatasicilia
 =======================================================
 
 Dicembre. 28 dicembre partecipazione al raduno invernale dell'attiva comunità opendatasicilia a Castelbuono \ |LINK131|\   e condivisione dei risultati del \ |LINK132|\  del Team Open Data del Comune di Palermo.
-
---------
 
 \ |LINK133|\ 
 
@@ -751,16 +663,12 @@ Dicembre. 28 dicembre partecipazione al raduno invernale dell'attiva comunità o
 
 Gennaio. Redazione del \ |LINK134|\ .
 
---------
-
 .. _h713b72325e16186e3972627c4b6f2826:
 
 2017- linee guida comunali open data aggiornate a profilo DCAT_AP_IT
 ====================================================================
 
 Gennaio. Adeguamento delle \ |LINK135|\  (approvate con Deliberazione di GM 252 del 13.2.2013) agli standard dell'AGID \ |LINK136|\  (2016) e alle \ |LINK137|\  (2016) per la valorizzazione del sistema informativo pubblico (AGID) e \ |LINK138|\  comunali.
-
---------
 
 \ |LINK139|\ 
 
@@ -775,8 +683,6 @@ Dalla compilazione di questo secondo modulo è stato possibile costruire \ |LINK
 
 E' stato prodotto il \ |LINK143|\  al quale ho partecipato l'8 febbraio 2017 in qualità di moderatore e relatore.
 
---------
-
 .. _h657924797e3404a3b10407d2738245a:
 
 2017- proposte open data sulla piattaforma di lavoro del Team nazionale trasformazione Digitale
@@ -784,16 +690,12 @@ E' stato prodotto il \ |LINK143|\  al quale ho partecipato l'8 febbraio 2017 in 
 
 20 Febbraio. Sulla piattaforma \ |LINK144|\  di lavoro dei comuni italiani pilota e del \ |LINK145|\  per l'attuazione dell'Agenda Digitale, al gruppo specifico \ |LINK146|\  (Data Analytics Framework) è stata presentata, da Palermo, la proposta operativa sugli open data, che è disponibile a questo link: \ |LINK147|\  
 
---------
-
 .. _h9114a706f5266472d22256e7f2e80:
 
 2017- proposta di Palermo per SPID nazionale
 ============================================
 
 28 Febbraio. Sulla piattaforma \ |LINK148|\  di lavoro dei comuni italiani pilota e del \ |LINK149|\  per l'attuazione dell'Agenda Digitale, al gruppo specifico \ |LINK150|\  (Sistema Pubblico d'Identità Digitale) è stata presentata, da Palermo, la proposta per l'implementazione del sistema SPID, disponibile a questo link: \ |LINK151|\  
-
---------
 
 \ |LINK152|\ 
 
@@ -858,8 +760,6 @@ In generale l'evento è stata caratterizzato da armonia e coesione tra i parteci
 
 Andrea Borruso, della community Opendatasicilia e Associazione OnData ha colto in ogni intervento quegli spunti utili a migliorare il processo di produzione-pubblicazione-uso dei dati, sia da parte della PA che dalla parte della comunità-aziende. Nel pomeriggio Andrea Borruso ha tenuto un evento formativo di 2 ore sull'utilità di effettuare web scraping la fine di ottenere dai siti i dati strutturati in formato tabellare.
 
---------
-
 .. _h662e722b66655e3c6e7166347d15304c:
 
 2017- lavori e incontri per Palermo capitale giovani
@@ -870,8 +770,6 @@ Andrea Borruso, della community Opendatasicilia e Associazione OnData ha colto i
 4 aprile. Riunione del gruppo coordinatore dei lavori per Palermo Capitale Italiana dei Giovani 2017 \ |LINK158|\  per identificare step operativi successivi: 1) restituzione pubblica dei lavori dei tavoli tematici ai cantieri culturali della Zisa, 2) prosecuzione lavoro per la narrazione del processo culturale di Palermo Capitale Italiana dei Giovani 2017, 3) eventuali altri tavoli di approfondimento con le proposte operative presentate attraverso la compilazione del modulo google, distinte per ambito tematico.
 
 Riunioni del tavolo tecnico Innovazione Tecnologica il 19 aprile e il 3 maggio 2017. Il processo di coinvolgimento e partecipazione a Capitale italiana Giovani 2017 è descritto minuziosamente in questo \ |LINK159|\ .
-
---------
 
 \ |LINK160|\ 
 
@@ -893,16 +791,12 @@ Ad aprile 2017 è possibile  effettuare 2 pagamenti elettronici al Comune di Pal
 
 Maggio. Redazione della deliberazione di GM (n. 97/2017) di approvazione delle Linee guida comunali open data, versione 2017 partecipate. La nuova versione di linee guida deriva dall'integrazione delle linee guida comunali open data del 2013 con il \ |LINK163|\  (profilo nazionale dei metadati) e con le l\ |LINK164|\  dell'AgID del 2016. Altresì le linee guida comunali di Palermo versione 2017 partecipata, derivano da un processo di partecipazione, essendo state (le stesse linee guida) \ |LINK165|\ .
 
---------
-
 .. _h195096a4d6846104f2d562235592d:
 
 2017- protocollo intesa con Associazione Comuni Trentini per riuso software OpenAgenda
 ======================================================================================
 
 Settembre. Redazione della proposta di Deliberazione (approvata DG. N. 172 DEL 21/09/2017) di approvazione del PROTOCOLLO D'INTESA TRA COMUNE DI PALERMO E CONSORZIO DEI COMUNI TRENTINI SOCIETA' COOPERATIVA PER IL RIUSO GRATUITO DEI MICROSERVIZI DELLA PIATTAFORMA \ |LINK166|\ . Uno dei microservizi di prima utilità per il comune di Palermo è rappresentato da \ |LINK167|\ , con possibilità di rilascio automatico di open data degli eventi stessi e delle Associazioni che popolano la piattaforma di dati.
-
---------
 
 \ |LINK168|\ 
 
@@ -920,8 +814,6 @@ Partecipazione all'evento in qualità di referente comunale.
 \ |LINK169|\  
 
 Tutte le tech community italiane e gli sviluppatori hanno partecipato alla maratona di programmazione organizzata in contemporanea in oltre 20 città su tutto il territorio nazionale! Hack.Developers, promosso dal Team per la Trasformazione Digitale in collaborazione con Codemotion, è stato il più grande hackathon mai realizzato in Italia! I progetti su cui hanno lavorato i partecipanti sono: SPID - Sistema Pubblico d'Identità Digitale, ANPR - Anagrafe Nazionale della Popolazione Residente, DAF - Data & Analitycs Framework, DAF - Dataportal, DAT - Dati Pubblici (nuovo Dati Gov.it), Security, Design.
-
---------
 
 .. _h6152777a43223e1755257b162c362d:
 
@@ -948,8 +840,6 @@ Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblica
 
 \ |IMG9|\ 
 
---------
-
 \ |LINK176|\ 
 
 .. _h5b586d1343b2810542c3a423a7e6c62:
@@ -959,18 +849,12 @@ Infine è possibile visualizzare la mappa georeferenziata dei contenuti pubblica
 
 Dicembre. In collaborazione con Capo Area Innovazione Tecnologica, Responsabile Transizione al Digitale (art. 17 CAD) e con staff Società Sispi è stato redatto e inviato via PEC all’AGID pochi giorni prima di Natale il \ |LINK177|\ .
 
---------
-
 .. _h38661f50315e747a1d425a5760796f3d:
 
 2017- harvesting del catalogo dataset comune Palermo su portale nazionale dati.gov.it
 =====================================================================================
 
-Dicembre. In collaborazione con lo staff del Webmaster e con il dott. Davide Taibi del CNR di Palermo e con la dott.ssa Giorgia Lodi dell'AgID è stato possibile effettuare 1) l'adeguamento dei metadati del catalogo dei dataset comunali al profilo DCAT_AP_IT dell'AgID, 2) l'harvesting dei metadati del catalogo dei dataset comunali nel portale dati.gov.it
-
-Contemporaneamente lo staff del webmaster ha rilasciato la nuova versione del portale opendata \ |LINK178|\  compliant con il profilo DCAT_AP_IT.
-
---------
+Dicembre. In collaborazione con lo staff del Webmaster e con il dott. Davide Taibi del CNR di Palermo e con la dott.ssa Giorgia Lodi dell'AgID è stato possibile effettuare 1) l'adeguamento dei metadati del catalogo dei dataset comunali al profilo DCAT_AP_IT dell'AgID, 2) l'harvesting dei metadati del catalogo dei dataset comunali nel portale dati.gov.it. Contemporaneamente lo staff del webmaster ha rilasciato la nuova versione del portale opendata \ |LINK178|\  compliant con il profilo DCAT_AP_IT.
 
 .. _h6045705a2153546f7567786a451696f:
 
@@ -995,8 +879,6 @@ Dicembre. Sono state rispettate dal comune di Palermo le 5 scadenze del CAD per 
 
 Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |LINK181|\  
 
---------
-
 \ |LINK182|\ 
 
 
@@ -1012,8 +894,6 @@ Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |L
 
 24 Gennaio. Videoconferenza con la Società SISPI e la Società informatica OpenContent dell'Associazione dei comuni trentini, per la verifica dell'adozione da parte dell'Amministrazione comunale del software OpenAgenda per le finalità di comunicazione degli eventi culturali di Palermo in occasione di Palermo capitale italiana della cultura 2018. Durante la video conferenza sono stati illustrate le peculiarità e funzionalità di OpenAgenda. La Società SISPI ha valutato positivamente tali funzionalità e si è iniziato un confronto per la verifica delle questioni puramente tecniche propedeutiche al riuso del software.
 
---------
-
 .. _h225b3c1d457b56325a121f67e68672:
 
 2018- partecipazione a riunione nazionale AGID per rilevazione spesa ICT nella PA
@@ -1021,16 +901,12 @@ Un post dettagliato (con i riferimenti alle persone che ci hanno lavorato): \ |L
 
 25 Gennaio. Partecipazione, insieme al Dirigente del Servizio Innovazione dott. Gabriele Marchese, alla riunione dell'Agenzia per l'Italia Digitale presso la Sala Polifunzionale della Presidenza del Consiglio dei Ministri, a Roma, il 25 gennaio, per conoscere le modalità operative di inserimento, nella piattaforma AGID, dei dati di spesa ICT sostenuti dalle PA pilota italiane (Città Metropolitane e Comuni capoluogo). I dati serviranno all'AGID per costruire il Piano Triennale per l'Informatica nella Pubblica Amministrazione 2018-2020. Il termine di scadenza per l'inserimento dei dati è il 2 marzo 2018.
 
---------
-
 .. _h4d6f7d1c566c1e578e4da46147533:
 
 2018- attivazione SPID
 ======================
 
 20 febbraio: \ |LINK183|\  per l'accesso dei cittadini ai servizi digitali del comune di Palermo, grazie alla Società SISPI SpA.  \ |LINK184|\ .
-
---------
 
 \ |LINK185|\ 
 
@@ -1063,16 +939,12 @@ Per il \ |LINK187|\ :
 
 * \ |LINK196|\ 
 
---------
-
 .. _h1e7fb754645a2f3d206616522655c:
 
 2018- invio compilazione questionario online su rilevazione spesa ICT ad AGID
 =============================================================================
 
 19 marzo. Invio all'AGID del \ |LINK197|\  del Comune di Palermo. I dati rilevati servono all'AGID per la costruzione del \ |LINK198|\  2018-2020.
-
---------
 
 .. _h194332838f442410236251762d6054:
 
@@ -1082,8 +954,6 @@ Per il \ |LINK187|\ :
 4-5-6 aprile. Infoday sul Codice dell'Amministrazione Digitale e sui servizi digitali del comune di Palermo, indirizzata ai Dirigenti comunali.
 
 Materiali informativi: \ |LINK199|\  
-
---------
 
 \ |LINK200|\ 
 
@@ -1095,8 +965,6 @@ Materiali informativi: \ |LINK199|\
 16 aprile. Una mattinata all'Istituto Alberghiero di Palermo a parlare agli studenti di 4° e 5° anno di open data e riuso dei dati in formato aperto in diversi ambiti della vita quotidiana. Presentazione al link \ |LINK201|\ . 
 
 La presentazione dell'Info day sugli open data è stata richiesta dal Vice Preside dell'Istituto con email al Responsabile open data comunale.
-
---------
 
 .. _h635268b11474a66107812e592e1425:
 
@@ -1113,8 +981,6 @@ Open Agenda è un applicativo open source sviluppato dalla Società OpenContent 
 
 Open Agenda è già stato utilizzato in \ |LINK203|\ , a \ |LINK204|\  e a \ |LINK205|\ .
 
---------
-
 \ |LINK206|\ 
 
 .. _h342c6d1f42345d20a2dd80563e49:
@@ -1126,7 +992,7 @@ Open Agenda è già stato utilizzato in \ |LINK203|\ , a \ |LINK204|\  e a \ |LI
 
 Nella \ |LINK209|\  si legge: “\ |STYLE20|\  .”
 
---------
+\ |LINK210|\ 
 
 
 .. bottom of content
@@ -2010,6 +1876,10 @@ Nella \ |LINK209|\  si legge: “\ |STYLE20|\  .”
 .. |LINK209| raw:: html
 
     <a href="http://www.agid.gov.it/sites/default/files/circolari/circolare_accessibilta_29_marzo_2013.pdf" target="_blank">Circolare n. 61/2013 dell’AgID</a>
+
+.. |LINK210| raw:: html
+
+    <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
