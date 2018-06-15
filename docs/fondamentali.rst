@@ -7,7 +7,7 @@ Fondamentali (external links)
 
 .. toctree::  
     :maxdepth: 3
-    :caption: index-fondamentali
+    :caption: indice-fondamentali
 
     fondamentali
 
