@@ -50,7 +50,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 --------
 
-(immagine in alto by \ |LINK5|\  rilasciata con licenza CC BY 3.0)
+[immagine in alto by \ |LINK5|\  rilasciata con licenza CC BY 3.0]
 
 
 |REPLACE2|
