@@ -50,6 +50,8 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 --------
 
+(immagine in alto by \ |LINK5|\  rilasciata con licenza CC BY 3.0)
+
 
 |REPLACE2|
 
@@ -114,6 +116,10 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 .. |LINK4| raw:: html
 
     <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://docs.developers.italia.it/" target="_blank">https://docs.developers.italia.it/</a>
 
 
 .. |IMG1| image:: static/index-cirospat_1.png
