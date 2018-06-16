@@ -222,6 +222,15 @@ Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informat
 
 --------
 
+.. _h2376304862723f44277724b85114:
+
+Linee Guida per la Promozione dei Servizi Digitali
+**************************************************
+
+\ |LINK33|\  che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
+
+--------
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -367,4 +376,8 @@ Roadshow “Le iniziative Consip a supporto del Piano Triennale per l’informat
 .. |LINK32| raw:: html
 
     <a href="#bookmark-id-5ak5khujvzst">⇑</a>
+
+.. |LINK33| raw:: html
+
+    <a href="https://comunica-lg.readthedocs.io" target="_blank">linee guida</a>
 
