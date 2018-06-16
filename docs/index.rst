@@ -6,7 +6,9 @@
 Cirospat pro-file
 *****************
 
-\ |IMG1|\  In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+\ |IMG1|\  
+
+In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
 
 .. admonition:: Reti di impegno
@@ -115,5 +117,5 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 
 .. |IMG1| image:: static/index-cirospat_1.png
-   :height: 80 px
-   :width: 90 px
+   :height: 65 px
+   :width: 74 px
