@@ -12,7 +12,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 .. admonition:: Reti di impegno
 
-    \ |LINK1|\ , \ |LINK2|\ , \ |LINK3|\  
+    \ |LINK1|\   - \ |LINK2|\   -  \ |LINK3|\  
 
 Gli \ |STYLE1|\  principali di questo spazio sono:
 
