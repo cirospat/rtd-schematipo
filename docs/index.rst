@@ -117,5 +117,5 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 
 .. |IMG1| image:: static/index-cirospat_1.png
-   :height: 65 px
-   :width: 74 px
+   :height: 56 px
+   :width: 64 px
