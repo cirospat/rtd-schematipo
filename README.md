@@ -8,6 +8,7 @@ profilo professionale di Ciro Spataro
 
 Questo repository contiene i materiali (documenti testuali) che vengono esposti su [cirospat.readthedocs.io](http://cirospat.readthedocs.io). 
 
+|
 
 <p><img class="imageLeft" style="width: 33px; height: 30px;" src="http://googledocs.readthedocs.io/it/latest/_images/index_1.png">
   
