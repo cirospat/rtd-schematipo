@@ -31,28 +31,6 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 |REPLACE1|
 
-.. admonition:: deepening
-
-   :class: admonition-deepening 
-
-    prova 1
-
-.. topic:: Procedura
-
-   :class: procedure
-
-   1. Assicurati di avere tutti i file necessari elencati nella
-
-      sezione precedente e visita la pagina del repository su
-
-      GitHub;
-
-   2. Clicca sul pulsante \*Clone or download\*;
-
-   3. Clicca sul pulsante \*Copy to clipboard\* accanto all’URL del
-
-      repo;
-
 
 .. bottom of content
 
