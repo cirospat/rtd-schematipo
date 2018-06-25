@@ -33,9 +33,9 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. admonition:: deepening
 
-   :class: admonition-deepening admonition-display-page
+   :class: admonition-deepening 
 
-   prova 1
+    prova 1
 
 
 .. bottom of content
