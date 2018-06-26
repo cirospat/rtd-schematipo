@@ -30,7 +30,7 @@ Agenda Digitale Palermo
 Uffici comunali connessi all'Anello Telematico
 ==============================================
 
-(L'Anello Telematico è la banda ultra larga comunale)
+(\ |LINK2|\ )
 
 
 |REPLACE3|
@@ -78,4 +78,8 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 .. |LINK1| raw:: html
 
     <a href="http://ponmetropalermo-agendadigitale.readthedocs.io" target="_blank">Agenda Digitale del Programma Operativo Nazionale Città Metropolitana Palermo</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo-wifi-comunale-v_71124" target="_blank">L'Anello Telematico è la banda ultra larga comunale</a>
 
