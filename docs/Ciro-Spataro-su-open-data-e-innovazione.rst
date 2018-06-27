@@ -911,10 +911,10 @@ Nella \ |LINK207|\  si legge: “\ |STYLE22|\  .”
 
 \ |LINK208|\ 
 
-.. _h7474d6a366019642b386d395c747:
+.. _h37670c736916434e537f403220221f:
 
-2018 - Approvazione del protocollo di Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello Sviluppo dell'Agenda Digitale (\ |LINK209|\ ). 
-============================================================================================================================================================================
+2018 - Approvazione del protocollo di Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello Sviluppo dell'Agenda Digitale (Deliberazione di GC n. 82 del 19.06.2018). 
+=======================================================================================================================================================================================================
 
 Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di Genova per l’attuazione di iniziative congiunte e cooperative sotto il profilo tecnologico e organizzativo, per la realizzazione dei comuni obiettivi di innovazione digitale delle rispettive strutture e di rafforzamento dell’Agenda Digitale a livello comunale.
 
@@ -1800,10 +1800,6 @@ Avvio delle fasi di confronto tra i tecnici della Società Sispi e del comune di
 .. |LINK208| raw:: html
 
     <a href="#bookmark-id-ywhoocrw4qt7">⇧</a>
-
-.. |LINK209| raw:: html
-
-    <a href="https://servizionline.comune.palermo.it/portcitt/viewDocument?col=direct&pdocu=document.path.protocollo&docu=A2018/M06/G20/docu_195363940.pdf" target="_blank">Deliberazione di GC n. 82 del 19.06.2018</a>
 
 
 .. |IMG1| image:: static/Ciro-Spataro-su-open-data-e-innovazione_1.png
