@@ -38,8 +38,15 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 
 
+|REPLACE1|
+
+
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://readthedocs.org/profiles/cirospat/"></iframe>
 
 .. |LINK1| raw:: html
 
