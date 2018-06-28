@@ -32,19 +32,19 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK13|\  - un piccolo supporto a Matteo Troia                                         |
 +------------------------------------------------------------------------------------------+
-|\ |LINK14|\  - un supporto a Marina Bassi di FPA                                          |
+|\ |LINK14|\                                                                               |
 +------------------------------------------------------------------------------------------+
-|\ |LINK15|\                                                                               |
+|\ |LINK15|\  - un supporto a Marina Bassi di FPA                                          |
 +------------------------------------------------------------------------------------------+
 |                                                                                          |
 +------------------------------------------------------------------------------------------+
 
 |
 
-.. _h2c1d74277104e41780968148427e:
+.. _h694745713691e4c27776959552b3e71:
 
-
-
+feed rss commenti Libro bianco innovazione PA 2018
+==================================================
 
 
 |REPLACE1|
@@ -55,7 +55,7 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="9200px" frameBorder="0" src=""></iframe>
+    <iframe width="100%" height="500px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEb8M42_WhXppQr1UCIRXQ-7Cuw_xpBCCUyzr-t-mOqGbGmVCcM5Ckp5gQR7Uvqc_0K_wbqJIxrWB/pubhtml?gid=0&single=true"></iframe>
 
 .. |LINK1| raw:: html
 
@@ -111,9 +111,9 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK14| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
+    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report Palermo Smarter City Challenge 2017 by IBM</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report Palermo Smarter City Challenge 2017 by IBM</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
 
