@@ -39,9 +39,23 @@ catalogo Read the Docs a cura di Ciro Spataro
 |                                                                                          |
 +------------------------------------------------------------------------------------------+
 
+|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
+|REPLACE1|
+
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="9200px" frameBorder="0" src="http://dev.ondata.it/projs/people/andy/librobiancoforumpa/feedContributi.xml"></iframe>
 
 .. |LINK1| raw:: html
 
