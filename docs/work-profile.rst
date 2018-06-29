@@ -81,6 +81,8 @@ works
 
 * \ |LINK24|\  ``cc by``
 
+* \ |LINK25|\  `` cc by nc sa``
+
 --------
 
 .. _h672e36365a5a6e3835651d314b6e1367:
@@ -88,15 +90,15 @@ works
 ue projects 
 ============
 
-* \ |LINK25|\ 
-
 * \ |LINK26|\ 
 
-* \ |LINK27|\  
+* \ |LINK27|\ 
 
 * \ |LINK28|\  
 
-* \ |LINK29|\ 
+* \ |LINK29|\  
+
+* \ |LINK30|\ 
 
 --------
 
@@ -105,7 +107,7 @@ ue projects
 tools for project management   
 ===============================
 
-* \ |LINK30|\  (access required)
+* \ |LINK31|\  (access required)
 
 --------
 
@@ -251,25 +253,29 @@ tools for project management
 
 .. |LINK25| raw:: html
 
-    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
+    <a href="http://poieinkaiprattein.org/cied/" target="_blank">cied</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
+    <a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank">euro-emas</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
+    <a href="http://slideplayer.com/slide/4835066/" target="_blank">etiv</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+    <a href="http://bit.ly/medclima" target="_blank">medclima</a>
 
 .. |LINK30| raw:: html
+
+    <a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank">urban-matrix</a>
+
+.. |LINK31| raw:: html
 
     <a href="https://sites.google.com/site/cirospatprojectmanagement/" target="_blank">project management</a>
 
