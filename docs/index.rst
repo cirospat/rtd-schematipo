@@ -27,7 +27,7 @@ Gli \ |STYLE1|\  principali di questo spazio sono:
 Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
-.. admonition:: Questa visualizzazione è costruita
+.. admonition:: Questa visualizzazione è costruita ↓
 
     su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` su un progetto repository dentro ``Github``, che a sua volta espone contenuti sulle pagine HTML con il design ``Read the Docs``. A questo \ |LINK4|\ .
 
