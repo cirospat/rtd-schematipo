@@ -81,7 +81,7 @@ works
 
 * \ |LINK24|\  ``cc by``
 
-* \ |LINK25|\  `` cc by nc sa``
+* \ |LINK25|\  ``cc by nc sa``
 
 --------
 
