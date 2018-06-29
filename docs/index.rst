@@ -29,7 +29,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. admonition:: Questa visualizzazione è costruita
 
-    su pagine di \ |STYLE3|\ , che grazie al plugin \ |LINK4|\  vengono pubblicate automaticamente in formato ``RST`` su un contenitore dentro \ |STYLE4|\ , che a sua volta espone direttamente pagine HTML sulla piattaforma \ |STYLE5|\ .
+    su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` su un progetto repository dentro ``Github``, che a sua volta espone contenuti sulle pagine HTML con il design ``Read the Docs``. A questo \ |LINK4|\ .
 
 
 .. toctree::  
@@ -63,12 +63,6 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 .. |STYLE1| replace:: **ambiti**
 
 .. |STYLE2| replace:: **civico**
-
-.. |STYLE3| replace:: **Google Doc**
-
-.. |STYLE4| replace:: **Github**
-
-.. |STYLE5| replace:: **Read the Docs**
 
 
 .. |REPLACE1| raw:: html
@@ -114,7 +108,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. |LINK4| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
+    <a href="http://googledocs.readthedocs.io/" target="_blank">link il tutorial</a>
 
 .. |LINK5| raw:: html
 
