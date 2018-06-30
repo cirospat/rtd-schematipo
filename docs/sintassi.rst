@@ -23,9 +23,16 @@ Sintassi RST
 
 |
 
+
+.. code:: 
+
+    .. admonition:: POTRESTI
+    
+       Redigere…..
+
 .. admonition:: POTRESTI
 
-   Redige
+   Redigere…..
 
 |
 
