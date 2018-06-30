@@ -34,6 +34,7 @@ Uffici comunali connessi all'Anello Telematico
 
 |REPLACE3|
 
+\ |STYLE0|\ 
 
 |REPLACE4|
 
@@ -57,7 +58,7 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 |REPLACE6|
 
-\ |STYLE0|\ 
+\ |STYLE1|\ 
 
 |REPLACE7|
 
@@ -65,7 +66,9 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Mappa degli hotspot wifi comunali**
+.. |STYLE0| replace:: **Mappa degli uffici connessi all'anello telematico**
+
+.. |STYLE1| replace:: **Mappa degli hotspot wifi comunali**
 
 
 .. |REPLACE1| raw:: html
