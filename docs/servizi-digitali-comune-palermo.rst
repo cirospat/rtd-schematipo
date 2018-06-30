@@ -80,7 +80,7 @@ Mappa degli hotspot wifi comunali
     <iframe width="100%" height="740px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
 .. |REPLACE6| raw:: html
 
-    <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza la mappa degli hotspot wifi a schermo intero</a></p>
+    <iframe width="100%" height="700px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza la mappa degli hotspot wifi a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
