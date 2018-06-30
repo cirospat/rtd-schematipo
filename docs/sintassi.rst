@@ -21,8 +21,6 @@ Sintassi RST
     
     * \ |LINK7|\  editor utile per facilitare la scrittura in codice; 
 
-|
-
 
 .. code:: 
 
@@ -34,8 +32,6 @@ Sintassi RST
 Titolo 
 
 ======= 
-
-|
 
 
 .. code:: 
@@ -49,8 +45,6 @@ Titolo
 Sottotitolo 
 
 -------------
-
-|
 
 
 .. code:: 
@@ -76,8 +70,6 @@ Definition lists:
 \ |STYLE2|\ 
 
            The term is a one-line phrase, and the definition is one or more paragraphs or body elements, indented relative to the term. Blank lines are not allowed between term and definition.
-
-|
 
 
 .. code:: 
