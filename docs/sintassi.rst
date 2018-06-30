@@ -31,6 +31,10 @@ Sintassi RST
 
 |REPLACE2|
 
+\ |STYLE3|\ 
+
+|REPLACE3|
+
 |
 
 
@@ -79,11 +83,11 @@ Sottotitolo
 
 Definition lists:
 
-\ |STYLE3|\ 
+\ |STYLE4|\ 
 
          Definition lists associate a term with a definition.
 
-\ |STYLE4|\ 
+\ |STYLE5|\ 
 
            The term is a one-line phrase, and the definition is one or more paragraphs or body elements, indented relative to the term. Blank lines are not allowed between term and definition.
 
@@ -110,7 +114,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 =====================================================================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 
 .. bottom of content
@@ -122,9 +126,11 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |STYLE2| replace:: **Tool per convertire il linguaggio Markdown nel linguaggio RST**
 
-.. |STYLE3| replace:: **what**
+.. |STYLE3| replace:: **Editor di tabelle per più linguaggi di programmazione, per esempio con Markdown**
 
-.. |STYLE4| replace:: **how**
+.. |STYLE4| replace:: **what**
+
+.. |STYLE5| replace:: **how**
 
 
 .. |REPLACE1| raw:: html
@@ -134,6 +140,9 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
     <iframe width="100%" height="700px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="700px" frameBorder="0" src="http://truben.no/table/"></iframe>
+.. |REPLACE4| raw:: html
 
     <iframe width="100%" height="9200px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSGrsZNTPtU47vYJ7yNO2FsGY24LHH6M1rYz5l2FcuhYeB1pDiWP9zDnzDCoRyesqAS_ri9DJFlvRV5/pub"></iframe>
 
