@@ -26,9 +26,28 @@ Sintassi RST
 
 .. code:: 
 
+    ======= 
+    Title 
+    ======= 
+
+↓
+
+======= 
+
+Title 
+
+======= 
+
+|
+
+
+.. code:: 
+
     .. admonition:: POTRESTI
     
        Redigere…..
+
+↓
 
 .. admonition:: POTRESTI
 
