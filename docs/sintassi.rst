@@ -32,8 +32,6 @@ Sintassi RST
 
 ↓
 
-======= 
-
 Title 
 
 ======= 
