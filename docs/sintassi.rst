@@ -55,6 +55,33 @@ Sottotitolo
 
 .. code:: 
 
+    Definition lists: 
+    
+    what 
+      Definition lists associate a term with a definition. 
+    
+    how 
+      The term is a one-line phrase, and the definition is one or more paragraphs or body 
+      elements, indented relative to the term. Blank lines are not allowed between term and 
+      definition.
+
+↓
+
+Definition lists:
+
+\ |STYLE1|\ 
+
+         Definition lists associate a term with a definition.
+
+\ |STYLE2|\ 
+
+           The term is a one-line phrase, and the definition is one or more paragraphs or body elements, indented relative to the term. Blank lines are not allowed between term and definition.
+
+|
+
+
+.. code:: 
+
     .. admonition:: POTRESTI
     
        Redigere…..
@@ -80,6 +107,10 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 
 .. |STYLE0| replace:: **reStructuredText  Markup Specification, editor e convertitori**
+
+.. |STYLE1| replace:: **what**
+
+.. |STYLE2| replace:: **how**
 
 
 .. |REPLACE1| raw:: html
