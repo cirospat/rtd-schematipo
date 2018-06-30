@@ -27,6 +27,10 @@ Sintassi RST
 
 |REPLACE1|
 
+\ |STYLE2|\ 
+
+|REPLACE2|
+
 |
 
 
@@ -75,11 +79,11 @@ Sottotitolo
 
 Definition lists:
 
-\ |STYLE2|\ 
+\ |STYLE3|\ 
 
          Definition lists associate a term with a definition.
 
-\ |STYLE3|\ 
+\ |STYLE4|\ 
 
            The term is a one-line phrase, and the definition is one or more paragraphs or body elements, indented relative to the term. Blank lines are not allowed between term and definition.
 
@@ -106,7 +110,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 =====================================================================================
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -116,15 +120,20 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |STYLE1| replace:: **Online reStructuredText editor**
 
-.. |STYLE2| replace:: **what**
+.. |STYLE2| replace:: **Tool per convertire il linguaggio Markdown nel linguaggio RST**
 
-.. |STYLE3| replace:: **how**
+.. |STYLE3| replace:: **what**
+
+.. |STYLE4| replace:: **how**
 
 
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="700px" frameBorder="0" src="http://rst.ninjs.org/"></iframe>
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="700px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
+.. |REPLACE3| raw:: html
 
     <iframe width="100%" height="9200px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSGrsZNTPtU47vYJ7yNO2FsGY24LHH6M1rYz5l2FcuhYeB1pDiWP9zDnzDCoRyesqAS_ri9DJFlvRV5/pub"></iframe>
 
