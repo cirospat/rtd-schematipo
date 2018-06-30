@@ -55,12 +55,15 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 |REPLACE5|
 
-Mappa degli hotspot wifi comunali
+\ |STYLE0|\ 
 
 |REPLACE6|
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Mappa degli hotspot wifi comunali**
 
 
 .. |REPLACE1| raw:: html
