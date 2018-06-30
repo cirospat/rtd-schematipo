@@ -26,15 +26,29 @@ Sintassi RST
 
 .. code:: 
 
-    ======= 
-    Title 
+    Titolo 
     ======= 
 
 ↓
 
-Title 
+Titolo 
 
 ======= 
+
+|
+
+
+.. code:: 
+
+    
+    Sottotitolo 
+    -------------
+
+↓
+
+Sottotitolo 
+
+-------------
 
 |
 
