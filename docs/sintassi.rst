@@ -40,85 +40,11 @@ Editor online per il linguaggio RST
 
 |REPLACE3|
 
+|
+
 \ |LINK11|\  \ |STYLE4|\ 
 
 |REPLACE4|
-
-|
-
-.. _h31285f385b5837781a3b262d5e242510:
-
-Esempi di sintassi da editare
-*****************************
-
-
-.. code:: 
-
-    Titolo 
-    ======= 
-
-↓
-
-Titolo 
-
-======= 
-
-|
-
-
-.. code:: 
-
-    
-    Sottotitolo 
-    -------------
-
-↓
-
-Sottotitolo 
-
--------------
-
-|
-
-
-.. code:: 
-
-    Definition lists: 
-    
-    what 
-      Definition lists associate a term with a definition. 
-    
-    how 
-      The term is a one-line phrase, and the definition is one or more paragraphs or body 
-      elements, indented relative to the term. Blank lines are not allowed between term and 
-      definition.
-
-↓
-
-Definition lists:
-
-\ |STYLE5|\ 
-
-         Definition lists associate a term with a definition.
-
-\ |STYLE6|\ 
-
-           The term is a one-line phrase, and the definition is one or more paragraphs or body elements, indented relative to the term. Blank lines are not allowed between term and definition.
-
-|
-
-
-.. code:: 
-
-    .. admonition:: POTRESTI
-    
-       Redigere…..
-
-↓
-
-.. admonition:: POTRESTI
-
-   Redigere…..
 
 |
 
@@ -144,10 +70,6 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |STYLE4| replace:: **utile per facilitare la scrittura in codice**
 
-.. |STYLE5| replace:: **what**
-
-.. |STYLE6| replace:: **how**
-
 
 .. |REPLACE1| raw:: html
 
@@ -160,7 +82,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
     <iframe width="100%" height="700px" frameBorder="0" src="http://truben.no/table/"></iframe>
 .. |REPLACE4| raw:: html
 
-    <iframe width="100%" height="1000px" frameBorder="0" src="http://docutils.sourceforge.net/docs/user/links.html#editors"></iframe>
+    <iframe width="100%" height="1000px" frameBorder="0" src="http://docutils.sourceforge.net/docs/user/rst/quickref.html"></iframe>
 .. |REPLACE5| raw:: html
 
     <iframe width="100%" height="9200px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSGrsZNTPtU47vYJ7yNO2FsGY24LHH6M1rYz5l2FcuhYeB1pDiWP9zDnzDCoRyesqAS_ri9DJFlvRV5/pub"></iframe>
