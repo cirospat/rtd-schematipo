@@ -2,7 +2,7 @@
 .. _h22674937321319794e226e5eb386a6:
 
 Sintassi RST
-************
+############
 
 
 ..  Important:: 
@@ -23,19 +23,33 @@ Sintassi RST
 
 |
 
-\ |STYLE1|\ 
+.. _h1415775553591c733701011656725f:
+
+Editor online per il linguaggio RST
+***********************************
+
+\ |LINK8|\  \ |STYLE1|\  
 
 |REPLACE1|
 
-\ |STYLE2|\ 
+\ |LINK9|\  \ |STYLE2|\ 
 
 |REPLACE2|
 
-\ |STYLE3|\ 
+\ |LINK10|\  \ |STYLE3|\ 
 
 |REPLACE3|
 
+\ |LINK11|\  \ |STYLE4|\ 
+
+|REPLACE4|
+
 |
+
+.. _h31285f385b5837781a3b262d5e242510:
+
+Esempi di sintassi da editare
+*****************************
 
 
 .. code:: 
@@ -83,11 +97,11 @@ Sottotitolo
 
 Definition lists:
 
-\ |STYLE4|\ 
+\ |STYLE5|\ 
 
          Definition lists associate a term with a definition.
 
-\ |STYLE5|\ 
+\ |STYLE6|\ 
 
            The term is a one-line phrase, and the definition is one or more paragraphs or body elements, indented relative to the term. Blank lines are not allowed between term and definition.
 
@@ -111,10 +125,10 @@ Definition lists:
 .. _h29571f416a4151c30e381c447d2222:
 
 Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-Italia
-=====================================================================================
+*************************************************************************************
 
 
-|REPLACE4|
+|REPLACE5|
 
 
 .. bottom of content
@@ -122,15 +136,17 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |STYLE0| replace:: **reStructuredText  Markup Specification, editor e convertitori**
 
-.. |STYLE1| replace:: **Online reStructuredText editor**
+.. |STYLE1| replace:: **per il linguaggio reStructuredText**
 
-.. |STYLE2| replace:: **Tool per convertire il linguaggio Markdown nel linguaggio RST**
+.. |STYLE2| replace:: **il linguaggio Markdown nel linguaggio RST**
 
-.. |STYLE3| replace:: **Editor di tabelle per più linguaggi di programmazione, per esempio con Markdown**
+.. |STYLE3| replace:: **per più linguaggi di programmazione, per esempio con Markdown**
 
-.. |STYLE4| replace:: **what**
+.. |STYLE4| replace:: **utile per facilitare la scrittura in codice**
 
-.. |STYLE5| replace:: **how**
+.. |STYLE5| replace:: **what**
+
+.. |STYLE6| replace:: **how**
 
 
 .. |REPLACE1| raw:: html
@@ -138,11 +154,14 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
     <iframe width="100%" height="700px" frameBorder="0" src="http://rst.ninjs.org/"></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="900px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
+    <iframe width="100%" height="700px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="700px" frameBorder="0" src="http://truben.no/table/"></iframe>
 .. |REPLACE4| raw:: html
+
+    <iframe width="100%" height="1000px" frameBorder="0" src="http://docutils.sourceforge.net/docs/user/links.html#editors"></iframe>
+.. |REPLACE5| raw:: html
 
     <iframe width="100%" height="9200px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSGrsZNTPtU47vYJ7yNO2FsGY24LHH6M1rYz5l2FcuhYeB1pDiWP9zDnzDCoRyesqAS_ri9DJFlvRV5/pub"></iframe>
 
@@ -173,4 +192,20 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 .. |LINK7| raw:: html
 
     <a href="http://docutils.sourceforge.net/docs/user/links.html#editors" target="_blank">http://docutils.sourceforge.net/docs/user/links.html#editors</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://rst.ninjs.org/" target="_blank">Editor online</a>
+
+.. |LINK9| raw:: html
+
+    <a href="http://pandoc.org/try" target="_blank">Tool per convertire</a>
+
+.. |LINK10| raw:: html
+
+    <a href="http://truben.no/table/" target="_blank">Editor di tabelle</a>
+
+.. |LINK11| raw:: html
+
+    <a href="http://docutils.sourceforge.net/docs/user/links.html#editors" target="_blank">Editor</a>
 
