@@ -138,7 +138,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
     <iframe width="100%" height="700px" frameBorder="0" src="http://rst.ninjs.org/"></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="700px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
+    <iframe width="100%" height="900px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="700px" frameBorder="0" src="http://truben.no/table/"></iframe>
