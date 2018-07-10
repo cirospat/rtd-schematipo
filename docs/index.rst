@@ -39,12 +39,24 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     social-profile
     work-profile
     cv-Ciro-Spataro
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: Risorse
+
     tutorial
     mappe
+    webinar-opendata
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: @ Comune di Palermo
+
     Ciro-Spataro-su-open-data-e-innovazione
     open-data-incontri-con-referenti-comunali
     servizi-digitali-comune-palermo
-    webinar-opendata
 
 
 .. toctree::  
