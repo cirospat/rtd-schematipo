@@ -1,8 +1,8 @@
 
-.. _h15e1f34031417434493a55661723:
+.. _ha649383e4b386e182e5073783c2b28:
 
-Fondamentali (external links)
-#############################
+Fondamentali 
+#############
 
 .. _bookmark-id-5ak5khujvzst:
 
@@ -245,6 +245,8 @@ AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio 
 
 \ |LINK35|\ 
 
+\ |LINK36|\ 
+
 --------
 
 .. _h2c1d74277104e41780968148427e:
@@ -404,4 +406,8 @@ AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio 
 .. |LINK35| raw:: html
 
     <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
+
+.. |LINK36| raw:: html
+
+    <a href="#bookmark-id-5ak5khujvzst">⇑</a>
 
