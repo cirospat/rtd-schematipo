@@ -231,6 +231,22 @@ Linee Guida per la Promozione dei Servizi Digitali
 
 --------
 
+.. _h5013364f793a4241191f3d4269636e1c:
+
+AGID, Regolamento per l'adozione di linee guida per l'attuazione del C.A.D.
+***************************************************************************
+
+\ |LINK34|\ 
+
+.. _h7652391a5a4f478683032737144156:
+
+AGID, Regolamento recante le modalità per l'esercizio del potere sanzionatorio ai sensi dell'art. 32-bis del decreto legislativo 7 marzo 2005, n. 82 e s.m. (C.A.D.)
+********************************************************************************************************************************************************************
+
+\ |LINK35|\ 
+
+--------
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -379,5 +395,13 @@ Linee Guida per la Promozione dei Servizi Digitali
 
 .. |LINK33| raw:: html
 
-    <a href="https://comunica-lg.readthedocs.io" target="_blank">linee guida</a>
+    <a href="https://comunica-lg.readthedocs.io" target="_blank">Linee guida</a>
+
+.. |LINK34| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121612_725_1.html" target="_blank">Linee guida</a>
+
+.. |LINK35| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_121613_725_1.html" target="_blank">Modalità esecuzione verifiche e Regolamento potere sanzionatorio</a>
 
