@@ -173,11 +173,11 @@ CV updated to june 5, 2018
 
 .. |STYLE1| replace:: **LINGUE STRANIERE /  FOREIGN LANGUAGES**
 
-.. |STYLE2| replace:: **FORMAZIONE TECNICA /  TECHNICAL SKILL**
+.. |STYLE2| replace:: **FORMAZIONE TECNICA / TECHNICAL SKILL**
 
 .. |STYLE3| replace:: **Pubblicazioni**
 
-.. |STYLE4| replace:: **INTERESSI E RETI /  INTERESTS AND NETWORKING**
+.. |STYLE4| replace:: **INTERESSI E RETI / INTERESTS AND NETWORKING**
 
 
 .. |REPLACE1| raw:: html
