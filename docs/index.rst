@@ -45,6 +45,12 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     open-data-incontri-con-referenti-comunali
     servizi-digitali-comune-palermo
     webinar-opendata
+
+
+.. toctree::  
+    :maxdepth: 2
+    :caption: External links
+
     fondamentali
 
 --------
