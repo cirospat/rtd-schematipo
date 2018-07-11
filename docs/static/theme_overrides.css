@@ -55,5 +55,5 @@ h1, h2, h3 {
 /* mobile */
 .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }
 
-
-.wy-body-for-nav {background: #c6c3b3; }
+/* lo sfondo a dx dopo il testo */
+.wy-body-for-nav {background: #e0dfd9; }
