@@ -5,7 +5,7 @@
 <script>
           $(document).ready( function() 
               $('#backTop').backTop({
-                  'position' : 500,
+                  'position' : 300,
                   'speed' : 500,
                   'color' : 'red',
 
