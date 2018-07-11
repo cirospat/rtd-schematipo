@@ -73,13 +73,13 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="1600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="2000px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
+    <iframe width="100%" height="1900px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGYi5wDzJvq8niQDamscNpWpDriVCTcPSgnN-Z4C5kbUDHULrEq0NQDPp0rrxBkj7gmjb7Gt_9ctJf/pubhtml"></iframe>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="2650px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
+    <iframe width="100%" height="2550px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQACeLrlz3YiX7n5Hef6GFwuRsRGyNcF-qXQNk_p75cv8vJvmvBJk7gSwc8LG2E6-nur3040fPfPvGB/pubhtml"></iframe>
 .. |REPLACE4| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/anello-telematico-comunale-palermo-wifi-comunale-v_71124?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
