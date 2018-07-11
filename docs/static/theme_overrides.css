@@ -63,6 +63,7 @@ h1, h2, h3 {
 
 code {
 white-space: normal !important;
-border: 0px !important;
+border-colour: color: #FF8000;
+border: 1px !important;
 background-color: rgba(27,31,35,0.05) !important;
 }
