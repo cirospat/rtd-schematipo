@@ -50,3 +50,6 @@ h1, h2, h3 {
 
 
 .wy-body-for-nav {background: #efefef;}
+
+/* disattiva testo latest  menu sx */
+.wy-side-nav-search>div.version {    display: none;}
