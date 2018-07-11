@@ -46,7 +46,7 @@ h1, h2, h3 {
 
 
 /* adatta il nav-content a fullhd */
-/* .wy-nav-content {max-width: 1920px;} */
+.wy-nav-content {max-width: 1920px;} 
 
 
 /* disattiva testo latest  menu sx */
