@@ -47,3 +47,4 @@ html_logo = "static/cirospat.jpg"
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
 # https://docs.readthedocs.io/en/latest/guides/adding-custom-css.html
 
+templates_path = ['_templates']
