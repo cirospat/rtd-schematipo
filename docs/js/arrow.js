@@ -1,4 +1,4 @@
-<!-- script Back To Top -- che non funziona però ---
+<!-- script Back To Top  che non funziona però 
 -->
 <a id='backTop'>Back To Top</a>
 <script src="top/jquery.backTop.min.js"></script>
