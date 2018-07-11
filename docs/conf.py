@@ -41,7 +41,10 @@ def setup(app):
 latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
+templates_path = ['_templates']
 
+def setup(app):
+    app.add_javascript("js/custom.js")
 
 # -- note---- estensioni per lo script 'top' per abilitare la freccia che porta in alto (sono solo prove) --------------------
 
