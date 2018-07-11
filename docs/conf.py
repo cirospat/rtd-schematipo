@@ -33,7 +33,7 @@ def setup(app):
   
 
 def setup(app):
-    app.add_javascript("top/jquery.backTop.js")
+    app.add_javascript("top/jquerysctipttop.css")
 
     
 """
