@@ -32,6 +32,9 @@ def setup(app):
     app.add_stylesheet('theme_overrides.css') # path relative to static
   
 
+def setup(app):
+    app.add_javascript("docs/js/arrow.js")
+
     
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
