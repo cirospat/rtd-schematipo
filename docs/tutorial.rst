@@ -58,8 +58,7 @@ Manuali
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="2000px" frameBorder="0" src="http://accussi.opendatasicilia.it/"></iframe>
-    <p><a href="http://accussi.opendatasicilia.it/">Visualizza il <b>"catalogo dei tutorial"</b> a schermo intero</a></p>
+    <iframe width="100%" height="3000px" frameBorder="0" src="http://accussi.opendatasicilia.it/"></iframe>
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
