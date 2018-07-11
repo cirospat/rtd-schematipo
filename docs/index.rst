@@ -1,10 +1,10 @@
 
 |REPLACE1|
 
-.. _h7f754f4a3f606542a5e113c53275e5b:
+.. _h584a53f7a417724a22d6f3470186:
 
-Cirospat pro-file
-*****************
+Ciro Spataro pro-file
+*********************
 
 \ |IMG1|\   ``cultura della documentazione`` 
 
