@@ -33,7 +33,7 @@ def setup(app):
   
 
 def setup(app):
-    app.add_javascript("js/arrow.js")
+    app.add_stylesheet('top/jquerysctipttop.css')
 
     
 """
