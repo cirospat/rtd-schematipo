@@ -42,9 +42,6 @@ latex_logo = "static/cirospat.jpg"
 html_logo = "static/cirospat.jpg"
 
 
-def setup(app):
-    app.add_javascript("js/arrow.js")
-
 # -- note---- estensioni per lo script 'top' per abilitare la freccia che porta in alto (sono solo prove) --------------------
 
 # extensions = ['top']
