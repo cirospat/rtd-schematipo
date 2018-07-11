@@ -45,7 +45,7 @@ h1, h2, h3 {
 .wy-nav-side {color: #FF8000;}
 
 
-/* adatta il nav-content a fullhd */
+/* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
 .wy-nav-content {max-width: 1920px;} 
 
 
@@ -58,9 +58,10 @@ h1, h2, h3 {
 /* lo sfondo a dx dopo il testo */
 .wy-body-for-nav {background: #ffffff; }
 
-/* vari stili di formattazione qui: 
+/* vari stili di formattazione a questo link: 
    https://github.com/gbvitrano/HfcQGIS/blob/master/static/theme_overrides.css */
 
+/* formattare la barra del codice [`` ... ``] quella inclusa tr ai doppi apici */
 /* code {
 white-space: normal !important;
 border: 0px !important;
