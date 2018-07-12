@@ -34,6 +34,13 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. toctree::  
     :maxdepth: 2
+    :caption: 
+
+    Home <http://cirospat.readthedocs.io>
+
+
+.. toctree::  
+    :maxdepth: 2
     :caption: Profile
 
     social-profile
