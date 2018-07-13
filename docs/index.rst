@@ -76,7 +76,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 \ |IMG2|\  
 
-[i contenuti di questo portale sono rilasciati con licenza CC BY SA 4.0, eccetto dove diversamente specificato]
+[contenuti rilasciati con licenza CC BY SA 4.0, eccetto dove diversamente specificato]
 
 
 |REPLACE2|
