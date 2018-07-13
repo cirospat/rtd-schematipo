@@ -34,7 +34,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 .. toctree::
   :maxdepth: 2
 
-  Home <http://cirospat.readthedocs.io>
+  ``Home`` <http://cirospat.readthedocs.io>
 
 
 .. toctree::  
