@@ -33,6 +33,7 @@
     color: #fff !important;
 }
 
+/* setta i colori dei titoli dei capitoli, paragrafi, ecc. */
 h1, h2, h3 {
     color: #ff5a00 !important;
 }
@@ -41,7 +42,7 @@ h1, h2, h3 {
     background-color: #FF6300;
 }
 
-/* testo caption menu sx */
+/* testo caption menu sx - setta i colori dell'indice nel menu a sx */
 .wy-nav-side {color: #FF8000;}
 
 
@@ -49,13 +50,13 @@ h1, h2, h3 {
 .wy-nav-content {max-width: 1920px;} 
 
 
-/* disattiva testo latest  menu sx */
+/* disattiva il testo "latest"  menu a sx */
 .wy-side-nav-search>div.version {    display: none;}
 
-/* mobile */
+/* mobile settings */
 .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }
 
-/* lo sfondo a dx dopo il testo */
+/* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
 
 /* vari stili di formattazione a questo link: 
@@ -68,5 +69,5 @@ border: 0px !important;
 background-color: #f2f2f2 !important;
 }  */
 
-/* dare colore di sfondo al Blocco pbubblicita */
+/* dare il colore di sfondo al blocco pbubblicita */
 .wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
