@@ -74,7 +74,9 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 --------
 
-\ |IMG2|\  i contenuti di questo portale sono rilasciati con licenza CC BY SA 4.0, eccetto dove diversamente specificato
+\ |IMG2|\  
+
+[i contenuti di questo portale sono rilasciati con licenza CC BY SA 4.0, eccetto dove diversamente specificato]
 
 [l'immagine del libro, in alto, è a cura di \ |LINK5|\  rilasciata con licenza CC BY 3.0]
 
