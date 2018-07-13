@@ -74,6 +74,8 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 --------
 
+\ |IMG2|\  i contenuti di questo portale sono rilasciati con licenza CC BY SA 4.0
+
 [immagine in alto by \ |LINK5|\  rilasciata con licenza CC BY 3.0]
 
 
@@ -143,3 +145,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 .. |IMG1| image:: static/index-cirospat_1.png
    :height: 56 px
    :width: 64 px
+
+.. |IMG2| image:: static/index-cirospat_2.png
+   :height: 52 px
+   :width: 142 px
