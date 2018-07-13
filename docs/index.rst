@@ -31,6 +31,11 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` su un progetto repository dentro ``Github``, che a sua volta espone contenuti sulle pagine HTML con il design ``Read the Docs``. A questo \ |LINK4|\ .
 
+.. toctree::
+  :maxdepth: 2
+
+  Home <http://cirospat.readthedocs.io>
+
 
 .. toctree::  
     :maxdepth: 2
