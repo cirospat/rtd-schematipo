@@ -23,6 +23,9 @@ social
 
 * skype: cirospat
 
+
+|REPLACE1|
+
 --------
 
 .. _h2a71b4354a2b7b67063506a6f6478:
@@ -53,7 +56,7 @@ territorial mini guide
 
 * \ |LINK14|\  ``cc by``
 
-|REPLACE1|
+|REPLACE2|
 
 --------
 
@@ -64,6 +67,9 @@ territorial mini guide
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe src="https://plus.google.com/+cirospat" frameborder="0" width="900" height="1200" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+.. |REPLACE2| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
