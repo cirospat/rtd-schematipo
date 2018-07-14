@@ -34,7 +34,22 @@ script in HTML per freccia back to the top
 ******************************************
 
 
-|REPLACE4|
+.. code:: 
+
+    <!-- script Back To Top
+    -->
+    <a id='backTop'>Back To Top</a>
+    <script src="top/jquery.backTop.min.js"></script>
+    <script>
+               $(document).ready( function() 
+                   $('#backTop').backTop({
+                       'position' : 500,
+                       'speed' : 500,
+                       'color' : 'red',
+    
+                                                });
+                });
+    </script>
 
 --------
 
@@ -43,29 +58,21 @@ script in HTML per freccia back to the top
 sul file conf.py
 ****************
 
-setup(
 
-packages=['newproject'],
+.. code:: 
 
-package_data={'top': [
-
-'\*.html',
-
-'\*.css',
-
-'\*.js',	
-
-	'/img/\*.png',
-
-'/img/\*.db',
-
-	]},
-
-include_package_data=True,
-
-],
-
-)
+    setup(
+    packages=['newproject'],
+    package_data={'top': [
+    '*.html',
+    '*.css',
+    '*.js',	
+    	'/img/*.png',
+    '/img/*.db',
+    	]},
+    include_package_data=True,
+    ],
+    )
 
 --------
 
@@ -199,19 +206,3 @@ scrivi ``.. code-block:: rst``
 .. |REPLACE3| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-.. |REPLACE4| raw:: html
-
-    <!-- script Back To Top
-    -->
-    <a id='backTop'>Back To Top</a>
-    <script src="top/jquery.backTop.min.js"></script>
-    <script>
-               $(document).ready( function() 
-                   $('#backTop').backTop({
-                       'position' : 500,
-                       'speed' : 500,
-                       'color' : 'red',
-    
-                                                });
-                });
-    </script>
