@@ -1,4 +1,79 @@
 
+.. _h3c5c394db521d25642014a2cd143a:
+
+html code e code blocks
+#######################
+
+.. _h17143c773422746f363a7e5505727:
+
+html emdedding
+**************
+
+
+|REPLACE1|
+
+.. _h3263387b733d1d72785ef1b3b4e7f3c:
+
+embeddare video you tube
+************************
+
+
+|REPLACE2|
+
+.. _h6049143d7324d802e5b1d80343a34:
+
+embeddare powerpoint
+********************
+
+
+|REPLACE3|
+
+.. _h1617e81323d3739152241496067:
+
+script in HTML per freccia back to the top
+******************************************
+
+
+|REPLACE4|
+
+--------
+
+.. _h6b377c15f1e383b5b7a1f212c646734:
+
+sul file conf.py
+****************
+
+setup(
+
+packages=['newproject'],
+
+package_data={'top': [
+
+'\*.html',
+
+'\*.css',
+
+'\*.js',	
+
+	'/img/\*.png',
+
+'/img/\*.db',
+
+	]},
+
+include_package_data=True,
+
+],
+
+)
+
+--------
+
+.. _h4d4f60106b6a7cd791a7b252e51487f:
+
+code block
+**********
+
 https://docs.readthedocs.io
 
 ------
@@ -7,19 +82,19 @@ http://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.htm
 
 ------
 
-**code-block gherkin**
+\*\*code-block gherkin\*\*
 
 scrivi ``.. code-block:: gherkin``
 
 .. code-block:: gherkin
 
-   blabla **aaallll** aallaalall aalal al  http://bla.it ggggggggg ggg gggggggjjj jjj hhhhhh
+   blabla \*\*aaallll\*\* aallaalall aalal al  http://bla.it ggggggggg ggg gggggggjjj jjj hhhhhh
    documentation-style-guide-sphinx/   jjjjj jj jjjj
    tuudududu duuu dduuud u
   
 ------
 
-**code-block rst**
+\*\*code-block rst\*\*
 
 scrivi ``.. code-block:: rst``
 
@@ -37,9 +112,9 @@ scrivi ``.. code-block:: rst``
 
   And at the end of the document...
 
-  **********
+  \*\*\*\*\*\*\*\*\*\*
   References
-  **********
+  \*\*\*\*\*\*\*\*\*\*
 
   .. target-notes::
 
@@ -89,3 +164,54 @@ scrivi ``.. code-block:: rst``
         <td class="border-bottom">.. figure::&nbsp;http://googledocs.readthedocs.io/it/latest/_images/index_6.png</td>
     </tr>
    </table>
+
+
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+|   |       |
++---+-------+
+
+
+.. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE3| raw:: html
+
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+.. |REPLACE4| raw:: html
+
+    <!-- script Back To Top
+    -->
+    <a id='backTop'>Back To Top</a>
+    <script src="top/jquery.backTop.min.js"></script>
+    <script>
+               $(document).ready( function() 
+                   $('#backTop').backTop({
+                       'position' : 500,
+                       'speed' : 500,
+                       'color' : 'red',
+    
+                                                });
+                });
+    </script>
