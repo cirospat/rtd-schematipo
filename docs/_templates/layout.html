@@ -1,15 +1,20 @@
 <!-- SCROLL UP BUTTON -->
-<a id='backTop'>Back To Top</a>
+{% block footer %}
+      {{ super() }}
+      <div class="footerc">
+          <a id='backTop'>Back To Top</a>
  <!-- script toptoback automatico mobile/desktop -->  
- <script type="text/javascript" src="lib/js/top/jquery.backTop.min.js"></script>
+ <script type="text/javascript" src=" http://hfcqgis.opendatasicilia.it/it/latest/_static/jquery.backTop.min.js"></script>
 <script>
             $(document).ready( function() {
                 $('#backTop').backTop({
                     'position' : 400,
                     'speed' : 300,
                     'color' : 'red',
-          
-                          });
+					
+					                });
             });
         </script>
+      </div>
+{% endblock %}
 
