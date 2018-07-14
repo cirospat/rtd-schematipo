@@ -10,12 +10,22 @@ html emdedding
 **************
 
 
+.. code:: 
+
+    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
+
+
 |REPLACE1|
 
-.. _h3263387b733d1d72785ef1b3b4e7f3c:
+.. _h357a422a66b3f2d7360165d78226031:
 
-embeddare video you tube
-************************
+embeddare video youtube
+***********************
+
+
+.. code:: 
+
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 |REPLACE2|
@@ -24,6 +34,11 @@ embeddare video you tube
 
 embeddare powerpoint
 ********************
+
+
+.. code:: 
+
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 |REPLACE3|
