@@ -1,21 +1,20 @@
 {% extends "!layout.html" %}
 {% block extrahead %}
-      {{ super() }}
+    {{ super() }}
 
 <!-- css Back To Top -->
-<link href="top/jquerysctipttop.css" rel="stylesheet" type="text/css" />
-<link href="top/backTop.css" rel="stylesheet" type="text/css" />
+<link href="docs/top/jquerysctipttop.css" rel="stylesheet" type="text/css" />
+<link href="docs/top/backTop.css" rel="stylesheet" type="text/css" />
 <!-- Script -->
-<script type="text/javascript" src="top/jquery-1.11.1.min.js"></script> 
+<script type="text/javascript" src="docs/top/jquery-1.11.1.min.js"></script> 
 {% endblock %}
-
 
 {% block footer %}
       {{ super() }}
       <div class="footerc">
 	      <a id='backTop'>Back To Top</a>
  <!-- script toptoback automatico mobile/desktop -->  
- <script type="text/javascript" src="top/jquery.backTop.min.js"></script>
+ <script type="text/javascript" src="docs/top/jquery.backTop.min.js"></script>
 <script>
             $(document).ready( function() {
                 $('#backTop').backTop({
