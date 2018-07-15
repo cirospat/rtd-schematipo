@@ -3,10 +3,10 @@
     {{ super() }}
 
 <!-- css back top -->
-<link href=" http://hfcqgis.opendatasicilia.it/it/latest/_static/jquerysctipttop.css" rel="stylesheet" type="text/css" />
-<link href=" http://hfcqgis.opendatasicilia.it/it/latest/_static/backTop.css" rel="stylesheet" type="text/css" />
+<link href="static/jquerysctipttop.css" rel="stylesheet" type="text/css" />
+<link href="static/backTop.css" rel="stylesheet" type="text/css" />
 <!-- Script -->
-<script type="text/javascript" src=" http://hfcqgis.opendatasicilia.it/it/latest/_static/jquery.min.js"></script> 
+<script type="text/javascript" src="static/jquery.min.js"></script> 
 {% endblock %}
 
 {% block footer %}
@@ -14,7 +14,7 @@
       <div class="footerc">
           <a id='backTop'>Back To Top</a>
  <!-- script toptoback automatico mobile/desktop -->  
- <script type="text/javascript" src=" http://hfcqgis.opendatasicilia.it/it/latest/_static/jquery.backTop.min.js"></script>
+ <script type="text/javascript" src="static/jquery.backTop.min.js"></script>
 <script>
             $(document).ready( function() {
                 $('#backTop').backTop({
