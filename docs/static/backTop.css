@@ -16,11 +16,11 @@
 @media (min-width: 320px) and (max-width: 1023px) {#backTop {width:10px; height:10px;border-radius:30px;}}
 
 #backTop.white{
-     background:url(qtop.png) no-repeat center center rgba(255,255,255,0.8);
+     background:url(hfctop.png) no-repeat center center rgba(255,255,255,0.8);
      /*border:1px solid #ccc;*/
 }
 #backTop.black{
-     background:url(qtop.png) no-repeat center center rgba(0,0,0,0.8); 
+     background:url(hfctop.png) no-repeat center center rgba(0,0,0,0.8); 
     /*border:1px solid #ccc;*/
 }
 #backTop.red{
@@ -33,5 +33,5 @@
 @media (min-width: 320px) and (max-width: 1023px) {#backTop.red {background-size: 16px;}}
 
 #backTop.green{
-     background:url(qtop.png) no-repeat center center rgba(81,217,187,0.8); 
+     background:url(hfctop.png) no-repeat center center rgba(81,217,187,0.8); 
      /*border:1px solid #ccc;*/
