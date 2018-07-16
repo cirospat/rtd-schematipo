@@ -73,29 +73,6 @@ script in HTML per freccia back to the top
 
 --------
 
-.. _h6b377c15f1e383b5b7a1f212c646734:
-
-sul file conf.py
-****************
-
-
-.. code:: 
-
-    setup(
-    packages=['newproject'],
-    package_data={'top': [
-    '*.html',
-    '*.css',
-    '*.js',	
-    	'/img/*.png',
-    '/img/*.db',
-    	]},
-    include_package_data=True,
-    ],
-    )
-
---------
-
 .. _h4d4f60106b6a7cd791a7b252e51487f:
 
 code block
@@ -219,13 +196,13 @@ scrivi ``.. code-block:: rst``
 
 .. |REPLACE1| raw:: html
 
-    <p>questo è <span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un ...</p> 
+    <p>questo è un colore<span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un tasto verde</p> 
     
-    <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
+    <p>questo è un colore<br /><button class="btn btn-pill btn-info" type="button"><strong>blu<br /></strong></button>per un tasto blu</p>
     
-    <p><span class="btn btn-danger btn-xs">a cura di ciro spataro</span></p>
+    <p>questo è un colore<span class="btn btn-danger btn-xs">rosso</span>per un tasto rosso</p>
     
-    <p><button type="button" class="btn btn-xs btn-pill btn-warning"><b>a cura di ciro spataro</b></button></p>
+    <p>questo è un colore<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>per un tasto marrone</p>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
