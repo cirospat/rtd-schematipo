@@ -4,10 +4,10 @@
 html code e code blocks
 #######################
 
-.. _h2634e13c24742057145442171c4b43:
+.. _h436b5279535ab39574d944c194c5b:
 
-buttons
-*******
+buttons colorati con testo
+**************************
 
 
 |REPLACE1|
