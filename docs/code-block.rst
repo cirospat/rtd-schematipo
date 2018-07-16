@@ -7,9 +7,6 @@ html code e code blocks
 
 |REPLACE1|
 
-
-|REPLACE2|
-
 |
 
 .. _h17143c773422746f363a7e5505727:
@@ -23,7 +20,7 @@ html emdedding
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
 
 
-|REPLACE3|
+|REPLACE2|
 
 .. _h357a422a66b3f2d7360165d78226031:
 
@@ -36,7 +33,7 @@ embeddare video youtube
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-|REPLACE4|
+|REPLACE3|
 
 .. _h6049143d7324d802e5b1d80343a34:
 
@@ -49,7 +46,7 @@ embeddare powerpoint
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-|REPLACE5|
+|REPLACE4|
 
 .. _h1617e81323d3739152241496067:
 
@@ -222,15 +219,6 @@ scrivi ``.. code-block:: rst``
 
 .. |REPLACE1| raw:: html
 
-    <embed>
-    <p><span style="font-size: 11pt;"><strong><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span></strong></span><span style="color: #0000ff;"><span style="font-size: 11pt;">
-    <!-- This comment is visible only in the source editor --></span></span></p>
-    <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
-    <p><span class="btn btn-danger btn-xs"><b>a cura di ciro spataro</b></span></p>
-    <p><button type="button" class="btn btn-xs btn-pill btn-warning"><b>a cura di ciro spataro</b></button></p>
-    </embed>
-.. |REPLACE2| raw:: html
-
     <p><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span></p>
     
     <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
@@ -238,12 +226,12 @@ scrivi ``.. code-block:: rst``
     <p><span class="btn btn-danger btn-xs"><b>a cura di ciro spataro</b></span></p>
     
     <p><button type="button" class="btn btn-xs btn-pill btn-warning"><b>a cura di ciro spataro</b></button></p>
-.. |REPLACE3| raw:: html
+.. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
-.. |REPLACE4| raw:: html
+.. |REPLACE3| raw:: html
 
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-.. |REPLACE5| raw:: html
+.. |REPLACE4| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
