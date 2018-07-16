@@ -223,7 +223,7 @@ scrivi ``.. code-block:: rst``
 .. |REPLACE1| raw:: html
 
     <embed>
-    <p><span style="font-size: 11pt;"><strong><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span></strong></span><span style="color: #0000ff;"><span style="font-size: 11pt;">
+    <p><span style="font-size: 15pt;"><strong><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span></strong></span><span style="color: #0000ff;"><span style="font-size: 15pt;">
     <!-- This comment is visible only in the source editor --></span></span></p>
     <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
     <p><span class="btn btn-danger btn-xs"><b>a cura di ciro spataro</b></span></p>
