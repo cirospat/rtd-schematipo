@@ -219,11 +219,11 @@ scrivi ``.. code-block:: rst``
 
 .. |REPLACE1| raw:: html
 
-    <p><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span></p>
+    questo è <p><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span></p> per un ...
     
     <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
     
-    <p><span class="btn btn-danger btn-xs"><b>a cura di ciro spataro</b></span></p>
+    <p><span class="btn btn-danger btn-xs">a cura di ciro spataro</span></p>
     
     <p><button type="button" class="btn btn-xs btn-pill btn-warning"><b>a cura di ciro spataro</b></button></p>
 .. |REPLACE2| raw:: html
