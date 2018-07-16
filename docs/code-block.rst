@@ -231,10 +231,13 @@ scrivi ``.. code-block:: rst``
     </embed>
 .. |REPLACE2| raw:: html
 
-    <p><span style="font-size: 11pt;"><strong><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span></strong></span><span style="color: #0000ff;"><span style="font-size: 11pt;">
+    <p><span style="font-size: 11pt;"><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span></span><span style="color: #0000ff;"><span style="font-size: 11pt;">
     <!-- This comment is visible only in the source editor --></span></span></p>
+    
     <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
+    
     <p><span class="btn btn-danger btn-xs"><b>a cura di ciro spataro</b></span></p>
+    
     <p><button type="button" class="btn btn-xs btn-pill btn-warning"><b>a cura di ciro spataro</b></button></p>
 .. |REPLACE3| raw:: html
 
