@@ -28,22 +28,25 @@
     border-bottom: solid 1px #b59e9e !important;
 }
 
+/* #51d9bb colore verdino dei social di addthis nella colonna laterale sx e della freccia */
+/* #ff5a00 colore arancione originario */
+
 .btn-neutral {
-    background-color: #ff5a00 !important;
+    background-color: #51d9bb !important;
     color: #fff !important;
 }
 
 /* setta i colori dei titoli dei capitoli, paragrafi, ecc. */
 h1, h2, h3 {
-    color: #ff5a00 !important;
+    color: #51d9bb !important;
 }
 
 .wy-side-nav-search {
-    background-color: #FF6300;
+    background-color: #51d9bb;
 }
 
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
-.wy-nav-side {color: #FF8000;}
+.wy-nav-side {color: #51d9bb;}
 
 
 /* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
