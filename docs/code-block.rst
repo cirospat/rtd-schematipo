@@ -219,7 +219,7 @@ scrivi ``.. code-block:: rst``
 
 .. |REPLACE1| raw:: html
 
-    questo è <p><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span></p> per un ...
+    <p>questo è <span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un ...</p> 
     
     <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
     
