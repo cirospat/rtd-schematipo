@@ -230,8 +230,10 @@ scrivi ``.. code-block:: rst``
 .. |REPLACE1| raw:: html
 
     <p><span style="font-size: 11pt;"><strong><span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>a cura di ciro spataro</b></button>&nbsp;&nbsp;</span></strong></span><span style="color: #0000ff;"><span style="font-size: 11pt;">
-    <!-- This comment is visible only in the source editor --></span></span>
+    <!-- This comment is visible only in the source editor --></span></span></p>
     <p><br /><button class="btn btn-pill btn-info" type="button"><strong>a cura di ciro spataro<br /></strong></button></p>
+    <p><span class="btn btn-danger btn-xs"><b>a cura di ciro spataro</b></span></p>
+    <p><button type="button" class="btn btn-xs btn-pill btn-warning"><b>a cura di ciro spataro</b></button></p>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
