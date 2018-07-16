@@ -56,8 +56,12 @@ h1, h2, h3 {
 /* disattiva il testo "latest"  menu a sx */
 .wy-side-nav-search>div.version {    display: none;}
 
+/* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
+/* quello di prima era il seguente */
+/* .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); } */
+
 /* mobile settings */
-.wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); }
+.wy-nav-top {background: #ccd8ab; }
 
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
