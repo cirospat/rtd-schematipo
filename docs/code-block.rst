@@ -11,13 +11,19 @@ buttons colorati con testo
 
 .. raw:: html
 
-   <p>questo è un colore<span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un tasto verde</p>
+   <p>questo è un colore<span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button">&nbsp;&nbsp;<b>verde</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un tasto verde</p>
 
-<p>questo è un colore<br /><button class="btn btn-pill btn-info" type="button"><strong>blu<br /></strong></button>per un tasto blu</p>
+.. raw:: html
 
-<p>questo è un colore<span class="btn btn-danger btn-xs">rosso</span>per un tasto rosso</p>
+   <p>questo è un colore<br /><button class="btn btn-pill btn-info" type="button"><strong>blu<br /></strong></button>per un tasto blu</p>
 
-<p>questo è un colore<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>per un tasto marrone</p>
+.. raw:: html
+
+   <p>questo è un colore<span class="btn btn-danger btn-xs">rosso</span>per un tasto rosso</p>
+
+.. raw:: html
+
+   <p>questo è un colore<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>per un tasto marrone</p>
 
 |
 
