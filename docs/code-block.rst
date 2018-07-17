@@ -11,7 +11,7 @@ buttons colorati con testo
 
 .. raw:: html
 
-   <p>questo è un colore<span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un tasto verde</p> 
+   <p>questo è un colore<span style="color: #0000ff;"><button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un tasto verde</p>
 
 <p>questo è un colore<br /><button class="btn btn-pill btn-info" type="button"><strong>blu<br /></strong></button>per un tasto blu</p>
 
