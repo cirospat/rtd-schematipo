@@ -26,6 +26,8 @@ active citizenship & communities
 
 \ |LINK7|\  community sulla cultura dei dati aperti. \ |LINK8|\  di opendatasicilia
 
+--------
+
 .. _h355fd11633356a0533c60645d3612:
 
 skills-cv 
