@@ -12,7 +12,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 .. admonition:: Reti di impegno
 
-    \ |LINK1|\   - \ |LINK2|\   -  \ |LINK3|\  
+    \ |LINK1|\   - \ |LINK2|\   -  \ |LINK3|\ 
 
 
 |REPLACE2|
@@ -96,7 +96,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
 
-    Gli &nbsp;&nbsp;<button class="btn btn-pill btn-info"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
+    Gli &nbsp;&nbsp;<button class="btn btn-pill btn-success"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -125,15 +125,15 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, UO transizione al digitale)</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia</a>
+    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia (community civica sulla cultura dei dati)</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Forum sui servizi pubblici digitali “Developers Italia"</a>
+    <a href="https://forum.italia.it/" target="_blank">“Developers Italia" Forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK4| raw:: html
 
