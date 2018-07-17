@@ -17,8 +17,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE2|
 
-Gli \ |STYLE1|\  principali di questo spazio sono:
-
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
 * l’ ``innovazione`` di ``processo`` e di ``servizio``; 
@@ -27,7 +25,7 @@ Gli \ |STYLE1|\  principali di questo spazio sono:
 
 * la ``cultura digitale``.
 
-Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
+Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
 .. admonition:: Questa visualizzazione è costruita ↓
@@ -90,9 +88,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
 .. |STYLE0| replace:: **attività**
 
-.. |STYLE1| replace:: **ambiti**
-
-.. |STYLE2| replace:: **civico**
+.. |STYLE1| replace:: **civico**
 
 
 .. |REPLACE1| raw:: html
@@ -100,7 +96,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
 
-    Gli &nbsp;&nbsp; <button class="btn btn-pill btn-info"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp; principali di questo spazio sono: 
+    Gli &nbsp;&nbsp;<button class="btn btn-pill btn-info"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
