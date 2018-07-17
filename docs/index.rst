@@ -73,6 +73,13 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
     fondamentali
 
+
+.. toctree::  
+    :maxdepth: 3
+    :caption: Informativa Privacy
+
+    privacy
+
 --------
 
 \ |IMG2|\  
