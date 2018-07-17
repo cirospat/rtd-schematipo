@@ -16,15 +16,15 @@ Work profile
 active citizenship & communities
 ================================
 
-* \ |LINK3|\  articoli su dati aperti e pubblica amministrazione digitale
+\ |LINK3|\  articoli su dati aperti e pubblica amministrazione digitale
 
-* \ |LINK4|\  community sull'innovazione della pubblica amministrazione
+\ |LINK4|\  community sull'innovazione della pubblica amministrazione
 
-* \ |LINK5|\    repository pubblico di dati in formato aperto
+\ |LINK5|\    repository pubblico di dati in formato aperto
 
-* \ |LINK6|\  forum delle pubbliche amministrazioni per confronti sulla pubblica amministrazione digitale
+\ |LINK6|\  forum delle pubbliche amministrazioni per confronti sulla pubblica amministrazione digitale
 
-* \ |LINK7|\  community sulla cultura dei dati aperti. \ |LINK8|\  di opendatasicilia
+\ |LINK7|\  community sulla cultura dei dati aperti. \ |LINK8|\  di opendatasicilia
 
 |REPLACE1|
 
