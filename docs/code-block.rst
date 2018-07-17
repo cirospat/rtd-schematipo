@@ -11,11 +11,11 @@ buttons colorati con testo
 
 .. raw:: html
 
-   <p>questo è un colore <span style="color: #0000ff;">&nbsp;&nbsp;<button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp;</span><span style="color: #0000ff;"></span>per un tasto verde</p>
+   <p>questo è un colore &nbsp;&nbsp;<button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp; </span>per un tasto verde</p>
 
 .. raw:: html
 
-   <p>questo è un colore<button class="btn btn-pill btn-info"type="button">&nbsp;&nbsp;<strong>blu</strong>&nbsp;&nbsp;</button>per un tasto blu</p>
+   <p>questo è un colore &nbsp;&nbsp;<button class="btn btn-pill btn-info"type="button"><strong>blu</strong></button>&nbsp;&nbsp; per un tasto blu</p>
 
 .. raw:: html
 
