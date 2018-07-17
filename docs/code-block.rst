@@ -19,11 +19,11 @@ buttons colorati con testo
 
 .. raw:: html
 
-   <p>questo è un colore<span class="btn btn-danger btn-xs">rosso</span>per un tasto rosso</p>
+   <p>questo è un colore &nbsp;&nbsp;<span class="btn btn-danger btn-xs">rosso</span>&nbsp;&nbsp; per un tasto rosso</p>
 
 .. raw:: html
 
-   <p>questo è un colore<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>per un tasto marrone</p>
+   <p>questo è un colore &nbsp;&nbsp;<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>&nbsp;&nbsp; per un tasto marrone</p>
 
 |
 
