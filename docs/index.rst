@@ -14,6 +14,9 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
     \ |LINK1|\   - \ |LINK2|\   -  \ |LINK3|\  
 
+
+|REPLACE2|
+
 Gli \ |STYLE1|\  principali di questo spazio sono:
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
@@ -79,7 +82,7 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 [contenuti rilasciati con licenza CC BY SA 4.0, eccetto dove diversamente specificato]
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -96,6 +99,9 @@ Le iniziative di carattere \ |STYLE2|\ , vissute in spirito collaborativo insiem
 
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
+
+    Gli &nbsp;&nbsp; <button class="btn btn-pill btn-info"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp; principali di questo spazio sono: 
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
