@@ -210,7 +210,7 @@ Tabella con http://truben.no/table
 ------
 
 
-.. important:: Reti di impegno
+.. important:: 
     :option: value
     :option: value
 
