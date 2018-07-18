@@ -220,6 +220,12 @@ Tabella con http://truben.no/table
     
 
 
+.. sidebar:: questo report è stato scritto
+    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, 
+
+    passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione
+
+
 .. bottom of content
 
 
