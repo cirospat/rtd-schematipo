@@ -207,23 +207,21 @@ Tabella con http://truben.no/table
 | “Developers Italia" Forum nazionale sui servizi pubblici digitali   | https://forum.italia.it                                                                                |
 +---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
 
-------
-
 
 .. important:: 
-    :option: value
-    :option: value
+
+    
 
     \ |LINK1|\ 
     \ |LINK2|\ 
     \ |LINK3|\ 
-    
 
 
-.. sidebar:: questo report è stato scritto
-    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, 
+.. sidebar:: **questo report è stato scritto**
+    :side: left
+    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino
 
-    passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione
+    bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla bla
 
 
 .. bottom of content
