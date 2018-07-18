@@ -18,6 +18,8 @@ buttons colorati con testo
     
     a bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla b
 
+|
+
 .. raw:: html
 
    <p>questo è un colore &nbsp;&nbsp;<button class="btn btn-pill btn-success" type="button"><b>verde</b></button>&nbsp;&nbsp; per un tasto verde</p>
