@@ -26,7 +26,10 @@ buttons colorati con testo
    <p>questo è un colore &nbsp;&nbsp;<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>&nbsp;&nbsp; per un tasto marrone</p>
 
 
-|REPLACE1|
+.. sidebar:: **questo report è stato scritto**
+    :subtitle: \*\*dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino\*\*
+
+    bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla bla
 
 |
 
@@ -41,7 +44,7 @@ html emdedding
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
 
 
-|REPLACE2|
+|REPLACE1|
 
 .. _h357a422a66b3f2d7360165d78226031:
 
@@ -54,7 +57,7 @@ embeddare video youtube
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-|REPLACE3|
+|REPLACE2|
 
 .. _h6049143d7324d802e5b1d80343a34:
 
@@ -67,7 +70,7 @@ embeddare powerpoint
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-|REPLACE4|
+|REPLACE3|
 
 .. _h1617e81323d3739152241496067:
 
@@ -219,13 +222,10 @@ Tabella con http://truben.no/table
 
 .. |REPLACE1| raw:: html
 
-    
+    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
-.. |REPLACE3| raw:: html
-
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/FeUayR8t8oM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-.. |REPLACE4| raw:: html
+.. |REPLACE3| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
