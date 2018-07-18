@@ -230,21 +230,40 @@ Tabella con http://truben.no/table
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 .. |REPLACE5| raw:: html
 
-    <table>
+    <style>
+        .data-table {
+            border-collapse: collapse;
+        }
+        .border-top {
+            border-top: 1px solid #000;
+        }
+        .border-bottom {
+            border-bottom: 1px solid #000;
+        }
+        .border-left {
+            border-left: 1px solid #000;
+        }
+        .border-right {
+            border-right: 1px solid #000;
+        }
+    </style>
+    
+    <table class="data-table">
         <tr>
-            <th>Reti di impegno</th>
-            <th>Link</th>
+            <th class="border-top border-bottom border-left border-right">Reti di impegno</th>
+            <th class="border-top border-bottom border-right">Link</th>
         </tr>
         <tr>
-            <td>Comune di Palermo (Ufficio Innovazione, UO transizione al digitale)</td>
-            <td>https://opendata.comune.palermo.it</td>
+            <td class="border-bottom border-left border-right">Comune di Palermo (Ufficio Innovazione, UO transizione al digitale)</td>
+            <td class="border-bottom border-right">https://opendata.comune.palermo.it</td>
         </tr>
         <tr>
-            <td>OpendataSicilia (community civica sulla cultura dei dati)</td>
-            <td>http://opendatasicilia.it&nbsp;<br/>https://www.comune.palermo.it/unita.php?apt=4&amp;uo=1770&amp;serv=394&amp;sett=138</td>
+            <td class="border-bottom border-left border-right">OpendataSicilia (community civica sulla cultura dei dati)</td>
+            <td class="border-bottom border-right">http://opendatasicilia.it&nbsp;<br/>https://www.comune.palermo.it/unita.php?apt=4&amp;uo=1770&amp;serv=394&amp;sett=138</td>
         </tr>
         <tr>
-            <td>&ldquo;Developers Italia" Forum nazionale sui servizi pubblici digitali</td>
-            <td>https://forum.italia.it</td>
+            <td class="border-bottom border-left border-right">&ldquo;Developers Italia" Forum nazionale sui servizi pubblici digitali</td>
+            <td class="border-bottom border-right">https://forum.italia.it</td>
         </tr>
     </table>
+    
