@@ -208,17 +208,16 @@ Tabella con http://truben.no/table
 +---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
 
 
-.. important:: 
-
-    
-
-    \ |LINK1|\ 
-    \ |LINK2|\ 
-    \ |LINK3|\ 
++---+
+|   |
++---+
+|   |
++---+
+|   |
++---+
 
 
 .. sidebar:: **questo report è stato scritto**
-    :side: left
     :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino
 
     bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla bla
@@ -239,16 +238,3 @@ Tabella con http://truben.no/table
 .. |REPLACE4| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-.. |LINK1| raw:: html
-
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, UO transizione al digitale)</a>
-
-.. |LINK2| raw:: html
-
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia (community civica sulla cultura dei dati)</a>
-
-.. |LINK3| raw:: html
-
-    <a href="https://forum.italia.it/" target="_blank">“Developers Italia" forum nazionale sui servizi pubblici digitali</a>
-
