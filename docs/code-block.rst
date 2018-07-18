@@ -25,11 +25,15 @@ buttons colorati con testo
 
    <p>questo è un colore &nbsp;&nbsp;<button type="button" class="btn btn-xs btn-pill btn-warning"><b>marrone</b></button>&nbsp;&nbsp; per un tasto marrone</p>
 
+|
+
 
 .. sidebar:: **questo report è stato scritto**
     :subtitle: \*\*dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino\*\*
 
     bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla bla
+
+|
 
 |
 
