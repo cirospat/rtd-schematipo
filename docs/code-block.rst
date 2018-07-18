@@ -208,17 +208,8 @@ Tabella con http://truben.no/table
 +---------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------+
 
 
-+---+
-|   |
-+---+
-|   |
-+---+
-|   |
-+---+
-
-
 .. sidebar:: **questo report è stato scritto**
-    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino
+    :subtitle: \*\*dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino\*\*
 
     bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla v bla bla bla bla bla bla bla bla bla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla blabla bla bla bla
 
