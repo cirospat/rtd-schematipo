@@ -13,7 +13,9 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 .. admonition:: Reti di impegno
 
     \ |LINK1|\ 
+    
     \ |LINK2|\ 
+    
     \ |LINK3|\ 
 
 
@@ -142,7 +144,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK3| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">“Developers Italia" Forum nazionale sui servizi pubblici digitali</a>
+    <a href="https://forum.italia.it/" target="_blank">“Developers Italia" forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK4| raw:: html
 
