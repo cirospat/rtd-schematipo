@@ -210,6 +210,9 @@ Tabella con http://truben.no/table
 ------
 
 
+|REPLACE5|
+
+
 .. bottom of content
 
 
@@ -225,3 +228,23 @@ Tabella con http://truben.no/table
 .. |REPLACE4| raw:: html
 
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTutfK7O5PJb41zPl-97_-j3pQai64hyRRTosVbd2rl5uZ5DwUJ1klOrMrCJlH4DGf4tFG6yZFV4gVQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+.. |REPLACE5| raw:: html
+
+    <table>
+        <tr>
+            <th>Reti di impegno</th>
+            <th>Link</th>
+        </tr>
+        <tr>
+            <td>Comune di Palermo (Ufficio Innovazione, UO transizione al digitale)</td>
+            <td>https://opendata.comune.palermo.it</td>
+        </tr>
+        <tr>
+            <td>OpendataSicilia (community civica sulla cultura dei dati)</td>
+            <td>http://opendatasicilia.it&nbsp;<br/>https://www.comune.palermo.it/unita.php?apt=4&amp;uo=1770&amp;serv=394&amp;sett=138</td>
+        </tr>
+        <tr>
+            <td>&ldquo;Developers Italia" Forum nazionale sui servizi pubblici digitali</td>
+            <td>https://forum.italia.it</td>
+        </tr>
+    </table>
