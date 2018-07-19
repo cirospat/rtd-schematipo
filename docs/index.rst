@@ -11,11 +11,11 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE1|
 
-* \ |LINK1|\ 
+* \ |LINK1|\ ;
 
-* \ |LINK2|\ 
+* \ |LINK2|\ ;
 
-* \ |LINK3|\ 
+* \ |LINK3|\ .
 
 
 |REPLACE2|
