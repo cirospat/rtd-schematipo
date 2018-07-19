@@ -48,6 +48,8 @@ h1, h2, h3 {
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
 .wy-nav-side {color: #51d9bb;}
 
+/*background colore colonna sx*/
+.wy-side-scroll {background: #283a1c;} 
 
 /* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
 .wy-nav-content {max-width: 1920px;} 
