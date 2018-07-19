@@ -9,10 +9,9 @@ Area Innovazione Tecnologica (fino al dicembre 2017); Servizio Innovazione (dal 
 
 Report degli incontri con i referenti open data del comune di Palermo per l'attuazione  delle  \ |LINK1|\  approvate con Deliberazione di G.M.  n. 252 del 13.12.2013, e n. 97 del 4.05.2017 costruite con la partecipazione di soggetti esterni, per la diffusione della cultura dei dati aperti e dell'open government.
 
-.. admonition:: A cura di
+.. admonition:: Report a cura di
 
-    Ciro Spataro, Settore servizi alla città - Servizio Innovazione
-    \ |LINK2|\  - 0917407340
+    Ciro Spataro - email: \ |LINK2|\  - tel: 0917407340
 
 .. _h545127c2e273972376f4f4d7369047:
 
@@ -34,22 +33,22 @@ I metadati dei dataset e del catalogo dei dataset, contenuti nel portale open da
 
     La Giunta Municipale con \ |STYLE0|\  ha adottato le "\ |LINK6|\ ". 
     
-    Con \ |STYLE1|\  \ |LINK7|\ \ |STYLE2|\ .
+    Con \ |STYLE1|\  \ |LINK7|\ ".
 
 
 ..  Note:: 
 
-    * Il \ |STYLE3|\  del Comune di Palermo è il \ |STYLE4|\ , Dirigente del Servizio Innovazione.
+    * Il \ |STYLE2|\  del Comune di Palermo è il \ |STYLE3|\ , Dirigente del Servizio Innovazione.
     
-    * Il \ |STYLE5|\  è disponibile al link \ |LINK8|\ .  
+    * Il \ |STYLE4|\  è disponibile al link \ |LINK8|\ .  
     
-    * I \ |STYLE6|\  sono disponibili al link \ |LINK9|\ . 
+    * I \ |STYLE5|\  sono disponibili al link \ |LINK9|\ . 
     
-    * Il \ |STYLE7|\  è disponibile al link \ |LINK10|\ .  
+    * Il \ |STYLE6|\  è disponibile al link \ |LINK10|\ .  
     
-    * Il \ |STYLE8|\  è disponibile al \ |LINK11|\ .
+    * Il \ |STYLE7|\  è disponibile al \ |LINK11|\ .
     
-    * Il \ |STYLE9|\  del Comune di Palermo per il portale open data è \ |LINK12|\  utile per raccogliere segnalazioni. 
+    * Il \ |STYLE8|\  del Comune di Palermo per il portale open data è \ |LINK12|\  utile per raccogliere segnalazioni. 
 
 .. _h97d7f6250123e411d5a60444f324326:
 
@@ -59,7 +58,7 @@ Referenti open data
 
 ..  Important:: 
 
-    I \ |STYLE10|\ , ai sensi delle Linee guida comunali.
+    I \ |STYLE9|\ , ai sensi delle Linee guida comunali.
 
 
 |REPLACE1|
@@ -95,7 +94,7 @@ Gli incontri con i Capo Area sono partiti dallo stesso mese di febbraio 2015. Al
 1° Quadrimestre 2015
 ********************
 
-\ |STYLE11|\ 
+\ |STYLE10|\ 
 
 .. _h805e273c64147c776b2a4355c5e598:
 
@@ -122,7 +121,7 @@ Il referente porta a conoscenza l'UO Innovazione dell'avviamento della piattafor
 
 --------
 
-\ |STYLE12|\ 
+\ |STYLE11|\ 
 
 .. _h305333421943197f237676b4325366:
 
@@ -151,7 +150,7 @@ Un formato csv (ottenibile dall'excel) potrebbe contenere i dati sui progetti de
 
 \ |LINK26|\ 
 
-\ |STYLE13|\ 
+\ |STYLE12|\ 
 
 .. _h1f6c5c5d1c596d25486d373d1374d5:
 
@@ -178,7 +177,7 @@ Ciro Spataro si è reso disponibile a costruire mappe tematiche sulla mobilità 
 
 --------
 
-\ |STYLE14|\ 
+\ |STYLE13|\ 
 
 .. _h2c2e60404a4a6457427b2a750b2077:
 
@@ -195,7 +194,7 @@ Il tecnico sig. Flaminio Puma, collaboratore dell'ing. Salfi, potrà fornire ind
 
 --------
 
-\ |STYLE15|\ 
+\ |STYLE14|\ 
 
 .. _h761b1e5f6d5141645803a106b46467:
 
@@ -236,7 +235,7 @@ Essi rappresentano indubbiamente dataset di importanza notevole per la cittadina
 
 \ |LINK32|\ 
 
-\ |STYLE16|\ 
+\ |STYLE15|\ 
 
 .. _h2e6b1415112624187f15ff6f7a6361:
 
@@ -253,7 +252,7 @@ DOTT.SSA CALANDRA e referenti open data
 
 * \ |LINK35|\  
 
-\ |STYLE17|\ :
+\ |STYLE16|\ :
 
 * mappa/elenco dei musei comunali, dei teatri, delle biblioteche comunali, dei luoghi dell'arte e della cultura in generale, suddivise (se possibile) per Circoscrizione
 
@@ -273,7 +272,7 @@ DOTT.SSA CALANDRA e referenti open data
 
 --------
 
-\ |STYLE18|\ 
+\ |STYLE17|\ 
 
 .. _h7c263d3363476147f7258354777284d:
 
@@ -300,7 +299,7 @@ I referenti tecnico e tematico condividendo l'utilità del rilascio pubblico di 
 
 --------
 
-\ |STYLE19|\ 
+\ |STYLE18|\ 
 
 .. _h508261f474b5e2127da45732f7e28:
 
@@ -327,7 +326,7 @@ Altro dataset potrebbe essere quello rappresentato dalle notifiche dei messi com
 
 \ |LINK40|\ 
 
-\ |STYLE20|\ 
+\ |STYLE19|\ 
 
 .. _h427530702f2b2f74737928696cb4fc:
 
@@ -392,7 +391,7 @@ E’ stato fatto emergere, dai presenti alla riunione, l’esigenza di un persor
 
 --------
 
-\ |STYLE21|\ 
+\ |STYLE20|\ 
 
 .. _h7b3d4e5e5950731831f35271644f11:
 
@@ -425,7 +424,7 @@ Durante la riunione i referenti tecnici e tematici hanno concordato di produrre 
 
 \ |LINK41|\ 
 
-\ |STYLE22|\ 
+\ |STYLE21|\ 
 
 .. _h763a422860412d4a2e4540348381c2:
 
@@ -458,7 +457,7 @@ I referenti porteranno all’attenzione del Comandante i suddetti dataset per co
 
 --------
 
-\ |STYLE23|\ 
+\ |STYLE22|\ 
 
 .. _h12d7e37497714214c104d6d7f544cc:
 
@@ -499,14 +498,14 @@ Altresì nel primo quadrimestre 2015 si è svolto un \ |LINK42|\ .
 
 --------
 
-\ |STYLE24|\ 
+\ |STYLE23|\ 
 
 .. _h3e1748b15587161503e214d513e4e48:
 
 2° Quadrimestre 2015
 ********************
 
-\ |STYLE25|\ 
+\ |STYLE24|\ 
 
 .. _h163b2532383753672602a372f464f77:
 
@@ -535,7 +534,7 @@ Infine un ulteriore dataset può essere richiesto dall'Ufficio Ambiente alla Soc
 
 \ |LINK43|\ 
 
-\ |STYLE26|\ 
+\ |STYLE25|\ 
 
 .. _h4c50105371a36153783d611e334621:
 
@@ -556,7 +555,7 @@ I dataset disponibili nel Servizio sono i seguenti:
 
 --------
 
-\ |STYLE27|\ 
+\ |STYLE26|\ 
 
 .. _h6d19525465653c422c244e527d7d3c5f:
 
@@ -579,7 +578,7 @@ I referenti open data si faranno portatori nei confronti del Capo Area della pre
 
 --------
 
-\ |STYLE28|\ 
+\ |STYLE27|\ 
 
 .. _h34e2c6d582344e3d6d60e487d7d15:
 
@@ -608,7 +607,7 @@ Tali dataset sono stati condivisi anche dalla Dirigente dell'Ufficio Sport e Imp
 
 \ |LINK51|\ 
 
-\ |STYLE29|\ 
+\ |STYLE28|\ 
 
 .. _h857259245e891b72554d114c5435:
 
@@ -660,7 +659,7 @@ La scansione digitale di molte opere artistiche e librarie custodite dalla Bibli
 3° Quadrimestre 2015
 ********************
 
-\ |STYLE30|\ 
+\ |STYLE29|\ 
 
 .. _h57745c137c7177666742b5083763:
 
@@ -701,7 +700,7 @@ Si rappresenta infine la volontà dell'Ufficio a pubblicare in open data il file
 
 \ |LINK56|\ 
 
-\ |STYLE31|\ 
+\ |STYLE30|\ 
 
 .. _h6673715470d62a7931192e1172131d:
 
@@ -730,7 +729,7 @@ L'Ufficio Espropriazioni manifesta l'interesse all'utilizzo di un applicativo in
 
 Si riporta infine un ulteriore informazione anche se non strettamente correlata alla tematica open data. Alcuni dipendenti dell'Ufficio ancora non sono dotati di posta elettronica e ciò rappresenta una criticità per la gestione dei carichi di lavoro.
 
-\ |STYLE32|\ 
+\ |STYLE31|\ 
 
 .. _h567c36357f1ec36632335242f463f6d:
 
@@ -799,7 +798,7 @@ Questo dataset molto interessante per la tipologia di dati trattati, potrebbe es
 
 \ |LINK57|\ 
 
-\ |STYLE33|\ 
+\ |STYLE32|\ 
 
 .. _h14184e7b6a1b785f354a223f5b4575:
 
@@ -866,7 +865,7 @@ La referente tematica si riserva un secondo incontro con Ciro Spataro per la cre
 
 \ |LINK58|\ 
 
-\ |STYLE34|\ 
+\ |STYLE33|\ 
 
 .. _h56154910434a21b497b221546773241:
 
@@ -918,7 +917,7 @@ Un integrazioni dei rispettivi database, o un interoperabilità, è auspicabile 
 1° Quadrimestre 2016
 ********************
 
-\ |STYLE35|\  
+\ |STYLE34|\  
 
 .. _h612693b3628586c29a37465c384d4b:
 
@@ -943,7 +942,7 @@ Il dataset in esame è di estrema utilità - per esempio - per la determinazione
 
  
 
-\ |STYLE36|\  
+\ |STYLE35|\  
 
 .. _h1859745259287f462b5219079597e16:
 
@@ -968,13 +967,13 @@ Sono state tracciate delle proposte progettuali che possono essere condotte cong
 
 Si è discusso delle seguenti proposte:
 
-* nel presente anno scolastico (2015-16) \ |STYLE37|\ . Uno ad aprile e uno a maggio. Gli eventi avrebbero l'obiettivo di tenere alta l'attenzione dei ragazzi sui dati aperti fornendo loro strumenti di lavoro:
+* nel presente anno scolastico (2015-16) \ |STYLE36|\ . Uno ad aprile e uno a maggio. Gli eventi avrebbero l'obiettivo di tenere alta l'attenzione dei ragazzi sui dati aperti fornendo loro strumenti di lavoro:
 
     * Il primo su come costruire mappe georeferenziate partendo da un database (\ |LINK64|\  che ho scritto tempo fa, per i prof tecnologici);
 
     * il secondo evento di maggio  è possibile deciderlo insieme anche con i membri di \ |LINK65|\  che realizzano spesso eventi culturali di sensibilizzazione sugli open data.
 
-* \ |STYLE38|\  Einaudi sugli open data che ogni anno promuove, in partenariato con il Comune, con altri enti pubblici e con la community di opendatasicilia, la predisposizione di progetti puntuali, cercando eventuali finanziamenti delle programmazioni nazionali PON o regionali del PO FESR SICILIA 2014-20.
+* \ |STYLE37|\  Einaudi sugli open data che ogni anno promuove, in partenariato con il Comune, con altri enti pubblici e con la community di opendatasicilia, la predisposizione di progetti puntuali, cercando eventuali finanziamenti delle programmazioni nazionali PON o regionali del PO FESR SICILIA 2014-20.
 
 La riunione si è conclusa stabilendo dei contatti per realizzare il primo evento didattico formativo sugli open data per il mese di aprile 2016.
 
@@ -982,7 +981,7 @@ La riunione si è conclusa stabilendo dei contatti per realizzare il primo event
 
 \ |LINK66|\ 
 
-\ |STYLE39|\  
+\ |STYLE38|\  
 
 .. _h5b19355172e69744f4a493f5a83c2a:
 
@@ -1003,7 +1002,7 @@ Durante l'incontro è sorta da parte dei referenti la proposta di creare dei dat
 
 --------
 
-\ |STYLE40|\  
+\ |STYLE39|\  
 
 .. _h502c6c285150766c63572d29223a1e58:
 
@@ -1056,7 +1055,7 @@ La referente manifesta, a tal uopo, la necessità dell'uso di un applicativo ges
 
 \ |LINK67|\ 
 
-\ |STYLE41|\  
+\ |STYLE40|\  
 
 .. _ha486b1123352552b731522a16737c:
 
@@ -1075,7 +1074,7 @@ A questo \ |LINK69|\  il mentor comunale ha fornito ai gruppi delle startup i co
 
 --------
 
-\ |STYLE42|\  
+\ |STYLE41|\  
 
 .. _h401641481f30166a14406c3f2e321a22:
 
@@ -1096,7 +1095,7 @@ Il modulo online e la piattaforma web relativa saranno predisposti dal Webmaster
 
 --------
 
-\ |STYLE43|\  
+\ |STYLE42|\  
 
 .. _he46f251582070167f4e35123d629:
 
@@ -1126,7 +1125,7 @@ A tal uopo, con la dott. Anna Maria Viola, sono state effettuate ricerche sul we
 2° Quadrimestre 2016
 ********************
 
-\ |STYLE44|\ 
+\ |STYLE43|\ 
 
 .. _h195658296447263a7b7f102b244666:
 
@@ -1155,7 +1154,7 @@ Il geom. Ciro Spataro ha, quindi,  assicurato la collaborazione dell'Area Innova
 
 \ |LINK81|\ 
 
-\ |STYLE45|\  
+\ |STYLE44|\  
 
 .. _h14184e7b6a1b785f354a223f5b4575:
 
@@ -1196,7 +1195,7 @@ Il geom. Spataro ha riutilizzato il dataset sulle scuole dell'infanzia per la cr
 
 --------
 
-\ |STYLE46|\  
+\ |STYLE45|\  
 
 .. _h7f65b364f34e22277c396e59354e6c:
 
@@ -1223,7 +1222,7 @@ I referenti stanno provvedendo a bonificare il dataset dell emissioni degli ammi
 
 --------
 
-\ |STYLE47|\  
+\ |STYLE46|\  
 
 .. _h10632072506659d382d4d1cd2e4e23:
 
@@ -1244,7 +1243,7 @@ Una volta terminata l'attività di eliminazione dei dati che riconducono all'ide
 
 --------
 
-\ |STYLE48|\  
+\ |STYLE47|\  
 
 .. _h682465734d7d6c206760307116286324:
 
@@ -1313,7 +1312,7 @@ Nell'attesa che la SISPI effettui quanto sopra indicato, l'Ufficio può intanto 
 
 \ |LINK87|\ 
 
-\ |STYLE49|\ 
+\ |STYLE48|\ 
 
 .. _h4736035f495319575559444e53673:
 
@@ -1367,7 +1366,7 @@ Si è colta l'occasione dell'incontro per condividere conoscenza e formazione su
 
 
 
-\ |STYLE50|\ 
+\ |STYLE49|\ 
 
 .. _h486d3258724049c231f1c33147427:
 
@@ -1398,7 +1397,7 @@ Gli studenti mostrano un elevato livello di attenzione e interesse senza alcuna 
 
 \ |LINK91|\ 
 
-\ |STYLE51|\ 
+\ |STYLE50|\ 
 
 .. _h763a422860412d4a2e4540348381c2:
 
@@ -1429,7 +1428,7 @@ Il referente si appresta inoltre a pubblicare nei prossimi giorni i seguenti dat
 
 --------
 
-\ |STYLE52|\ 
+\ |STYLE51|\ 
 
 .. _h215b5b20655e7d2d28c66a401a5e:
 
@@ -1481,7 +1480,7 @@ Tali dati risultano essere molto utili per la pubblicazione in formato aperto. E
 3° Quadrimestre 2016
 ********************
 
-\ |STYLE53|\ 
+\ |STYLE52|\ 
 
 .. _h104a161a6931755f1501f186e30526f:
 
@@ -1494,11 +1493,11 @@ La comunità di \ |LINK100|\  si è incontrata dal 2 al 4 Settembre 2016 a Messi
 
 Un programma molto ricco di eventi sul mondo dei dati aperti a 360 gradi, con partecipanti provenienti da diverse parti d'Italia (guarda la \ |LINK102|\ ) e con la partecipazione speciale della rappresentante del portale europeo dei dati aperti \ |LINK103|\ .
 
-\ |LINK104|\ \ |STYLE54|\  
+\ |LINK104|\ \ |STYLE53|\  
 
 --------
 
-\ |STYLE55|\  
+\ |STYLE54|\  
 
 .. _h5d482b2c356718255b4f603f7e2e5c6c:
 
@@ -1513,7 +1512,7 @@ Partecipazione ad un importante \ |LINK106|\  in cui ci si è confrontati, a liv
 
 --------
 
-\ |STYLE56|\ 
+\ |STYLE55|\ 
 
 .. _h5568303641f192e6b122c176af7e1:
 
@@ -1562,7 +1561,7 @@ L'incontro è stato di una certa rilevanza anche alla luce delle determinazioni 
 
 \ |LINK110|\ 
 
-\ |STYLE57|\ 
+\ |STYLE56|\ 
 
 .. _h5b695e397f746854491d211d574358:
 
@@ -1578,7 +1577,7 @@ Partecipazione alla giornata conclusiva del progetto \ |LINK111|\  presso il CNR
 
 --------
 
-\ |STYLE58|\ 
+\ |STYLE57|\ 
 
 .. _h634a1e3154337d55262455114422cb:
 
@@ -1593,7 +1592,7 @@ Link a \ |LINK116|\ .
 
 --------
 
-\ |STYLE59|\ 
+\ |STYLE58|\ 
 
 .. _h18711f7c5c62655e727457443a943:
 
@@ -1608,7 +1607,7 @@ Con il Webmaster è stato analizzato l'argomento sui dati della qualità dell'ar
 
 --------
 
-\ |STYLE60|\ 
+\ |STYLE59|\ 
 
 .. _h6b12462b4562716527458f72674c:
 
@@ -1634,7 +1633,7 @@ Si sono analizzati i campi dei record di un dataset in formato CSV e il Servizio
 1° Quadrimestre 2017
 ********************
 
-\ |STYLE61|\ 
+\ |STYLE60|\ 
 
 .. _h365d4751185847518127463510744:
 
@@ -1659,7 +1658,7 @@ I due dataset sono stati pubblicati online alla fine dell'incontro e sono dispon
 
 --------
 
-\ |STYLE62|\ 
+\ |STYLE61|\ 
 
 .. _h5b19355172e69744f4a493f5a83c2a:
 
@@ -1784,7 +1783,7 @@ La seconda metà dei dataset sono stati pubblicati in formato CSV in quanto gli 
 
 --------
 
-\ |STYLE63|\ 
+\ |STYLE62|\ 
 
 .. _h56741102673b1b6a135bd6f24374f:
 
@@ -1801,7 +1800,7 @@ L'incontro è stato propedeutico alla verifica dei dati relativi agli abusi rile
 
 \ |LINK151|\ 
 
-\ |STYLE64|\ 
+\ |STYLE63|\ 
 
 .. _h74c2c33ff42143c30462555731066:
 
@@ -1822,7 +1821,7 @@ Questo dataset è di utilità ad un'ampia fascia di soggetti che spesso si ritro
 
 --------
 
-\ |STYLE65|\ 
+\ |STYLE64|\ 
 
 .. _h1266e113b5f792d1e5343e3241b2b:
 
@@ -1848,7 +1847,7 @@ Il dataset contenente i dati per il 2016 è stato pubblicato al \ |LINK153|\ .
 2° quadrimestre 2017
 ********************
 
-\ |STYLE66|\ 
+\ |STYLE65|\ 
 
 .. _h7862241b5a1d721f6d603e7416182980:
 
@@ -1861,7 +1860,7 @@ REFERENTE: Barbera
 
 Il confronto con il collega Barbera è stato utile per predisporre il dataset in formato CSV relativo alle missioni dei soggetti politici istituzionali. Essendo il dataset di lavoro in formato Excel, i colleghi dell'Ufficio missioni hanno effettuato un lavoro di pulizia o bonifica al fine di rendere il CSV quando più "pulito" possibile. L'esercizio ha un carattere didattico e induce a comprendere come strutturare bene il formato tabellare del dataset. A tale scopo risulta utile prendere visione della \ |LINK154|\  curato dal geom. Spataro
 
-\ |STYLE67|\ 
+\ |STYLE66|\ 
 
 .. _h42154343c4e33536a3c6b705754443c:
 
@@ -1902,7 +1901,7 @@ Quindi il confronto con la collega dell'Area Cultura è stato utile per condivid
 
 --------
 
-\ |STYLE68|\ 
+\ |STYLE67|\ 
 
 .. _h05b441e34532d6071284f8563e2276:
 
@@ -1931,7 +1930,7 @@ L'incontro è stato molto proficuo e le referenti hanno mostrato un elevato live
 
 --------
 
-\ |STYLE69|\ 
+\ |STYLE68|\ 
 
 .. _h3c63722c162575a6a5b7d19417876f:
 
@@ -2138,7 +2137,7 @@ Società SISPI SpA, Ing. Salvatore Morreale
 
 \ |LINK166|\ 
 
-\ |STYLE70|\  
+\ |STYLE69|\  
 
 .. _h5b5c7877d3a2184a25c3a96b1079:
 
@@ -2299,7 +2298,7 @@ Sono stati ottimizzati e successivamente resi disponibili dalla Polizia Municipa
 
 --------
 
-\ |STYLE71|\  
+\ |STYLE70|\  
 
 .. _h322c1b543433456c45267210c486c6d:
 
@@ -2442,145 +2441,143 @@ E' stata, altresì, approfondita la questione della firma digitale che il Dirige
 
 .. |STYLE1| replace:: **Deliberazione di GM n. 97 del  4.05.2017**
 
-.. |STYLE2| replace:: **"**
+.. |STYLE2| replace:: **Responsabile open data**
 
-.. |STYLE3| replace:: **Responsabile open data**
+.. |STYLE3| replace:: **Dott. Gabriele Marchese**
 
-.. |STYLE4| replace:: **Dott. Gabriele Marchese**
+.. |STYLE4| replace:: **portale open data**
 
-.. |STYLE5| replace:: **portale open data**
+.. |STYLE5| replace:: **report del Team open data**
 
-.. |STYLE6| replace:: **report del Team open data**
+.. |STYLE6| replace:: **catalogo dei dataset**
 
-.. |STYLE7| replace:: **catalogo dei dataset**
+.. |STYLE7| replace:: **feed RSS open data**
 
-.. |STYLE8| replace:: **feed RSS open data**
+.. |STYLE8| replace:: **repository Github**
 
-.. |STYLE9| replace:: **repository Github**
+.. |STYLE9| replace:: **referenti tecnici e tematici open data sono nominati dai dirigenti**
 
-.. |STYLE10| replace:: **referenti tecnici e tematici open data sono nominati dai dirigenti**
+.. |STYLE10| replace:: **1-**
 
-.. |STYLE11| replace:: **1-**
+.. |STYLE11| replace:: **2-**
 
-.. |STYLE12| replace:: **2-**
+.. |STYLE12| replace:: **3-**
 
-.. |STYLE13| replace:: **3-**
+.. |STYLE13| replace:: **4-**
 
-.. |STYLE14| replace:: **4-**
+.. |STYLE14| replace:: **5-**
 
-.. |STYLE15| replace:: **5-**
+.. |STYLE15| replace:: **6-**
 
-.. |STYLE16| replace:: **6-**
+.. |STYLE16| replace:: **Dataset ritenuti di interesse prioritario condivisi dal Capo Area per la pubblicazione in open data**
 
-.. |STYLE17| replace:: **Dataset ritenuti di interesse prioritario condivisi dal Capo Area per la pubblicazione in open data**
+.. |STYLE17| replace:: **7-**
 
-.. |STYLE18| replace:: **7-**
+.. |STYLE18| replace:: **8-**
 
-.. |STYLE19| replace:: **8-**
+.. |STYLE19| replace:: **9-**
 
-.. |STYLE20| replace:: **9-**
+.. |STYLE20| replace:: **10-**
 
-.. |STYLE21| replace:: **10-**
+.. |STYLE21| replace:: **11-**
 
-.. |STYLE22| replace:: **11-**
+.. |STYLE22| replace:: **12-**
 
-.. |STYLE23| replace:: **12-**
+.. |STYLE23| replace:: **|**
 
-.. |STYLE24| replace:: **|**
+.. |STYLE24| replace:: **13-**
 
-.. |STYLE25| replace:: **13-**
+.. |STYLE25| replace:: **14-**
 
-.. |STYLE26| replace:: **14-**
+.. |STYLE26| replace:: **15-**
 
-.. |STYLE27| replace:: **15-**
+.. |STYLE27| replace:: **16-**
 
-.. |STYLE28| replace:: **16-**
+.. |STYLE28| replace:: **17-**
 
-.. |STYLE29| replace:: **17-**
+.. |STYLE29| replace:: **18-**
 
-.. |STYLE30| replace:: **18-**
+.. |STYLE30| replace:: **19-**
 
-.. |STYLE31| replace:: **19-**
+.. |STYLE31| replace:: **20-**
 
-.. |STYLE32| replace:: **20-**
+.. |STYLE32| replace:: **21-**
 
-.. |STYLE33| replace:: **21-**
+.. |STYLE33| replace:: **22-**
 
-.. |STYLE34| replace:: **22-**
+.. |STYLE34| replace:: **23 -**
 
-.. |STYLE35| replace:: **23 -**
+.. |STYLE35| replace:: **24 -**
 
-.. |STYLE36| replace:: **24 -**
+.. |STYLE36| replace:: **realizzare 2 eventi didattici formativi sugli open data**
 
-.. |STYLE37| replace:: **realizzare 2 eventi didattici formativi sugli open data**
+.. |STYLE37| replace:: **Un laboratorio permanente della scuola**
 
-.. |STYLE38| replace:: **Un laboratorio permanente della scuola**
+.. |STYLE38| replace:: **25 -**
 
-.. |STYLE39| replace:: **25 -**
+.. |STYLE39| replace:: **26 -**
 
-.. |STYLE40| replace:: **26 -**
+.. |STYLE40| replace:: **27 -**
 
-.. |STYLE41| replace:: **27 -**
+.. |STYLE41| replace:: **28-**
 
-.. |STYLE42| replace:: **28-**
+.. |STYLE42| replace:: **29 -**
 
-.. |STYLE43| replace:: **29 -**
+.. |STYLE43| replace:: **30 -**
 
-.. |STYLE44| replace:: **30 -**
+.. |STYLE44| replace:: **31-**
 
-.. |STYLE45| replace:: **31-**
+.. |STYLE45| replace:: **32-**
 
-.. |STYLE46| replace:: **32-**
+.. |STYLE46| replace:: **33-**
 
-.. |STYLE47| replace:: **33-**
+.. |STYLE47| replace:: **34-**
 
-.. |STYLE48| replace:: **34-**
+.. |STYLE48| replace:: **35-**
 
-.. |STYLE49| replace:: **35-**
+.. |STYLE49| replace:: **36-**
 
-.. |STYLE50| replace:: **36-**
+.. |STYLE50| replace:: **37-**
 
-.. |STYLE51| replace:: **37-**
+.. |STYLE51| replace:: **38-**
 
-.. |STYLE52| replace:: **38-**
+.. |STYLE52| replace:: **39-**
 
-.. |STYLE53| replace:: **39-**
+.. |STYLE53| replace:: **.**
 
-.. |STYLE54| replace:: **.**
+.. |STYLE54| replace:: **40-**
 
-.. |STYLE55| replace:: **40-**
+.. |STYLE55| replace:: **41-**
 
-.. |STYLE56| replace:: **41-**
+.. |STYLE56| replace:: **42-**
 
-.. |STYLE57| replace:: **42-**
+.. |STYLE57| replace:: **43-**
 
-.. |STYLE58| replace:: **43-**
+.. |STYLE58| replace:: **44-**
 
-.. |STYLE59| replace:: **44-**
+.. |STYLE59| replace:: **45-**
 
-.. |STYLE60| replace:: **45-**
+.. |STYLE60| replace:: **46-**
 
-.. |STYLE61| replace:: **46-**
+.. |STYLE61| replace:: **47-**
 
-.. |STYLE62| replace:: **47-**
+.. |STYLE62| replace:: **48-**
 
-.. |STYLE63| replace:: **48-**
+.. |STYLE63| replace:: **49-**
 
-.. |STYLE64| replace:: **49-**
+.. |STYLE64| replace:: **50-**
 
-.. |STYLE65| replace:: **50-**
+.. |STYLE65| replace:: **51-**
 
-.. |STYLE66| replace:: **51-**
+.. |STYLE66| replace:: **52**
 
-.. |STYLE67| replace:: **52**
+.. |STYLE67| replace:: **53-**
 
-.. |STYLE68| replace:: **53-**
+.. |STYLE68| replace:: **54-**
 
-.. |STYLE69| replace:: **54-**
+.. |STYLE69| replace:: **57-**
 
-.. |STYLE70| replace:: **57-**
-
-.. |STYLE71| replace:: **62-**
+.. |STYLE70| replace:: **62-**
 
 
 .. |REPLACE1| raw:: html
