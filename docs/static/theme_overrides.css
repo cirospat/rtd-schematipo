@@ -89,3 +89,9 @@ span.commit {display: none;}
 .footer_small {font-size: small!important;}
 .footer_small a:visited {font-size: small!important;}
 .footer_small a:hover {font-size: small!important;}
+
+/* cambio colore banner in basso a sx "Read the Docs" v: latest */
+.rst-versions .rst-current-version.rst-out-of-date {
+    background-color: #257c64;
+    color: #fff;
+}
