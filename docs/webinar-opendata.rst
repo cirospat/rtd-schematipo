@@ -7,7 +7,12 @@ Catalogo webinar su open data
 
 |REPLACE1|
 
-Vedi anche il \ |LINK1|\ 
+.. _h1018d60617e182946625e30734a555a:
+
+Portale didattico open data
+===========================
+
+\ |LINK1|\ 
 
 --------
 
@@ -49,5 +54,5 @@ Vedi anche il \ |LINK1|\
 
 .. |LINK1| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">portale didattico sugli open data</a>
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">Portale di formazione sugli open data</a>
 
