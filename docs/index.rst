@@ -4,7 +4,7 @@
 Ciro Spataro pro-file
 *********************
 
-\ |IMG1|\   ``cultura della documentazione`` 
+\ |IMG1|\  ``cultura della documentazione`` 
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
@@ -90,6 +90,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE3|
 
+--------
+
+[Immagine in alto, by \ |LINK5|\ , rilasciata con licenza CC BY 3.0]
+
 
 .. bottom of content
 
@@ -149,7 +153,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
     <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link il tutorial</a>
 
+.. |LINK5| raw:: html
 
-.. |IMG1| image:: static/index-cirospat_1.png
-   :height: 56 px
-   :width: 64 px
+    <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
+
+
+.. |IMG1| image:: static/index-cirospat_1.jpeg
+   :height: 84 px
+   :width: 116 px
