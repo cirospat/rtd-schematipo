@@ -31,8 +31,9 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
-.. admonition:: La visualizzazione del testo su questo portale è costruita ↓
+..  Important:: 
 
+    \ |STYLE2|\ 
     su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. 
     \ |LINK4|\ .
 
@@ -94,6 +95,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |STYLE0| replace:: **attività**
 
 .. |STYLE1| replace:: **civico**
+
+.. |STYLE2| replace:: **La visualizzazione del testo su questo portale è costruita ↓**
 
 
 .. |REPLACE1| raw:: html
