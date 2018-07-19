@@ -31,6 +31,31 @@
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b4bb71576b937aa"></script>
 
-
-
 {% endblock %}
+
+
+
+<!-- SCRIVERE SULLA SEZIONE A SINISTRA SOTTO IL LOGO -->
+<body class="wy-body-for-nav" role="document">
+{% block extrabody %} {% endblock %}
+    <div class="wy-grid-for-nav">
+	    
+{# SIDE NAV, TOGGLES ON MOBILE #}
+        <nav data-toggle="wy-nav-shift" class="wy-nav-side">	
+            <div class="wy-side-scroll">
+                <div class="wy-side-nav-search">
+                    {% block sidebartitle %}
+
+			<div class="branding--content">
+                            <h2 class="branding--title">
+                                <span class="branding--title--branch"><a href="https://docs.developers.italia.it" target="_blank">Docs Italia</a></span>
+                                <span class="branding--title--root"><a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">OpendataSicilia</a></span>
+                                <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">segui @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                            </h2>
+                        </div>
+
+		</div>
+            </div>
+        </nav>	
+
+</body>	    
