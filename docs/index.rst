@@ -41,6 +41,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |
 
+.. _h3f424c937355b747362a1542582064:
+
+Indice
+======
+
 .. toctree::
   :maxdepth: 2
 
