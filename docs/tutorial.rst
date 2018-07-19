@@ -13,8 +13,6 @@ Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\
 
 \ |LINK2|\ 
 
-|REPLACE2|
-
 |
 
 .. _h29261b7f1c264404b19385c75c4a3f:
@@ -47,7 +45,7 @@ Manuali
 * \ |LINK7|\  del comune di Palermo
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -57,9 +55,6 @@ Manuali
 
     <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE2| raw:: html
-
-    <iframe width="100%" height="3000px" frameBorder="0" src="http://accussi.opendatasicilia.it/"></iframe>
-.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
