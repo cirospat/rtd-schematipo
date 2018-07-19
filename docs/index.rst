@@ -8,16 +8,17 @@ Ciro Spataro pro-file
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo tutte le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
 
-.. admonition:: Reti di impegno
-
-    \ |LINK1|\ 
-    
-    \ |LINK2|\ 
-    
-    \ |LINK3|\ 
-
 
 |REPLACE1|
+
+\ |LINK1|\ 
+
+\ |LINK2|\ 
+
+\ |LINK3|\ 
+
+
+|REPLACE2|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -83,7 +84,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-|REPLACE2|
+|REPLACE3|
 
 
 .. bottom of content
@@ -96,8 +97,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    Gli &nbsp;&nbsp;<button class="btn btn-pill btn-success"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
+    <button class="btn btn-pill btn-success"type="button"><strong>Reti di impegno</strong></button>
 .. |REPLACE2| raw:: html
+
+    Gli &nbsp;&nbsp;<button class="btn btn-pill btn-success"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
