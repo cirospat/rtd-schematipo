@@ -31,8 +31,9 @@
 /* #51d9bb colore verdino dei social di addthis nella colonna laterale sx e della freccia */
 /* #ff5a00 colore arancione originario */
 
+/* pagina avanti/indietro */
 .btn-neutral {
-    background-color: #098748 !important;
+    background-color: #119b56 !important;
     color: #fff !important;
 }
 
@@ -40,6 +41,7 @@
 h1, h2, h3 {
     color: #098748 !important;
 }
+
 
 .wy-side-nav-search {
     background-color: #098748;
