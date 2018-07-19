@@ -81,3 +81,9 @@ background-color: #f2f2f2 !important;
 
 /* spegne numero revisione nel footer */
 span.commit {display: none;}
+
+ /* testo sphinx footer */
+.footer_small {font-size: small!important;}
+.footer_small {font-size: small!important;}
+.footer_small a:visited {font-size: small!important;}
+.footer_small a:hover {font-size: small!important;}
