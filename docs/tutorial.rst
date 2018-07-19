@@ -20,7 +20,7 @@ Catalogo di tutorial sul mondo dei dati curato dalla community di \ |LINK1|\
 Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il componente aggiuntivo GGeditor
 ==========================================================================================================
 
-* \ |LINK3|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
+\ |LINK3|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
 |
 
@@ -29,7 +29,7 @@ Tutorial: pubblicare documenti su Read the Docs utilizzando Google doc e il comp
 Tutorial: GoogleDrive spreadsheet to uMap
 =========================================
 
-* \ |LINK4|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
+\ |LINK4|\ . Il mio primo tutorial (grazie ad Andrea Borruso). 
 
 |
 
@@ -38,11 +38,11 @@ Tutorial: GoogleDrive spreadsheet to uMap
 Manuali 
 ========
 
-* \ |LINK5|\ 
+\ |LINK5|\ 
 
-* \ |LINK6|\  in uso al Comune di Palermo
+\ |LINK6|\  in uso al Comune di Palermo
 
-* \ |LINK7|\  del comune di Palermo
+\ |LINK7|\  del comune di Palermo
 
 
 |REPLACE2|
@@ -86,11 +86,11 @@ Manuali
 
 .. |LINK2| raw:: html
 
-    <a href="http://accussi.opendatasicilia.it/" target="_blank">Catalogo Tutorial</a>
+    <a href="http://accussi.opendatasicilia.it/" target="_blank">Catalogo di Tutorial</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank">un componente aggiuntivo (GGeditor)</a>
+    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
 
 .. |LINK4| raw:: html
 
