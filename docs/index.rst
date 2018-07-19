@@ -11,11 +11,11 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE1|
 
-\ |LINK1|\ 
+* \ |LINK1|\ 
 
-\ |LINK2|\ 
+* \ |LINK2|\ 
 
-\ |LINK3|\ 
+* \ |LINK3|\ 
 
 
 |REPLACE2|
@@ -31,9 +31,10 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
-.. admonition:: Questa visualizzazione è costruita ↓
+.. admonition:: La visualizzazione del testo su questo portale è costruita ↓
 
-    su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` su un progetto repository dentro ``Github``, che a sua volta espone contenuti sulle pagine HTML con il design ``Read the Docs``. A questo \ |LINK4|\ .
+    su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. 
+    \ |LINK4|\ .
 
 |
 
@@ -100,7 +101,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <button class="btn btn-pill btn-success"type="button"><strong>Reti di impegno</strong></button>
 .. |REPLACE2| raw:: html
 
-    Gli &nbsp;&nbsp;<button class="btn btn-pill btn-success"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
+    <button class="btn btn-pill btn-success"type="button"><strong>Ambiti principali di questo spazio</strong></button>
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -129,7 +130,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, UO transizione al digitale)</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione al digitale)</a>
 
 .. |LINK2| raw:: html
 
@@ -137,11 +138,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK3| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">“Developers Italia" forum nazionale sui servizi pubblici digitali</a>
+    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://googledocs.readthedocs.io/" target="_blank">link il tutorial</a>
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link il tutorial</a>
 
 
 .. |IMG1| image:: static/index-cirospat_1.png
