@@ -1,6 +1,4 @@
 
-|REPLACE1|
-
 .. _h4316791519616a3f70c17e6c362233:
 
 Curriculum Vitae 
@@ -153,17 +151,6 @@ CV aggiornato al 10 luglio 2018
 
 \ |STYLE47|\ 
 
---------
-
-
-|REPLACE2|
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-
 .. bottom of content
 
 
@@ -263,13 +250,6 @@ CV aggiornato al 10 luglio 2018
 
 .. |STYLE47| replace:: *CV updated to july 10, 2018*
 
-
-.. |REPLACE1| raw:: html
-
-    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-.. |REPLACE2| raw:: html
-
-    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 .. |LINK1| raw:: html
 
