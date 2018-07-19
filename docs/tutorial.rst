@@ -1,6 +1,4 @@
 
-|REPLACE1|
-
 .. _h2c40f636f425e141154692b116830a:
 
 Tutorial e manuali
@@ -45,16 +43,13 @@ Manuali
 \ |LINK7|\  del comune di Palermo
 
 
-|REPLACE2|
+|REPLACE1|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
-
-    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
