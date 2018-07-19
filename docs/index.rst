@@ -1,6 +1,4 @@
 
-|REPLACE1|
-
 .. _h584a53f7a417724a22d6f3470186:
 
 Ciro Spataro pro-file
@@ -19,7 +17,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
     \ |LINK3|\ 
 
 
-|REPLACE2|
+|REPLACE1|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -85,7 +83,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-|REPLACE3|
+|REPLACE2|
 
 
 .. bottom of content
@@ -98,11 +96,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |REPLACE1| raw:: html
 
-    <a href="https://twitter.com/cirospat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @cirospat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-.. |REPLACE2| raw:: html
-
     Gli &nbsp;&nbsp;<button class="btn btn-pill btn-success"type="button"><strong>ambiti</strong></button>&nbsp;&nbsp;principali di questo spazio sono: 
-.. |REPLACE3| raw:: html
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
