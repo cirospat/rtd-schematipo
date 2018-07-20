@@ -1,8 +1,8 @@
 
-.. _h38292455376c3d4519561f3e4a57355c:
+.. _h433f35c424a1a391d511c2a1c482c52:
 
-Work profile
-************
+Work profile & communities
+**************************
 
 Comune di Palermo ↳ Area Servizi alla città ↳ Servizio Innovazione  ↳ \ |LINK1|\ .
 
