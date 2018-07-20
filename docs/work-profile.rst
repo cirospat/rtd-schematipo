@@ -23,7 +23,7 @@ active citizenship & communities
 
 \ |LINK7|\  forum delle pubbliche amministrazioni per confronti sulla pubblica amministrazione digitale
 
-\ |LINK8|\  community sulla cultura dei dati aperti 
+\ |LINK8|\  community sulla cultura dei dati aperti ↓
 
 .. admonition:: community opendatasicilia
 
