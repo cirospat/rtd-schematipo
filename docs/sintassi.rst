@@ -19,7 +19,7 @@ Sintassi RST
     
     * \ |LINK6|\ , estensione Markdown per tabelle su Google spreadsheet, converte tabelle in linguaggio Markdown; 
     
-    * \ |LINK7|\  editor utile per facilitare la scrittura in codice; 
+    * \ |LINK7|\ , aspetti in comune tra il linguaggio RST e Markdown. 
 
 |
 
@@ -30,21 +30,11 @@ Editor online per il linguaggio RST
 
 \ |LINK8|\  \ |STYLE1|\  
 
-|REPLACE1|
-
 \ |LINK9|\  \ |STYLE2|\ 
-
-|REPLACE2|
 
 \ |LINK10|\  \ |STYLE3|\ 
 
-|REPLACE3|
-
-|
-
 \ |LINK11|\  \ |STYLE4|\ 
-
-|REPLACE4|
 
 |
 
@@ -54,7 +44,7 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 *************************************************************************************
 
 
-|REPLACE5|
+|REPLACE1|
 
 
 .. bottom of content
@@ -68,22 +58,10 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |STYLE3| replace:: **per più linguaggi di programmazione, per esempio con Markdown**
 
-.. |STYLE4| replace:: **utile per facilitare la scrittura in codice**
+.. |STYLE4| replace:: **utile per facilitare la scrittura nel linguaggio RST**
 
 
 .. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="700px" frameBorder="0" src="http://rst.ninjs.org/"></iframe>
-.. |REPLACE2| raw:: html
-
-    <iframe width="100%" height="700px" frameBorder="0" src="http://pandoc.org/try/"></iframe>
-.. |REPLACE3| raw:: html
-
-    <iframe width="100%" height="700px" frameBorder="0" src="http://truben.no/table/"></iframe>
-.. |REPLACE4| raw:: html
-
-    <iframe width="100%" height="1000px" frameBorder="0" src="http://docutils.sourceforge.net/docs/user/rst/quickref.html"></iframe>
-.. |REPLACE5| raw:: html
 
     <iframe width="100%" height="9200px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSGrsZNTPtU47vYJ7yNO2FsGY24LHH6M1rYz5l2FcuhYeB1pDiWP9zDnzDCoRyesqAS_ri9DJFlvRV5/pub"></iframe>
 
@@ -113,11 +91,11 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |LINK7| raw:: html
 
-    <a href="http://docutils.sourceforge.net/docs/user/links.html#editors" target="_blank">http://docutils.sourceforge.net/docs/user/links.html#editors</a>
+    <a href="https://gist.github.com/dupuy/1855764" target="_blank">https://gist.github.com/dupuy/1855764</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://rst.ninjs.org/" target="_blank">Editor online</a>
+    <a href="http://rst.ninjs.org/" target="_blank">Editor</a>
 
 .. |LINK9| raw:: html
 
@@ -129,5 +107,5 @@ Documento del gruppo di lavoro del Team Trasformazione Digitale su Slack, Docs-I
 
 .. |LINK11| raw:: html
 
-    <a href="http://docutils.sourceforge.net/docs/user/links.html#editors" target="_blank">Editor</a>
+    <a href="http://docutils.sourceforge.net/docs/user/links.html#editors" target="_blank">Guida</a>
 
