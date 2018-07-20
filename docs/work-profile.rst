@@ -4,9 +4,7 @@
 Work profile & communities
 **************************
 
-Comune di Palermo ↳ Area Servizi alla città ↳ Servizio Innovazione  ↳ \ |LINK1|\ .
-
-Sede: Via dello Spirito Santo n. 35, Palermo (\ |LINK2|\ ) - 0917407340 - \ |LINK3|\ 
+Comune di Palermo ↳ Area Servizi alla città ↳ Servizio Innovazione  ↳ \ |LINK1|\ . Sede: Via dello Spirito Santo n. 35, Palermo (\ |LINK2|\ ) - +39.0917407340 - \ |LINK3|\ 
 
 --------
 
