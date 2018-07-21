@@ -28,7 +28,9 @@ active citizenship & communities
 community opendatasicilia
 =========================
 
-\ |LINK8|\ , [community sulla cultura dei dati aperti] → è una iniziativa civica condivisa da più persone, che si propone di far conoscere e diffondere la cultura dell'open government e le prassi dell'open data nel nostro territorio e aprire una discussione pubblica partecipata. Un gruppo di cittadini con diverse storie, competenze, professioni. Siamo accomunati dalla genuina volontà di contribuire a migliorare la qualità della vita della nostra comunità. Lo vogliamo fare con spirito di collaborazione e concretezza. Siamo su:
+\ |LINK8|\ , [community sulla cultura dei dati aperti] → è una iniziativa civica condivisa da più persone, che si propone di far conoscere e diffondere la cultura dell'open government e le prassi dell'open data nel nostro territorio e aprire una discussione pubblica partecipata. Un gruppo di cittadini con diverse storie, competenze, professioni. Siamo accomunati dalla genuina volontà di contribuire a migliorare la qualità della vita della nostra comunità. Lo vogliamo fare con spirito di collaborazione e concretezza. 
+
+Canali di comunicazione di opendatasicilia:
 
 * la \ |LINK9|\  di lavoro (forum);
 
