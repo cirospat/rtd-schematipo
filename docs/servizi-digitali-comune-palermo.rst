@@ -48,6 +48,8 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 \ |LINK4|\ 
 
+|REPLACE5|
+
 |
 
 .. _h338a4a7b16150384c2e2855d3a60:
@@ -56,7 +58,7 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 =================================================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -80,6 +82,9 @@ Attuazione contenuti CAD e Piano Triennale per l'Informatica al comune di Palerm
 
     <iframe width="100%" height="700px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9KJJqfsn1zVqcb72XVzCdx9hg_W7tU4rbosQtEJAC9LUZX5kaQ3SxP0C7Eh7sW2inCo14yAffF68L/pubhtml"></iframe>
 .. |REPLACE5| raw:: html
+
+    <iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+.. |REPLACE6| raw:: html
 
     <iframe width="100%" height="3350px" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vRtzNeGRay4oLUd_kB3agGKhMAugAjG9ke-T5oQ2zW4M0054oqjl73nNz03HjHT3T7dXf9vd8c6IQwy/pub"></iframe>
 
