@@ -40,6 +40,12 @@ buttons colorati con testo
 
 |
 
+.. raw:: html
+
+   <p>Click the <span style="background-color: #215427; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
+
+|
+
 .. _h17143c773422746f363a7e5505727:
 
 html emdedding
