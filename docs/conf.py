@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Ciro Spataro'
-copyright = '= licenza CC BY Cirospat'
+project = 'change-me'
+copyright = 'change-me'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -40,8 +40,8 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "static/cirospat.jpg"
-html_logo = "static/cirospat.jpg"
+latex_logo = "static/logo.jpg"
+html_logo = "static/logo.jpg"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
