@@ -41,10 +41,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |
 
-.. _h3f424c937355b747362a1542582064:
 
-Indice
-======
+|REPLACE3|
 
 .. toctree::
   :maxdepth: 2
@@ -93,7 +91,7 @@ Indice
     privacy
 
 
-|REPLACE3|
+|REPLACE4|
 
 --------
 
@@ -118,6 +116,9 @@ Indice
     <strong><span style="background-color: #215427; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
     
 .. |REPLACE3| raw:: html
+
+    <h3><strong><span style="color: #ffffff;"><span style="background-color: #215427; display: inline-block; padding: 3px 8px; border-radius: 10px;">Indice</span></span></strong></h3>
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
