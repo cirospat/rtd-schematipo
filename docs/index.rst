@@ -112,10 +112,11 @@ Indice
 
 .. |REPLACE1| raw:: html
 
-    <button class="btn btn-pill btn-success"type="button"><strong>Reti di impegno</strong></button>
+    <strong><span style="background-color: #215427; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
 .. |REPLACE2| raw:: html
 
-    <button class="btn btn-pill btn-success"type="button"><strong>Ambiti principali di questo spazio</strong></button>
+    <strong><span style="background-color: #215427; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Ambiti principali di questo spazio</span></strong>
+    
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
