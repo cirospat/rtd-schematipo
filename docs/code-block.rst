@@ -266,7 +266,8 @@ Tabella con http://truben.no/table
     </ol>
     <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
     <h2 style="color: #2e6c80;">Cleaning options:</h2>
-    <table class="editorDemoTable">
+    
+    <table class="editorDemoTable" style="border-color: #215427;">
     <thead>
     <tr>
     <td>Name of the feature</td>
@@ -352,6 +353,10 @@ Tabella con http://truben.no/table
     </tr>
     </tbody>
     </table>
+    <p><strong>&nbsp;</strong></p>
+    <p><strong>Save this link into your bookmarks and share it with your friends. It is all FREE! </strong><br /><strong>Enjoy!</strong></p>
+    <p><strong>&nbsp;</strong></p>
+    
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRlMpRdyCdLZy6c2UNFk-KJ3dEHq5vyeyMkB4XDUrEBcmUZLJd9NDgjCfeEONqVcnO-Z588ms8g_tOl/pubhtml"></iframe>
