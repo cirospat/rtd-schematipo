@@ -15,7 +15,7 @@ In questo spazio ......
 .. toctree::
   :maxdepth: 2
 
-  Home <http://........readthedocs.io>
+  Home <https://schema-tipo.readthedocs.io>
 
 
 .. toctree::  
