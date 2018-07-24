@@ -3,7 +3,9 @@ titolo
 
 ``cultura della documentazione`` 
 
-In questo spazio ......
+Questo Read teh Docs è uno schema tipo ottimizzato (design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file 'theme_override.css'.
+
+Questa è solo una bozza.
 
 
 ..  Important:: 
