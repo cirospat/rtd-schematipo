@@ -18,7 +18,6 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 - ``searchbox.html``
 - ``versions.html``
 
-|
 
 ..  Important:: 
     
