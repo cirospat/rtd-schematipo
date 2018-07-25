@@ -5,7 +5,8 @@ titolo
 
 Questo **Read the Docs** è uno schema tipo ottimizzato (design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file 'theme_override.css'.
 
-Questa è solo una bozza.
+
+<strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
 
 
 ..  Important:: 
