@@ -14,7 +14,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 - ``versions.html``
 
 
-.. raw: html
+.. raw:: html
 
     <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
 
