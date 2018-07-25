@@ -3,21 +3,19 @@ Titolo del Read the Docs
 
 ``cultura della documentazione`` 
 
+.. raw:: html
+
+    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
+    <p></p>
+
 Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file ``theme_override.css``.
 
 Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``:
-
 - ``breadcrumbs.html``
 - ``footer.html``
 - ``layout.html``
 - ``searchbox.html``
 - ``versions.html``
-
-
-.. raw:: html
-
-    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
-
 
 |
 
