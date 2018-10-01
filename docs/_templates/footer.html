@@ -23,14 +23,22 @@
 
   <!-- personalizzare il testo nel footer -->
   <div role="contentinfo">
-<p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">I contenuti del portale ..... </span><a xmlns:cc="http://creativecommons.org/ns#" href="http://cirospat.readthedocs.io" property="cc:attributionName" rel="cc:attributionURL"> ........ </a> sono distribuiti con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a> eccetto dove specificato diversamente.<br>
+<p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">I contenuti del portale ..... sono distribuiti con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a> eccetto dove specificato diversamente.<br>
 </p>
+  
+  {%- if show_sphinx %}
+  {% trans %}<span class="footer_small">Il portale ............. è realizzato con <a href="http://sphinx-doc.org/">Sphinx</a> utilizzando il tema <a href="https://github.com/rtfd/sphinx_rtd_theme">Sphinx Theme</a> fornito da <a href="https://readthedocs.org">Read the Docs</a>.
+  <br><br></span>
+  {% endtrans %}
+  {%- endif %}  
 
 <p>
   <!-- personalizzare account tweetter -->
   <a href="https://twitter.com/opendatasicilia?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @opendatasicilia</a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </p>
+    
+
     
     <!--  {%- if show_copyright %}
       {%- if hasdoc('copyright') %}
@@ -59,13 +67,6 @@
     </p>
   </div>
 
-
-
-  {%- if show_sphinx %}
-  {% trans %}<span class="footer_small">Il portale ............. è realizzato con <a href="http://sphinx-doc.org/">Sphinx</a> utilizzando il tema <a href="https://github.com/rtfd/sphinx_rtd_theme">Sphinx Theme</a> fornito da <a href="https://readthedocs.org">Read the Docs</a>.
-  <br><br></span>
-  {% endtrans %}
-  {%- endif %}
 
   {%- block extrafooter %} {% endblock %}
 
