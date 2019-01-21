@@ -33,7 +33,7 @@
 @media (min-width: 320px) and (max-width: 1023px) {#backTop.red {background-size: 16px;}}
 
 #backTop.green{
-     background:url(top_bianca.png) no-repeat center center rgba(81,217,187,0.8); 
+     background:url(top_bianca.png) no-repeat center center rgba(120,130,127,0.8);  /* questo colore è grigio */
 	/* prima era il file (hfctop.png) */
 	/*regola la dimesione dell'immagine*/
 	 background-size: 23px;
