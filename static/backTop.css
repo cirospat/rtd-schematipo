@@ -18,10 +18,15 @@
 #backTop.white{
      background:url(hfctop.png) no-repeat center center rgba(255,255,255,0.8);
      /*border:1px solid #ccc;*/
+     background-size: 23px;
+     box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);
+     
 }
 #backTop.black{
      background:url(hfctop.png) no-repeat center center rgba(0,0,0,0.8); 
-    /*border:1px solid #ccc;*/
+     /*border:1px solid #ccc;*/
+     background-size: 23px;
+     box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);
 }
 #backTop.red{
      background:url(http://cirospat.readthedocs.io/it/latest/_static/hfctop.png) no-repeat center center rgba(241,141,54,0.8); 
