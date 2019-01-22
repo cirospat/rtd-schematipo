@@ -5,6 +5,18 @@
 <!-- css theme_overrides.css -->
 <link href="{{ pathto("_static/theme_overrides.css", True) }}" rel="stylesheet" type="text/css" />
 
+<!-- Reading Progress Bar on Scroll -->
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://cdn.rawgit.com/mburakerman/prognroll/master/src/prognroll.js"></script>
+<script>
+     $(function() {
+       $("body").prognroll({
+         height: 4, //Progress bar height in pixels
+         color: "#3337c4", //Progress bar background color
+       });
+    });
+</script>
+
 <!-- css back top -->
 <!--<link href="../_static/jquerysctipttop.css" rel="stylesheet" type="text/css" />-->
 <link href="{{ pathto("_static/jquerysctipttop.css", True) }}" rel="stylesheet" type="text/css" />
