@@ -50,6 +50,10 @@ h1, h2, h3 {
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
 .wy-nav-side {color: #51d9bb;}
 
+
+/* prova wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
+.wy-nav-side {background: #858e7f;}
+
 /*background colore colonna sx */
 /* .wy-side-scroll {background: #1c300f;} */
 
