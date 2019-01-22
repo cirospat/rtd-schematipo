@@ -39,12 +39,12 @@
 
 /* setta i colori dei titoli dei capitoli, paragrafi, ecc. */
 h1, h2, h3 {
-    color: #098748 !important;
+    color: #126da5 !important;
 }
 
 /* reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #098748;
+    background-color: #126da5;
 }
 
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
@@ -52,7 +52,7 @@ h1, h2, h3 {
 
 
 /* prova wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
-.wy-nav-side {background: #858e7f;}
+.wy-nav-side {background: #126da5;}
 
 /*background colore colonna sx */
 /* .wy-side-scroll {background: #1c300f;} */
@@ -76,7 +76,7 @@ h1, h2, h3 {
 /* .wy-nav-top {background: linear-gradient(#ffaf05, #ffd105); } */
 
 /* mobile settings */
-.wy-nav-top {background: #098748; }
+.wy-nav-top {background: #126da5; }
 
 /* lo sfondo a dx dopo il testo, ma con il settaggio full-hd non si applica */
 .wy-body-for-nav {background: #ffffff; }
