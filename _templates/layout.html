@@ -19,13 +19,6 @@
 <script type="text/javascript" src="{{ pathto("_static/jquery-eu-cookie-law-popup.js", True) }}"></script> 
 <link href="{{ pathto("_static/jquery-eu-cookie-law-popup.css", True) }}" rel="stylesheet" type="text/css" />
 
- {% endblock %}
-
-
-
-{% block footer %}
-      {{ super() }}
-
 <!-- prova barra header importata da maps ciro -->
 <div class="container">
 		<div class="row clearfix">
@@ -83,6 +76,13 @@
 		</div>
 <!-- fine prova barra header importata da maps ciro -->
 
+
+ {% endblock %}
+
+
+
+{% block footer %}
+      {{ super() }}
 <div class="eupopup eupopup-top "></div> <!--Ricordati che devi aggiungere nel tuo RDT la pagina dell'informativa privacy -->
 
 	   <!-- script Back To Top  -->
