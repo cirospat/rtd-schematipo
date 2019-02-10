@@ -1,8 +1,6 @@
 ---
 title: tansignari
 layout: post
-author: cirospat
-permalink: /tansignari/
 source-id: 19Twt5zftwVS2fwwgeet_2r0CNWNuL67vVOTl4iaDCFA
 published: true
 ---
