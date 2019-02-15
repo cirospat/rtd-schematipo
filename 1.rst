@@ -18,7 +18,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
    	<a href="#popup1">Let me Pop up</a>
 <div id="popup1" class="overlay">
-	<div class="popup">
+	<div class="static/popup">
 		<h2>Here i am</h2>
 		<a class="close" href="#">&times;</a>
 		<div class="content">
