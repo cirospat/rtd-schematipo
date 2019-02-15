@@ -16,7 +16,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 .. raw:: html
 
-    <a class="trigger_popup_fricc">Click here to show the popup</a>
+   <a class="trigger_popup_fricc">Click here to show the popup</a>
 <div class="hover_bkgr_fricc">
     <span class="helper"></span>
     <div>
