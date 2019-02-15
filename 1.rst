@@ -14,17 +14,3 @@ Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting va
 Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``.
 
 
-.. raw:: html
-
-   	<a href="#popup1">Let me Pop up</a>
-<div id="popup1" class="overlay">
-	<div class="static/popup">
-		<h2>Here i am</h2>
-		<a class="close" href="#">&times;</a>
-		<div class="content">
-			Thank to pop me out of that button, but now i'm done so you can close this window.
-		</div>
-	</div>
-</div>
-
-
