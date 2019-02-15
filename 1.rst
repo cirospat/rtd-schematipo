@@ -16,5 +16,5 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 .. raw:: html
 
-    <a href="index.html" onclick="MM_openBrWindow('index.html','nuovaFinestra','width=400,height=400'); return false;" onkeypress="MM_openBrWindow('index.html','nuovaFinestra','width=400,height=400'); return false;" title="Esempio di pop-up accessibile - Link interno - Nuova finestra">Apri il pop-up</a>
+    <a href="popup.html" onclick="MM_openBrWindow('popup.html','nuovaFinestra','width=400,height=400'); return false;" onkeypress="MM_openBrWindow('popup.html','nuovaFinestra','width=400,height=400'); return false;" title="Esempio di pop-up accessibile - Link interno - Nuova finestra">Apri il pop-up</a>
 
