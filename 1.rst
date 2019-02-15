@@ -14,8 +14,4 @@ Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting va
 Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``.
 
 
-.. raw:: html
 
-    <a href="javascript:;"
-onClick="window.open('http://www.lapaweb.com', 'titolo', 'width=300, height=250, resizable, status, scrollbars=0,
-location');">Apri la finestra pop-up</a>
