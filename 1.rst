@@ -14,5 +14,15 @@ Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting va
 Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``.
 
 
+.. raw:: html
+
+    <a class="trigger_popup_fricc">Click here to show the popup</a>
+<div class="hover_bkgr_fricc">
+    <span class="helper"></span>
+    <div>
+        <div class="popupCloseButton">X</div>
+        <p>Add any HTML content<br />inside the popup box!</p>
+    </div>
+</div>
 
 
