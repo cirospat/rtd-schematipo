@@ -17,14 +17,8 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 .. raw:: html
 
    <p><a href="https://twitter.com/cirospat" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/twitter-cirospat-lightgray.svg?style=popout&amp;logo=twitter&amp;logoColor=9cf" /></a></p>
-<p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/facebook
-  -ciro.spataro.3-lightgray
-  .svg?style=popout&amp;logo=facebook&amp;logoColor=informational" /></a></p>
-<p><a href="https://www.linkedin.com/in/cirospataro/" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/linkedin-cirospataro-lightgray
-  .svg?style=popout&amp;logo=linkedin&amp;logoColor=blue" /></a></p>
-<p><a href="https://www.youtube.com/user/cirospat/videos" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/youtube-cirospat-lightgray
-  .svg?style=popout&amp;logo=youtube&amp;logoColor=red" /></a></p>
-<p><img src="https://img.shields.io/badge/medium-cirospat-lightgray
-  .svg?style=popout&amp;logo=medium&amp;logoColor=yellow" />&nbsp;[articoli sui dati aperti e pubblica amministrazione digitale]&nbsp;<span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
-<p><img src="https://img.shields.io/badge/skype-cirospat-lightgray
-  .svg?style=popout&amp;logo=skype&amp;logoColor=9cf" /></p>
+<p><a href="https://www.facebook.com/ciro.spataro.3" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/facebook-ciro.spataro.3-lightgray.svg?style=popout&amp;logo=facebook&amp;logoColor=informational" /></a></p>
+<p><a href="https://www.linkedin.com/in/cirospataro/" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/linkedin-cirospataro-lightgray.svg?style=popout&amp;logo=linkedin&amp;logoColor=blue" /></a></p>
+<p><a href="https://www.youtube.com/user/cirospat/videos" target="_blank" rel="noopener" title="cirospat"><img src="https://img.shields.io/badge/youtube-cirospat-lightgray.svg?style=popout&amp;logo=youtube&amp;logoColor=red" /></a></p>
+<p><img src="https://img.shields.io/badge/medium-cirospat-lightgray.svg?style=popout&amp;logo=medium&amp;logoColor=yellow" />&nbsp;[articoli sui dati aperti e pubblica amministrazione digitale]&nbsp;<span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
+<p><img src="https://img.shields.io/badge/skype-cirospat-lightgray.svg?style=popout&amp;logo=skype&amp;logoColor=9cf" /></p>
