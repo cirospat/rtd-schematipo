@@ -1,5 +1,6 @@
 # titolo del Read the docs
 
+<p><img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg"></p>
 
 [**Schema tipo di Github per esporre contenuti su Read the Docs**](https://schema-tipo.readthedocs.io)  
 <p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/robin_batman.PNG"></p>
