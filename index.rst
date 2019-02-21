@@ -5,7 +5,7 @@ Titolo del Read the Docs
 
 .. raw:: html
 
-    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
+    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 1px 3px; border-radius: 7px;">Questa è solo una bozza</span></strong>
     <p></p>
 
 Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
