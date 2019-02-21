@@ -40,8 +40,8 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "static/logo.jpg"
-html_logo = "static/logo.jpg"
+latex_logo = "static/help.jpg"
+html_logo = "static/help.jpg"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
