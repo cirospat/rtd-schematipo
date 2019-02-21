@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'schema tipo RTD'
+project = 'schema tipo Read the Docs'
 copyright = 'change-me'
 
 # The name of the Pygments (syntax highlighting) style to use.
