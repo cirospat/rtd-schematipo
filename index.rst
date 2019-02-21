@@ -10,6 +10,11 @@ Titolo del Read the Docs
 
 Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
 
+.. raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg">
+    
+
 Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file ``theme_override.css``.
 
 Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``:
