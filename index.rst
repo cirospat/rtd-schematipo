@@ -73,6 +73,9 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 
 
+.. toctree::
+  :maxdepth: 2
+
   Home <https://schema-tipo.readthedocs.io>
 
 
