@@ -1,6 +1,10 @@
 Titolo del Read the Docs
 *********************
 
+.. raw:: html
+
+    <img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/robin_batman.PNG">
+
 ``cultura della documentazione`` 
 
 .. raw:: html
