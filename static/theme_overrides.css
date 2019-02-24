@@ -47,10 +47,18 @@ h1, h2, h3 {
     background-color: #757575;   /* prima era #5c788a  */
 }
 
-/* testo caption menu sx - setta i colori dell'indice nel menu a sx */
+
+/* testo caption menu sx - setta i colori dell'indice nel menu a sx (quello originale)
    .wy-nav-side {
     color: #51d9bb;
 } 
+*/
+
+/* tenativo di settare testo caption menu sx x colori dell'indice nel menu a sx */
+.wy-menu-vertical p.caption {
+color: #51d9bb;
+} 
+
 
 
 /* prova wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
