@@ -52,6 +52,11 @@ h1, h2, h3 {
     color: #51d9bb;
 } 
 
+/* tentativo di settare i colori dell'indice nel menu a sx sotto search */
+.wy-menu-vertical {
+color: #51d9bb;
+} 
+
 
 /* prova wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
 .wy-nav-side {background: #404040;}
