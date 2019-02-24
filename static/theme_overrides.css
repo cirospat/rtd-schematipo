@@ -113,3 +113,7 @@ span.commit {display: none;}
 .footer_small a:visited {font-size: small!important;}
 .footer_small a:hover {font-size: small!important;}
 
+
+/* PROVA pannello sx lastest */
+.rst-versions .rst-current-version {background: #344c25; text-align: center;}
+.wy-nav-side {background: #344c25;}
