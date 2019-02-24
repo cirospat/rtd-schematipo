@@ -53,7 +53,7 @@ h1, h2, h3 {
 } 
 
 /* tentativo di settare i colori dell'indice nel menu a sx sotto search */
-.wy-menu {
+.wy-menu-vertical {
 color: #51d9bb;
 } 
 
