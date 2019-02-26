@@ -77,7 +77,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     :maxdepth: 2
     :caption: esempio di index
 
-    Home <https://schema-tipo.readthedocs.io>
+    Home <https://schema-tipo.readthedocs.io> <img src="https://img.shields.io/badge/Autore_del_documento:-Nome_Cognome-blue.svg" />
     1.rst
     
 
