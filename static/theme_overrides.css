@@ -17,15 +17,15 @@
 
 .admonition > *:not(:first-child){
     /* draw a boder around a admonition */
-    border-left: solid 1px #b59e9e;
-    border-right: solid 1px #b59e9e;
+    border-left: solid 0px #b59e9e;
+    border-right: solid 0px #b59e9e;
     padding: 12px;
     margin: -12px -12px -12px -12px;
     margin-bottom: -12px !important;
 }
 .admonition > .last, .admonition- > .last{
     /* draw a boder around a admonition */
-    border-bottom: solid 1px #b59e9e !important;
+    border-bottom: solid 0px #b59e9e !important;
 }
 
 
