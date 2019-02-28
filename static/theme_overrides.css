@@ -72,6 +72,9 @@ color: #51d9bb;
 
 
 
+
+
+
 /* prova settaggi di HFQgis  */
 /* background nav-top sx*/
 .wy-side-nav-search {background:  #ffffff;}
@@ -84,6 +87,70 @@ background-position: 10px; background-size: 15px; font-weight: bold;}
 
 /*background  colonna sx*/
 .wy-side-scroll {background: #ffffff;} 
+
+/* testo menu verticale maiuscolo */	
+.wy-menu-vertical {	font-weight: bold; color:#344c25!important; }
+.wy-menu-vertical a {color:#344c25!important;}
+
+/* tutto in maiuscolo prima voce di menu */
+div.wy-menu-vertical > ul > li > a {text-transform: uppercase !important; }
+/* tutto in maiuscolo prima voce di menu */
+
+/* per applicare underline e colore a voci di menu attive */
+li.current > a {text-decoration: underline; color: white !important;}
+
+li.current > a:link {text-decoration: underline;color: white !important;}
+li.current > a:visited {text-decoration: underline;	color: white !important;}
+li.current > a:hover {text-decoration: underline; color: white !important;}
+li.current > a:active {    text-decoration: underline;	color: white !important;} 
+/* per applicare underline e colore a voci di menu attive */
+
+/* testo menu verticale primo livello */
+.wy-menu-vertical a:hover { background-color: rgba(241,141,54,0.8);  color: #ffffff !important;}
+.wy-menu a:hover {color: #fff important;}
+.wy-menu a:visited {color: #fff;}
+.wy-menu-vertical a:visited {color: #344c25!}
+.wy-menu-vertical a:current{color: #fff!}
+
+.wy-menu-vertical a span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical a:visited span.toctree-expand {color:#344c25!important;}
+
+.wy-menu-vertical li span.toctree-expand {isplay: block; float: left; margin-left: -1.2em;  font-size: .8em; line-height: 1.6em; color:#344c25;}
+
+/* @http://hfcqgis.opendatasicilia.it*/
+/* testo menu verticale secondo livello */
+.wy-menu-vertical li.hover a {background-color: rgba(193,224,69,0.5); text-transform: none;}
+/*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
+.wy-menu-vertical li.toctree-l2.current>a { background: rgba(193,224,69,0.6); text-transform: none; }
+.wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); text-transform: none; }
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #c1e045; text-transform: none;}
+.wy-menu-vertical li.toctree-l1.current > a {border-bottom: solid 0 #fff; border-top: solid 0 #fff; text-transform: none; }
+.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(193,224,69,0.8); text-transform: none;}
+.wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l3 a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l4 a:hover span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l2 a span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l3 a span.toctree-expand {color:#344c25!important;}
+.wy-menu-vertical li.toctree-l4 a span.toctree-expand {color:#344c25!important;}
+
+/* testo menu verticale terzo livello */
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4 > a {background: rgba(73,125,41,0.8)}
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a {background: rgba(73,125,41,0.50)}
+/*.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:hover {text-transform:none;}*/
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a:current {color:#fff!important;}
+.wy-menu-vertical li.current a {border-right: solid 0 #c9c9c9;}
+.wy-menu-vertical li.current a:hover {background: rgba(73,125,41,0.8);}
+.wy-menu-vertical li.current a:current {color: #fff;}
+
+/*link di base*/
+a {color: #f18d36; }
+a:hover {color: #f18d36; text-decoration:underline; }
+a:visited {color: #589632; text-decoration:none; }
+
+
+
+
 
 
 
