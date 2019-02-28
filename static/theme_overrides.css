@@ -81,22 +81,19 @@ color: #51d9bb;
 /* background nav-top sx*/
 .wy-side-nav-search {background:  #ffffff;}
 /* box search sx*/
-.wy-side-nav-search input[type="text"] {border-color: #589632; background-image: url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/static/search_01.png); background-repeat: no-repeat; 
+.wy-side-nav-search input[type="text"] {border-color: #589632; background-repeat: no-repeat; 
 background-position: 10px; background-size: 15px; font-weight: bold;} 
 .wy-side-nav-search input[type="text"] {padding: 6px 30px;}
 
-.wy-nav-top a:visited {color: #fff !important; font-weight: bold !important;}
+.wy-nav-top a:visited {color: #fff !important;}
 
 /*background  colonna sx*/
 .wy-side-scroll {background: #ffffff;} 
 
 /* testo menu verticale maiuscolo */	
-.wy-menu-vertical {	font-weight: bold; color:#344c25!important; }
+.wy-menu-vertical {	color:#344c25!important; }
 .wy-menu-vertical a {color:#344c25!important;}
 
-/* tutto in maiuscolo prima voce di menu */
-div.wy-menu-vertical > ul > li > a {text-transform: uppercase !important; }
-/* tutto in maiuscolo prima voce di menu */
 
 /* per applicare underline e colore a voci di menu attive */
 li.current > a {text-decoration: underline; color: white !important;}
