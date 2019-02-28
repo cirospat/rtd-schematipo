@@ -69,6 +69,15 @@ color: #51d9bb;
 /* prova wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
 .wy-nav-side {background: #ffffff;}  /*  #49634e verde  */
 
+.reference.external {          /*  prova   */
+   color: #3f3e3e;
+}
+
+.reference.internal {           /*  prova   */
+   color: #3f3e3e;
+}
+
+
 
 /* background colore della colonna sx (dove c'è il menù) */
 /* .wy-side-scroll {background: #1c300f;} */
