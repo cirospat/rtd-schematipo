@@ -74,7 +74,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 
 .. toctree::  
-    :maxdepth: 2
+    :maxdepth: 4
     :caption: esempio di index
 
     Home <https://schema-tipo.readthedocs.io> 
