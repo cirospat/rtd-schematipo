@@ -18,6 +18,8 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 2 bis
 ----------
 
+a questo link la sintassi  https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/2.rst
+
 ===============================================================================
 I titoli principali sono scritti utilizzando caratteri di uguale, sopra e sotto
 ===============================================================================
