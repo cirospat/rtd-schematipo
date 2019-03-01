@@ -13,3 +13,9 @@ Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting va
 
 Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``.
 
+
+
+2 bis
+----------
+
+prova paragrafo
