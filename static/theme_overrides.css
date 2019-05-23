@@ -83,7 +83,7 @@ color: #51d9bb;
 
 
 /* disattiva il testo "latest"  menu a sx sotto il search */
-.wy-side-nav-search>div.version {    display: none;}
+/* .wy-side-nav-search>div.version {    display: none;}  */
 
 
 /* colore pannello sx in basso VERSION */
