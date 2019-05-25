@@ -32,6 +32,8 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     
     questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
     
+    -
+    
 
 .. raw:: html
 
