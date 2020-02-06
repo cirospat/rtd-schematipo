@@ -11,7 +11,7 @@ __version__ = '1.0'
 
 # -- General configuration -----------------------------------------------------
 
-source_suffix = '.rst'
+# source_suffix = '.rst' eliminato dal conf.py di tansignari #
 master_doc = 'index'
 project = 'schema tipo Read the Docs'
 copyright = 'change-me'
@@ -32,6 +32,16 @@ def setup(app):
     app.add_stylesheet('theme_overrides.css') # path relative to static
   
 
+#dal conf.py di tansignari #
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+
+source_suffix = ['.rst', '.md']
+
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
     
 """
