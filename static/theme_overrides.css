@@ -66,6 +66,11 @@ color: #51d9bb;
 
 
 
+/* per applicare underline e colore a voci di menu attive */
+li.current > a {text-decoration: underline; color: green !important;}
+
+
+
 /* wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
 .wy-nav-side {background: #49634e;}   
 
