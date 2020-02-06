@@ -64,3 +64,7 @@ html_logo = "static/help.jpg"
 # https://docs.readthedocs.io/en/latest/guides/adding-custom-css.html
 
 templates_path = ['_templates']
+
+html_theme_options = {    
+    'style_external_links': True
+}
