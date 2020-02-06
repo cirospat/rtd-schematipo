@@ -3,6 +3,12 @@
 from __future__ import unicode_literals
 import sys, os
 
+
+#dal conf.py di tansignari #
+import recommonmark
+from recommonmark.transform import AutoStructify
+
+
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 sys.path.append(os.path.abspath(os.pardir))
