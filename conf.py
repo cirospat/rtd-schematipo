@@ -9,7 +9,7 @@ import recommonmark
 from recommonmark.transform import AutoStructify
 
 
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+on_rtd = os.environ.get('READTHEDOCS') == 'True'
 
 sys.path.append(os.path.abspath(os.pardir))
 
