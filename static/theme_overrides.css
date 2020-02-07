@@ -48,7 +48,7 @@ h1, h2, h3, h4 {
 
 /* area reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #49634e;   /*prima era  #739e90 */
+    background-color: #85a292;   /*prima era  #739e90 */
 }
 
 
@@ -72,7 +72,7 @@ li.current > a {text-decoration: underline; color: green !important;}
 
 
 /* wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
-.wy-nav-side {background: #49634e;}   
+.wy-nav-side {background: #193a33;}   
 
 
 
