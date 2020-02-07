@@ -97,7 +97,7 @@ li.current > a {text-decoration: underline; color: green !important;}
 
 /* disativa il testo "edit on Github" in alto a destra */
 .wy-breadcrumbs li.wy-breadcrumbs-aside {
-    float: center;      /* era   right;   */
+    float: left;      /* era   right;   */
     display: true;     /* era   none;   */
 }
 
