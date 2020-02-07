@@ -41,8 +41,8 @@
 
 
 /* settare i colori dei titoli dei capitoli, paragrafi, ecc. */
-h1, h2, h3 {
-    color: #126da5 !important;
+h1, h2, h3, h4 {
+    color: #49634e !important;
 }
 
 
