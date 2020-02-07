@@ -24,7 +24,7 @@ Se sei interessato a usare Google doc per compilare documenti su Github puoi usa
 
 
 ## Licenza d'uso
-Licenza dei contenuti di questo repository: [CC BY SA 4.0 IT](https://creativecommons.org/licenses/by-sa/4.0/deed.it), attribuzione dell'opera all'autore e condividi allo stesso modo.
+Licenza dei contenuti di questo repository: [CC BY 4.0 IT](https://creativecommons.org/licenses/by/4.0/deed.it), attribuzione dell'opera all'autore.
 
 
 
