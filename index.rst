@@ -12,6 +12,12 @@ Titolo del Read the Docs
     <strong><span style="background-color: #49634e; color: #ffffff; display: inline-block; padding: 1px 3px; border-radius: 7px;">Questa è solo una bozza</span></strong>
     <p></p>
 
+
+.. raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg">
+    
+
 Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
 
     
@@ -29,19 +35,15 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 ..  Important:: 
     
-    questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
+    Questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
     
     
 ..  Important:: 
     
-    le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file `conf.py` sono dettagliate in questa `ricetta di Tansignari <http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_.
+    Le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file ``conf.py`` sono dettagliate in questa `ricetta di Tansignari <http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_.
 
 
-.. raw:: html
-
-    <img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg">
-    
-    
+   
 
 ---
 
