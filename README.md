@@ -1,4 +1,4 @@
-# titolo del Read the docs
+# Titolo del progetto da esporre su "Read the docs"
 
 <p><img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg"></p>
 
