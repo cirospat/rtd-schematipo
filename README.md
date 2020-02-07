@@ -1,18 +1,24 @@
-# Titolo del progetto da esporre su "Read the docs"
-
+# Titolo del progetto da esporre su "Read the Docs"
 <p><img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg"></p>
 
-[**Schema tipo di progetto Github per esporre contenuti su Read the Docs**](https://schema-tipo.readthedocs.io)  
+[**Schema tipo di progetto "Github" per esporre documentazione su "Read the Docs"**](https://schema-tipo.readthedocs.io)  
 <p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/robin_batman.PNG"></p>
+
 
 ## Cosa contiene questo repository Github
 Per esporre documentazione online, che si adatti anche ai dispositivi mobili, è necessario utilizzare alcuni servizi specifici. Uno tra i più comodi e validi è **Read the Docs**. 
 Questo repository Github contiene i file di impostazione per il progetto tipo di documentazione che viene esposto su [**schematipo Read the Docs**](https://schema-tipo.readthedocs.io). 
 
+
 Rappresenta una bozza e contiene tutte le impostazioni per ottenere lo stile dei contenuti (testo, immagini, ecc) che si visualizzano su [schematipo Read the Docs](https://schema-tipo.readthedocs.io).
 
+
 ## Obiettivo del repository
-La funzione del repository è quella di facilitare l’editing del codice, non dovendo pensare a crearlo da zero, e dando la possibilità all’utente di cambiare le personalizzazioni (titolo progetto, testo, colori sfondo e testo, ecc).
+La funzione del repository è quella di facilitare l’editing del codice, non dovendo pensare a crearlo da zero, e dando la possibilità all’utente di cambiare le personalizzazioni (titolo progetto, testo, colori sfondo e testo, ecc). Il progetto, quindi, può essere clonato su Github e personalizzato secondo le esigenze.
+
+
+## Cosa serve
+Serve un account su "Read the Docs" e un account su "Github".
 
 
 ## Contenuti in formato `.rST` e `.MD` sul progetto Github
