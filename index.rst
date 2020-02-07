@@ -34,7 +34,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     
 ..  Important:: 
     
-    le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file `conf.py` sono dettagliate in questa `[ricetta di Tansignari]<http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_
+    le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file `conf.py` sono dettagliate in questa `ricetta di Tansignari <http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_.
 
 
 .. raw:: html
