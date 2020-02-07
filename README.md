@@ -8,6 +8,7 @@
 ## Cosa contiene questo repository Github
 Per esporre documentazione online, che si adatti anche ai dispositivi mobili, è necessario utilizzare alcuni servizi specifici. Uno tra i più comodi e validi è **Read the Docs**. 
 Questo repository Github contiene i file di impostazione per il progetto tipo di documentazione che viene esposto su [**schematipo Read the Docs**](https://schema-tipo.readthedocs.io). 
+
 Rappresenta una bozza e contiene tutte le impostazioni per ottenere lo stile dei contenuti (testo, immagini, ecc) che si visualizzano su [schematipo Read the Docs](https://schema-tipo.readthedocs.io).
 
 ## Obiettivo del repository
