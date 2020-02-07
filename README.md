@@ -22,7 +22,9 @@ Serve un account su "Read the Docs" e un account su "Github".
 
 
 ## Contenuti in formato `.rST` e `.MD` sul progetto Github
-Le impostazioni nel presente repository permettono di scrivere su Github i contenuti sia in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown).
+Le impostazioni nel presente repository permettono di scrivere su Github i contenuti sia in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). 
+
+Per abilitare i file in formato `.MD` a compilare la costruzione del progetto su "Read the Docs", le istruzioni da inserire nel file `conf.py` sono dettagliate in questa [ricetta di Tansignari](http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html).
 
 
 ## Un componente aggiuntivo su Google doc per il commit automatico su Github
