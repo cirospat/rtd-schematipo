@@ -14,7 +14,6 @@ Titolo del Read the Docs
 
 Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
 
-
     
 
 Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file ``theme_override.css``.
@@ -32,8 +31,11 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     
     questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
     
-    -
     
+..  Important:: 
+    
+    le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file `conf.py` sono dettagliate in questa `[ricetta di Tansignari]<http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_
+
 
 .. raw:: html
 
@@ -46,38 +48,9 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 
 
----
-
-
-
----
-
-
-
-
-
----
-
-
-
----
-
-
-
-
----
-
-
-
-    
-
----
-
-
-
 .. toctree::  
     :maxdepth: 4
-    :caption: esempio di index
+    :caption: index (max 30 caratteri)
 
     Home <https://schema-tipo.readthedocs.io> 
     1.rst
