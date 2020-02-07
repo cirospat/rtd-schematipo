@@ -51,6 +51,18 @@
 
 
 
+<!-- issue https://github.com/opendatasicilia/tansignari/issues/116 -->
+<!-- Dove è (e qual è) l'istruzione da dare su Github per fare aprire su RTD i link in una pagina esterna? -->
+<!-- Adds target=_blank to external links -->
+<script type="text/javascript">
+   $(document).ready(function () {
+      $('a[href^="http://"], a[href^="https://"]').not('a[class*=internal]').attr('target', '_blank');
+    });
+  </script>
+
+
+
+
 <!-- Reading Progress Bar on Scroll -->
 <!-- <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script> -->
 <!-- vedere questo repo per progress bar: https://github.com/mburakerman/prognroll -->
