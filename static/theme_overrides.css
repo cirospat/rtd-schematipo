@@ -143,3 +143,13 @@ span.commit {display: none;}
 .footer_small a:visited {font-size: small!important;}
 .footer_small a:hover {font-size: small!important;}
 
+
+
+/* per applicare underline e colore a voci di menu attive */
+li.current > a {text-decoration: underline; color: white !important;}
+
+li.current > a:link {text-decoration: underline;color: white !important;}
+li.current > a:visited {text-decoration: underline;	color: white !important;}
+li.current > a:hover {text-decoration: underline; color: white !important;}
+li.current > a:active {    text-decoration: underline;	color: white !important;} 
+/* per applicare underline e colore a voci di menu attive */
