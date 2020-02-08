@@ -48,13 +48,17 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 ---
 
 
+.. toctree::
+  :maxdepth: 2
+
+  Home <https://schema-tipo.readthedocs.io> 
+
 
 
 .. toctree::  
     :maxdepth: 4
     :caption: index (max 30 caratteri)
 
-    Home <https://schema-tipo.readthedocs.io> 
     1.rst
     2.rst
     
