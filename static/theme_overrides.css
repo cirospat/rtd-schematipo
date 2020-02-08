@@ -46,33 +46,33 @@ h1, h2, h3, h4 {
 }
 
 
-/* area reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
+/* colore dell'area reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #85a292;   /*prima era  #739e90 */
+    background-color: #85a292;   /*prima era  #85a292 */
 }
 
 
-/* testo caption menu sx - setta i colori dell'indice nel menu a sx (quello originale)
+/* colore del testo caption menu sx - setta i colori dell'indice nel menu a sx (quello originale)
    .wy-nav-side {
     color: #51d9bb;
 } 
 */
 
 
-/* settare il colore del testo caption menu sx, cioè dare colore all'indice nel menu a sx */
+/* settare il colore del testo caption menu sx, cioè dare colore alla macro categoria indice nel menu a sx */
 .wy-menu-vertical p.caption {
 color: #51d9bb;
 } 
 
 
 
-/* per applicare underline e colore a voci di menu attive */
+/* per applicare underline e il colore a voci di menu attive */
 li.current > a {text-decoration: underline; color: green !important;}
 
 
 
-/* wy-nav-side backround color (colore sfondo menù a sinistra inlcusa pubblicità RTD) */
-.wy-nav-side {background: #193a33;}   
+/* wy-nav-side backround color (colore del rettangolo sfondo menù a sinistra inlcusa pubblicità RTD) */
+.wy-nav-side {background: #85a292;}   /* prima era #193a33 */
 
 
 
