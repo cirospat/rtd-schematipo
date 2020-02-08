@@ -61,7 +61,7 @@ h1, h2, h3, h4 {
 
 /* settare il colore del testo caption menu sx, cioè dare colore alla macro categoria indice nel menu a sx */
 .wy-menu-vertical p.caption {
-color: #51d9bb;
+color: #fcfcfc;
 } 
 
 
@@ -145,11 +145,3 @@ span.commit {display: none;}
 
 
 
-/* per applicare underline e colore a voci di menu attive */
-li.current > a {text-decoration: underline; color: white !important;}
-
-li.current > a:link {text-decoration: underline;color: white !important;}
-li.current > a:visited {text-decoration: underline;	color: white !important;}
-li.current > a:hover {text-decoration: underline; color: white !important;}
-li.current > a:active {    text-decoration: underline;	color: white !important;} 
-/* per applicare underline e colore a voci di menu attive */
