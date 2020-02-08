@@ -61,27 +61,24 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 
 .. toctree::  
-    :maxdepth: 2
+    :maxdepth: 4
     :caption: Risorse
 
-    tutorial
-    mappe
-    webinar-opendata
+    2.rst
 
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Palermo
+    :caption: Altre risorse
 
-    open-data
-    servizi-digitali
+    2.rst
 
 
 .. toctree::  
     :maxdepth: 2
-    :caption: External links
+    :caption: External contribution
 
-    fondamentali
+    2.rst
 
 
 .. toctree::  
