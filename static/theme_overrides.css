@@ -59,11 +59,17 @@ h1, h2, h3, h4 {
 */
 
 
+
 /* settare il colore del testo caption menu sx, cioè dare colore alla macro categoria indice nel menu a sx */
 .wy-menu-vertical p.caption {
 color: #5c788a;
 } 
 
+
+/* settare il colore del testo paragrafi del menu sx */
+.wy-menu-vertical a {
+color: #ffffff;
+} 
 
 
 /* per applicare underline e il colore a voci di menu attive */
