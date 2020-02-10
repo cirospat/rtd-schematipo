@@ -1,4 +1,4 @@
-# Messaggio Read the Docs di “build fails”: [cannot import name “PackageFinder” from “pip._internal.index”]
+# Messaggio di “build fails”: [cannot import name “PackageFinder”]
 
 * autore: [Ciro Spataro](https://twitter.com/cirospat)
 * issue: [#106](https://github.com/opendatasicilia/tansignari/issues/106#issuecomment-577152591) - aiuto nell'individuazione della  soluzione: [Andrea Borruso](https://twitter.com/aborruso?lang=it)
