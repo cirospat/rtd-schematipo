@@ -68,7 +68,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     :maxdepth: 4
     :caption: Risorse
 
-    2.rst
+    MD_per_RTD.md
 
 
 .. toctree::  
