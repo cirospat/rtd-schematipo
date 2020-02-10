@@ -89,5 +89,5 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     :maxdepth: 3
     :caption: Informativa Privacy
 
-    privacy
+    privacy.md
 
