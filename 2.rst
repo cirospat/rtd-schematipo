@@ -1,6 +1,6 @@
-====================
-2
-====================
+==========================
+2 - Un po di sintassi RST
+==========================
 
 a questo link la sintassi RST  https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/2.rst
 
