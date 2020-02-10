@@ -6,6 +6,12 @@
 
 ---
 
+{{% pageinfo %}}
+This is a placeholder page that shows you how to use this template site.
+{{% /pageinfo %}}
+
+---
+
 ## Problema
 
 Se voglio far leggere un file `.MD` a **ReadtheDocs**, oltre ai file `.RST`, quali impostazioni devo settare e dove li devo settare su **Github**?
