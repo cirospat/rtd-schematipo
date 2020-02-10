@@ -9,14 +9,20 @@ Titolo del Read the Docs
 
 Questo progetto è solo una dimostrazione dell'esposizione di contenuti su **Read the Docs**.
 
+
+
 .. raw:: html
 
     <img class="imageLeft" style="width: 360px;" src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/rtd.png">
+
+
+
 
 .. raw:: html
 
     <strong><span style="background-color: #49634e; color: #ffffff; display: inline-block; padding: 1px 3px; border-radius: 7px;">Questa è solo una bozza</span></strong>
     <p></p>
+
 
 
 .. raw:: html
