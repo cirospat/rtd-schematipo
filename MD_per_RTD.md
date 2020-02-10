@@ -1,4 +1,4 @@
-# Come fare leggere un file in formato `.MD` a ReadtheDocs (in un progetto su Github) 
+# Far leggere un file in formato `.MD` a ReadtheDocs 
 
 
 * autore: [Ciro Spataro](https://twitter.com/cirospat)
