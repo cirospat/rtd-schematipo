@@ -75,7 +75,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     :maxdepth: 2
     :caption: Altre risorse
 
-    2.rst
+    external_link.md
 
 
 .. toctree::  
