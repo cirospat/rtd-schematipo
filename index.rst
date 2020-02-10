@@ -7,6 +7,9 @@ Titolo del Read the Docs
 
 ``cultura della documentazione`` 
 
+Questo progetto è solo una dimostrazione dell'esposizione di contenuti su **Read the Docs**.
+
+
 .. raw:: html
 
     <strong><span style="background-color: #49634e; color: #ffffff; display: inline-block; padding: 1px 3px; border-radius: 7px;">Questa è solo una bozza</span></strong>
