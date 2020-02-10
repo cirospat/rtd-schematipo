@@ -45,7 +45,6 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
    
 
----
 
 
 .. toctree::
@@ -90,4 +89,3 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     :caption: Informativa Privacy
 
     privacy.md
-
