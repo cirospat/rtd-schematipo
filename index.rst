@@ -82,7 +82,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     :maxdepth: 2
     :caption: External contribution
 
-    2.rst
+    build_fail.md
 
 
 .. toctree::  
