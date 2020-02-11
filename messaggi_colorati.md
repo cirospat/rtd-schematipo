@@ -76,3 +76,13 @@ CARATTERE|SIGNIFICATO|ESEMPIO
  
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Zj2Kosq-v6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <span class="footer_small">Raduno della community di OpendataSicilia del 9 e 10 novembre 2018 a Palermo.</span>
+
+---
+
+
+<table cellspacing="0" cellpadding="0" style="width:96%">
+    <thead>
+    <tr><th style="text-align:center;width:71%;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="color:#0c0c0f;font-family:Verdana"><span  style="color:#0c0c0f;font-family:Verdana">Adempimento</span></p></th><th style="text-align:center;width:29%;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="color:#0c0c0f;font-family:Verdana"><span  style="color:#0c0c0f;font-family:Verdana">Capo, articolo</span></p></th></tr>
+    </thead><tbody>
+    <tr><td style="background-color:#00ffff;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ffff;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ffff;color:#0c0c0f;font-family:Verdana">Si tratta di adempimenti volontari del titolare mediante i quali può implementare importanti misure di sicurezza dei trattamenti e dimostrare la conformità delle attività di trattamento ai requisiti stabiliti dal Regolamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art40" target="_blank">40-42</a></span></p></td></tr>
+    </tbody></table>
