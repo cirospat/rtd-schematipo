@@ -15,10 +15,11 @@ This is a primary alert—check it out!
 
 ---
 
-html
+```html
 <div class="alert alert-success" role="alert">
   This is a success alert—check it out!
 </div>
+```
 
 
 ```html
