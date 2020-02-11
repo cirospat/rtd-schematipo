@@ -54,6 +54,8 @@ This is a primary alert—check it out!
 
 ---
 
+## Esempio di tabella
+
 CARATTERE|SIGNIFICATO|ESEMPIO
 ---------|-----------|------
 `*` | corrisponde a **zero**, **uno** o **più** del carattere precedente | `Ah*` corrisponde a `Ahhhhh` o `A`
