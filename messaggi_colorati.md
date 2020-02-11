@@ -69,3 +69,9 @@ CARATTERE|SIGNIFICATO|ESEMPIO
 `{ }` | corrisponde aa un numero specificato di occorrenze del carattere precedente | `[0-9]{3}` corrisponde a `315` ma non a  `31`; `[0-9]{2,4}` corrisponde a `18`, `125` e  `1234`; `[0-9]{2,}` corrisponde a `1234567…`
 `^` | Inizio di una stringa o all'interno di un intervallo di caratteri [] negazione.	| `^http` corrisponde stringhe che iniziano con `http`, ad esempio un URL. `[^0-9]` corrisponde a qualsiasi carattere diverso da `0-9`.
 `$` | Fine stringa | `ta$` corrisponde a `cascata` e no a `tavola`
+
+---
+
+html
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/Zj2Kosq-v6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small">Raduno della community di OpendataSicilia del 9 e 10 novembre 2018 a Palermo.</span>
