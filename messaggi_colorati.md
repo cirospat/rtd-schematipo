@@ -1,14 +1,14 @@
-```html
+html
 <div class="alert alert-primary" role="alert">
   This is a primary alert—check it out!
 </div>
-```
 
-```html
+
+html
 <div class="alert alert-secondary" role="alert">
   This is a secondary alert—check it out!
 </div>
-```
+
 
 ```html
 <div class="alert alert-success" role="alert">
