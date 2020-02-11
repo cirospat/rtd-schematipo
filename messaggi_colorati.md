@@ -86,3 +86,6 @@ CARATTERE|SIGNIFICATO|ESEMPIO
     </thead><tbody>
     <tr><td style="background-color:#00ffff;color:#0c0c0f;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="background-color:#00ffff;color:#0c0c0f;font-family:Verdana;margin-bottom:15"><span  style="background-color:#00ffff;color:#0c0c0f;font-family:Verdana">Si tratta di adempimenti volontari del titolare mediante i quali può implementare importanti misure di sicurezza dei trattamenti e dimostrare la conformità delle attività di trattamento ai requisiti stabiliti dal Regolamento.</span></p></td><td style="text-align:center;vertical-align:Top;padding-top:11px;padding-bottom:11px;padding-left:11px;padding-right:11px;border:solid 0.5px #666666"><p style="font-family:Verdana;margin-bottom:15"><span  style="font-family:Verdana"><span style="font-weight:bold">IV, </span><a href="http://www.altalex.com/documents/leggi/2018/03/05/titolare-e-responsabile-del-trattamento-gdpr#art40" target="_blank">40-42</a></span></p></td></tr>
     </tbody></table>
+    
+<p></p>
+
