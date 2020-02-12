@@ -70,6 +70,10 @@ Test
     #. In partial conversion, markups of table will keep the same as it is in whole document conversion.
     
 
+.. class:: special
+
+This is a "special" paragraph.
+
 
 .. bottom of content
 
@@ -111,10 +115,10 @@ Test
     <tr><td colspan="5" style="background-color:#ffff00;color:#000000;vertical-align:Bottom;padding-top:2px;padding-bottom:2px;padding-left:2px;padding-right:2px;border:solid 1px #000000"><p style="color:#000000"><span  style="color:#000000;font-size:11px;font-family:Courier New">蒐集完整蒐集這張規則表並不容易，主要原因是資料之間用語模糊與衝突的情況不少，必須詳細推敲求證，我們並沒有十足的把握，這張表都是正確的。歡迎您指正。我們若有訂正，會更新計算公式發行新版。</span></p></td></tr>
     </tbody></table>
 
-.. |IMG1| image:: static/GGeditor_script_per_Google_Doc_1.gif
+.. |IMG1| image:: static/GGeditor-script-per-Google-Doc_1.gif
    :height: 194 px
    :width: 260 px
 
-.. |IMG2| image:: static/GGeditor_script_per_Google_Doc_2.png
+.. |IMG2| image:: static/GGeditor-script-per-Google-Doc_2.png
    :height: 100 px
    :width: 100 px
