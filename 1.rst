@@ -39,14 +39,13 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     
 .. sidebar:: Sidebar Title
    :subtitle: Optional Sidebar Subtitle
-   :align: left
-
+   
    Subsequent indented lines comprise
    the body of the sidebar, and are
    interpreted as body elements.
    
 
--------
+|
 
 
 .. line-block::
@@ -58,7 +57,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
         Love, Ewan.
         
         
---------
+|
 
 
 .. parsed-literal::
@@ -69,7 +68,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
      `%structure.model;`_ )
      
 
-------     
+|  
 
 
 .. code:: python
@@ -79,6 +78,9 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
       print 8/2
       
       
+|
+
+
 .. math::
 
   qui c'è la funzione matematica = (i) = P(O_1, O_2, … O_t, q_t = S_i λ)
@@ -90,13 +92,13 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
    -- Buckaroo Banzai
    
-   
+|
    
 .. container:: custom
 
    This paragraph might be rendered in a custom way.
    
-   
+|   
    
    
 .. table:: Truth table for "not"
@@ -110,6 +112,9 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
    =====  =====
    
    
+|
+
+
 .. csv-table:: Frozen Delights!
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
@@ -120,6 +125,8 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
    "Gannet Ripple", 1.99, "On a stick!"
    
    
+|
+
 .. list-table:: Frozen Delights!
    :widths: 15 10 30
    :header-rows: 1
@@ -138,13 +145,17 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
      - 1.99
      - On a stick!
      
-     
+|     
      
 .. contents:: Here's a very long Table of
    Contents title
    
+|
    
 .. header:: This space for rent.
+
+
+|
 
 
 .. meta::
@@ -161,11 +172,13 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 .. |time| date:: %H:%M
 
 
+|
 
 .. include:: inclusion.txt
 
 Back in the main document.
 
+|
 
 
 .. include:: <isonum.txt>
@@ -175,13 +188,14 @@ Back in the main document.
 
    \setlength{\parindent}{0pt}
    
-   
+|   
    
 .. class:: special
 
 This is a "special" paragraph.
 
 
+|
 
 .. class:: multiple
 
@@ -189,10 +203,13 @@ This is a "special" paragraph.
 
    Second paragraph.
    
-   
+|   
    
 .. note:: the class values set in this directive-block do not apply to
    the note but the next paragraph.
+
+
+|
 
 
 .. class:: special
@@ -200,13 +217,20 @@ This is a "special" paragraph.
 This is a paragraph with class value "special".
 
 
+|
+
 .. role:: custom
 
+
+|
 
 
 .. role:: raw-role(raw)
    :format: html latex
-   
+
+
+|
+
    
 .. default-role:: subscript
 
