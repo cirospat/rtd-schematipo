@@ -70,9 +70,13 @@ Test
     #. In partial conversion, markups of table will keep the same as it is in whole document conversion.
     
 
-.. classe:: speciale
+.. class:: speciale
 
 This is a "special" paragraph.
+
+|
+
+Direttive su RST per ReadtheDocs
 
 
 .. bottom of content
