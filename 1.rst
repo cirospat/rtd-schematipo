@@ -39,11 +39,15 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     
 .. sidebar:: Sidebar Title
    :subtitle: Optional Sidebar Subtitle
+   :align: left
 
    Subsequent indented lines comprise
    the body of the sidebar, and are
    interpreted as body elements.
    
+
+-------
+
 
 .. line-block::
 
@@ -54,6 +58,9 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
         Love, Ewan.
         
         
+--------
+
+
 .. parsed-literal::
 
    ( (title_, subtitle_?)?,
@@ -61,7 +68,10 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
      (docinfo_, transition_?)?,
      `%structure.model;`_ )
      
-     
+
+------     
+
+
 .. code:: python
 
   def my_function():
@@ -71,7 +81,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
       
 .. math::
 
-  α_t(i) = P(O_1, O_2, … O_t, q_t = S_i λ)
+  qui c'è la funzione matematica = (i) = P(O_1, O_2, … O_t, q_t = S_i λ)
   
   
 .. epigraph::
