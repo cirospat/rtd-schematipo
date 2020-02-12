@@ -70,7 +70,7 @@ Test
     #. In partial conversion, markups of table will keep the same as it is in whole document conversion.
     
 
-.. class:: special
+.. classe:: speciale
 
 This is a "special" paragraph.
 
