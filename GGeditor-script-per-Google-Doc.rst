@@ -155,10 +155,3 @@ Test
     <a href="Examples.html">bb</a>
 
 
-.. |IMG1| image:: static/12_1.gif
-   :height: 194 px
-   :width: 260 px
-
-.. |IMG2| image:: static/12_2.png
-   :height: 100 px
-   :width: 100 px
