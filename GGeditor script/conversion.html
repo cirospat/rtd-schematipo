@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <link rel="stylesheet" href="https://ssl.gstatic.com/docs/script/css/add-ons.css">
+<style>
+.tab {
+  position:relative;
+  left:0;
+  top:0;
+  display:none;
+ /* padding:5px 2px 0px 10px; */
+}
+.tab.active{
+  display:block;
+}
+.tab-title{
+  border:solid 1px #c0c0c0;
+  display:inline-block;
+  position:relative;
+  padding:5px 8px;
+  border-bottom:none;
+  -webkit-border-top-left-radius: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -moz-border-radius-topleft: 2px;
+  -moz-border-radius-topright: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  cursor:pointer;
+  text-align:center;
+  width:24%;
+  font-size:0.95em;
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+  margin-bottom:-5px;
+}
+.tab-title.active,.tab-title.active:hover{
+  top:1px;
+  background-color:white;
+  -webkit-box-shadow: none;
+  -moz-box-shadow:    none;
+  box-shadow:         none;
+}
+.tab-title:hover{
+  background-color:#f0f0f0;  
+  -webkit-box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  -moz-box-shadow:    0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  box-shadow:         0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+}
+.tab-title-bar {
+  border-bottom:solid 1px #c0c0c0;
+  margin-bottom:10px;
+  padding:0px 10px;
+}
+.tab > .block{
+    margin-top:30px  !important;
+}
+.tab > .block:first-child{
+    margin-top:12px  !important;
+}
+.tab > .block > label:first-child {
+  margin-bottom:5px;
+  display:block;
+}
+
+button.small{
+    min-width:35px;
+    height:25px;
+    margin-left:3px;
+    margin-top:3px;
+}
+select option{
+  text-align:left;
+}
+
+/* start of help */
+.help:hover{
+  cursor:help;
+}
+select.help:hover,button.help:hover{
+  outline:none;
+  box-shadow:none;
+  cursor:inherit;
+}
+.helpframe{
+  display:none;
+  border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  border: 1px solid #c0c0c0;
+  color:black;
+  padding:5px;
+  width:95%;
+  margin-top:2px;
+  overflow: hidden;
+}
+.helpframe{ /* temporary disable */
+  border:none;
+  width:100%;
+  padding:0px;
+}
+.helpframetitle{
+  margin:-5px -5px 2px -5px;
+  padding:2px 0px;
+  background-color:#f0f0f0;
+  text-align:right;
+  display:none;/* temporary disable */
+}
+.helpframetitle .closebtn{
+  color:#000000;
+  margin-right:4px;
+  padding: 0px 2px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.helpframetitle .closebtn:hover{
+  color:#f0f0f0;
+  background-color:#0c0c0c;
+  margin-right:4px;
+  padding: 1px 3px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.helppos{
+  display:none;
+  position:absolute;
+  z-index:99;
+  background-color:black;
+  color:white;
+  padding:5px;
+  margin-right:10px;
+  overflow: hidden;
+  opacity:0;
+}
+.helpcontent{
+  overflow:hidden;
+}
+#helps{
+  position:absolute;
+  left:-500px;
+  top:-10000px;
+  padding:5px;
+  visibility:hidden;
+  width:80%;
+  overflow:hidden;
+}
+#helps table td,.helpcontent table td{
+  padding:2px 10px;
+}
+#helps table th,.helpcontent table th{
+  vertical-align:top;
+  padding:2px;
+  border-bottom:solid 1px #ebebeb;
+}
+#helps p,.helpcontent p{
+  margin-top:1px;
+}
+/* end of help */
+
+/* make option be easier to click */
+option{
+  padding:2px;
+  border-bottom:solid 1px white;
+}
+option.option-label+option{
+  border-bottom:solid 1px #d0d0d0;
+}
+option.option-label+option:last-child{
+  border-bottom:solid 1px white;
+}
+.flat-btn-box{
+  height:90px;
+  width:255px;
+}
+.flat-btn{
+  outline:#c0c0c0 solid thin;
+  display:inline-block;
+  float:left;
+  width:25px;
+  height:25px;
+  line-height:25px;
+  margin:2px;
+  cursor:pointer;
+  text-align:center;
+}
+.flat-btn-zoomin{
+  display:none;
+  position:absolute;
+  border:solid 3px #4d90fe;
+  height:45px;
+  width:60px;
+  z-index:99;
+  background-color:white;
+  font-size:1.75em;
+  text-align:center;
+  line-height:45px;
+}
+/*loading */
+#loading{
+  display:none;
+  position:absolute;
+  height:100px;
+  min-height: 100px;
+  top:40%;
+  left:5%;
+  right:5%;
+  width:60%;
+  margin:auto;
+  text-align:center;
+  background-color:rgba(255,255,255,0.85);
+  z-index:99;
+}
+#loading div{
+  padding: 0px 0px 30px 0px;
+  background-image: url('data:image/gif;base64,R0lGODlhEAALAPQAAP///wAAANra2tDQ0Orq6gYGBgAAAC4uLoKCgmBgYLq6uiIiIkpKSoqKimRkZL6+viYmJgQEBE5OTubm5tjY2PT09Dg4ONzc3PLy8ra2tqCgoMrKyu7u7gAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCwAAACwAAAAAEAALAAAFLSAgjmRpnqSgCuLKAq5AEIM4zDVw03ve27ifDgfkEYe04kDIDC5zrtYKRa2WQgAh+QQJCwAAACwAAAAAEAALAAAFJGBhGAVgnqhpHIeRvsDawqns0qeN5+y967tYLyicBYE7EYkYAgAh+QQJCwAAACwAAAAAEAALAAAFNiAgjothLOOIJAkiGgxjpGKiKMkbz7SN6zIawJcDwIK9W/HISxGBzdHTuBNOmcJVCyoUlk7CEAAh+QQJCwAAACwAAAAAEAALAAAFNSAgjqQIRRFUAo3jNGIkSdHqPI8Tz3V55zuaDacDyIQ+YrBH+hWPzJFzOQQaeavWi7oqnVIhACH5BAkLAAAALAAAAAAQAAsAAAUyICCOZGme1rJY5kRRk7hI0mJSVUXJtF3iOl7tltsBZsNfUegjAY3I5sgFY55KqdX1GgIAIfkECQsAAAAsAAAAABAACwAABTcgII5kaZ4kcV2EqLJipmnZhWGXaOOitm2aXQ4g7P2Ct2ER4AMul00kj5g0Al8tADY2y6C+4FIIACH5BAkLAAAALAAAAAAQAAsAAAUvICCOZGme5ERRk6iy7qpyHCVStA3gNa/7txxwlwv2isSacYUc+l4tADQGQ1mvpBAAIfkECQsAAAAsAAAAABAACwAABS8gII5kaZ7kRFGTqLLuqnIcJVK0DeA1r/u3HHCXC/aKxJpxhRz6Xi0ANAZDWa+kEAA7AAAAAAAAAAAA');
+  background-repeat:no-repeat;
+  background-position:center;
+}
+#loading-text{
+  font-size:16px;
+}
+
+.modal-dialog{
+  display:none;
+  position:absolute;
+  top:40%;
+  left:5%;
+  right:5%;
+  width:70%;
+  margin:auto;
+  min-height:200px;
+  z-index:99;
+  box-shadow: 0 4px 16px rgba(0,0,0,.2);
+  background: #fff;
+  background-clip: padding-box;
+  border: 1px solid #acacac;
+  border: 1px solid rgba(0,0,0,.333);
+  outline: 0;
+  position: absolute;
+  color: #000;
+  padding: 15px 21px;
+  font-size:14px;
+}
+.modal-dialog button{
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  background-color: #f5f5f5;
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+  border: 1px solid #dcdcdc;
+  border: 1px solid rgba(0,0,0,0.1);
+  color: #333;
+  cursor: default;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: bold;
+  height: 29px;
+  line-height: 27px;
+  margin:0;
+  min-width: 72px;
+  outline: 0;
+  padding: 0 8px;  
+}
+.modal-dialog .title{
+  font-weight:bold;
+}
+.modal-dialog .buttons{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.modal-dialog button+button{
+  margin-left:20px;
+}
+.modal-dialog .x{
+  font-weight: bold;
+  text-align: right;
+  margin-top: -5px;
+  margin-right: -5px;
+  color: #a0a0a0;
+  cursor:pointer;
+}
+/* end of loading */
+#reST{
+    white-space: pre;
+    overflow-y: auto;
+    font-family: monospace;
+    font-size: 12px;
+    width: 100%;
+    overflow-x: auto;
+    outline: thin solid rgba(0,0,0,0.2);
+    margin-top: 10px !important;   
+}
+#reSTFilesBox {
+    width: 99%;
+    padding-left:0;
+}
+#reSTFiles {
+    width: 100%;
+}
+#reSTFiles div{
+  width: 20%;
+  float:left;
+  margin-left:4%;
+}
+#reSTFiles div .title {
+    padding: 2px;
+    font-size: 12px;
+    font-family: monospace;
+}
+#reSTFiles div img {
+    outline: thin solid rgba(0,0,0,0.2);
+    width:100%;
+}
+#convertion-message{
+  display:inline-block;
+  outline:thin solid #c0c0c0;
+  padding:5px 10px;
+  float:right;
+  background-color:#e5ec7c;
+}
+</style>
+  </head>
+  <body>
+<div class="sidebar" style="padding:5px 1px;margin:-8px;height:100%;overflow:hidden">
+  <div class="tab-title-bar" style="">
+    <div class="tab-title" tab="t1" onclick="setActiveTab('t1')"><span class="i18n">Conversion</span></div>
+    <div class="tab-title" tab="t2" onclick="setActiveTab('t2')"><span class="i18n">Rules</span></div>
+    <div class="tab-title" tab="t3" onclick="setActiveTab('t3')"><span class="i18n">Convenience</span></div>
+  </div>
+  <div class="restructure-text tab active" tab="t1" style="">
+    <div class="block form-group fixed" style="">
+       <button onclick="generateDocument()" id="generateDocument-btn" style="display:none"><span class="help" helpname="gen" helptype="hover">Generate Document</span></button>
+       <span id="copygroup" style="margin-left:15px">
+         <button onclick="copyToClipboard()" class="blue"><span class="help" helpname="ctc" helptype="hover">Copy to Clipboard</span></button>
+         <select onchange="onPrefixChanged()" id="copy-prefix" class="help" helpname="cpf" helptype="hover">
+           <option value="">No prefix &nbsp;</option>
+           <option value="# ">#</option>
+           <option value="* ">*</option>
+           <option value="// ">//</option>
+           <option value="_ask_">Ask</option>
+         </select>
+       </span>
+       <button onclick="download()" id="download-btn" style="margin-left:16px;display:none" class="blue"><span class="help" helpname="dow" helptype="hover">Download</span></button>
+       <span id="convertion-message"></span>
+    </div>
+    <div class="block form-group" style="margin-top:5px !important;display:none">
+      <input type="checkbox" id="commit-include-images">
+      <label class="help" helpname="cii" helptype="hover" for="commit-include-images"><span class="i18n">Include images</span></label> 
+    </div>    
+    <div class="block" id="reST"></div>
+    <div class="block" id="reSTFilesBox"><div id="reSTFiles"></div></div>
+  </div>
+  <div class="rules tab" tab="t2">
+    <label for="conversion-rules">For Conversion</label>
+    <ol style="line-height:24px" id="conversion-rules">
+      <li>If there are selections, the top elements of every selected one are converted. Which means if a paragraph is partially selected, whole the paragraph is converted.</li>
+      <li>If there is no selection and the cursor is in a table, that table is converted</li>
+      <li>Otherwise, the whole document is converted</li>
+    </ol>
+    <label for="download-rules">For Dowload</label>
+    <ol style="line-height:24px" id="download-rules">
+      <li>When partially converted, a selection.zip will be created with the partial reStructedText and images (if any).</li>
+      <li>If whole document is converted, a &lt;document-name&gt;.zip will be created with all generated reStructedText and images (if any).</li>
+    </ol>
+  </div>
+  <div class="convenience tab" tab="t3">
+    <div class="block form-group">
+      <label for="convenience-links">Links</label>
+      <ul style="line-height:24px" id="convenience-links">
+        <li><a href="#" id="commit-to-github">Commit to Github</a></li>
+        <li><a href="https://ggeditor.readthedocs.io/en/latest/User%20Guide.html" target="_blank">GGeditor User Guide</a></li>
+        <li><a href="https://github.com" target="_blank">Github</a></li>
+        <li><a href="https://readthedocs.org" target="_blank">Readthedocs.org</a></li>
+        <li><a href="http://rst.ninjs.org" target="_blank">Online reStructuredText Editor</a></li>
+        <li><a href="http://www.sphinx-doc.org/en/1.4.9/contents.html" target="_blank">Sphinx Documentation</a></li>
+      </ul>
+    </div>
+    <div class="block form-group" style="border-top:dashed 1px #c0c0c0;padding-top:10px">
+      <label for="ratestart">Appreciation for You</label>
+      <div id="ratestart" style="padding-left:25px">
+      It would really help us if you had a second to
+      <ul>
+        <li><a href="https://chrome.google.com/webstore/detail/ggeditor/piedgdbcihbejidgkpabjhppneghbcnp" target="_blank">Leave a Google Docs store rating</a></li>
+        <li>Or <a href="https://github.com/iapyeh/GGeditor" target="_blank">star GGeditor on Github</a></li>
+      </ul>
+      that helps us keep momentun on GGeditor.
+      </div>
+    </div>
+  </div>
+  <!--end of tab-->
+</div>
+<div class="masterhelpframe helpframe">
+  <div class="helpframetitle">
+    <a class="closebtn" onclick="closeHelp(this)">×</a>
+  </div>
+  <div class="helpcontent"></div>
+</div>
+
+<div id="loading" class="modal-dialog">
+  <div>
+    <h1><label class="i18n" id="loading-text"></label></h1>
+  </div>
+</div>
+<div id="dialog" class="modal-dialog">
+  <div style="width:100%">
+    <div class="x">x</div>
+    <p class="title"></p>
+    <p class="content"></p>
+    <div class="buttons">
+      <button class="yes i18n blue">Delete</button><button class="cancel i18n">Cancel</button>
+    </div>
+  </div>
+</div>
+<span class="helppos" id="helppostmpl" style="display:none"></span>
+<span id="helppostmplpt" style="display:none;position:absolute">▲</span>
+<div style="display:none">
+  <div id="helps">
+    <div name="gen">Generate reStructuredText of whole document</div>
+    <div name="dow">Download generated reStructuredText file and images</div>
+    <div name="ctc">Copy generated reStructuredText content to clipboard</div>
+    <div name="cpf">Line-prefix when copying to clipboard</div>
+  </div>
+</div>
+<script language="javascript">
+document.addEventListener( "DOMContentLoaded", initialization , false );
+
+function initialization(){
+  document.getElementById('commit-to-github').onclick = showCommitDialog
+  enableHelp()
+  setupElementsStyle()
+  /* assign initial values from persistent data */  
+  setTimeout(function(){
+    generate()
+  })
+}
+
+
+/*
+ * lib functions starts below
+ * 
+ */
+var serverValues={locale:'en'};
+function localI18n(s){
+  return s
+}
+function setActiveTab(name){
+  var tabs = document.querySelectorAll('.tab')
+  for (var i=0;i<tabs.length;i++){
+    tabs[i].className = tabs[i].className.replace(/ active/,'');
+    if (tabs[i].getAttribute('tab')==name){
+      tabs[i].className+=' active'
+    }
+  }
+  var titles = document.querySelectorAll('.tab-title')
+  for (var i=0;i<titles.length;i++){
+    if (titles[i].getAttribute('tab')==name){titles[i].className='tab-title active'}
+    else titles[i].className='tab-title';
+  }
+}
+
+function getTimestamp(){
+  var now = new Date()
+  return now.getFullYear()+'-'+(now.getMonth()+1)+'-'+now.getDate()+' '+now.getHours()+':'+now.getMinutes()+':'+now.getSeconds()
+}
+function getViewportSize(){
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
+  var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+  return {width:w,height:h}
+}
+function moveElementToViewportCenter(ele) {
+    var size = getViewportSize()
+    var rect = ele.getBoundingClientRect()
+    ele.style.top =  Math.round(size.height/2 - rect.height/2)+'px'
+    ele.style.marginLeft = Math.round(size.width/2  - rect.width/2)+'px'
+}
+
+var loadingCount=0;
+function loading(yes,label){
+  var title = localI18n('Please be waiting...');
+  
+  if (yes && typeof(yes)=='string') title = yes
+  
+  if ((loadingCount<0 && !yes) || (loadingCount>0 && yes)) {
+    if (title) {
+      document.getElementById('loading-text').innerHTML = title;
+    }
+    loadingCount += yes ? 1 : -1;
+    return;
+  }
+  loadingCount += yes ? 1 : -1;
+  var loadingDiv = document.getElementById('loading')
+  if (loadingCount==1){
+    // start loading
+    loadingDiv.style.display='flex';
+    document.getElementById('loading-text').innerHTML = title;
+    document.querySelector('.sidebar').style.opacity = 0.5;
+    moveElementToViewportCenter(loadingDiv)
+  }
+  else{
+    // stop loading
+    loadingDiv.style.display='none';
+    document.querySelector('.sidebar').style.opacity = 1;
+  }
+}
+function stopLoading(label){loading(false,label)}
+function setLoadingTitle(title){document.getElementById('loading-text').innerHTML = title;}
+
+function myConfirm(title,callback){
+  var dialog = document.getElementById('dialog')
+  dialog.querySelector('.title').innerHTML = title;
+  dialog.querySelector('.content').style.display = 'none'
+  dialog.querySelector('.buttons').innerHTML = '<button class="yes i18n">YES</button><button class="cancel i18n">Cancel</button>'  
+  dialog.style.display='block';
+  //dialog.style.top = (window.pageYOffset+150)+'px'
+  document.querySelector('.sidebar').style.opacity = 0.5;
+  moveElementToViewportCenter(dialog)
+  var cleanup = function(yes){
+    callback(yes)
+    dialog.querySelector('.yes').onclick = null;
+    dialog.querySelector('.cancel').onclick = null;
+    document.querySelector('.sidebar').onclick = null;
+    dialog.querySelector('.x').onclick = null;
+    dialog.querySelector('.title').innerHTML = '';
+    dialog.style.display='none';
+    dialog.style.top = '0px';
+    document.querySelector('.sidebar').style.opacity = 1; 
+  }
+  dialog.querySelector('.yes').onclick = function(){
+    cleanup(true);
+  }
+  dialog.querySelector('.cancel').onclick = function(){
+    cleanup(false);
+  }
+  dialog.querySelector('.x').onclick = function(){
+    cleanup(false);
+  }
+  setTimeout(function(){
+    document.querySelector('.sidebar').onclick = function(){
+      cleanup(false);
+    } 
+  },100)
+}
+function myAlert(title,callback,autoCloseInterval){
+  if (!callback) callback = function(){}
+  var dialog = document.getElementById('dialog')
+  dialog.querySelector('.title').innerHTML = title;
+  dialog.querySelector('.content').style.display = 'none'
+  dialog.querySelector('.buttons').innerHTML = '<button class="yes i18n">YES</button><button class="cancel i18n">Cancel</button>'
+  dialog.style.display='block';
+  //dialog.style.top = (window.pageYOffset+150)+'px'
+  document.querySelector('.sidebar').style.opacity = 0.5;
+  var yesHTML = dialog.querySelector('.yes').innerHTML
+  var autoCloseTimer = 0
+  var cleanup = function(yes){
+    callback(yes)
+    if (autoCloseTimer) clearTimeout(autoCloseTimer)
+    document.querySelector('.sidebar').onclick = null
+    dialog.querySelector('.yes').onclick = null;
+    dialog.querySelector('.x').onclick = null;
+    dialog.querySelector('.cancel').style.display = ''
+    dialog.querySelector('.yes').innerHTML = yesHTML
+    dialog.querySelector('.title').innerHTML = '';
+    dialog.style.display='none';
+    document.querySelector('.sidebar').style.opacity = 1; 
+  }
+  dialog.querySelector('.cancel').style.display = 'none'
+  dialog.querySelector('.yes').innerHTML = 'OK'
+  
+  moveElementToViewportCenter(dialog)
+  dialog.querySelector('.yes').onclick = function(){
+    cleanup(true);
+  }
+  dialog.querySelector('.x').onclick = function(){
+    cleanup(false);
+  }
+  // click outside dialog also close the dialog
+  setTimeout(function(){
+    document.querySelector('.sidebar').onclick = function(){
+      cleanup(false);
+    } 
+  },100)
+  // auto close dialog
+  if (autoCloseInterval){
+    autoCloseTimer = setTimeout(function(){
+      autoCloseTimer = 0
+      cleanup(false)
+    },autoCloseInterval)
+  }
+}
+
+function myPrompt(title,options,callback){
+    /*
+     * options = {
+     *     value*:(string) value of the input element
+     *     placeholder*:(string) default null
+     *     content*:(string) default "<input style="width:100%;height:40px;font-size:1.5em">"
+     *     button:*(dict){ok:{className:<class name>},cancel:{className:<class name>}}, default null
+     * }
+     */
+    var dialog = document.getElementById('dialog')
+    dialog.querySelector('.title').innerHTML = title;
+    dialog.querySelector('.content').innerHTML = (options.content || '<input style="width:100%;height:40px;font-size:1.5em">')
+    dialog.querySelector('.content').style = 'block'
+    dialog.querySelector('.buttons').style = 'block'
+    var input = dialog.querySelector('.content input')
+    if (options.placeholder) input.setAttribute('placeholder',options.placeholder)
+    if (options.value) input.value = options.value
+    var buttons = [
+        '<button class="ok'+((options.button && options.button.ok && options.button.ok.className) ? ' '+options.button.ok.className : '' )+'">OK</button>',
+        '<button class="cancel'+((options.button && options.button.cancel && options.button.cancel.className) ? ' '+options.button.cancel.className : '' )+'">Cancel</button>',
+        ]
+    dialog.querySelector('.buttons').innerHTML = buttons.join('')
+    
+    var cleanup = function(value){
+      document.querySelector('.sidebar').style.opacity = 1; 
+      document.querySelector('.sidebar').onclick = null
+      dialog.querySelector('.cancel').onclick = null;
+      dialog.querySelector('.x').onclick = null;
+      dialog.querySelector('.ok').onclick = null;
+      dialog.querySelector('.buttons').innerHTML = ''
+      dialog.querySelector('.content').innerHTML = ''
+      dialog.querySelector('.title').innerHTML = ''
+      dialog.style.display='none';
+      callback(value)
+    }
+    setTimeout(function(){
+      dialog.querySelector('.x').onclick = function(){
+              cleanup(null)
+      }
+      dialog.querySelector('.cancel').onclick = function(){
+              cleanup(null)
+      }
+      dialog.querySelector('.ok').onclick = function(){
+          var text = dialog.querySelector('input').value || (options.defaultText || '')
+          cleanup(text)
+      }
+    },500)
+    document.querySelector('.sidebar').style.opacity = 0.5;     
+    dialog.style.display = 'block'
+    dialog.style.height = '200px'
+    moveElementToViewportCenter(dialog)
+    // click outside dialog also close the dialog
+    setTimeout(function(){
+      document.querySelector('.sidebar').onclick = function(){
+        cleanup(false);
+      } 
+    },100)
+    return {dom:dialog,callback:callback}
+}
+
+/* start of help system */
+function enableHelp(){
+  var helps =  document.querySelectorAll('.help');
+  var timer = 0,delay = 1000,hoverDelay=1000;
+  for (var i=0,l=helps.length;i<l;i++){
+    var hoverType = helps[i].getAttribute('helptype')=='hover';
+    helps[i].onmouseover = function(evt){
+      var target = evt.currentTarget
+      var helpname = target.getAttribute('hoverhelpname') || target.getAttribute('helpname')
+      // check if the same help is openning
+      if (document.querySelector('.helpframe[helpname="'+helpname+'"]')) {
+        return;
+      }
+      if (timer>0) clearTimeout(timer);
+      timer = setTimeout(function(){
+        timer = 0;
+        showHelp(helpname,target.getAttribute('helpCloseByBtn'),target.getAttribute('helptype'))
+      },(hoverType ? hoverDelay : delay))
+    }
+    if (hoverType){
+      helps[i].onmouseout = function(evt){
+        if (timer){
+          //give up to show it
+          clearTimeout(timer);timer = 0;
+        }
+        else{
+          closeHoverHelp();
+        }
+      }
+    }
+    else{
+      // cancel the help showup
+      helps[i].onmouseout = function(evt){
+        if (timer){
+          clearTimeout(timer);timer = 0;
+        }
+      }
+    }
+  }
+}
+
+function getOffset( el ) {
+    var _x = 0;
+    var _y = 0;
+    while( el && !isNaN( el.offsetLeft ) && !isNaN( el.offsetTop ) ) {
+        _x += el.offsetLeft //- el.scrollLeft;
+        _y += el.offsetTop //- el.scrollTop;
+        el = el.offsetParent;
+    }
+    return { top: _y, left: _x };
+}
+function showHelp(helpname,helpCloseByBtn,helpType){
+  
+  /* simply deal with hover help */
+  if (helpType=='hover'){
+      var helppos = document.querySelector('.helppos[helpname="'+helpname+'"]');
+      var tmpl = document.getElementById('helppostmpl')
+      var c = document.querySelector('#helps div[name="'+helpname+'"]');
+      // make it visible
+      var sidebarRect = document.querySelector('.sidebar').getBoundingClientRect()
+      var sidebarWidth = sidebarRect.right - sidebarRect.left;
+      tmpl.style.display='inline-block';
+      tmpl.style.position = 'absolute';
+      tmpl.style.zIndex = 99;
+      var target = document.querySelector('.help[hoverhelpname="'+helpname+'"][helptype="hover"]');
+      if (!target) target = document.querySelector('.help[helpname="'+helpname+'"][helptype="hover"]');
+      var targetRect = target.getBoundingClientRect()
+      var targetHeight = targetRect.bottom - targetRect.top;
+      var targetWidth = targetRect.right - targetRect.left;
+      var rect = getOffset(target)
+      tmpl.style.top = (rect.top + targetHeight+4)+'px'
+      tmpl.style.opacity = 0;
+      tmpl.innerHTML= c.innerHTML;
+      tmpl.style.maxWidth = Math.floor(sidebarWidth * 0.8)+'px'
+      var tmplRect = tmpl.getBoundingClientRect()
+      var tmplWidth = tmplRect.right - tmplRect.left
+      var p0 = Math.floor(sidebarWidth * 0.1);
+      var p1 = Math.floor(sidebarWidth * 0.9);
+      var tmplpt = document.getElementById('helppostmplpt')
+      tmplpt.style.top = (parseInt(tmpl.style.top)-10)+'px';
+      if (rect.left < p0){
+        tmpl.style.left = rect.left+'px'
+        tmplpt.style.left = tmpl.style.left;
+      }
+      else if (rect.left+targetWidth > p1) {
+        tmpl.style.left = Math.floor((rect.left+targetWidth - tmplWidth))+'px'
+        tmplpt.style.left = Math.floor(parseInt(tmpl.style.left)+tmplWidth-18)+'px';
+      }
+      else {
+        tmpl.style.left = Math.max(0,Math.floor(rect.left+targetWidth/2-tmplWidth/2))+'px'
+        tmplpt.style.left = Math.max(0,Math.floor(parseInt(tmpl.style.left)+tmplWidth/2-6))+'px'
+      }
+      tmpl.setAttribute('active',1);
+      setTimeout(function(){
+        //starts animation
+        tmpl.style.opacity=1;
+        tmplpt.style.display='';
+      },1)
+    return;
+  }
+  
+  /* need to check again for some help is triggered manually */
+  if (document.querySelector('.helpframe[helpname="'+helpname+'"]')) return;//already opened
+  /* one help only, unless the existing help is a modal help */
+  closeHelp()
+  // create a new helpframe  
+  /* prepare for animation */
+  // clone the masterhelpframe  
+  var helpframe = document.querySelector('.masterhelpframe.helpframe').cloneNode(true);
+  helpframe.className = 'helpframe';
+  
+  helpframe.style.display = 'block';
+  helpframe.setAttribute('helpname',helpname)
+  var trigger = function(){    
+    //var helpframe = document.querySelector('.helpframe[helpname="'+helpname+'"]');
+    helpname = this._helpname; 
+    if (helpCloseByBtn) helpframe.setAttribute('modal',1)
+    helpframe.querySelector('.closebtn').setAttribute('helpname',helpname)
+    var cele = helpframe.querySelector('.helpcontent')
+    /* find the insert position */
+    var helppos = document.querySelector('.helppos[helpname="'+helpname+'"]');
+    helppos.parentNode.insertBefore(helpframe, helppos.nextSibling);
+    /* find the help content to insert */
+    var c = document.querySelector('#helps div[name="'+helpname+'"]');
+    /* insert the help content */
+    cele.appendChild(c);//move it
+    /* starts the animation to show up*/
+    var titleheight = helpframe.querySelector('.helpframetitle').clientHeight;
+    /* make the helpframe visible, delay to wait the DOM been refreshed */
+    setTimeout(function(){
+      // scroll to make it visible
+      var y = getOffset( helpframe ).top; 
+      var offset = y-window.scrollY;
+      if (offset<0 || offset > window.innerHeight)  window.scrollTo(0,Math.max(0,y-50));      
+      
+      //trigger event
+      var e = document.createEvent('Event');
+      e.initEvent('help-open-'+helpname,false,true);
+      document.dispatchEvent(e);
+      
+    },100);
+  }
+  setTimeout(function(){trigger.apply({_helpname:helpname})},1)
+}
+
+function closeHoverHelp(){
+  /* find the insert position */
+  var helppos = document.querySelector('.helppos[active]');
+  if (helppos===null) return;
+  helppos.innerHTML='';
+  // make it invisible
+  helppos.style.display='none';
+  helppos.style.opacity=0;
+  helppos.removeAttribute('active');
+  var tmplpt = document.getElementById('helppostmplpt')
+  tmplpt.style.display='none';
+}
+function closeHelp(btn){
+  /* release the body click */
+  document.body.onclick = null;
+  
+  var helpname = null,helpframe=null;
+  if (btn) {
+    helpname = btn.getAttribute('helpname');
+    helpframe = document.querySelector('.helpframe[helpname="'+helpname+'"]');
+    helpframe.removeAttribute('modal')//enforce to close by btn
+    //fire event if closed by button
+    var e = document.createEvent('Event');
+    e.initEvent('help-close-'+helpname,false,true);
+    document.dispatchEvent(e);
+  }
+  else {
+    helpframe = document.querySelector('.helpframe[helpname]');
+    if (!helpframe) return true;//no helpframe is showing    
+    helpname = helpframe.getAttribute('helpname');
+  }
+  if (helpframe.getAttribute('modal')) return false
+  var cele = helpframe.querySelector('.helpcontent')
+  if (cele.firstChild != null){
+    /*cele.removeChild(cele.firstChild);*/
+    //move back to helps
+    document.getElementById('helps').appendChild(cele.firstChild);    
+  }
+  helpframe.style.display = 'none';
+  helpframe.parentNode.removeChild(helpframe);
+  return true;
+}
+/* end of help system */
+
+function setupElementsStyle(){
+  var viewport = getViewportSize()
+  var reSTEle = document.getElementById('reST')
+  var reSTTab = document.querySelector('.restructure-text.tab')
+  setActiveTab(reSTTab.getAttribute('tab'))
+  var marginSpace = 15;
+  reSTEle.style.maxHeight =   reSTEle.style.minHeight = (viewport.height - marginSpace - document.querySelector('.restructure-text.tab div:first-child').getBoundingClientRect().bottom)+'px'
+  setActiveTab('t1')
+}
+var generatedResult;
+function generate(wholeDocument){
+  document.getElementById('reST').innerHTML = 'waiting...'
+  document.getElementById('reSTFiles').innerHTML = ''  
+  loading(true)
+  document.getElementById('convertion-message').innerText = ''
+  var includeImages = document.getElementById('commit-include-images').checked
+  var done = function(resp){
+    stopLoading()
+    
+    //document.getElementById('download-btn').removeAttribute('disabled')
+
+
+    generatedResult = JSON.parse(resp)
+    document.getElementById('reST').innerText = generatedResult.content
+    // some message to indicate what been generated
+    var mesg;
+    if (generatedResult.wholeDocument){
+      mesg = 'Document is converted'
+      // show generate document button if partially generated
+      document.getElementById('generateDocument-btn').style.display = 'none'
+      document.getElementById('copygroup').style.display = 'none'
+      document.getElementById('download-btn').style.display = ''
+    }
+    /*
+    else if (/\+\-\-\-\-/.test(generatedResult.content)){
+    */
+    else if (generatedResult.tableGenerated){
+      mesg = 'Table is converted only'
+      // show generate document button if partially generated
+      document.getElementById('generateDocument-btn').style.display = ''
+      document.getElementById('copygroup').style.display = ''
+      document.getElementById('download-btn').style.display = 'none'      
+    }
+    else{
+      mesg = 'Selection is converted only'
+      // show generate document button if partially generated
+      document.getElementById('generateDocument-btn').style.display = ''
+      document.getElementById('copygroup').style.display = ''
+      document.getElementById('download-btn').style.display = 'none'      
+    }
+    document.getElementById('convertion-message').innerText = mesg
+    
+    
+    //show images
+    if (includeImages && generatedResult.files.length){
+      document.querySelector('.sidebar').style.overflowY = 'auto'
+      var reSTFiles = document.getElementById('reSTFiles')
+      reSTFiles.innerHTML = ''
+      generatedResult.files.forEach(function(file){
+        var div = document.createElement('div')
+        //div.innerHTML = '<div class="title">'+generatedResult.imageFolder+'/'+file.name+'</div>'
+        div.innerHTML = '<div class="title">'+file.name+'</div>'
+        reSTFiles.appendChild(div)
+        var img = new Image()
+        img.style.width = "100%"
+        div.appendChild(img)
+        img.src = 'data:image/jpeg;base64,'+file.content
+      })
+    }
+    else if (generatedResult.files.length){
+      // ensure the download-button appears, if there are images in generated markup
+      // even in partial conversion
+      document.getElementById('download-btn').style.display = ''
+    }
+    else{
+      document.querySelector('.sidebar').style.overflowY = 'hidden'
+    }
+    // release memory pressure
+    if (generatedResult.wholeDocument){
+      delete generatedResult.content
+    }
+    else{
+      // test if code, code-block or raw html geen generated
+      // if it is, don't do escape
+      if (generatedResult.tableGenerated){
+        var no_escape = /\.\. code\-?/i.test(generatedResult.content) || /\.\. .+? raw:: html/i.test(generatedResult.content)
+        if (no_escape){
+          escapePat = null
+          generatedResult.rawContentGenerated = true
+        }
+      }
+      updatePrefix()
+    }
+  }
+  var inBase64 = false
+  if (typeof(wholeDocument)=='undefined') wholeDocument = false
+  google.script.run.withSuccessHandler(done).withFailureHandler(stopLoading).generate(inBase64,includeImages,wholeDocument);
+}
+
+function generateDocument(){
+  generate(true)
+}
+
+function downloadContentAs(content,filename,isBinary){
+  var requestFileSystem = window.requestFileSystem || window.webkitRequestFileSystem;
+  if (!requestFileSystem){
+    myAlert('Not Supported','Downloading in your browser is not supported.')
+    return;
+  }
+  var fsErrorHandler = function(e) {
+      var msg = '';
+      switch (e.name) {
+        case FileError.QUOTA_EXCEEDED_ERR:
+          msg = 'QUOTA_EXCEEDED_ERR';
+          break;
+        case FileError.NOT_FOUND_ERR:
+          msg = 'NOT_FOUND_ERR';
+          break;
+        case FileError.SECURITY_ERR:
+          msg = 'SECURITY_ERR';
+          break;
+        case FileError.INVALID_MODIFICATION_ERR:
+          msg = 'INVALID_MODIFICATION_ERR';
+          break;
+        case FileError.INVALID_STATE_ERR:
+          msg = 'INVALID_STATE_ERR';
+          break;
+        default:
+          msg = 'Error:'+e.name+';'+e.message;
+          break;
+      };
+      console.log('Error: ' + msg);
+  }
+  requestFileSystem(window.TEMPORARY, 1024*1024, function(fs) {
+    fs.root.getFile(filename, {create: true}, function(fileEntry) {
+        fileEntry.createWriter(function(fileWriter) {
+            var blob;
+            if (isBinary){
+              var byteArray = new Uint8Array(content);
+              blob = new Blob([byteArray],{type: "application/octet-binary"});
+            }
+            else{
+              blob = new Blob([content],{type: "text/plain"});
+            }
+            fileWriter.onwriteend = function() {
+              var a = document.createElement('a')
+              a.href = fileEntry.toURL()
+              a.setAttribute('download',filename)
+              a.setAttribute('target','_blank')
+              a.click()
+            };
+          fileWriter.write(blob);
+        }, fsErrorHandler);
+    }, fsErrorHandler);
+  }, fsErrorHandler);
+}
+
+function download(){
+  loading(true)
+  var next = function(zipbytes){
+    stopLoading()
+    zipname = generatedResult.wholeDocument ? generatedResult.namespace+'.zip' : generatedResult.namespace+'_'+(generatedResult.tableGenerated ? 'table.zip' : 'selection.zip')
+    downloadContentAs(zipbytes,zipname,true)
+  }
+  //var includeImages = document.getElementById('commit-include-images').checked
+  var includeImages = true
+  var wholeDocument = false
+  google.script.run.withSuccessHandler(next).withFailureHandler(stopLoading).download(includeImages,wholeDocument);
+}
+
+/*
+ * countFullWidth() and splitByWidth are copied from generator.gs, should keep synced with its original copy
+ */
+// caution: |, : was not escaped intentionally
+function duplicateChar(char,size){
+  // '*' -> '*****'
+  var text = []
+  for (var i=0;i<size;i++){
+    text.push(char)
+  }
+  return text.join('')
+}
+
+var escapePat = /[`\*]/g
+function escapeFun(m){
+    return '\\'+m
+}
+
+// /`.+?`__/g was added for inline links [/^\s+(\*\s)/g,
+// this would preserve directives lines
+var directivePats = [/`.+?`__/g,/`{1,2}.+?`{1,2}/g, /^\.\. \|.+?\| replace\:\:.*$/g]
+// this would preserve list items
+directivePats = directivePats.concat([/^\*\s.*$/g])
+function escapeText(s){
+  //preserve `some` and ``some``
+  var directives = []
+  var s1 = s
+  directivePats.forEach(function(directivePat){
+    s1 = s1.replace(directivePat,function(m,g1){
+      directives.push(m)
+      return '♞'
+    })
+  })
+  directives.reverse()
+  var s2
+  if (escapePat){
+    s2 = s1.replace(escapePat,escapeFun) 
+  }
+  else{
+    s2 = s1
+  }
+  var s3 = s2.replace(/♞/g,function(){
+    return directives.pop()
+  })
+  return s3
+}
+function escapeTextWithWidth(s,lineWidth,lines,indent,secondaryLinePrefix){
+  //preserve `some` and ``some``
+  var directives = []
+  var s1 = s
+  directivePats.forEach(function(directivePat){
+    s1 = s1.replace(directivePat,function(m){
+      directives.push(m)
+      return '☢'
+    })
+  })
+  directives.reverse()
+  //var s2 = s1.replace(escapePat,escapeFun)
+  var rawlines = s1.split('\n')
+  var splitedLines = []
+  rawlines.forEach(function(line){
+    splitByWidthUnescaped(line,lineWidth,splitedLines,indent)
+  })
+  splitedLines.forEach(function(line,i){
+    // for list item, prefix more indentation for secondary lines
+    if (i>0) line = secondaryLinePrefix+line
+    lines.push(line.replace(/☢/g,function(){
+      return directives.pop()
+    }))
+  })
+}
+
+var fullWidthPat=/[\u1100-\u11FF\u3000-\u30FF\u3130-\u318F\u3200-\u32FF\u3400-\u9FFF\uAC00-\uD7AF\uFF01-\uFF60\uFFE0-\uFFE6]/
+function countFullWidth(s){
+    var c = 0
+    for (var x=0;x<s.length;x++){
+      c +=  fullWidthPat.test(s.charAt(x)) ? 1 : 0 
+      //range U+AC00–U+D7AF
+      c +=  /[]/.test(s.charAt(x)) ? 1 : 0 
+    }
+    return c
+}
+function splitByWidthUnescaped(nomarkupText,lineWidth,textchunks,prefix){
+
+  // !! this copy is original from splitByWidth, but don't do escapeText, because this is used for inline display
+
+  /*
+   * split a long text (without \n) to a specific width of several lines      
+   * please note:
+   *   1. the heading spaces in line content will be removed
+   *   2. the sepical character resulted line content will be escaped
+   *
+   * nomarkupText: string, should not contain markups
+   * lineWidth: int, line width to cut, the cutpoint is roughly around this number
+   * textchunks: array to save the splited lines content
+   * 
+   */
+    var nomarkupTextLines = nomarkupText.replace(/\r/g,'\n').split('\n')
+    var deltaOffset = 5
+    var lines = []
+    var pat = /[a-zA-Z]/
+    nomarkupTextLines.forEach(function(line){
+      var len = line.length + countFullWidth(line)
+      if (lineWidth && len > lineWidth){
+        var curPos = lineWidth - deltaOffset
+        var maxPos = line.length
+        var startPos = 0
+        // find a suitable break point
+        while (curPos < maxPos){
+          var c = line.charAt(curPos)
+          if (!pat.test(c)){
+            var newline = line.substring(startPos,curPos+1)
+            // disabled, don't know why to +"\n" ?
+            //lines.push(escapeText(newline.replace(/^\s+/,''))+'\n')
+            lines.push(newline.replace(/^\s+/,''))
+            startPos = curPos+1
+            curPos += lineWidth - deltaOffset
+          }
+          else{
+            curPos +=1
+          }
+        }
+        if (startPos <maxPos){
+            var lastline = line.substr(startPos)
+            lines.push(escapeText(lastline.replace(/^\s+/,'')))
+        }
+      }
+      else{
+        lines.push(escapeText(line))
+      }
+    })
+   lines.forEach(function(line){
+     textchunks.push(prefix+line)
+   })
+}
+ 
+function copyToClipboard(){
+  justCopyToClipboard()
+  /*
+  var prefixSle = document.getElementById('copy-prefix')
+  var prefix = prefixSle.options[prefixSle.selectedIndex].value
+  if (prefix=='_ask_'){
+    myPrompt('Prefix every copied line with:',{},function(text){
+      if (!text) return
+      copyToClipboardWithPrefix(text)
+    })
+  }
+  else{
+    copyToClipboardWithPrefix(prefix)
+  }
+  */
+}
+function onPrefixChanged(){
+  var prefixSle = document.getElementById('copy-prefix')
+  var prefix = prefixSle.options[prefixSle.selectedIndex].value
+  if (prefix=='_ask_'){
+    myPrompt('Prefix every copied line with:',{},function(text){
+      if (!text) return
+      updatePrefix(text)
+    })
+  }
+  else{
+    updatePrefix(prefix)
+  }  
+}
+function updatePrefix(prefix){
+  var lineWidth = 60
+  var lines = []
+  var rawLines =  generatedResult.content.split('\n')
+
+  // find out list item with indentition
+  var patListItem0 = /^\s+\*\s/
+  var patListItem1 = /^\s+#\.\s/
+  if (lineWidth){
+    for (var i=0,end=rawLines.length;i<end;i++){
+      if (rawLines[i]=='.. bottom of content') {
+        for (var ii=i+1;ii<end;ii++){
+          lines.push(rawLines[ii])
+        }
+        break
+      }
+      if (generatedResult.rawContentGenerated || generatedResult.tableGenerated){
+        // do not break line by width
+        lines.push(rawLines[i])
+      }
+      else{
+        var spaces
+        var secondaryLinePrefix = ''
+        if (patListItem0.test(rawLines[i])){
+          spaces = (rawLines[i].match(/^\s+/)||[''])[0]
+          secondaryLinePrefix = '  ' // 2 spaces
+        }
+        if (patListItem1.test(rawLines[i])){
+          spaces = (rawLines[i].match(/^\s+/)||[''])[0]
+          secondaryLinePrefix = '   ' // 3 spaces
+        }
+        else{
+          spaces = (rawLines[i].match(/^\s+/)||[''])[0]
+        }
+        escapeTextWithWidth(rawLines[i].substring(spaces.length),lineWidth,lines,spaces,secondaryLinePrefix) 
+      }
+    }
+  }
+  else{
+    lines = rawLines
+  }
+  if (prefix){
+    for (var i=0,end=lines.length;i<end;i++){
+      lines[i] = prefix + lines[i]
+    }
+  }
+  document.getElementById('reST').innerText = lines.join('\n')
+  // document.body.removeChild(copyTextarea);
+}
+function justCopyToClipboard(){
+  var copyTextarea = document.createElement('textarea')
+  document.body.appendChild(copyTextarea);
+  copyTextarea.value = document.getElementById('reST').innerText
+  copyTextarea.style.position = 'absolute'
+  copyTextarea.style.width = '10px'
+  copyTextarea.style.left = '-200px'
+  try {
+    copyTextarea.select();
+    var successful = document.execCommand('copy');
+    if (successful){
+      var msg = 'Copied to clipboard'
+      myAlert(msg,null,1000);
+    }
+    else{
+      myAlert('Copy not supported on this browser')
+    }
+  } catch (err) {
+    myAlert('Failed, '+err.message);
+  }
+  document.body.removeChild(copyTextarea);
+}
+/*
+function copyToClipboardWithPrefix(prefix){
+  var copyTextarea = document.createElement('textarea')
+  document.body.appendChild(copyTextarea);
+  var lines =  document.getElementById('reST').innerText.split('\n')
+  if (prefix){
+    for (var i=0,end=lines.length;i<end;i++){
+      lines[i] = prefix + lines[i]
+    }
+  }
+  copyTextarea.value = lines.join('\n')
+ 
+  var copyTextarea = document.createElement('textarea')
+  document.body.appendChild(copyTextarea);
+  copyTextarea.value = document.getElementById('reST').innerText
+  copyTextarea.style.position = 'absolute'
+  copyTextarea.style.width = '10px'
+  copyTextarea.style.left = '-200px'
+  try {
+    copyTextarea.select();
+    var successful = document.execCommand('copy');
+    if (successful){
+      var msg = 'Copied to clipboard'
+      if (prefix) msg += ' with prefix "'+prefix+'"'
+      myAlert(msg);
+    }
+    else{
+      myAlert('Copy not supported on this browser')
+    }
+  } catch (err) {
+    myAlert('Failed, '+err.message);
+  }
+  document.body.removeChild(copyTextarea);
+}
+*/
+
+function showCommitDialog(evt){
+  evt.preventDefault()
+  loading(true)
+  google.script.run.withSuccessHandler(function(){
+    stopLoading()
+    google.script.host.close()
+  }).withFailureHandler(stopLoading).showCommitDialog();
+}
+</script>
+</body>
+</html>
+

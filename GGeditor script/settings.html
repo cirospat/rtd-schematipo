@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <link rel="stylesheet" href="https://ssl.gstatic.com/docs/script/css/add-ons.css">
+<style>
+.tab {
+  position:relative;
+  left:0;
+  top:0;
+  display:none;
+ /* padding:5px 2px 0px 10px; */
+}
+.tab.active{
+  display:block;
+}
+.tab-title{
+  border:solid 1px #c0c0c0;
+  display:inline-block;
+  position:relative;
+  padding:5px 8px;
+  border-bottom:none;
+  -webkit-border-top-left-radius: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -moz-border-radius-topleft: 2px;
+  -moz-border-radius-topright: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  cursor:pointer;
+  text-align:center;
+  width:24%;
+  font-size:0.95em;
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+  margin-bottom:-5px;
+}
+.tab-title.active,.tab-title.active:hover{
+  top:1px;
+  background-color:white;
+  -webkit-box-shadow: none;
+  -moz-box-shadow:    none;
+  box-shadow:         none;
+}
+.tab-title:hover{
+  background-color:#f0f0f0;  
+  -webkit-box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  -moz-box-shadow:    0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+  box-shadow:         0px 0px 1px 0px rgba(50, 50, 50, 0.25);
+}
+.tab-title-bar {
+  border-bottom:solid 1px #c0c0c0;
+  margin-bottom:10px;
+  padding:0px 10px;
+}
+.tab > .block{
+    margin-top:30px  !important;
+}
+.tab > .block:first-child{
+    margin-top:12px  !important;
+}
+.tab > .block > label:first-child {
+  margin-bottom:5px;
+  display:block;
+}
+
+button.small{
+    min-width:35px;
+    height:25px;
+    margin-left:3px;
+    margin-top:3px;
+}
+select option{
+  text-align:left;
+}
+
+/* start of help */
+.help:hover{
+  cursor:help;
+}
+select.help:hover,button.help:hover{
+  outline:none;
+  box-shadow:none;
+  cursor:inherit;
+}
+.helpframe{
+  display:none;
+  border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  border: 1px solid #c0c0c0;
+  color:black;
+  padding:5px;
+  width:95%;
+  margin-top:2px;
+  overflow: hidden;
+}
+.helpframe{ /* temporary disable */
+  border:none;
+  width:100%;
+  padding:0px;
+}
+.helpframetitle{
+  margin:-5px -5px 2px -5px;
+  padding:2px 0px;
+  background-color:#f0f0f0;
+  text-align:right;
+  display:none;/* temporary disable */
+}
+.helpframetitle .closebtn{
+  color:#000000;
+  margin-right:4px;
+  padding: 0px 2px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.helpframetitle .closebtn:hover{
+  color:#f0f0f0;
+  background-color:#0c0c0c;
+  margin-right:4px;
+  padding: 1px 3px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.helppos{
+  display:none;
+  position:absolute;
+  z-index:99;
+  background-color:black;
+  color:white;
+  padding:5px;
+  margin-right:10px;
+  overflow: hidden;
+  opacity:0;
+}
+.helpcontent{
+  overflow:hidden;
+}
+#helps{
+  position:absolute;
+  left:-500px;
+  top:-10000px;
+  padding:5px;
+  visibility:hidden;
+  width:80%;
+  overflow:hidden;
+}
+#helps table td,.helpcontent table td{
+  padding:2px 10px;
+}
+#helps table th,.helpcontent table th{
+  vertical-align:top;
+  padding:2px;
+  border-bottom:solid 1px #ebebeb;
+}
+#helps p,.helpcontent p{
+  margin-top:1px;
+}
+/* end of help */
+
+/* make option be easier to click */
+option{
+  padding:2px;
+  border-bottom:solid 1px white;
+}
+option.option-label+option{
+  border-bottom:solid 1px #d0d0d0;
+}
+option.option-label+option:last-child{
+  border-bottom:solid 1px white;
+}
+.flat-btn-box{
+  height:90px;
+  width:255px;
+}
+.flat-btn{
+  outline:#c0c0c0 solid thin;
+  display:inline-block;
+  float:left;
+  width:25px;
+  height:25px;
+  line-height:25px;
+  margin:2px;
+  cursor:pointer;
+  text-align:center;
+}
+.flat-btn-zoomin{
+  display:none;
+  position:absolute;
+  border:solid 3px #4d90fe;
+  height:45px;
+  width:60px;
+  z-index:99;
+  background-color:white;
+  font-size:1.75em;
+  text-align:center;
+  line-height:45px;
+}
+/*loading */
+#loading{
+  display:none;
+  position:absolute;
+  height:100px;
+  min-height: 100px;
+  top:40%;
+  left:5%;
+  right:5%;
+  width:60%;
+  margin:auto;
+  text-align:center;
+  background-color:rgba(255,255,255,0.85);
+  z-index:99;
+}
+#loading div{
+  padding: 0px 0px 30px 0px;
+  background-image: url('data:image/gif;base64,R0lGODlhEAALAPQAAP///wAAANra2tDQ0Orq6gYGBgAAAC4uLoKCgmBgYLq6uiIiIkpKSoqKimRkZL6+viYmJgQEBE5OTubm5tjY2PT09Dg4ONzc3PLy8ra2tqCgoMrKyu7u7gAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCwAAACwAAAAAEAALAAAFLSAgjmRpnqSgCuLKAq5AEIM4zDVw03ve27ifDgfkEYe04kDIDC5zrtYKRa2WQgAh+QQJCwAAACwAAAAAEAALAAAFJGBhGAVgnqhpHIeRvsDawqns0qeN5+y967tYLyicBYE7EYkYAgAh+QQJCwAAACwAAAAAEAALAAAFNiAgjothLOOIJAkiGgxjpGKiKMkbz7SN6zIawJcDwIK9W/HISxGBzdHTuBNOmcJVCyoUlk7CEAAh+QQJCwAAACwAAAAAEAALAAAFNSAgjqQIRRFUAo3jNGIkSdHqPI8Tz3V55zuaDacDyIQ+YrBH+hWPzJFzOQQaeavWi7oqnVIhACH5BAkLAAAALAAAAAAQAAsAAAUyICCOZGme1rJY5kRRk7hI0mJSVUXJtF3iOl7tltsBZsNfUegjAY3I5sgFY55KqdX1GgIAIfkECQsAAAAsAAAAABAACwAABTcgII5kaZ4kcV2EqLJipmnZhWGXaOOitm2aXQ4g7P2Ct2ER4AMul00kj5g0Al8tADY2y6C+4FIIACH5BAkLAAAALAAAAAAQAAsAAAUvICCOZGme5ERRk6iy7qpyHCVStA3gNa/7txxwlwv2isSacYUc+l4tADQGQ1mvpBAAIfkECQsAAAAsAAAAABAACwAABS8gII5kaZ7kRFGTqLLuqnIcJVK0DeA1r/u3HHCXC/aKxJpxhRz6Xi0ANAZDWa+kEAA7AAAAAAAAAAAA');
+  background-repeat:no-repeat;
+  background-position:center;
+}
+#loading-text{
+  font-size:16px;
+}
+
+.modal-dialog{
+  display:none;
+  position:absolute;
+  top:40%;
+  left:5%;
+  right:5%;
+  width:70%;
+  margin:auto;
+  min-height:200px;
+  z-index:99;
+  box-shadow: 0 4px 16px rgba(0,0,0,.2);
+  background: #fff;
+  background-clip: padding-box;
+  border: 1px solid #acacac;
+  border: 1px solid rgba(0,0,0,.333);
+  outline: 0;
+  position: absolute;
+  color: #000;
+  padding: 15px 21px;
+  font-size:14px;
+}
+.modal-dialog button{
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  background-color: #f5f5f5;
+  /*
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -moz-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -ms-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+  color: #333;
+  */
+  border: 1px solid #dcdcdc;
+  border: 1px solid rgba(0,0,0,0.1);
+  cursor: default;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: bold;
+  height: 29px;
+  line-height: 27px;
+  margin:0;
+  min-width: 72px;
+  outline: 0;
+  padding: 0 8px;  
+}
+.modal-dialog .title{
+  font-weight:bold;
+}
+.modal-dialog .buttons{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.modal-dialog button+button{
+  margin-left:20px;
+}
+.modal-dialog .x{
+  font-weight: bold;
+  text-align: right;
+  margin-top: -5px;
+  margin-right: -5px;
+  color: #a0a0a0;
+  cursor:pointer;
+}
+/* end of loading */
+.tab.accounts .content table{
+  border: solid 1px #c0c0c0;
+  width:100%;
+  margin-bottom:10px;
+  margin-top: 30px;
+}
+.tab.accounts .content table tr:nth-child(odd){
+  background-color:#f0f0f0;
+}
+.tab.accounts .content table tr:first-child{
+  background-color:white;
+}
+.tab.accounts .content table tr td{
+  padding-left: 10px;
+}
+.tab.accounts .content table tr th{
+  padding-left: 10px;
+  padding-top: 10px;
+}
+</style>
+  </head>
+  <body>
+<div class="sidebar" style="padding:5px 1px;margin:-8px;height:100%;overflow:hidden">
+  <div class="tab-title-bar" style="">
+    <div class="tab-title active" tab="t1" onclick="setActiveTab('t1')"><span class="i18n">Accounts</span></div>
+    <div class="tab-title" tab="t2" onclick="setActiveTab('t2')"><span class="i18n">Document</span></div>
+    <div class="tab-title" tab="t3" onclick="setActiveTab('t3')"><span class="i18n">About</span></div>
+  </div>
+  <div class="tab accounts active" tab="t1" style=""><div class="content"></div></div>
+  <div class="tab" tab="t2">
+      <div class="block form-group" style="padding-top:20px;height:400px;position:relative">
+        <h3>When converting tables in this document "<span class="doc-name"></span>"</h3>
+        <div>
+          <input type="radio" name="html-table" id="html-table-0" value="0" checked>
+          <label class="help" helpname="tbl" helptype="hover" for="html-table-0">with pure reStructuredText markups</label>
+        </div>
+        <div style="margin-top:10px">
+          <input type="radio" name="html-table" id="html-table-1" value="1">
+          <label class="help" helpname="tbl" helptype="hover" for="html-table-1">
+          with HTML tags
+          </label>
+          <p style="padding-left:25px;margin-top:5px">
+          This option would generate table with HTML &lt;TABLE&gt;. Useful for those who utilizes the readthedocs.org as a blog system.
+          <a href="http://ggeditor.readthedocs.io/en/latest/table_in_html.html" target="_blank">Details ...</a>
+          </p>
+        </div>
+      </div>
+  </div>
+  <div class="tab" tab="t3">
+    <div style="padding-top:20px;height:400px;position:relative">
+      <p>
+         The "Reset" button will clean up all your stored information of accounts and bindings.
+         <br/><button class="red" onclick="reset_all()" style="margin-top:20px;clear:both">Reset</button>
+      </p>
+      <p style="position:absolute;bottom:0">Version: 2018-04-01</p>
+    </div>
+  </div>
+  <!--end of tab-->
+</div>
+<div class="masterhelpframe helpframe">
+  <div class="helpframetitle">
+    <a class="closebtn" onclick="closeHelp(this)">×</a>
+  </div>
+  <div class="helpcontent"></div>
+</div>
+
+<div id="loading" class="modal-dialog">
+  <div>
+    <h1><label class="i18n" id="loading-text"></label></h1>
+  </div>
+</div>
+<div id="dialog" class="modal-dialog">
+  <div style="width:100%">
+    <div class="x">x</div>
+    <p class="title"></p>
+    <p class="content"></p>
+    <div class="buttons">
+      <button class="yes i18n blue">Delete</button><button class="cancel i18n">Cancel</button>
+    </div>
+  </div>
+</div>
+<span class="helppos" id="helppostmpl" style="display:none"></span>
+<span id="helppostmplpt" style="display:none;position:absolute">▲</span>
+<div style="display:none">
+  <div id="helps">
+    <div name="gen"></div>
+  </div>
+</div>
+<script language="javascript">
+document.addEventListener( "DOMContentLoaded", initialization , false );
+
+function initialization(){
+  enableHelp()
+  renderPage()
+}
+
+
+/*
+ * lib functions starts below
+ * 
+ */
+var serverValues={locale:'en'};
+function localI18n(s){
+  return s
+}
+function setActiveTab(name){
+  var tabs = document.querySelectorAll('.tab')
+  for (var i=0;i<tabs.length;i++){
+    tabs[i].className = tabs[i].className.replace(/ active/,'');
+    if (tabs[i].getAttribute('tab')==name){
+      tabs[i].className+=' active'
+    }
+  }
+  var titles = document.querySelectorAll('.tab-title')
+  for (var i=0;i<titles.length;i++){
+    if (titles[i].getAttribute('tab')==name){titles[i].className='tab-title active'}
+    else titles[i].className='tab-title';
+  }
+}
+
+function getTimestamp(){
+  var now = new Date()
+  return now.getFullYear()+'-'+(now.getMonth()+1)+'-'+now.getDate()+' '+now.getHours()+':'+now.getMinutes()+':'+now.getSeconds()
+}
+function getViewportSize(){
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
+  var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+  return {width:w,height:h}
+}
+function moveElementToViewportCenter(ele) {
+    var size = getViewportSize()
+    var rect = ele.getBoundingClientRect()
+    ele.style.top =  Math.round(size.height/2 - rect.height/2)+'px'
+    ele.style.marginLeft = Math.round(size.width/2  - rect.width/2)+'px'
+}
+
+var loadingCount=0;
+function loading(yes,label){
+  var title = localI18n('Please be waiting...');
+  
+  if (yes && typeof(yes)=='string') title = yes
+  
+  if ((loadingCount<0 && !yes) || (loadingCount>0 && yes)) {
+    if (title) {
+      document.getElementById('loading-text').innerHTML = title;
+    }
+    loadingCount += yes ? 1 : -1;
+    return;
+  }
+  loadingCount += yes ? 1 : -1;
+  var loadingDiv = document.getElementById('loading')
+  if (loadingCount==1){
+    // start loading
+    loadingDiv.style.display='flex';
+    document.getElementById('loading-text').innerHTML = title;
+    document.querySelector('.sidebar').style.opacity = 0.5;
+    moveElementToViewportCenter(loadingDiv)
+  }
+  else{
+    // stop loading
+    loadingDiv.style.display='none';
+    document.querySelector('.sidebar').style.opacity = 1;
+  }
+}
+function stopLoading(label){loading(false,label)}
+function setLoadingTitle(title){document.getElementById('loading-text').innerHTML = title;}
+
+function myConfirm(title,options,callback){
+  /*
+   * options {
+   *     button:{
+   *            yes:{
+   *                className:'red'
+   *                }
+   *            }
+   *     }
+   * }
+   */
+  var dialog = document.getElementById('dialog')
+  dialog.querySelector('.title').innerHTML = title;
+  dialog.querySelector('.content').style.display = 'none'
+  dialog.querySelector('.buttons').innerHTML = '<button class="yes i18n">YES</button><button class="cancel i18n">Cancel</button>'  
+  dialog.style.display='block';
+  //dialog.style.top = (window.pageYOffset+150)+'px'
+  document.querySelector('.sidebar').style.opacity = 0.5;
+  moveElementToViewportCenter(dialog)
+  if (options && options.button && options.button.yes && options.button.yes.className) dialog.querySelector('.yes').className += ' '+options.button.yes.className
+  var cleanup = function(yes){
+    callback(yes)
+    dialog.querySelector('.yes').onclick = null;
+    dialog.querySelector('.cancel').onclick = null;
+    document.querySelector('.sidebar').onclick = null;
+    dialog.querySelector('.x').onclick = null;
+    dialog.querySelector('.title').innerHTML = '';
+    dialog.style.display='none';
+    dialog.style.top = '0px';
+    document.querySelector('.sidebar').style.opacity = 1; 
+  }
+  dialog.querySelector('.yes').onclick = function(){
+    cleanup(true);
+  }
+  dialog.querySelector('.cancel').onclick = function(){
+    cleanup(false);
+  }
+  dialog.querySelector('.x').onclick = function(){
+    cleanup(false);
+  }
+  setTimeout(function(){
+    document.querySelector('.sidebar').onclick = function(){
+      cleanup(false);
+    } 
+  },100)
+}
+function myAlert(title,callback,autoCloseInterval){
+  if (!callback) callback = function(){}
+  var dialog = document.getElementById('dialog')
+  dialog.querySelector('.title').innerHTML = title;
+  dialog.querySelector('.content').style.display = 'none'
+  dialog.querySelector('.buttons').innerHTML = '<button class="yes i18n">YES</button><button class="cancel i18n">Cancel</button>'
+  dialog.style.display='block';
+  //dialog.style.top = (window.pageYOffset+150)+'px'
+  var sidebar = document.querySelector('.sidebar')
+  if (sidebar) sidebar.style.opacity = 0.5;
+  var yesHTML = dialog.querySelector('.yes').innerHTML
+  var autoCloseTimer = 0
+  var cleanup = function(yes){
+    callback(yes)
+    if (autoCloseTimer) clearTimeout(autoCloseTimer)
+    if (sidebar) sidebar.onclick = null
+    dialog.querySelector('.yes').onclick = null;
+    dialog.querySelector('.x').onclick = null;
+    dialog.querySelector('.cancel').style.display = ''
+    dialog.querySelector('.yes').innerHTML = yesHTML
+    dialog.querySelector('.title').innerHTML = '';
+    dialog.style.display='none';
+    if (sidebar) sidebar.style.opacity = 1; 
+  }
+  dialog.querySelector('.cancel').style.display = 'none'
+  dialog.querySelector('.yes').innerHTML = 'OK'
+  
+  moveElementToViewportCenter(dialog)
+  dialog.querySelector('.yes').onclick = function(){
+    cleanup(true);
+  }
+  dialog.querySelector('.x').onclick = function(){
+    cleanup(false);
+  }
+  // click outside dialog also close the dialog
+  setTimeout(function(){
+    if (sidebar) sidebar.onclick = function(){
+      cleanup(false);
+    } 
+  },100)
+  // auto close dialog
+  if (autoCloseInterval){
+    autoCloseTimer = setTimeout(function(){
+      autoCloseTimer = 0
+      cleanup(false)
+    },autoCloseInterval)
+  }
+}
+
+function myPrompt(title,options,callback){
+    /*
+     * options = {
+     *     value*:(string) value of the input element
+     *     placeholder*:(string) default null
+     *     content*:(string) default "<input style="width:100%;height:40px;font-size:1.5em">"
+     *     button:*(dict){ok:{className:<class name>},cancel:{className:<class name>}}, default null     
+     * }
+     */
+    var dialog = document.getElementById('dialog')
+    dialog.querySelector('.title').innerHTML = title;
+    dialog.querySelector('.content').innerHTML = (options.content || '<input style="width:100%;height:40px;font-size:1.5em">')
+    dialog.querySelector('.content').style = 'block'
+    dialog.querySelector('.buttons').style = 'block'
+    var input = dialog.querySelector('.content input')
+    if (options.placeholder) input.setAttribute('placeholder',options.placeholder)
+    if (options.value) input.value = options.value
+    var buttons = [
+        '<button class="ok'+((options.button && options.button.ok && options.button.ok.className) ? ' '+options.button.ok.className : '' )+'">OK</button>',
+        '<button class="cancel'+((options.button && options.button.cancel && options.button.cancel.className) ? ' '+options.button.cancel.className : '' )+'">Cancel</button>',
+        ]
+    dialog.querySelector('.buttons').innerHTML = buttons.join('') //#195
+    var sidebar = document.querySelector('.sidebar')
+    var cleanup = function(value){
+      if (sidebar) sidebar.style.opacity = 1; 
+      if (sidebar) sidebar.onclick = null
+      if (dialog.querySelector('.cancel')) dialog.querySelector('.cancel').onclick = null;
+      if (dialog.querySelector('.x'))dialog.querySelector('.x').onclick = null;
+      if (dialog.querySelector('.ok')) dialog.querySelector('.ok').onclick = null;
+      dialog.querySelector('.buttons').innerHTML = ''
+      dialog.querySelector('.content').innerHTML = ''
+      dialog.querySelector('.title').innerHTML = ''
+      dialog.style.display='none';
+      callback(value)
+    }
+    setTimeout(function(){
+      dialog.querySelector('.x').onclick = function(){
+              cleanup(null)
+      }
+      dialog.querySelector('.cancel').onclick = function(){
+              cleanup(null)
+      }
+      dialog.querySelector('.ok').onclick = function(){
+          var text = dialog.querySelector('input').value || (options.defaultText || '')
+          cleanup(text)
+      }
+    },500)
+    if (sidebar) sidebar.style.opacity = 0.5;
+    dialog.style.display = 'block'
+    dialog.style.height = '200px'
+    moveElementToViewportCenter(dialog)
+    // click outside dialog also close the dialog
+    setTimeout(function(){
+      document.querySelector('.sidebar').onclick = function(){
+        cleanup(false);
+      } 
+    },100)
+    return {dom:dialog,callback:callback}
+}
+
+/* start of help system */
+function enableHelp(){
+  var helps =  document.querySelectorAll('.help');
+  var timer = 0,delay = 1000,hoverDelay=1000;
+  for (var i=0,l=helps.length;i<l;i++){
+    var hoverType = helps[i].getAttribute('helptype')=='hover';
+    helps[i].onmouseover = function(evt){
+      var target = evt.currentTarget
+      var helpname = target.getAttribute('hoverhelpname') || target.getAttribute('helpname')
+      // check if the same help is openning
+      if (document.querySelector('.helpframe[helpname="'+helpname+'"]')) {
+        return;
+      }
+      if (timer>0) clearTimeout(timer);
+      timer = setTimeout(function(){
+        timer = 0;
+        showHelp(helpname,target.getAttribute('helpCloseByBtn'),target.getAttribute('helptype'))
+      },(hoverType ? hoverDelay : delay))
+    }
+    if (hoverType){
+      helps[i].onmouseout = function(evt){
+        if (timer){
+          //give up to show it
+          clearTimeout(timer);timer = 0;
+        }
+        else{
+          closeHoverHelp();
+        }
+      }
+    }
+    else{
+      // cancel the help showup
+      helps[i].onmouseout = function(evt){
+        if (timer){
+          clearTimeout(timer);timer = 0;
+        }
+      }
+    }
+  }
+}
+
+function getOffset( el ) {
+    var _x = 0;
+    var _y = 0;
+    while( el && !isNaN( el.offsetLeft ) && !isNaN( el.offsetTop ) ) {
+        _x += el.offsetLeft //- el.scrollLeft;
+        _y += el.offsetTop //- el.scrollTop;
+        el = el.offsetParent;
+    }
+    return { top: _y, left: _x };
+}
+function showHelp(helpname,helpCloseByBtn,helpType){
+  
+  /* simply deal with hover help */
+  if (helpType=='hover'){
+      var helppos = document.querySelector('.helppos[helpname="'+helpname+'"]');
+      var tmpl = document.getElementById('helppostmpl')
+      var c = document.querySelector('#helps div[name="'+helpname+'"]');
+      // make it visible
+      var sidebarRect = document.querySelector('.sidebar').getBoundingClientRect()
+      var sidebarWidth = sidebarRect.right - sidebarRect.left;
+      tmpl.style.display='inline-block';
+      tmpl.style.position = 'absolute';
+      tmpl.style.zIndex = 99;
+      var target = document.querySelector('.help[hoverhelpname="'+helpname+'"][helptype="hover"]');
+      if (!target) target = document.querySelector('.help[helpname="'+helpname+'"][helptype="hover"]');
+      var targetRect = target.getBoundingClientRect()
+      var targetHeight = targetRect.bottom - targetRect.top;
+      var targetWidth = targetRect.right - targetRect.left;
+      var rect = getOffset(target)
+      tmpl.style.top = (rect.top + targetHeight+4)+'px'
+      tmpl.style.opacity = 0;
+      tmpl.innerHTML= c.innerHTML;
+      tmpl.style.maxWidth = Math.floor(sidebarWidth * 0.8)+'px'
+      var tmplRect = tmpl.getBoundingClientRect()
+      var tmplWidth = tmplRect.right - tmplRect.left
+      var p0 = Math.floor(sidebarWidth * 0.1);
+      var p1 = Math.floor(sidebarWidth * 0.9);
+      var tmplpt = document.getElementById('helppostmplpt')
+      tmplpt.style.top = (parseInt(tmpl.style.top)-10)+'px';
+      if (rect.left < p0){
+        tmpl.style.left = rect.left+'px'
+        tmplpt.style.left = tmpl.style.left;
+      }
+      else if (rect.left+targetWidth > p1) {
+        tmpl.style.left = Math.floor((rect.left+targetWidth - tmplWidth))+'px'
+        tmplpt.style.left = Math.floor(parseInt(tmpl.style.left)+tmplWidth-18)+'px';
+      }
+      else {
+        tmpl.style.left = Math.max(0,Math.floor(rect.left+targetWidth/2-tmplWidth/2))+'px'
+        tmplpt.style.left = Math.max(0,Math.floor(parseInt(tmpl.style.left)+tmplWidth/2-6))+'px'
+      }
+      tmpl.setAttribute('active',1);
+      setTimeout(function(){
+        //starts animation
+        tmpl.style.opacity=1;
+        tmplpt.style.display='';
+      },1)
+    return;
+  }
+  
+  /* need to check again for some help is triggered manually */
+  if (document.querySelector('.helpframe[helpname="'+helpname+'"]')) return;//already opened
+  /* one help only, unless the existing help is a modal help */
+  closeHelp()
+  // create a new helpframe  
+  /* prepare for animation */
+  // clone the masterhelpframe  
+  var helpframe = document.querySelector('.masterhelpframe.helpframe').cloneNode(true);
+  helpframe.className = 'helpframe';
+  
+  helpframe.style.display = 'block';
+  helpframe.setAttribute('helpname',helpname)
+  var trigger = function(){    
+    //var helpframe = document.querySelector('.helpframe[helpname="'+helpname+'"]');
+    helpname = this._helpname; 
+    if (helpCloseByBtn) helpframe.setAttribute('modal',1)
+    helpframe.querySelector('.closebtn').setAttribute('helpname',helpname)
+    var cele = helpframe.querySelector('.helpcontent')
+    /* find the insert position */
+    var helppos = document.querySelector('.helppos[helpname="'+helpname+'"]');
+    helppos.parentNode.insertBefore(helpframe, helppos.nextSibling);
+    /* find the help content to insert */
+    var c = document.querySelector('#helps div[name="'+helpname+'"]');
+    /* insert the help content */
+    cele.appendChild(c);//move it
+    /* starts the animation to show up*/
+    var titleheight = helpframe.querySelector('.helpframetitle').clientHeight;
+    /* make the helpframe visible, delay to wait the DOM been refreshed */
+    setTimeout(function(){
+      // scroll to make it visible
+      var y = getOffset( helpframe ).top; 
+      var offset = y-window.scrollY;
+      if (offset<0 || offset > window.innerHeight)  window.scrollTo(0,Math.max(0,y-50));      
+      
+      //trigger event
+      var e = document.createEvent('Event');
+      e.initEvent('help-open-'+helpname,false,true);
+      document.dispatchEvent(e);
+      
+    },100);
+  }
+  setTimeout(function(){trigger.apply({_helpname:helpname})},1)
+}
+
+function closeHoverHelp(){
+  /* find the insert position */
+  var helppos = document.querySelector('.helppos[active]');
+  if (helppos===null) return;
+  helppos.innerHTML='';
+  // make it invisible
+  helppos.style.display='none';
+  helppos.style.opacity=0;
+  helppos.removeAttribute('active');
+  var tmplpt = document.getElementById('helppostmplpt')
+  tmplpt.style.display='none';
+}
+function closeHelp(btn){
+  /* release the body click */
+  document.body.onclick = null;
+  
+  var helpname = null,helpframe=null;
+  if (btn) {
+    helpname = btn.getAttribute('helpname');
+    helpframe = document.querySelector('.helpframe[helpname="'+helpname+'"]');
+    helpframe.removeAttribute('modal')//enforce to close by btn
+    //fire event if closed by button
+    var e = document.createEvent('Event');
+    e.initEvent('help-close-'+helpname,false,true);
+    document.dispatchEvent(e);
+  }
+  else {
+    helpframe = document.querySelector('.helpframe[helpname]');
+    if (!helpframe) return true;//no helpframe is showing    
+    helpname = helpframe.getAttribute('helpname');
+  }
+  if (helpframe.getAttribute('modal')) return false
+  var cele = helpframe.querySelector('.helpcontent')
+  if (cele.firstChild != null){
+    /*cele.removeChild(cele.firstChild);*/
+    //move back to helps
+    document.getElementById('helps').appendChild(cele.firstChild);    
+  }
+  helpframe.style.display = 'none';
+  helpframe.parentNode.removeChild(helpframe);
+  return true;
+}
+/* end of help system */
+
+/* application starts */
+var userCredentials;
+function Credentials(username,password){
+  this.username = username
+  this.password = password
+  this.key = username.toUpperCase()
+  if (this.password) this.encrypt()
+}
+Credentials.prototype = {
+  encrypt:function(){
+    this.encrypted = JSON.stringify(sjcl.encrypt(this.key,this.password))
+  },
+  decrypt:function(encrypted){
+    try{
+      this.password = sjcl.decrypt(this.key,JSON.parse(encrypted))
+      this.encrypted = encrypted
+      return true
+    }
+    catch(e){
+      this.password = ''
+      this.encrypted = ''
+      return false
+    }
+  }
+}
+
+var userProperties = null
+function renderPage(){
+  var done = function(obj){
+    stopLoading()
+    userProperties = obj
+    
+    document.querySelectorAll('.doc-name').forEach(function(ele){
+      ele.innerText = userProperties.doc.name
+    })
+    
+    // render doc preferences
+    if (userProperties.doc.preferences){
+      document.getElementById('html-table-1').checked = userProperties.doc.preferences.htmlTable ? true : false
+      document.getElementById('html-table-0').checked = !document.getElementById('html-table-1').checked
+    }
+    var toggle_html_table = function(evt){
+      var value = document.getElementById('html-table-1').checked
+      userProperties.doc.preferences.htmlTable = value
+      loading(true)
+      google.script.run.withSuccessHandler(stopLoading).withFailureHandler(stopLoading).setDocPreferences(userProperties.doc.preferences);  
+    }
+    document.querySelectorAll('input[name="html-table"]').forEach(function(ele){
+      ele.onclick = toggle_html_table
+    })
+    
+    if (userProperties.credentialsArray){
+      // upgraded user
+    }
+    else if (typeof(userProperties.githubCredentials.forEach)=='undefined'){
+      //single-account settings
+      userProperties.credentialsArray = [userProperties.githubCredentials]
+      delete userProperties.githubCredentials
+    }
+    else{
+      // new users
+      userProperties.credentialsArray = []    
+    }
+    var credentialsArray = []
+    userProperties.credentialsArray.forEach(function(item){
+      var userCredentials = new Credentials(item.username,'')
+      if (item.password){
+        if (!userCredentials.decrypt(item.password)){
+          userCredentials.password = ''
+        }
+      }
+      credentialsArray.push(userCredentials)
+    })
+    userProperties.credentialsArray = credentialsArray
+    renderAccountPanel()
+  }
+  loading(true)
+  google.script.run.withSuccessHandler(done).withFailureHandler(stopLoading).getUserProperties();  
+}
+function updateAccountToServer(callback){
+  //update to server
+  var credentialsArray = []
+  userProperties.credentialsArray.forEach(function(item){
+    credentialsArray.push({type:'Github',username:item.username, password:item.encrypted})
+  })
+  loading(true)
+  google.script.run.withSuccessHandler(function(){
+    stopLoading()
+    callback(true)
+  }).withFailureHandler(function(err){
+  stopLoading()
+    myAlert(err)
+    callback(false)
+  }).setCredentialsArray(credentialsArray)        
+}
+
+
+function reset_all(){
+  myConfirm('Are you sure to reset?',{button:{yes:{className:'red'}}},function(yes){
+    if (!yes) return
+    loading(true)
+    google.script.run.withSuccessHandler(function(){
+      stopLoading()
+      myAlert('Reset success',function(){
+        google.script.host.close() 
+      })
+      
+    }).withFailureHandler(function(err){
+    stopLoading()
+      myAlert(err)
+    }).resetProperties()  
+  })
+}
+function renderAccountPanel(){
+  //get initial state
+  var state = document.querySelector('.tab.accounts .content table #toggle-password-btn') ? document.querySelector('.tab.accounts .content table #toggle-password-btn').getAttribute('state') : '0'
+  
+  var html = []
+  html.push('<table><tr><th>Type</th><th>Username</th><th>Password</th><th colspan="2"><a href="#" id="toggle-password-btn" state="'+state+'">'+(state=='0' ? 'Show' : 'Hide')+' password</a></th></tr>')
+  userProperties.credentialsArray.forEach(function(userCredentials,idx){
+    html.push('<tr><td>Github</td><td>'+userCredentials.username+'</td><td class="password-cell" value="'+userCredentials.password+'"><a href="#" class="chgpwd" value="'+idx+'">'+(state=='0' ? '********' : userCredentials.password)+'</td><td><a href="#" class="delete" value="'+idx+'">Delete</a></td>')
+    html.push('</tr>')
+  })
+  html.push('</table>')
+  html.push('<div><a href="#" class="add">+ Add Account</a></div>')
+  document.querySelector('.tab.accounts .content').innerHTML = html.join('')
+  // assign callbacks
+  var chgpwd = function(evt){
+    evt.preventDefault()
+    var credentials = userProperties.credentialsArray[parseInt(evt.currentTarget.getAttribute('value'))]
+    myPrompt('New Password for '+credentials.username,{button:{ok:{className:'blue'}}},function(newPassword){
+      if (!newPassword) return;
+      credentials.password = newPassword
+      credentials.encrypt()
+      updateAccountToServer(function(success){
+        if (success) renderAccountPanel()
+      })
+    })
+  }
+  document.querySelectorAll('.tab.accounts .content table a.chgpwd').forEach(function(ele){
+    ele.onclick = chgpwd
+  })
+  // assign callbacks
+  var delAccount = function(evt){
+    evt.preventDefault()
+    var idx = parseInt(evt.currentTarget.getAttribute('value'))
+    var credentials = userProperties.credentialsArray[idx]
+    myConfirm('Delete '+credentials.username+'?',{button:{yes:{className:'red'}}},function(yes){
+      if (!yes) return;
+      //credentials.password = newPassword
+      //update to server
+      userProperties.credentialsArray.splice(idx,1)
+      updateAccountToServer(function(){
+        setTimeout(function(){myAlert(credentials.username+' has eleted')},100)
+        renderAccountPanel()
+      })
+    })
+  }
+  document.querySelector('.tab.accounts .content table #toggle-password-btn').onclick = function(evt){
+    evt.preventDefault()
+    var state = evt.currentTarget.getAttribute('state')
+    state = state=='0' ? '1' : '0'
+    evt.currentTarget.setAttribute('state',state)
+    evt.currentTarget.innerText = state=='0' ? 'Show password' : 'Hide password'
+    document.querySelectorAll('.tab.accounts .content table .password-cell a').forEach(function(a){
+      a.innerText = state=='0' ? '********' : a.parentNode.getAttribute('value')
+    })
+  }
+  document.querySelectorAll('.tab.accounts .content table a.delete').forEach(function(ele){
+    ele.onclick = delAccount
+  })
+  document.querySelectorAll('.tab.accounts .content a.add').forEach(function(ele){
+    ele.onclick = function(evt){
+      evt.preventDefault()
+      var form = '<table style="width:100%"><tr><td>Username</td><td><input style="width:100%" id="add-account-username"></td></tr><tr><td>Password</td><td><input type="password" id="add-account-password1"></td></tr><tr><td>Password again</td><td><input type="password" id="add-account-password2"></td></tr></table>'
+      var ret = myPrompt('Add Account',{content:form,button:{ok:{className:'blue'}}},function(){
+      })
+      ret.dom.style.height = '300px'
+      setTimeout(function(){
+        var origin_ok = ret.dom.querySelector('.ok').onclick
+        ret.dom.querySelector('.ok').onclick = function(evt){
+          evt.preventDefault()
+          var username = ret.dom.querySelector('#add-account-username').value
+          if (!username) {
+            myAlert('No username')
+            origin_ok()
+            return
+          }
+          var pwd1=ret.dom.querySelector('#add-account-password1').value
+          var pwd2=ret.dom.querySelector('#add-account-password2').value        
+          if (pwd1 && pwd1!=pwd2){
+            alert('Two passwords dismatch!')
+            return
+          }
+          // ok
+          var credentials = new Credentials(username, pwd1)
+          userProperties.credentialsArray.push(credentials)
+          origin_ok()
+          // update to server
+          updateAccountToServer(function(success){
+             renderAccountPanel()
+          })
+        }
+      },750)
+    }
+  })
+}
+</script>
+<script language="javascript">
+"use strict";var sjcl={cipher:{},hash:{},mode:{},misc:{},codec:{},exception:{corrupt:function(a){this.toString=function(){return"CORRUPT: "+this.message};this.message=a},invalid:function(a){this.toString=function(){return"INVALID: "+this.message};this.message=a},bug:function(a){this.toString=function(){return"BUG: "+this.message};this.message=a},notReady:function(a){this.toString=function(){return"NOT READY: "+this.message};this.message=a}}};
+sjcl.cipher.aes=function(a){this.h[0][0][0]||this.z();var b,c,d,e,f=this.h[0][4],g=this.h[1];b=a.length;var h=1;if(b!==4&&b!==6&&b!==8)throw new sjcl.exception.invalid("invalid aes key size");this.a=[d=a.slice(0),e=[]];for(a=b;a<4*b+28;a++){c=d[a-1];if(a%b===0||b===8&&a%b===4){c=f[c>>>24]<<24^f[c>>16&255]<<16^f[c>>8&255]<<8^f[c&255];if(a%b===0){c=c<<8^c>>>24^h<<24;h=h<<1^(h>>7)*283}}d[a]=d[a-b]^c}for(b=0;a;b++,a--){c=d[b&3?a:a-4];e[b]=a<=4||b<4?c:g[0][f[c>>>24]]^g[1][f[c>>16&255]]^g[2][f[c>>8&255]]^
+g[3][f[c&255]]}};
+sjcl.cipher.aes.prototype={encrypt:function(a){return this.I(a,0)},decrypt:function(a){return this.I(a,1)},h:[[[],[],[],[],[]],[[],[],[],[],[]]],z:function(){var a=this.h[0],b=this.h[1],c=a[4],d=b[4],e,f,g,h=[],i=[],k,j,l,m;for(e=0;e<0x100;e++)i[(h[e]=e<<1^(e>>7)*283)^e]=e;for(f=g=0;!c[f];f^=k||1,g=i[g]||1){l=g^g<<1^g<<2^g<<3^g<<4;l=l>>8^l&255^99;c[f]=l;d[l]=f;j=h[e=h[k=h[f]]];m=j*0x1010101^e*0x10001^k*0x101^f*0x1010100;j=h[l]*0x101^l*0x1010100;for(e=0;e<4;e++){a[e][f]=j=j<<24^j>>>8;b[e][l]=m=m<<24^m>>>8}}for(e=
+0;e<5;e++){a[e]=a[e].slice(0);b[e]=b[e].slice(0)}},I:function(a,b){if(a.length!==4)throw new sjcl.exception.invalid("invalid aes block size");var c=this.a[b],d=a[0]^c[0],e=a[b?3:1]^c[1],f=a[2]^c[2];a=a[b?1:3]^c[3];var g,h,i,k=c.length/4-2,j,l=4,m=[0,0,0,0];g=this.h[b];var n=g[0],o=g[1],p=g[2],q=g[3],r=g[4];for(j=0;j<k;j++){g=n[d>>>24]^o[e>>16&255]^p[f>>8&255]^q[a&255]^c[l];h=n[e>>>24]^o[f>>16&255]^p[a>>8&255]^q[d&255]^c[l+1];i=n[f>>>24]^o[a>>16&255]^p[d>>8&255]^q[e&255]^c[l+2];a=n[a>>>24]^o[d>>16&
+255]^p[e>>8&255]^q[f&255]^c[l+3];l+=4;d=g;e=h;f=i}for(j=0;j<4;j++){m[b?3&-j:j]=r[d>>>24]<<24^r[e>>16&255]<<16^r[f>>8&255]<<8^r[a&255]^c[l++];g=d;d=e;e=f;f=a;a=g}return m}};
+sjcl.bitArray={bitSlice:function(a,b,c){a=sjcl.bitArray.P(a.slice(b/32),32-(b&31)).slice(1);return c===undefined?a:sjcl.bitArray.clamp(a,c-b)},concat:function(a,b){if(a.length===0||b.length===0)return a.concat(b);var c=a[a.length-1],d=sjcl.bitArray.getPartial(c);return d===32?a.concat(b):sjcl.bitArray.P(b,d,c|0,a.slice(0,a.length-1))},bitLength:function(a){var b=a.length;if(b===0)return 0;return(b-1)*32+sjcl.bitArray.getPartial(a[b-1])},clamp:function(a,b){if(a.length*32<b)return a;a=a.slice(0,Math.ceil(b/
+32));var c=a.length;b&=31;if(c>0&&b)a[c-1]=sjcl.bitArray.partial(b,a[c-1]&2147483648>>b-1,1);return a},partial:function(a,b,c){if(a===32)return b;return(c?b|0:b<<32-a)+a*0x10000000000},getPartial:function(a){return Math.round(a/0x10000000000)||32},equal:function(a,b){if(sjcl.bitArray.bitLength(a)!==sjcl.bitArray.bitLength(b))return false;var c=0,d;for(d=0;d<a.length;d++)c|=a[d]^b[d];return c===0},P:function(a,b,c,d){var e;e=0;if(d===undefined)d=[];for(;b>=32;b-=32){d.push(c);c=0}if(b===0)return d.concat(a);
+for(e=0;e<a.length;e++){d.push(c|a[e]>>>b);c=a[e]<<32-b}e=a.length?a[a.length-1]:0;a=sjcl.bitArray.getPartial(e);d.push(sjcl.bitArray.partial(b+a&31,b+a>32?c:d.pop(),1));return d},k:function(a,b){return[a[0]^b[0],a[1]^b[1],a[2]^b[2],a[3]^b[3]]}};
+sjcl.codec.utf8String={fromBits:function(a){var b="",c=sjcl.bitArray.bitLength(a),d,e;for(d=0;d<c/8;d++){if((d&3)===0)e=a[d/4];b+=String.fromCharCode(e>>>24);e<<=8}return decodeURIComponent(escape(b))},toBits:function(a){a=unescape(encodeURIComponent(a));var b=[],c,d=0;for(c=0;c<a.length;c++){d=d<<8|a.charCodeAt(c);if((c&3)===3){b.push(d);d=0}}c&3&&b.push(sjcl.bitArray.partial(8*(c&3),d));return b}};
+sjcl.codec.hex={fromBits:function(a){var b="",c;for(c=0;c<a.length;c++)b+=((a[c]|0)+0xf00000000000).toString(16).substr(4);return b.substr(0,sjcl.bitArray.bitLength(a)/4)},toBits:function(a){var b,c=[],d;a=a.replace(/\s|0x/g,"");d=a.length;a+="00000000";for(b=0;b<a.length;b+=8)c.push(parseInt(a.substr(b,8),16)^0);return sjcl.bitArray.clamp(c,d*4)}};
+sjcl.codec.base64={F:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",fromBits:function(a,b){var c="",d,e=0,f=sjcl.codec.base64.F,g=0,h=sjcl.bitArray.bitLength(a);for(d=0;c.length*6<h;){c+=f.charAt((g^a[d]>>>e)>>>26);if(e<6){g=a[d]<<6-e;e+=26;d++}else{g<<=6;e-=6}}for(;c.length&3&&!b;)c+="=";return c},toBits:function(a){a=a.replace(/\s|=/g,"");var b=[],c,d=0,e=sjcl.codec.base64.F,f=0,g;for(c=0;c<a.length;c++){g=e.indexOf(a.charAt(c));if(g<0)throw new sjcl.exception.invalid("this isn't base64!");
+if(d>26){d-=26;b.push(f^g>>>d);f=g<<32-d}else{d+=6;f^=g<<32-d}}d&56&&b.push(sjcl.bitArray.partial(d&56,f,1));return b}};sjcl.hash.sha256=function(a){this.a[0]||this.z();if(a){this.n=a.n.slice(0);this.i=a.i.slice(0);this.e=a.e}else this.reset()};sjcl.hash.sha256.hash=function(a){return(new sjcl.hash.sha256).update(a).finalize()};
+sjcl.hash.sha256.prototype={blockSize:512,reset:function(){this.n=this.N.slice(0);this.i=[];this.e=0;return this},update:function(a){if(typeof a==="string")a=sjcl.codec.utf8String.toBits(a);var b,c=this.i=sjcl.bitArray.concat(this.i,a);b=this.e;a=this.e=b+sjcl.bitArray.bitLength(a);for(b=512+b&-512;b<=a;b+=512)this.D(c.splice(0,16));return this},finalize:function(){var a,b=this.i,c=this.n;b=sjcl.bitArray.concat(b,[sjcl.bitArray.partial(1,1)]);for(a=b.length+2;a&15;a++)b.push(0);b.push(Math.floor(this.e/
+4294967296));for(b.push(this.e|0);b.length;)this.D(b.splice(0,16));this.reset();return c},N:[],a:[],z:function(){function a(e){return(e-Math.floor(e))*0x100000000|0}var b=0,c=2,d;a:for(;b<64;c++){for(d=2;d*d<=c;d++)if(c%d===0)continue a;if(b<8)this.N[b]=a(Math.pow(c,0.5));this.a[b]=a(Math.pow(c,1/3));b++}},D:function(a){var b,c,d=a.slice(0),e=this.n,f=this.a,g=e[0],h=e[1],i=e[2],k=e[3],j=e[4],l=e[5],m=e[6],n=e[7];for(a=0;a<64;a++){if(a<16)b=d[a];else{b=d[a+1&15];c=d[a+14&15];b=d[a&15]=(b>>>7^b>>>18^
+b>>>3^b<<25^b<<14)+(c>>>17^c>>>19^c>>>10^c<<15^c<<13)+d[a&15]+d[a+9&15]|0}b=b+n+(j>>>6^j>>>11^j>>>25^j<<26^j<<21^j<<7)+(m^j&(l^m))+f[a];n=m;m=l;l=j;j=k+b|0;k=i;i=h;h=g;g=b+(h&i^k&(h^i))+(h>>>2^h>>>13^h>>>22^h<<30^h<<19^h<<10)|0}e[0]=e[0]+g|0;e[1]=e[1]+h|0;e[2]=e[2]+i|0;e[3]=e[3]+k|0;e[4]=e[4]+j|0;e[5]=e[5]+l|0;e[6]=e[6]+m|0;e[7]=e[7]+n|0}};
+sjcl.mode.ccm={name:"ccm",encrypt:function(a,b,c,d,e){var f,g=b.slice(0),h=sjcl.bitArray,i=h.bitLength(c)/8,k=h.bitLength(g)/8;e=e||64;d=d||[];if(i<7)throw new sjcl.exception.invalid("ccm: iv must be at least 7 bytes");for(f=2;f<4&&k>>>8*f;f++);if(f<15-i)f=15-i;c=h.clamp(c,8*(15-f));b=sjcl.mode.ccm.H(a,b,c,d,e,f);g=sjcl.mode.ccm.J(a,g,c,b,e,f);return h.concat(g.data,g.tag)},decrypt:function(a,b,c,d,e){e=e||64;d=d||[];var f=sjcl.bitArray,g=f.bitLength(c)/8,h=f.bitLength(b),i=f.clamp(b,h-e),k=f.bitSlice(b,
+h-e);h=(h-e)/8;if(g<7)throw new sjcl.exception.invalid("ccm: iv must be at least 7 bytes");for(b=2;b<4&&h>>>8*b;b++);if(b<15-g)b=15-g;c=f.clamp(c,8*(15-b));i=sjcl.mode.ccm.J(a,i,c,k,e,b);a=sjcl.mode.ccm.H(a,i.data,c,d,e,b);if(!f.equal(i.tag,a))throw new sjcl.exception.corrupt("ccm: tag doesn't match");return i.data},H:function(a,b,c,d,e,f){var g=[],h=sjcl.bitArray,i=h.k;e/=8;if(e%2||e<4||e>16)throw new sjcl.exception.invalid("ccm: invalid tag length");if(d.length>0xffffffff||b.length>0xffffffff)throw new sjcl.exception.bug("ccm: can't deal with 4GiB or more data");
+f=[h.partial(8,(d.length?64:0)|e-2<<2|f-1)];f=h.concat(f,c);f[3]|=h.bitLength(b)/8;f=a.encrypt(f);if(d.length){c=h.bitLength(d)/8;if(c<=65279)g=[h.partial(16,c)];else if(c<=0xffffffff)g=h.concat([h.partial(16,65534)],[c]);g=h.concat(g,d);for(d=0;d<g.length;d+=4)f=a.encrypt(i(f,g.slice(d,d+4).concat([0,0,0])))}for(d=0;d<b.length;d+=4)f=a.encrypt(i(f,b.slice(d,d+4).concat([0,0,0])));return h.clamp(f,e*8)},J:function(a,b,c,d,e,f){var g,h=sjcl.bitArray;g=h.k;var i=b.length,k=h.bitLength(b);c=h.concat([h.partial(8,
+f-1)],c).concat([0,0,0]).slice(0,4);d=h.bitSlice(g(d,a.encrypt(c)),0,e);if(!i)return{tag:d,data:[]};for(g=0;g<i;g+=4){c[3]++;e=a.encrypt(c);b[g]^=e[0];b[g+1]^=e[1];b[g+2]^=e[2];b[g+3]^=e[3]}return{tag:d,data:h.clamp(b,k)}}};
+sjcl.mode.ocb2={name:"ocb2",encrypt:function(a,b,c,d,e,f){if(sjcl.bitArray.bitLength(c)!==128)throw new sjcl.exception.invalid("ocb iv must be 128 bits");var g,h=sjcl.mode.ocb2.B,i=sjcl.bitArray,k=i.k,j=[0,0,0,0];c=h(a.encrypt(c));var l,m=[];d=d||[];e=e||64;for(g=0;g+4<b.length;g+=4){l=b.slice(g,g+4);j=k(j,l);m=m.concat(k(c,a.encrypt(k(c,l))));c=h(c)}l=b.slice(g);b=i.bitLength(l);g=a.encrypt(k(c,[0,0,0,b]));l=i.clamp(k(l.concat([0,0,0]),g),b);j=k(j,k(l.concat([0,0,0]),g));j=a.encrypt(k(j,k(c,h(c))));
+if(d.length)j=k(j,f?d:sjcl.mode.ocb2.pmac(a,d));return m.concat(i.concat(l,i.clamp(j,e)))},decrypt:function(a,b,c,d,e,f){if(sjcl.bitArray.bitLength(c)!==128)throw new sjcl.exception.invalid("ocb iv must be 128 bits");e=e||64;var g=sjcl.mode.ocb2.B,h=sjcl.bitArray,i=h.k,k=[0,0,0,0],j=g(a.encrypt(c)),l,m,n=sjcl.bitArray.bitLength(b)-e,o=[];d=d||[];for(c=0;c+4<n/32;c+=4){l=i(j,a.decrypt(i(j,b.slice(c,c+4))));k=i(k,l);o=o.concat(l);j=g(j)}m=n-c*32;l=a.encrypt(i(j,[0,0,0,m]));l=i(l,h.clamp(b.slice(c),
+m).concat([0,0,0]));k=i(k,l);k=a.encrypt(i(k,i(j,g(j))));if(d.length)k=i(k,f?d:sjcl.mode.ocb2.pmac(a,d));if(!h.equal(h.clamp(k,e),h.bitSlice(b,n)))throw new sjcl.exception.corrupt("ocb: tag doesn't match");return o.concat(h.clamp(l,m))},pmac:function(a,b){var c,d=sjcl.mode.ocb2.B,e=sjcl.bitArray,f=e.k,g=[0,0,0,0],h=a.encrypt([0,0,0,0]);h=f(h,d(d(h)));for(c=0;c+4<b.length;c+=4){h=d(h);g=f(g,a.encrypt(f(h,b.slice(c,c+4))))}b=b.slice(c);if(e.bitLength(b)<128){h=f(h,d(h));b=e.concat(b,[2147483648|0,0,
+0,0])}g=f(g,b);return a.encrypt(f(d(f(h,d(h))),g))},B:function(a){return[a[0]<<1^a[1]>>>31,a[1]<<1^a[2]>>>31,a[2]<<1^a[3]>>>31,a[3]<<1^(a[0]>>>31)*135]}};sjcl.misc.hmac=function(a,b){this.M=b=b||sjcl.hash.sha256;var c=[[],[]],d=b.prototype.blockSize/32;this.l=[new b,new b];if(a.length>d)a=b.hash(a);for(b=0;b<d;b++){c[0][b]=a[b]^909522486;c[1][b]=a[b]^1549556828}this.l[0].update(c[0]);this.l[1].update(c[1])};
+sjcl.misc.hmac.prototype.encrypt=sjcl.misc.hmac.prototype.mac=function(a){a=(new this.M(this.l[0])).update(a).finalize();return(new this.M(this.l[1])).update(a).finalize()};
+sjcl.misc.pbkdf2=function(a,b,c,d,e){c=c||1E3;if(d<0||c<0)throw sjcl.exception.invalid("invalid params to pbkdf2");if(typeof a==="string")a=sjcl.codec.utf8String.toBits(a);e=e||sjcl.misc.hmac;a=new e(a);var f,g,h,i,k=[],j=sjcl.bitArray;for(i=1;32*k.length<(d||1);i++){e=f=a.encrypt(j.concat(b,[i]));for(g=1;g<c;g++){f=a.encrypt(f);for(h=0;h<f.length;h++)e[h]^=f[h]}k=k.concat(e)}if(d)k=j.clamp(k,d);return k};
+sjcl.random={randomWords:function(a,b){var c=[];b=this.isReady(b);var d;if(b===0)throw new sjcl.exception.notReady("generator isn't seeded");else b&2&&this.U(!(b&1));for(b=0;b<a;b+=4){(b+1)%0x10000===0&&this.L();d=this.w();c.push(d[0],d[1],d[2],d[3])}this.L();return c.slice(0,a)},setDefaultParanoia:function(a){this.t=a},addEntropy:function(a,b,c){c=c||"user";var d,e,f=(new Date).valueOf(),g=this.q[c],h=this.isReady(),i=0;d=this.G[c];if(d===undefined)d=this.G[c]=this.R++;if(g===undefined)g=this.q[c]=
+0;this.q[c]=(this.q[c]+1)%this.b.length;switch(typeof a){case "number":if(b===undefined)b=1;this.b[g].update([d,this.u++,1,b,f,1,a|0]);break;case "object":c=Object.prototype.toString.call(a);if(c==="[object Uint32Array]"){e=[];for(c=0;c<a.length;c++)e.push(a[c]);a=e}else{if(c!=="[object Array]")i=1;for(c=0;c<a.length&&!i;c++)if(typeof a[c]!="number")i=1}if(!i){if(b===undefined)for(c=b=0;c<a.length;c++)for(e=a[c];e>0;){b++;e>>>=1}this.b[g].update([d,this.u++,2,b,f,a.length].concat(a))}break;case "string":if(b===
+undefined)b=a.length;this.b[g].update([d,this.u++,3,b,f,a.length]);this.b[g].update(a);break;default:i=1}if(i)throw new sjcl.exception.bug("random: addEntropy only supports number, array of numbers or string");this.j[g]+=b;this.f+=b;if(h===0){this.isReady()!==0&&this.K("seeded",Math.max(this.g,this.f));this.K("progress",this.getProgress())}},isReady:function(a){a=this.C[a!==undefined?a:this.t];return this.g&&this.g>=a?this.j[0]>80&&(new Date).valueOf()>this.O?3:1:this.f>=a?2:0},getProgress:function(a){a=
+this.C[a?a:this.t];return this.g>=a?1:this.f>a?1:this.f/a},startCollectors:function(){if(!this.m){if(window.addEventListener){window.addEventListener("load",this.o,false);window.addEventListener("mousemove",this.p,false)}else if(document.attachEvent){document.attachEvent("onload",this.o);document.attachEvent("onmousemove",this.p)}else throw new sjcl.exception.bug("can't attach event");this.m=true}},stopCollectors:function(){if(this.m){if(window.removeEventListener){window.removeEventListener("load",
+this.o,false);window.removeEventListener("mousemove",this.p,false)}else if(window.detachEvent){window.detachEvent("onload",this.o);window.detachEvent("onmousemove",this.p)}this.m=false}},addEventListener:function(a,b){this.r[a][this.Q++]=b},removeEventListener:function(a,b){var c;a=this.r[a];var d=[];for(c in a)a.hasOwnProperty(c)&&a[c]===b&&d.push(c);for(b=0;b<d.length;b++){c=d[b];delete a[c]}},b:[new sjcl.hash.sha256],j:[0],A:0,q:{},u:0,G:{},R:0,g:0,f:0,O:0,a:[0,0,0,0,0,0,0,0],d:[0,0,0,0],s:undefined,
+t:6,m:false,r:{progress:{},seeded:{}},Q:0,C:[0,48,64,96,128,192,0x100,384,512,768,1024],w:function(){for(var a=0;a<4;a++){this.d[a]=this.d[a]+1|0;if(this.d[a])break}return this.s.encrypt(this.d)},L:function(){this.a=this.w().concat(this.w());this.s=new sjcl.cipher.aes(this.a)},T:function(a){this.a=sjcl.hash.sha256.hash(this.a.concat(a));this.s=new sjcl.cipher.aes(this.a);for(a=0;a<4;a++){this.d[a]=this.d[a]+1|0;if(this.d[a])break}},U:function(a){var b=[],c=0,d;this.O=b[0]=(new Date).valueOf()+3E4;for(d=
+0;d<16;d++)b.push(Math.random()*0x100000000|0);for(d=0;d<this.b.length;d++){b=b.concat(this.b[d].finalize());c+=this.j[d];this.j[d]=0;if(!a&&this.A&1<<d)break}if(this.A>=1<<this.b.length){this.b.push(new sjcl.hash.sha256);this.j.push(0)}this.f-=c;if(c>this.g)this.g=c;this.A++;this.T(b)},p:function(a){sjcl.random.addEntropy([a.x||a.clientX||a.offsetX||0,a.y||a.clientY||a.offsetY||0],2,"mouse")},o:function(){sjcl.random.addEntropy((new Date).valueOf(),2,"loadtime")},K:function(a,b){var c;a=sjcl.random.r[a];
+var d=[];for(c in a)a.hasOwnProperty(c)&&d.push(a[c]);for(c=0;c<d.length;c++)d[c](b)}};try{var s=new Uint32Array(32);crypto.getRandomValues(s);sjcl.random.addEntropy(s,1024,"crypto['getRandomValues']")}catch(t){}
+sjcl.json={defaults:{v:1,iter:1E3,ks:128,ts:64,mode:"ccm",adata:"",cipher:"aes"},encrypt:function(a,b,c,d){c=c||{};d=d||{};var e=sjcl.json,f=e.c({iv:sjcl.random.randomWords(4,0)},e.defaults),g;e.c(f,c);c=f.adata;if(typeof f.salt==="string")f.salt=sjcl.codec.base64.toBits(f.salt);if(typeof f.iv==="string")f.iv=sjcl.codec.base64.toBits(f.iv);if(!sjcl.mode[f.mode]||!sjcl.cipher[f.cipher]||typeof a==="string"&&f.iter<=100||f.ts!==64&&f.ts!==96&&f.ts!==128||f.ks!==128&&f.ks!==192&&f.ks!==0x100||f.iv.length<
+2||f.iv.length>4)throw new sjcl.exception.invalid("json encrypt: invalid parameters");if(typeof a==="string"){g=sjcl.misc.cachedPbkdf2(a,f);a=g.key.slice(0,f.ks/32);f.salt=g.salt}if(typeof b==="string")b=sjcl.codec.utf8String.toBits(b);if(typeof c==="string")c=sjcl.codec.utf8String.toBits(c);g=new sjcl.cipher[f.cipher](a);e.c(d,f);d.key=a;f.ct=sjcl.mode[f.mode].encrypt(g,b,f.iv,c,f.ts);return e.encode(f)},decrypt:function(a,b,c,d){c=c||{};d=d||{};var e=sjcl.json;b=e.c(e.c(e.c({},e.defaults),e.decode(b)),
+c,true);var f;c=b.adata;if(typeof b.salt==="string")b.salt=sjcl.codec.base64.toBits(b.salt);if(typeof b.iv==="string")b.iv=sjcl.codec.base64.toBits(b.iv);if(!sjcl.mode[b.mode]||!sjcl.cipher[b.cipher]||typeof a==="string"&&b.iter<=100||b.ts!==64&&b.ts!==96&&b.ts!==128||b.ks!==128&&b.ks!==192&&b.ks!==0x100||!b.iv||b.iv.length<2||b.iv.length>4)throw new sjcl.exception.invalid("json decrypt: invalid parameters");if(typeof a==="string"){f=sjcl.misc.cachedPbkdf2(a,b);a=f.key.slice(0,b.ks/32);b.salt=f.salt}if(typeof c===
+"string")c=sjcl.codec.utf8String.toBits(c);f=new sjcl.cipher[b.cipher](a);c=sjcl.mode[b.mode].decrypt(f,b.ct,b.iv,c,b.ts);e.c(d,b);d.key=a;return sjcl.codec.utf8String.fromBits(c)},encode:function(a){var b,c="{",d="";for(b in a)if(a.hasOwnProperty(b)){if(!b.match(/^[a-z0-9]+$/i))throw new sjcl.exception.invalid("json encode: invalid property name");c+=d+'"'+b+'":';d=",";switch(typeof a[b]){case "number":case "boolean":c+=a[b];break;case "string":c+='"'+escape(a[b])+'"';break;case "object":c+='"'+
+sjcl.codec.base64.fromBits(a[b],1)+'"';break;default:throw new sjcl.exception.bug("json encode: unsupported type");}}return c+"}"},decode:function(a){a=a.replace(/\s/g,"");if(!a.match(/^\{.*\}$/))throw new sjcl.exception.invalid("json decode: this isn't json!");a=a.replace(/^\{|\}$/g,"").split(/,/);var b={},c,d;for(c=0;c<a.length;c++){if(!(d=a[c].match(/^(?:(["']?)([a-z][a-z0-9]*)\1):(?:(\d+)|"([a-z0-9+\/%*_.@=\-]*)")$/i)))throw new sjcl.exception.invalid("json decode: this isn't json!");b[d[2]]=
+d[3]?parseInt(d[3],10):d[2].match(/^(ct|salt|iv)$/)?sjcl.codec.base64.toBits(d[4]):unescape(d[4])}return b},c:function(a,b,c){if(a===undefined)a={};if(b===undefined)return a;var d;for(d in b)if(b.hasOwnProperty(d)){if(c&&a[d]!==undefined&&a[d]!==b[d])throw new sjcl.exception.invalid("required parameter overridden");a[d]=b[d]}return a},V:function(a,b){var c={},d;for(d=0;d<b.length;d++)if(a[b[d]]!==undefined)c[b[d]]=a[b[d]];return c}};sjcl.encrypt=sjcl.json.encrypt;sjcl.decrypt=sjcl.json.decrypt;
+sjcl.misc.S={};sjcl.misc.cachedPbkdf2=function(a,b){var c=sjcl.misc.S,d;b=b||{};d=b.iter||1E3;c=c[a]=c[a]||{};d=c[d]=c[d]||{firstSalt:b.salt&&b.salt.length?b.salt.slice(0):sjcl.random.randomWords(2,0)};c=b.salt===undefined?d.firstSalt:b.salt;d[c]=d[c]||sjcl.misc.pbkdf2(a,c,b.iter);return{key:d[c].slice(0),salt:c.slice(0)}};
+</script>
+</body>
+</html>
+
+
+

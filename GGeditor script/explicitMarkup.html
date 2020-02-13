@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  <style>
+#markup-table{
+  border:solid 1px gray;
+  height:200px;
+  width:100%;
+}
+#markup-table th{
+  
+}
+#markup-table th.token{
+  width:24px;
+  vertical-align:middle;
+}
+#markup-name{
+  width:100px;
+}
+#markup-arguments{
+  width:100px;
+}
+#markup-name input{
+  width:90%;
+  border:solid 1px rgba(0,0,0,0.1);
+  padding:5px;
+}
+#markup-arguments input{
+  width:90%;
+  border:solid 1px rgba(0,0,0,0.1);
+  padding:5px;
+}
+#options, #contents{
+  padding-left:35px;
+}
+#options textarea, #contents textarea{
+  width:98%;
+  height:100%;
+  border:solid 1px rgba(0,0,0,0.1);
+}
+  </style>
+  </head>
+  <body>
+    <table id="markup-table">
+      <tr style="height:30px;">
+        <th class="token">..</th>
+        <td id="markup-name"><input placeholder="name"></td>
+        <th class="token">::</th>
+        <td id="markup-arguments"><input placeholder="arguments"></td>
+      </tr>
+      <tr><td id="options" colspan="4"><textarea placeholder="options"></textarea></td></tr>
+      <tr><td id="contents" colspan="4"><textarea placeholder="content"></textarea></td></tr>
+    </table>
+  </body>
+</html>
+
+
