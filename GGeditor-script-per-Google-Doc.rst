@@ -63,7 +63,8 @@ GGeditor-script-per-Google-Doc
 This is a "special" paragraph.
 
 
-.. class:: very speciale - questo testo  è stato editato nella direttiva generica codificata come ``.. class:: speciale``
+.. class:: speciale
+questo testo  è stato editato nella direttiva generica codificata come ``.. class:: speciale``. questo testo  è stato editato nella direttiva generica codificata come ``.. class:: speciale``
 
     
 
