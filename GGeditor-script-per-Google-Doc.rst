@@ -63,7 +63,7 @@ GGeditor-script-per-Google-Doc
 This is a "special" paragraph.
 
 
-.. class:: speciale
+.. class:: very very very speciale
 
     
 
