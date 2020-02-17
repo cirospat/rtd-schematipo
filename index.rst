@@ -74,6 +74,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     1.rst
     2.rst
     messaggi_colorati.md
+    GGeditor-script-per-Google-Doc.rst
     
 
 
