@@ -64,8 +64,8 @@ This is a "special" paragraph.
 
 
 .. class:: speciale
-    :option: value
-    :option: value
+
+    
 
     questo testo  è stato editato nella direttiva generica codificata come ``.. class:: speciale``
 
