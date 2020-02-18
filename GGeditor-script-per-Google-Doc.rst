@@ -8,7 +8,7 @@
 
 .. toctree::  
     :maxdepth: 3
-    :caption: file script GGeditor 
+    :caption: indice 
 
     GGeditor-script-per-Google-Doc
 
