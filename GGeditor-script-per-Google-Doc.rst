@@ -74,7 +74,9 @@ Improved:
 
 #. In partial conversion, markups of table will keep the same as it is in whole document conversion.
 
-(Release note dal creatore dello script di GGeditor)
++----------------------------------------------------+
+|(Release note dal creatore dello script di GGeditor)|
++----------------------------------------------------+
 
 |
 
