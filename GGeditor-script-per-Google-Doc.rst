@@ -11,7 +11,7 @@
     Questo documento contiene uno script con il codice sorgente che permette di trasmettere (in maniera automatica) su Github i contenuti editati in questo foglio, trasformandoli in sintassi del formato ``.RST``.
     Creando una copia di questo documento sul proprio Google Drive si copierà anche lo script che si trova su:
     
-    Strumenti / <> Editor di script GGeditor
+    \ |STYLE0|\ 
 
 |
 
@@ -39,7 +39,6 @@
 
 |
 
-
 .. toctree::  
     :maxdepth: 3
     :caption: file script GGeditor 
@@ -66,12 +65,13 @@
 
 |
 
+
 ..  Important:: 
 
     Questo documento si trova al link: 
     \ |LINK2|\  
 
-.. class:: speciale
+.. class:: speciale 
 
 This is a "special" chapter.
 
@@ -79,6 +79,9 @@ This is a "special" chapter.
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Strumenti / <> Editor di script GGeditor**
 
 
 .. |LINK1| raw:: html
