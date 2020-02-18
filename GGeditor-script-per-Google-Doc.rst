@@ -90,9 +90,7 @@ Improved:
 
 .. class:: speciale 
 
-              This is a "special" chapter. Questo documento contiene uno script con il codice sorgente che permette di trasmettere (in maniera automatica) su Github i contenuti editati in questo foglio, trasformandoli in sintassi del formato ``.RST``.
-
-Creando una copia di questo documento sul proprio Google Drive si copierà anche lo script che si trova su: \ |STYLE1|\ 
+              This is a "special" chapter. Questo documento contiene uno script con il codice sorgente che permette di trasmettere (in maniera automatica) su Github i contenuti editati in questo foglio, trasformandoli in sintassi del formato ``.RST``. Creando una copia di questo documento sul proprio Google Drive si copierà anche lo script che si trova su: \ |STYLE1|\ 
 
 --------
 
@@ -110,7 +108,7 @@ Creando una copia di questo documento sul proprio Google Drive si copierà anche
 
 .. |REPLACE1| raw:: html
 
-    <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="z-" data-slug-hash="zYxdRQy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Goey footer">
+    <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="z-" data-slug-hash="zYxdRQy" style="height: 665px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 1px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Goey footer">
       <span>See the Pen <a href="https://codepen.io/z-/pen/zYxdRQy">
       CSS Goey footer</a> by Zed Dash (<a href="https://codepen.io/z-">@z-</a>)
       on <a href="https://codepen.io">CodePen</a>.</span>
