@@ -70,9 +70,11 @@
     Questo documento si trova al link: 
     \ |LINK2|\  
 
+|
+
 .. class:: speciale 
 
-This is a "special" chapter.
+              This is a "special" chapter.
 
 --------
 
