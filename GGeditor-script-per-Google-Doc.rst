@@ -6,6 +6,13 @@
 
 {data creation of his document: 2017/01/10 - PM 01:11:42}
 
+.. toctree::  
+    :maxdepth: 3
+    :caption: file script GGeditor 
+
+    GGeditor-script-per-Google-Doc
+
+
 .. admonition:: Cosa è questo documento?
 
     Questo documento contiene uno script con il codice sorgente che permette di trasmettere (in maniera automatica) su Github i contenuti editati in questo foglio, trasformandoli in sintassi del formato ``.RST``.
@@ -36,14 +43,6 @@
     * sidebar.html
     
     * 程式碼.gs
-
-|
-
-.. toctree::  
-    :maxdepth: 3
-    :caption: file script GGeditor 
-
-    GGeditor-script-per-Google-Doc
 
 |
 
