@@ -17,10 +17,10 @@
 
 
 
-.. _h2f2ea2124e527e38224c60362d3f24:
+.. _h583b6a29732c39763d53714829432a20:
 
-Cosa è questo documento?
-************************
+Cos'è questo documento
+**********************
 
 Questo documento contiene uno script con il codice sorgente che permette di trasmettere (in maniera automatica) su Github i contenuti editati in questo foglio, trasformandoli in sintassi del formato ``.RST``.
 
@@ -97,6 +97,9 @@ Creando una copia di questo documento sul proprio Google Drive si copierà anche
 --------
 
 
+|REPLACE1|
+
+
 .. bottom of content
 
 
@@ -104,6 +107,16 @@ Creando una copia di questo documento sul proprio Google Drive si copierà anche
 
 .. |STYLE1| replace:: **Strumenti / <> Editor di script GGeditor**
 
+
+.. |REPLACE1| raw:: html
+
+    <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="z-" data-slug-hash="zYxdRQy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Goey footer">
+      <span>See the Pen <a href="https://codepen.io/z-/pen/zYxdRQy">
+      CSS Goey footer</a> by Zed Dash (<a href="https://codepen.io/z-">@z-</a>)
+      on <a href="https://codepen.io">CodePen</a>.</span>
+    </p>
+    <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+    
 
 .. |LINK1| raw:: html
 
