@@ -1,8 +1,8 @@
 
-.. _h6c3e1d1d695c775e697f3f1a706e19:
+.. _h625431360654171a20e3a26542d40:
 
-GGeditor-script-per-Google-Doc
-******************************
+4- GGeditor-script-per-Google-Doc
+*********************************
 
 {data creation of his document: 2017/01/10 - PM 01:11:42}
 
