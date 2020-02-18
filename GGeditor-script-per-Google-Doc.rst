@@ -6,7 +6,7 @@
 
 {data creation of his document: 2017/01/10 - PM 01:11:42}
 
-.. toctree::  
+.. toctree:: 
     :maxdepth: 3
     :caption: indice 
 
@@ -90,7 +90,9 @@ Improved:
 
 .. class:: speciale 
 
-              This is a "special" chapter.
+              This is a "special" chapter. Questo documento contiene uno script con il codice sorgente che permette di trasmettere (in maniera automatica) su Github i contenuti editati in questo foglio, trasformandoli in sintassi del formato ``.RST``.
+
+Creando una copia di questo documento sul proprio Google Drive si copierà anche lo script che si trova su: \ |STYLE1|\ 
 
 --------
 
@@ -99,6 +101,8 @@ Improved:
 
 
 .. |STYLE0| replace:: **Strumenti / <> Editor di script GGeditor**
+
+.. |STYLE1| replace:: **Strumenti / <> Editor di script GGeditor**
 
 
 .. |LINK1| raw:: html
