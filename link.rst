@@ -14,7 +14,14 @@ questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it
 
 `testo <https://www.google.com>`_
 
+..  Hint:: 
 
-\ |LINK1|\
-
-.. |LINK1| raw:: html <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano Triennale per l’Informatica 2019-2021</a>
+    **Specifiche del linguaggio reStructuredText (RST). Guide, editor e convertitori online** 
+    
+    * \ |LINK1|\  guida alla sintassi del linguaggio RST, utile per capire nel dettaglio come funziona; 
+    
+    * \ |LINK2|\  tool online per convertire il linguaggio Markdown nel linguaggio RST e convertitore per i più diffusi linguaggi di programmazione;; 
+    
+    * \ |LINK3|\  editor di tabelle per più linguaggi di programmazione, per esempio con Markdown; 
+    
+    * \ |LINK4|\  editor di testo per linguaggio RST; 
