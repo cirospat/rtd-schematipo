@@ -25,3 +25,10 @@ questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it
     * `testo <https://www.google.com>`_;
     
 continua il testo
+
+|
+
+::
+
+prova
+
