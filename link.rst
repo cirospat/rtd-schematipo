@@ -6,13 +6,13 @@ questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it
 ➽ `Trentino open data <https://www.facebook.com/groups/todgroup/?fref=ts>`_
 `Trentino <https://www.facebook.com/groups/todgroup/?fref=ts>`_
 
-➽ `prova <https://www.facebook.com/groups/todgroup/?fref=ts>`_
+➽ `prova di link <https://www.facebook.com/groups/todgroup/?fref=ts>`_
 
 ➽ **prova**
 
 ➽ *prova*
 
-_testo <https://www.google.com>`_ 
+`testo <https://www.google.com>`_
 
 
 \ |LINK1|\
