@@ -4,6 +4,7 @@ prova link con RST
 questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it/node/57591>`_ per inserire un collegamento ipertestuale
 
 ➽ `Trentino open data <https://www.facebook.com/groups/todgroup/?fref=ts>`_
+`Trentino <https://www.facebook.com/groups/todgroup/?fref=ts>`_
 
 ➽ `prova <https://www.facebook.com/groups/todgroup/?fref=ts>`_
 
@@ -11,6 +12,7 @@ questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it
 
 ➽ *prova*
 
+_testo <https://www.google.com>`_ 
 
 
 \ |LINK1|\
