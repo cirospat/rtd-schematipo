@@ -18,10 +18,10 @@ questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it
 
     **Specifiche del linguaggio reStructuredText (RST). Guide, editor e convertitori online** 
     
-    * \ |LINK1|\  guida alla sintassi del linguaggio RST, utile per capire nel dettaglio come funziona; 
+    * `Trentino open data <https://www.facebook.com/groups/todgroup/?fref=ts>`_; 
     
-    * \ |LINK2|\  tool online per convertire il linguaggio Markdown nel linguaggio RST e convertitore per i più diffusi linguaggi di programmazione;; 
+    * `prova di link <https://www.facebook.com/groups/todgroup/?fref=ts>`_>; 
     
-    * \ |LINK3|\  editor di tabelle per più linguaggi di programmazione, per esempio con Markdown; 
+    * `testo <https://www.google.com>`_;
     
-    * \ |LINK4|\  editor di testo per linguaggio RST; 
+ continua il testo
