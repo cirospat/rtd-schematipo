@@ -9,7 +9,7 @@ questa è una prova in cui c'è un `link di eventi_PA <http://eventipa.formez.it
 
 ➽ **prova**
 
-```bash
+```
 `Trentino open data <https://www.facebook.com/groups/todgroup/?fref=ts>`_ 
 ```
 
