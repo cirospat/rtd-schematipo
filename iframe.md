@@ -11,6 +11,8 @@ prova 1
 
 ---
 
+![image](https://raw.githubusercontent.com/babun/babun.github.io/master/images/screenshots/screen_vim.png)
+
 
 ## Vai all'esempio
 Vai all'esempio
