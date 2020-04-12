@@ -3,7 +3,6 @@ Ciclo di webinar dedicati all’innovazione digitale organizzato da FormezPA nel
 
 Ciclo di webinar dedicati all’innovazione digitale organizzato da FormezPA nell’ambito della convenzione con AGID «ItaliaLogin» servizi d, Ciclo di webinar dedicati all’innovazione digitale organizzato da FormezPA nell’ambito della convenzione con AGID «ItaliaLogin» servizi d, Ciclo di webinar dedicati all’innovazione digitale organizzato da FormezPA nell’ambito della convenzione con AGID «ItaliaLogin» servizi d.
 
-<iframe src="https://miro.com/app/board/o9J_ktjsz8Y=/" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
