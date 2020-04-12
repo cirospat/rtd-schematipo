@@ -30,6 +30,11 @@ Esempio di Google doc incorporato su file `.MD`  ed esposto su Read the Docs
 
 |
 
+```html
+<div class="event clearfix"><img width="60" src="{%}"/><div class="text"><h4 class="date">{%}</h4><h3><a href="{%}">{%}</a></h3><div class="button-link button-detail clearfix"><a href="{%}">SCOPRI</a></div></div></div>
+```
+
+
 <img src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" /> 
 
 <img src="https://img.shields.io/badge/Autore-Nome_Cognome-darkgreen.svg" />
