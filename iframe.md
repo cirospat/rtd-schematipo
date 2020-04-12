@@ -15,3 +15,7 @@ Esempio di Google doc incorporato su file `.MD`  ed esposto su Read the Docs
 <span class="footer_medium">Fondamentali per la PA digitale.</span>
 
 |
+
+<img src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" /> 
+
+<img src="https://img.shields.io/badge/Autore-Nome_Cognome-darkgreen.svg />
