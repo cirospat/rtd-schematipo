@@ -41,4 +41,4 @@ Esempio di Google doc incorporato su file `.MD`  ed esposto su Read the Docs
 
 
 <iframe width="1100" height="560" src="https://miro.com/app/embed/o9J_ktjsz8Y=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>Clicca sull'immagine di seguito, muoviti all'interno di essa con il mouse e aziona lo zoom per ingrandire i dettagli (con la rotellina del mouse)<br></br>
-
+<div></div>
