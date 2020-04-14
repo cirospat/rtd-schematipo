@@ -40,5 +40,5 @@ Esempio di Google doc incorporato su file `.MD`  ed esposto su Read the Docs
 <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
 
 
-<iframe width="1100" height="560" src="https://miro.com/app/embed/o9J_ktjsz8Y=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>Clicca sull'immagine di seguito, muoviti all'interno di essa con il mouse e aziona lo zoom per ingrandire i dettagli (con la rotellina del mouse)
+<iframe width="1100" height="560" src="https://miro.com/app/embed/o9J_ktjsz8Y=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>Clicca sull'immagine di seguito, muoviti all'interno di essa con il mouse e aziona lo zoom per ingrandire i dettagli (con la rotellina del mouse)<br></br>
 
