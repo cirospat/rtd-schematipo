@@ -39,3 +39,6 @@ Esempio di Google doc incorporato su file `.MD`  ed esposto su Read the Docs
 <img src="https://img.shields.io/badge/Autore-Nome_Cognome-darkgreen.svg" />
 
 <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
+
+
+<iframe width="640" height="360" src="https://miro.com/app/embed/o9J_ktjsz8Y=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
