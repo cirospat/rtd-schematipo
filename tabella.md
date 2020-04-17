@@ -4,7 +4,7 @@
 # Curriculum Vitae
 aggiornato al 21 giugno 2019
 
-| **INFORMAZIONI PERSONALI / PERSONAL INFO** ||   
+| INFORMAZIONI PERSONALI / PERSONAL INFO ||   
 | --- | --- |
 | nome e cognome / name and last name | Ciro Spataro | 
 | indirizzo di lavoro / current work address | Via dello Spirito Santo, 35, Palermo, Italy (lat.: 38.117622, long.: 13.357408) | 
@@ -13,7 +13,7 @@ aggiornato al 21 giugno 2019
 | email personale / personal email | [cirospat@gmail.com](mailto:cirospat@gmail.com)  | 
 | data di nascita / date of birth | 26.04.1967  | 
 | titolo di studio / study degree | Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore” di Palermo, nel 1985 / Diploma of Geometry in 1985. | 
-| **ESPERIENZA LAVORATIVA / WORK EXPERIENCE ** |  
+| ESPERIENZA LAVORATIVA / WORK EXPERIENCE  |  
 | periodi / periods | Dal novembre 1989 ad oggi presso il Comune di Palermo: 
 1989 - 2002: al Settore Urbanistica.
 2002 - 2013: al Settore Ambiente.
