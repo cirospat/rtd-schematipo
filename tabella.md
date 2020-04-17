@@ -4,7 +4,7 @@
 # Curriculum Vitae
 aggiornato al 21 giugno 2019
 
-| INFORMAZIONI PERSONALI / PERSONAL INFO ||   
+|| INFORMAZIONI PERSONALI / PERSONAL INFO ||   
 | --- | --- |
 | nome e cognome / name and last name | Ciro Spataro | 
 | indirizzo di lavoro / current work address | Via dello Spirito Santo, 35, Palermo, Italy (lat.: 38.117622, long.: 13.357408) | 
@@ -14,12 +14,7 @@ aggiornato al 21 giugno 2019
 | data di nascita / date of birth | 26.04.1967  | 
 | titolo di studio / study degree | Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore” di Palermo, nel 1985 / Diploma of Geometry in 1985. | 
 | ESPERIENZA LAVORATIVA / WORK EXPERIENCE  |  
-| periodi / periods | Dal novembre 1989 ad oggi presso il Comune di Palermo: 
-1989 - 2002: al Settore Urbanistica.
-2002 - 2013: al Settore Ambiente.
-2013 - 2017: all'Area Innovazione Tecnologica / open data.
-2016 - 2017: Posizione Organizzativa su Innovazione, pubblicazione e open data presso Area Innovazione Tecnologica.
-2018 - posizione corrente: Servizio Innovazione, [UO transizione al digitale](https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138). | 
+| periodi / periods | Dal novembre 1989 ad oggi presso il Comune di Palermo: 1989 - 2002: al Settore Urbanistica. 2002 - 2013: al Settore Ambiente. 2013 - 2017: all'Area Innovazione Tecnologica / open data. 2016 - 2017: Posizione Organizzativa su Innovazione, pubblicazione e open data presso Area Innovazione Tecnologica. 2018 - posizione corrente: Servizio Innovazione, [UO transizione al digitale](https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138). | 
 | nome del datore di lavoro / name of employer | [Comune di Palermo](https://www.comune.palermo.it/) /  Municipality of Palermo | 
 | link a progetti UE in cui è stato coinvolto / link to UE project in which has been involved  | [cied](http://poieinkaiprattein.org/cied/)  innovation and economic development.
 [euro-emas](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf)  Emas UE scheme. 
@@ -69,7 +64,7 @@ Pubblicazioni articoli Pubblica Amministrazione Digitale sulla community [Medium
 **Docenza per percorsi formativi**:
 Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  [percorso open data del comune di Palermo](https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro).
 Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di 'Read the Docs' per fruire testi anche su dispositivi mobili e con efficaci sistema di ricerca tag nel testo.  | 
-| **INTERESSI E RETI / INTERESTS AND NETWORKING** |   
+| INTERESSI E RETI / INTERESTS AND NETWORKING** |   
 | interessi / hobbies | photography, trekking, mtbiking, snorkelling, tutorial, civic hacking | 
 | attivo in reti / active in networking | [forum DocsItalia](https://forum.italia.it/u/cirospat/activity) AgID per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione
 [opendatasicilia](http://opendatasicilia.it/author/cirospat/) open data network - [mailing list opendatasicilia](https://groups.google.com/forum/#!forum/opendatasicilia)
