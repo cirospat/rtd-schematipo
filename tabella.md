@@ -13,7 +13,7 @@ email personale / personal email | [cirospat@gmail.com](mailto:cirospat@gmail.co
 data di nascita / date of birth | 26.04.1967 
 titolo di studio / study degree | Diploma di Geometra conseguito presso l’I.T.G. “Filippo Parlatore” di Palermo, nel 1985 / Diploma of Geometry in 1985.  
 
-ESPERIENZA LAVORATIVA / WORK EXPERIENCE
+ESPERIENZA LAVORATIVA | WORK EXPERIENCE
 --- | --- 
 periodi / periods | Dal novembre 1989 ad oggi presso il Comune di Palermo: 1989 - 2002: al Settore Urbanistica. 2002 - 2013: al Settore Ambiente. 2013 - 2017: all'Area Innovazione Tecnologica / open data. 2016 - 2017: Posizione Organizzativa su Innovazione, pubblicazione e open data presso Area Innovazione Tecnologica. 2018 - posizione corrente: Servizio Innovazione, [UO transizione al digitale](https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138).  
 nome del datore di lavoro / name of employer | [Comune di Palermo](https://www.comune.palermo.it/) /  Municipality of Palermo 
