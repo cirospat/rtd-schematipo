@@ -1,5 +1,6 @@
 
 
+
 # Curriculum Vitae
 aggiornato al 21 giugno 2019
 
@@ -18,7 +19,7 @@ aggiornato al 21 giugno 2019
 2002 - 2013: al Settore Ambiente.
 2013 - 2017: all'Area Innovazione Tecnologica / open data.
 2016 - 2017: Posizione Organizzativa su Innovazione, pubblicazione e open data presso Area Innovazione Tecnologica.
-2018 - posizione corrente: Servizio Innovazione, [UO transizione al digitale](https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138).
+2018 - posizione corrente: Servizio Innovazione, [UO transizione al digitale](https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138). | 
 | nome del datore di lavoro / name of employer | [Comune di Palermo](https://www.comune.palermo.it/) /  Municipality of Palermo | 
 | link a progetti UE in cui è stato coinvolto / link to UE project in which has been involved  | [cied](http://poieinkaiprattein.org/cied/)  innovation and economic development.
 [euro-emas](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf)  Emas UE scheme. 
@@ -36,9 +37,10 @@ aggiornato al 21 giugno 2019
 | lettura / reading | buona / medium | 
 | scrittura / writing | media / low | 
 | espressione orale / oral | media / medium | 
-| **FORMAZIONE TECNICA / TECHNICAL SKILL** |   
-| formazione / training scheme |
-| **[Partecipazione a percorsi formativi](https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view)**
+| **FORMAZIONE TECNICA / TECHNICAL SKILL** |  | 
+| formazione / training scheme
+
+ | **[Partecipazione a percorsi formativi](https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view)**
 Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati (II Livello) - percorso INPS_Valore_PA - Università Lumsa in collaborazione con Formel, 2019.
 Progettazione energetica degli edifici, 2008. 
 I  sistemi  di  gestione  ambientale,  2004. 
@@ -60,9 +62,7 @@ Partecipazione da relatore al webinar del Formez sulla pubblicazione documentale
 Uso dei servizi Google Drive servizi per la produttività quotidiana.
 Uso della piattaforme [Read the Docs](http://readthedocs.io/) e [Docs Italia](https://docs.italia.it) per la pubblicazione documentale delle Pubbliche Amministrazioni, secondo le [linee guida del Team Trasformazione Digitale (AgID)](http://guida-docs-italia.readthedocs.io/it/latest/).
 Competenze organizzative e di monitoraggio attività con l'ausilio di indicatori, acquisite durante l'esperienza di gestione dei progetti di partenariato transnazionale co-finanziati dall'UE. | 
-| partecipazione a convegni e seminari, pubblicazioni, collaborazione a riviste, ecc. / participation in conferences and seminars, publications, 
-
-collaboration in magazines, etc.  | **Pubblicazioni**:
+| partecipazione a convegni e seminari, pubblicazioni, collaborazione a riviste, ecc. / participation in conferences and seminars, publications, collaboration in magazines, etc.  | **Pubblicazioni**:
 Redazione delle Linee Guida comunali open data in maniera partecipata, adottate dal Comune di Palermo con Deliberazione di GM n. [252/2013](https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf) e n. [97/2017](http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/). 
 Realizzazione e aggiornamento del  [portale didattico su open data](https://sites.google.com/view/opendataformazione) per i referenti open data del Comune di Palermo. 
 Pubblicazione articoli sulla community online degli Innovatori della Pubblica Amministrazione [http://www.innovatoripa.it/blogs/cirospataro](http://www.innovatoripa.it/blogs/cirospataro).
@@ -78,7 +78,6 @@ Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di '
 [twitter.com/cirospat](https://twitter.com/cirospat) 
 [linkedin.com/in/cirospataro](https://www.linkedin.com/in/cirospataro/) 
 [Pubblica Amministrazione Digitale](https://www.facebook.com/groups/384577025038311/) e Agenda Digitale
-
 [Codice Amministrazione Digitale](https://www.facebook.com/groups/cad.ancitel/)  | 
 | profilo / profile | [cirospat.readthedocs.io](https://cirospat.readthedocs.io)  | 
 
