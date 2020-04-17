@@ -19,8 +19,6 @@ aggiornato al 21 giugno 2019
 2013 - 2017: all'Area Innovazione Tecnologica / open data.
 2016 - 2017: Posizione Organizzativa su Innovazione, pubblicazione e open data presso Area Innovazione Tecnologica.
 2018 - posizione corrente: Servizio Innovazione, [UO transizione al digitale](https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138).
-
- | 
 | nome del datore di lavoro / name of employer | [Comune di Palermo](https://www.comune.palermo.it/) /  Municipality of Palermo | 
 | link a progetti UE in cui è stato coinvolto / link to UE project in which has been involved  | [cied](http://poieinkaiprattein.org/cied/)  innovation and economic development.
 [euro-emas](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf)  Emas UE scheme. 
@@ -38,10 +36,9 @@ aggiornato al 21 giugno 2019
 | lettura / reading | buona / medium | 
 | scrittura / writing | media / low | 
 | espressione orale / oral | media / medium | 
-| **FORMAZIONE TECNICA / TECHNICAL SKILL** |  | 
-| formazione / training scheme
-
- | **[Partecipazione a percorsi formativi](https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view)**
+| **FORMAZIONE TECNICA / TECHNICAL SKILL** |   
+| formazione / training scheme |
+| **[Partecipazione a percorsi formativi](https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view)**
 Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati (II Livello) - percorso INPS_Valore_PA - Università Lumsa in collaborazione con Formel, 2019.
 Progettazione energetica degli edifici, 2008. 
 I  sistemi  di  gestione  ambientale,  2004. 
