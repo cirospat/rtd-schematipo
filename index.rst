@@ -48,17 +48,10 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
 
 ..  Important:: 
     
-    Questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
-    
-    
-..  Important:: 
-    
     Le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file ``conf.py`` sono dettagliate in questa `ricetta di Tansignari <http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_.
 
 
    
-
-
 
 .. toctree::
   :maxdepth: 2
@@ -74,6 +67,7 @@ Altre impostazioni di visualizzazione grafica del documento su Read the Docs pos
     1.rst
     2.rst
     messaggi_colorati.md
+    tabella.md
     GGeditor-script-per-Google-Doc.rst
     
 
