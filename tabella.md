@@ -43,4 +43,4 @@ Il CV è disponibile a questo [link](https://docs.google.com/document/d/1apRGDYe
 
 <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Attenzione</span></strong>
 <br>
-> **Questo è un messaggio sui cui prestare attenzione** 
+<code> **Questo è un messaggio sui cui prestare attenzione** </code>
