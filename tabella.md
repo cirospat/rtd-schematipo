@@ -47,13 +47,5 @@ Il CV è disponibile a questo [link](https://docs.google.com/document/d/1apRGDYe
 
 ---
 
-<table>
-<tbody>
-<tr>
-<td><strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Attenzione</span></strong></td>
-</tr>
-<tr>
-<td><strong>Questo è un messaggio sui cui prestare attenzione. Propensione alla risoluzione delle criticità attraverso l’ascolto e il confronto con colleghi, funzionari e dirigenti, per individuare azioni correttive. Attitudine alla progettualità, alla condivisione della conoscenza e dei dati</strong></td>
-</tr>
-</tbody>
-</table>
+<strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Attenzione</span></strong>
+> Questo è un messaggio sui cui prestare attenzione. Propensione alla risoluzione delle criticità attraverso l’ascolto e il confronto con colleghi, funzionari e dirigenti, per individuare azioni correttive. Attitudine alla progettualità, alla condivisione della conoscenza e dei dati
