@@ -3,7 +3,7 @@
 # Curriculum Vitae
 aggiornato al 21 giugno 2019
 
-**INFORMAZIONI PERSONALI** <br> *PERSONAL INFO*  | **Descrizione**
+**INFORMAZIONI PERSONALI** <br> *PERSONAL INFO*  | <span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Descrizione</span>
 --- | ---
 **nome e cognome** <br> *name and last name* | Ciro Spataro  
 **indirizzo di lavoro** <br> *current work address* | Via dello Spirito Santo, 35, Palermo, Italy (lat.: 38.117622, long.: 13.357408)  
