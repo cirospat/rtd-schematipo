@@ -39,4 +39,8 @@ espressione orale <br> *oral* | media <br> *medium*
 
 Il CV è disponibile a questo [link](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA) per essere scaricato in diversi formati (pdf, odt, docx).
 
+---
 
+| <span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Attenzione</span> |
+|-----------|
+| **Questo è un messaggio sui cui prestare attenzione** |
