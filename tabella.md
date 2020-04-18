@@ -1,7 +1,8 @@
 
 
 # Curriculum Vitae
-aggiornato al 21 giugno 2019
+<span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">aggiornato al 21 giugno 2019</span>
+
 
 **INFORMAZIONI PERSONALI** <br> *PERSONAL INFO*  | <span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Descrizione</span>
 --- | ---
