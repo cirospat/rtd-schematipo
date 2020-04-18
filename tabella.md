@@ -39,3 +39,6 @@ espressione orale <br> *oral* | media <br> *medium*
 
 Il CV è disponibile a questo [link](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA) per essere scaricato in diversi formati (pdf, odt, docx).
 
+::: warning
+*here be dragons*
+:::
