@@ -4,6 +4,7 @@
 aggiornato al 21 giugno 2019
 
 **INFORMAZIONI PERSONALI** / *PERSONAL INFO*  | **Descrizione**
+--- | ---
 **nome e cognome** / *name and last name* | Ciro Spataro  
 **indirizzo di lavoro** / *current work address* | Via dello Spirito Santo, 35, Palermo, Italy (lat.: 38.117622, long.: 13.357408)  
 **telefono ufficio** / *office phone* | +390917407340  
