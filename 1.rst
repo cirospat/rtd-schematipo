@@ -191,6 +191,7 @@ Back in the main document.
 |   
    
 .. classe:: importante
+
 This is a "special" paragraph.
 
 
