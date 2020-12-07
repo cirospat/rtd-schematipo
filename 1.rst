@@ -190,8 +190,7 @@ Back in the main document.
    
 |   
    
-.. class:: importante
-
+.. classe:: importante
 This is a "special" paragraph.
 
 
