@@ -198,7 +198,7 @@ This is a "special" paragraph.
 
 .. class:: multiple
 
-   First paragraph.
+   First paragraph. First paragraph. First paragraph. First paragraph. First paragraph. First paragraph. First paragraph. First paragraph. First paragraph. First paragraph.First paragraph.First paragraph. First paragraph. First paragraph. First paragraph.First paragraph. First paragraph. First paragraph.First paragraph. First paragraph.First paragraph.First paragraph. First paragraph. First paragraph. First paragraph.
 
    Second paragraph.
    
