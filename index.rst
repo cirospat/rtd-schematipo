@@ -10,7 +10,7 @@ Titolo del Read the Docs
 Questo progetto è solo una dimostrazione dell'esposizione di contenuti su **Read the Docs**.
 
 
-:satisfied:
+|:satisfied:|
 
 
 .. raw:: html
