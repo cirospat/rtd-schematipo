@@ -70,7 +70,3 @@ html_theme_options = {
 }
 
 
-extensions = [
-    '...',
-    'sphinxemoji.sphinxemoji',
-]
